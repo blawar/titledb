@@ -64,7 +64,15 @@
         "isDemo": false,
         "key": null,
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
         ],
         "name": "Pok\u00e9mon Champions",
         "nsuId": 70010000004515,
@@ -655,7 +663,7 @@
     "70050000047065": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5c545553a32293bade0ef31b5afe3b12ba97934ccf6f50d543ff566ee5816c8.jpg",
         "category": null,
-        "description": "Enjoy three new game modes: \"Original,\" \"Time Limit,\" and \"Attack.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send \"sinking\" fruit to your opponent's box. Sending a big fruit would surely turn things around!\n\nWe are currently developing an online play mode!\nYou will update to online play mode for free if you purchase the \u201cSuika Game Multi-Player\u201d DLC. So, stay tuned!",
+        "description": "Enjoy four game modes: \"Original,\" \"Time Limit,\" \"Attack,\" and \"Item.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send an evolved fruit to your opponent's box. Sending a big fruit could turn the tables!\n\nIn \"Item,\" the player with the higher score wins. Evolve fruits to get items, and use them strategically to gain an advantage. Timing your item use well could be the key to victory!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -687,7 +695,7 @@
     "70050000047502": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5c545553a32293bade0ef31b5afe3b12ba97934ccf6f50d543ff566ee5816c8.jpg",
         "category": null,
-        "description": "Enjoy three new game modes: \"Original,\" \"Time Limit,\" and \"Attack.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send \"sinking\" fruit to your opponent's box. Sending a big fruit would surely turn things around!\n\n\u203b Online play mode requires a subscription to \"Nintendo Switch Online\" (paid).\n\u203b Online play mode is planned for release on May 23rd.",
+        "description": "Enjoy four game modes: \"Original,\" \"Time Limit,\" \"Attack,\" and \"Item.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send an evolved fruit to your opponent's box. Sending a big fruit could turn the tables!\n\nIn \"Item,\" the player with the higher score wins. Evolve fruits to get items, and use them strategically to gain an advantage. Timing your item use well could be the key to victory!\n\n\u203b Online play mode requires a subscription to \"Nintendo Switch Online\" (paid).\n",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
