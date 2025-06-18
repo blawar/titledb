@@ -979,5 +979,32 @@
         "screenshots": null,
         "size": 0,
         "version": null
+    },
+    "70050000058751": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f164234c054ab1b787ebd36c7f458eaff453085baf2357ddb5de956d0ad6ae5.jpg",
+        "category": null,
+        "description": "This DLC contains instrumental versions of three popular J-pop tunes from the 2020s! Get into the groove and punch to the beat in your favourite Fitness Boxing 3 exercises.\n\nIncluded tracks:\n\u30fbHai Yorokonde / Kocchi no Kento\n\u30fbNIGHT DANCER / imase\n\u30fbMela!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Box to the rhythm of three popular J-pop tunes!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fitness Boxing 3: J-pop Pack Vol. 1",
+        "nsuId": 70050000058751,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250619,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 59768832,
+        "version": null
     }
 }
