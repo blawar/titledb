@@ -535,6 +535,54 @@
         "size": 0,
         "version": null
     },
+    "70010000102053": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b70721fd7ce7b7213866955b0951e342309bec85dec19935b147e5d6ce914b6.jpg",
+        "category": [
+            "Puzzle",
+            "Education",
+            "Training"
+        ],
+        "description": "Unwind with puzzles in Pok\u00e9mon Friends! Solve sets of three randomly selected puzzles to help untangle your mind \u2013 then place the yarn you obtain into the Plush-O-Matic, a special machine that creates in-game Pok\u00e9mon plush! As you try to make them all, you can track your crafted plush in the catalogue. You can also mark your calendar with a stamp each day you play.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f60940a785e1efdde2e190456f033621408f1a6e5b5bcb01474ace5471c5a40.jpg",
+        "id": "010008C01E742000",
+        "intro": "Cosy up with a variety of bite-sized puzzles \u2013 and collect virtual Pok\u00e9mon plush!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pok\u00e9mon Friends",
+        "nsuId": 70010000102053,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250722,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/216c229b22ca4d45cdefced8c0575523fc0f7bf3f6b72e298c2fccac612f5aaa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6b4cab829ed0d5ef7b3e3050f271d2c6022d193ccbc2f1851ac5e59bf2fde8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82991b94562bf0c4524fc09c85d13f0350476ba45e09ad7d58517ab719165a81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19dcba6df5d4530d4517589434305aa81b58a942d57d282f6fd05596fd09108d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afed365b38634b016ed0c1e41851f28bf42444c78e5c423d56d4fa9a403e3fcb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65381f1ee5baf69d58dea56cfbe332b11df3977bb3d54a5029bf740e366b1b84.jpg"
+        ],
+        "size": 766509056,
+        "version": null
+    },
     "70030000015787": {
         "bannerUrl": null,
         "category": null,
@@ -1005,6 +1053,128 @@
         "rightsId": null,
         "screenshots": null,
         "size": 59768832,
+        "version": null
+    },
+    "70050000060103": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/338266e1eb82c70919e5d179427c9365b89940fb3cb30a69a2a7809328576889.jpg",
+        "category": null,
+        "description": "The paid DLC for Pok\u00e9mon Friends, Puzzle On! Pack #1, features new puzzles, Pok\u00e9mon plush and furniture!\n\nIncludes:\n\n\u2022 10 puzzles:\n\u2022 Tinkatuff Tunneling\n\u2022 Morpeko Medals\n\u2022 How Many More?\n\u2022 Smeargle\u2019s Picky Palette\n\u2022 Square Solver\n\u2022 Operation: Bath Time\n\u2022 Yamper the Champ\n\u2022 Magnezone March\n\u2022 Cyndaquil\u2019s Light Show\n\u2022 Hole-y Moly\"\n\n\u2022 40 new Pok\u00e9mon plush\n\n\u2022 15 pieces of ocean- and forest-themed furniture\n\n\u2022 4 new room themes",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010008C01E743002",
+        "ids": [
+            "010008C01E743002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Puzzle On! Pack #1",
+        "nsuId": 70050000060103,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250722,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 383778816,
+        "version": null
+    },
+    "70050000060104": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3eb499bf1ba5dafc8aba9db57565dae64ef23db9f3b579f4f09d26f4ea99dd14.jpg",
+        "category": null,
+        "description": "The paid DLC for Pok\u00e9mon Friends, Puzzle On! Pack #2, features new puzzles, Pok\u00e9mon plush and furniture!\n\nIncludes:\n\n\u2022 10 puzzles:\n\u2022 Who Goes Where?\n\u2022 Don\u2019t Wake Gengar!\n\u2022 Blocked Boxes\n\u2022 Topsy-Turvy Espeon\n\u2022 Stamp-n-Roll\n\u2022 Bricks and Ladders\n\u2022 Porygon\u2019s Lab\n\u2022 Tricky Triangle\n\u2022 Pairing Up Pok\u00e9mon\n\u2022 Bye-Bye, Balloons\n\n\u2022 40 new Pok\u00e9mon plush\n\n\u2022 15 pieces of space- and dessert-themed furniture\n\n\u2022 4 new room themes",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010008C01E743003",
+        "ids": [
+            "010008C01E743003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Puzzle On! Pack #2",
+        "nsuId": 70050000060104,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250722,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 380633088,
+        "version": null
+    },
+    "70070000029649": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28ddf561761cfa42025ef01dd443103bf017acdc84d4fe2ccfae12fa0986b646.jpg",
+        "category": null,
+        "description": "This convenient bundle consists of two paid DLC packs for Pok\u00e9mon Friends, featuring new puzzles, Pok\u00e9mon plush and furniture!\n\nIncludes:\n\n\u2022 Puzzle On! Pack #1\n\u2022 Puzzle On! Pack #2",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Puzzle On! Bundle",
+        "nsuId": 70070000029649,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250722,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 764411904,
+        "version": null
+    },
+    "70070000029651": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a7fe1d8f1eececb4377e8aa2a850deab2d4acdc0fa2c6b626cfa08147ce754f.jpg",
+        "category": null,
+        "description": "This convenient bundle consists of the base game, Pok\u00e9mon Friends, and two paid DLC packs, featuring new puzzles, Pok\u00e9mon plush and furniture!\n\nIncludes:\n\n\u2022 Pok\u00e9mon Friends\n\u2022 Puzzle On! Pack #1\n\u2022 Puzzle On! Pack #2",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pok\u00e9mon Friends Combo Bundle",
+        "nsuId": 70070000029651,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250722,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/216c229b22ca4d45cdefced8c0575523fc0f7bf3f6b72e298c2fccac612f5aaa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6b4cab829ed0d5ef7b3e3050f271d2c6022d193ccbc2f1851ac5e59bf2fde8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82991b94562bf0c4524fc09c85d13f0350476ba45e09ad7d58517ab719165a81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19dcba6df5d4530d4517589434305aa81b58a942d57d282f6fd05596fd09108d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afed365b38634b016ed0c1e41851f28bf42444c78e5c423d56d4fa9a403e3fcb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65381f1ee5baf69d58dea56cfbe332b11df3977bb3d54a5029bf740e366b1b84.jpg"
+        ],
+        "size": 1530920960,
         "version": null
     }
 }
