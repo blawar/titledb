@@ -8,6 +8,8 @@ https://github.com/blawar/titledb_02112024
 
 https://github.com/blawar/titledb_12032024
 
+https://github.com/blawar/titledb_04082025
+
 ### Files
 `{region}.{language}.json` - Mapped by nsuId
 
