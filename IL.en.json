@@ -138,7 +138,7 @@
             "https://img-eshop.cdn.nintendo.net/i/8312043c705a3fece778e3302f3f0be1361def89681ebe4b8b021607caece738.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3c4ae9a90637c2f0f4e5dbcbd849e34422ff49d6af5d4e0441a28c3033c3cb21.jpg"
         ],
-        "size": 6177161216,
+        "size": 6234832896,
         "version": null
     },
     "70010000063715": {
@@ -236,7 +236,56 @@
             "https://img-eshop.cdn.nintendo.net/i/a762ae5d5ea7fb87bfe1a908fd0933e02355980a4d340b60e3bd7eb4f585decd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3c4ae9a90637c2f0f4e5dbcbd849e34422ff49d6af5d4e0441a28c3033c3cb21.jpg"
         ],
-        "size": 5727322112,
+        "size": 5761925120,
+        "version": null
+    },
+    "70010000084767": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/699771bb191ec442ace32b18c90ff68852e641cce963e901fca2d167897da166.jpg",
+        "category": [
+            "Action",
+            "First-Person Shooter"
+        ],
+        "description": "The galaxy\u2019s greatest bounty hunter Samus Aran will embark on a new mission in Metroid Prime 4: Beyond.\n\nThis game supports Brazilian Portuguese.\n\nScreenshots taken from Nintendo Switch 2 version",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Metroid Prime 4: Beyond",
+        "nsuId": 70010000084767,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251204,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f26759919907985032578e159caa8f07b79cea96a88da7f37f4813fecd36ba24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/830fd8fc3e6c8d3522f48c7b38aa60204b99c034899b4b376dd7d2b9396c005e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b28d740077003e6fae4472fac732a1241505fb4320f8b3ad81069d86e2de0fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef33dd0d923b081b5d02325fd6b27339a961b9b6fcc5704ce4a494c2aaeee099.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca90abc442f8f3c3cb2d6393b559f8e9f75e38420c0c21b77a9449fb62843d85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6aaaee4e1f9b73ed6a58ee8ed87f61a2f940a000985b59a72a5c0355da8fdf8b.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000094235": {
@@ -399,8 +448,8 @@
         "description": "Jamboree TV is a new way to play that's all about audience participation! Take on a variety of challenges along with Mario and friends. Let the games begin!\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/404244f33a9808ec62bcb41c6a0d659fac887cb3ee376e3e42c91ab28548e06f.jpg",
+        "id": "0100965017338000",
         "intro": "A super-charged celebration for Nintendo Switch 2",
         "isDemo": false,
         "key": null,
@@ -435,7 +484,7 @@
             "https://img-eshop.cdn.nintendo.net/i/132528df0dc3b8d20f84bb38d3a7770284d85422cbb0e5a594e7c12c4ecd674c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cdbac8e41f05feae0dc940451e9f8cd96395b0e95025a54e80e57e511ee84f80.jpg"
         ],
-        "size": 0,
+        "size": 5761925120,
         "version": null
     },
     "70010000096830": {
@@ -447,8 +496,8 @@
         "description": "Kirby and the Forgotten Land \u2013 Nintendo Switch 2 Edition + Star-Crossed World includes Kirby and the Forgotten Land, improved graphics and frame rate throughout, plus a new story: Star Crossed World.\n\nAfter the world is struck by a powerful meteor, Kirby must use his amazing abilities, including some all-new Mouthful Modes to clear a trail through uncharted territory in this exciting adventure.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2cbe1b8750ccd744a005beabcf9d2e12a8fb9d0c69a9b06fff66dad064cf138f.jpg",
+        "id": "01004D300C5AE000",
         "intro": "Kirby's adventure continues on Nintendo Switch 2!",
         "isDemo": false,
         "key": null,
@@ -484,7 +533,7 @@
             "https://img-eshop.cdn.nintendo.net/i/38b94299c8d05072d30ed21a5ab4e98b965a70d26be543127eae720f415805ba.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6cde3c4e8268f39e414f49d094f05fa98ca7f98a3ad64414df8da0bafbf52a41.jpg"
         ],
-        "size": 0,
+        "size": 6234832896,
         "version": null
     },
     "70010000099366": {
@@ -581,6 +630,156 @@
             "https://img-eshop.cdn.nintendo.net/i/65381f1ee5baf69d58dea56cfbe332b11df3977bb3d54a5029bf740e366b1b84.jpg"
         ],
         "size": 766509056,
+        "version": null
+    },
+    "70010000104188": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0268401aa71940108064f385a9bff6a529b5b124ea604906e6604d40a25a0170.jpg",
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Blast off for a gravity-defying experience in Super Mario Galaxy! Explore planets, recover the Grand Stars and travel the universe in the Comet Observatory on a quest to stop Bowser from creating his very own galaxy.\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a1c0b724305ed05fb4498964e12fdcb8548960265260e3ca0ffc900363bbf9c.jpg",
+        "id": "010099C022B96000",
+        "intro": "An out-of-this-world adventure",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Super Mario Galaxy",
+        "nsuId": 70010000104188,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251002,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ef31a0573231c02fe745e3d111ccd09ac12ba6f5ca5318a71aa97192515e4e4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2af4378e445a000cc330e5aec4247997f98068f865f2f4434a5203a99e70fe9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0800d5bf6dc32451514b6f1118f328bfc7a6c4d4c963d644898312a6c6fb335.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e73a51b05ab931e562592d7f2d6a6ada83a30a9b7688867ff3a04f6b40554d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba938c98500299e9d8d84cf49134fd47e8b5a2939fcd3c5a13fbb8acef91c252.jpg"
+        ],
+        "size": 3559915520,
+        "version": null
+    },
+    "70010000104193": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/236cd8a81ec8d38ad2830559b9d64ca32a5a383499f6380f0468e52707a9c209.jpg",
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Enter a new universe of adventure beyond the stars in Super Mario Galaxy 2! Climb aboard Starship Mario and set out to discover more galaxies, more abilities and even more gravity-defying fun.\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8223299d5613cb05b0a0be3d448d8af8a6d38125e61bd4296312724e848771ed.jpg",
+        "id": "0100FD8022DAA000",
+        "intro": "Blast back into space with Mario and Yoshi! ",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Super Mario Galaxy 2",
+        "nsuId": 70010000104193,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251002,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7a7881ca09ea1b5dc4f4a8d7c732682253fa030a36c1b2f29fb2b666218438b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/093ec44aaf7da9dee33848772bf8b830cf6c9c3032f44049acfeb12d029a9d20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ed7f52aabd0904acab5ca9ec9e50e9170d84b2edfcdf6975becff9004df4f7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0026837f392a7f4f29633e8bc9c3b9e68bf855c68d045120a473cd142099319f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c578ec7a6d9be0e8429c18d316c41d746ac8150c8d0e173c2775bbfcc99222a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a7badad418536f0631ed1c40db07648fb9605336a71bdbc2e2340a40864597c.jpg"
+        ],
+        "size": 2828009472,
+        "version": null
+    },
+    "70010000104850": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b95e0e7ba4a7f5f03761d711e5466e8f76df571985f2ef6065a9bae3b91a097.jpg",
+        "category": [
+            "Action",
+            "First-Person Shooter"
+        ],
+        "description": "The galaxy\u2019s greatest bounty hunter Samus Aran will embark on a new mission in Metroid Prime 4: Beyond.\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Metroid Prime 4: Beyond \u2013 Nintendo Switch 2 Edition",
+        "nsuId": 70010000104850,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251204,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f26759919907985032578e159caa8f07b79cea96a88da7f37f4813fecd36ba24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/830fd8fc3e6c8d3522f48c7b38aa60204b99c034899b4b376dd7d2b9396c005e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b28d740077003e6fae4472fac732a1241505fb4320f8b3ad81069d86e2de0fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef33dd0d923b081b5d02325fd6b27339a961b9b6fcc5704ce4a494c2aaeee099.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca90abc442f8f3c3cb2d6393b559f8e9f75e38420c0c21b77a9449fb62843d85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6aaaee4e1f9b73ed6a58ee8ed87f61a2f940a000985b59a72a5c0355da8fdf8b.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70030000015787": {
@@ -1169,6 +1368,89 @@
         "size": 7340032,
         "version": null
     },
+    "70050000062488": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b95e0e7ba4a7f5f03761d711e5466e8f76df571985f2ef6065a9bae3b91a097.jpg",
+        "category": null,
+        "description": "The galaxy\u2019s greatest bounty hunter Samus Aran will embark on a new mission in Metroid Prime 4: Beyond.\n\nThis game supports Brazilian Portuguese.\nMetroid Prime 4: Beyond for Nintendo Switch required to use this upgrade pack, sold separately.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Metroid Prime 4: Beyond \u2013 Nintendo Switch 2 Edition upgrade pack",
+        "nsuId": 70050000062488,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251204,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000062528": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37f8d8c7bdb55dc197d1f3568b96d1e0321cc1f82560554e1f03fabd7f7c182e.jpg",
+        "category": null,
+        "description": "Wave 1: Holo-X and Holo-Y Apparel Sets \u2013 available October 16th, 2025",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Holo-X and Holo-Y Apparel Sets",
+        "nsuId": 70050000062528,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20251016,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000062529": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55c79af85dcd8ff235ae890be17d4afcd6f501daf6365d23fde005073f1a42f9.jpg",
+        "category": null,
+        "description": "Wave 2: Additional story content \u2013 planned for release by February 28th, 2026",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Additional story content",
+        "nsuId": 70050000062529,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260228,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70070000029649": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28ddf561761cfa42025ef01dd443103bf017acdc84d4fe2ccfae12fa0986b646.jpg",
         "category": null,
@@ -1229,6 +1511,129 @@
             "https://img-eshop.cdn.nintendo.net/i/65381f1ee5baf69d58dea56cfbe332b11df3977bb3d54a5029bf740e366b1b84.jpg"
         ],
         "size": 1530920960,
+        "version": null
+    },
+    "70070000030078": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c35712b91a381f62ec5406f1b1c161394d19b717affce804f636b6dbbb6e7e9.jpg",
+        "category": null,
+        "description": "\"Prototype Arsenal\"*\n\"Prototype Suit\"*\n\"Camouflage Plugsuit\" Outer Plugsuit (Male/Female)\n\"Formal Attire\" Outer Plugsuit (Male/Female)\n\"Crusader\" Arsenal\n\"Muramasa\" Arsenal\n\"Rabbit 11\" Arsenal\nArsenal Decals Set\nOuter Emotes (Male/Female) Set\nArsenal Patterns Set\n\nYou must own DAEMON X MACHINA on Nintendo Switch to access downloadable content.\n\nThese items can be used to change the exterior and appearance of the Arsenal and Outer Suit, and do not affect gameplay.\n\nThe items included in this set can also be purchased individually. Please be careful not to purchase duplicate content.\n\n*These items are the same as the early purchase bonus content, \"Prototype Arsenal\" and \"Prototype Suit\". If you have already downloaded this bonus content, please be careful not to purchase duplicate content.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "A bundle that includes multiple sets and DLC content released for DAEMON X MACHINA.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "DLC Bundle 1",
+        "nsuId": 70070000030078,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250812,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 127926272,
+        "version": null
+    },
+    "70070000030090": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8771366c464196d7d9adef55528e5a5f5b50240163eecded60d7ac3096b9765.jpg",
+        "category": null,
+        "description": "Outer Hairstyle Set \"Hairstyles 1\" (Male/Female)\nOuter Hairstyle Set \"Hairstyles 2\" (Male/Female)\nOuter Face Parts Set \"Facial Features 1\" (Male/Female)\nOuter Face Parts Set \"Facial Features 2\" (Male/Female)\n\"Glasses\" Outer part (Male/Female)\n\"Eyepatch\" Outer part (Male/Female)\n\"Man Bun\" Outer part (Male/Female)\n\nYou must own DAEMON X MACHINA on Nintendo Switch to access downloadable content.\n\nThese items can be used to change your character's appearance and do not affect gameplay.\n\nThe items included in this set can also be purchased individually. Please be careful not to purchase duplicate content.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "A bundle that includes multiple sets and DLC content released for DAEMON X MACHINA.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "DLC Bundle 2",
+        "nsuId": 70070000030090,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250812,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 104857600,
+        "version": null
+    },
+    "70070000030726": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9b17ccc5659bc5931373c33e0fcd64bab6a3807e9ebec25c9a81bf36c3f053c.jpg",
+        "category": null,
+        "description": "Embark on an enhanced pair of interstellar escapades in Super Mario Galaxy + Super Mario Galaxy 2! Journey into space on the hunt for Power Stars, overcome a universe of challenges and most of all \u2013 stop Bowser!\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Blast off in two classic cosmic adventures!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Super Mario Galaxy + Super Mario Galaxy 2",
+        "nsuId": 70070000030726,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251002,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dd17fbca346376ffe7db5e53b5500dd475f50c610098099fe03e18bff3731d26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2eafc395d5c6fbbcbccc7e151a2552f15d83d5d881bb074d3bc881a38191e440.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3504cc11a769b7e29a25148fe5d92a7c0cc308d7889723b11e2c56b02d73400f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f33b4687628c37c083e6c34f077f5432696ea413048751e8da684ea3b4f1481b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92e54844116c79ebb07e3b4f56c454238d2e777fa61ed84c88b2f79909c51ab7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/076acf13b378125791d6731ed45cbecc825abb448cc0811200ec8233802c644e.jpg"
+        ],
+        "size": 6387924992,
+        "version": null
+    },
+    "70070000030754": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fecfbb9d5c4a7a55a48e6d76c2f795598f4df41328ad1eae5fe52fa25e4549cb.jpg",
+        "category": null,
+        "description": "The Mega Dimension DLC includes the following content:\n\nWave 1: Holo-X and Holo-Y Apparel Sets \u2013 available October 16th, 2025\n\nWave 2: Additional story content \u2013 planned for release by February 28th, 2026\n\nAn additional story that can be enjoyed after completing the main story of Pok\u00e9mon Legends: Z-A.\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Continue your adventures in Pok\u00e9mon Legends: Z-A with the Mega Dimension paid DLC!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pok\u00e9mon Legends: Z-A \u2013 Mega Dimension DLC",
+        "nsuId": 70070000030754,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20251016,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d58f4dbd03fb1e62a4339fcf5d59e05ff1ae14eaba396f3ad057d2ac4e658d3a.jpg"
+        ],
+        "size": 0,
         "version": null
     }
 }
