@@ -70,7 +70,7 @@
             "https://img-eshop.cdn.nintendo.net/i/11204ffc9be2ebbebcaf5d84144aba741cae4f0bdb080c30a8e41dd5cacc9a69.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ea9939d94ba81f834cea430ee8aa06ed7dd0d3d23b2ae42f30d9d27659483e46.jpg"
         ],
-        "size": 2290089984,
+        "size": 2289041408,
         "version": null
     },
     "70010000027089": {
@@ -107,7 +107,7 @@
             "https://img-eshop.cdn.nintendo.net/i/fce85e6d466a31a7e59c6c197d8514c3d88de7b2d8f64bfce7214b06a5808c3e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/93370c87dbadc6e1f68758dfc0a8db291206d0b80ec814eee2a678d56e9ce8c2.jpg"
         ],
-        "size": 5758779392,
+        "size": 5757730816,
         "version": null
     },
     "70010000027090": {
@@ -341,7 +341,7 @@
             "https://img-eshop.cdn.nintendo.net/i/b563db429b64dce7b4d2068edb0908d47d9a4d0deef07dab581d76c42c54bd0f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1d84cae7a5e55c8e3ebf2e89eb583730281ea6f63975f2f8c6e3ff12a48a6e1b.jpg"
         ],
-        "size": 2186280960,
+        "size": 2185232384,
         "version": null
     },
     "70010000029561": {
@@ -416,7 +416,7 @@
             "https://img-eshop.cdn.nintendo.net/i/5307bfe670db60c46da8f3b41193c6953eb672a1ec2e1cad1173d20c9c9154d8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cafa57dd6d87956ffa8b3615038e41bf5ba5439584a082d5331fa7fbe3259436.jpg"
         ],
-        "size": 2393899008,
+        "size": 2392850432,
         "version": null
     },
     "70010000030839": {
@@ -455,7 +455,7 @@
             "https://img-eshop.cdn.nintendo.net/i/9563f9668a9503f6d0f2dcc000309a1db99177c99de90c8a9bedfdc99ff70ced.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b31a4a49f00cebe016f4ef0ef251502ac6f351b13f4303add82aa36d5d4cc3b3.jpg"
         ],
-        "size": 2183135232,
+        "size": 2182086656,
         "version": null
     },
     "70010000030840": {
@@ -494,7 +494,7 @@
             "https://img-eshop.cdn.nintendo.net/i/281175128d58d9117c51f1155cf9e245c7f7cc425e0d6f36520757cd4ae7156d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1f7d7dfb439c272999372aa24e289ba4382c98d01baccfc224ea7405653bcbb4.jpg"
         ],
-        "size": 1500512256,
+        "size": 1499463680,
         "version": null
     },
     "70010000030843": {
@@ -609,7 +609,7 @@
             "https://img-eshop.cdn.nintendo.net/i/5804930bf5b77ca89b10a282b28300906b544d5e5fc5f0e34c4cf58cb311bdad.jpg",
             "https://img-eshop.cdn.nintendo.net/i/472fd727342fc67a74ae5f94b3c5111e4fda71451bbcb40e20bf2525dd43e1a4.jpg"
         ],
-        "size": 1472200704,
+        "size": 1471152128,
         "version": null
     },
     "70010000033306": {
@@ -718,7 +718,7 @@
             "https://img-eshop.cdn.nintendo.net/i/9234bc5029f2b3cb56282d1ce686d72920fc5bf2d9a33aaad005e19c3bce79a1.jpg",
             "https://img-eshop.cdn.nintendo.net/i/93fe56724c275ab9099cd536b97bfb604c0b118708944ea4c1e9326ba2736ccd.jpg"
         ],
-        "size": 990904320,
+        "size": 989855744,
         "version": null
     },
     "70010000035100": {
@@ -831,7 +831,7 @@
             "https://img-eshop.cdn.nintendo.net/i/5e3177980f5462d53c6aa41eb466565d427d88bd4e401e65b8d1d7c8aef9de59.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9ce8c92db9636c233a4d654cedd2f19f9347f295cd42863762910f100b84ff93.jpg"
         ],
-        "size": 4781506560,
+        "size": 4875878400,
         "version": null
     },
     "70010000037901": {
@@ -2706,7 +2706,7 @@
         "nsuId": 70050000021588,
         "numberOfPlayers": null,
         "publisher": "\u6e38\u529b\u5361\u6e38\u620f",
-        "rating": null,
+        "rating": 0,
         "ratingContent": [],
         "region": null,
         "releaseDate": 20200714,
@@ -2719,7 +2719,7 @@
             "https://img-eshop.cdn.nintendo.net/i/ab699a2efc7ed9c0f056af43409ad7b4149b81055a151c1f60bb63c743d15dc2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5c5fc63d581e495935ccc27ad6238a1c88b02ace1163f0570c71323370390aa5.jpg"
         ],
-        "size": 4194304,
+        "size": 3145728,
         "version": null
     },
     "70050000025176": {
@@ -2741,7 +2741,7 @@
         "nsuId": 70050000025176,
         "numberOfPlayers": null,
         "publisher": "\u78a7\u6c49",
-        "rating": null,
+        "rating": 0,
         "ratingContent": [],
         "region": null,
         "releaseDate": 20210916,
@@ -2771,7 +2771,7 @@
         "nsuId": 70050000026744,
         "numberOfPlayers": null,
         "publisher": "\u6e38\u529b\u5361\u6e38\u620f",
-        "rating": null,
+        "rating": 0,
         "ratingContent": [],
         "region": null,
         "releaseDate": 20210403,
