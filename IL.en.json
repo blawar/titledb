@@ -92,6 +92,50 @@
         "size": 0,
         "version": null
     },
+    "70010000032446": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff75e948b8af4324400062527e00f6166dca2c2356e49744868d2e3b670bd467.jpg",
+        "category": [
+            "Puzzle"
+        ],
+        "description": "Pok\u00e9mon Caf\u00e9 Mix just got a makeover and is ready to re-open! Now it's bustling with Pok\u00e9mon!\nThe cute vibe is just the same, but we've really powered up the thrills and fun that you'll get from catching and training Pok\u00e9mon and completing puzzles!\n\nYou\u2019re the owner of a caf\u00e9 that Pok\u00e9mon visit.\nWith your Pok\u00e9mon staff, complete puzzles to prepare drinks and dishes, and treat your Pok\u00e9mon customers to a wonderful time at the caf\u00e9!\n\n\u25a0Make your Pok\u00e9mon into caf\u00e9 staff!\nAll the caf\u00e9's clientele are Pok\u00e9mon!\nIf you make friends with Pok\u00e9mon by presenting them with yummy dishes, they'll join your staff. Then you'll be able to develop brand-new dishes with your Pok\u00e9mon chums! And when they get wind of your delicious new dishes, even more new Pok\u00e9mon will flock to your establishment to check them out!\nRecruit lots of Pok\u00e9mon to your caf\u00e9 crew and make your caf\u00e9 a fun place to be.\n\n\u25a0Solve cooking puzzles with your Pok\u00e9mon helpers!\nEach of your Pok\u00e9mon assistants will have their own special skills to bring to bear on the cooking puzzles. With new specialty gimmicks, the thrills you get from the puzzles will get a whole new boost!\nTrain up your Pok\u00e9mon staff and aim for a three-star establishment!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d4106b94468ef8a2605b52446585e32b07a86c2debf700a0767dcbe9054e09dd.jpg",
+        "id": "010072400E04A000",
+        "intro": "Blend, link, and clear!\nEnjoy fun culinary puzzles with Pok\u00e9mon!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "name": "Pok\u00e9mon Caf\u00e9 ReMix",
+        "nsuId": 70010000032446,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game Purchases (Includes Random Items)"
+        ],
+        "region": null,
+        "releaseDate": 20200624,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0c5d1155bba093be98726ae7c0208a3dc984604ae44bfdb63c301dc77fe4e515.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8fe3f476c54d52bca86fb6a6fcc6ab5f853780a427e42895fbf67a01749821c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db9d70cad5ca2a5f15a1f675b7f7eea5d1ba7f067a638df9a6b8026204f082b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d72282319cec17f225bf098f314106f5891231e0b79198f8bb47e322a1a34bec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8d7c85d0f5f2fe9e9db9fe7abb14a07dd037c22b11ab4411d992dac24d0d346.jpg"
+        ],
+        "size": 577765376,
+        "version": null
+    },
     "70010000046406": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/140aaa2d40060aae05f85d6b82ed3879c49e80e5f69b030ec1cdf34d951b6489.jpg",
         "category": [
@@ -679,7 +723,7 @@
             "https://img-eshop.cdn.nintendo.net/i/5e73a51b05ab931e562592d7f2d6a6ada83a30a9b7688867ff3a04f6b40554d6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ba938c98500299e9d8d84cf49134fd47e8b5a2939fcd3c5a13fbb8acef91c252.jpg"
         ],
-        "size": 3559915520,
+        "size": 3953131520,
         "version": null
     },
     "70010000104193": {
@@ -730,7 +774,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1c578ec7a6d9be0e8429c18d316c41d746ac8150c8d0e173c2775bbfcc99222a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9a7badad418536f0631ed1c40db07648fb9605336a71bdbc2e2340a40864597c.jpg"
         ],
-        "size": 2828009472,
+        "size": 3056599040,
         "version": null
     },
     "70010000104850": {
@@ -1603,7 +1647,7 @@
             "https://img-eshop.cdn.nintendo.net/i/92e54844116c79ebb07e3b4f56c454238d2e777fa61ed84c88b2f79909c51ab7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/076acf13b378125791d6731ed45cbecc825abb448cc0811200ec8233802c644e.jpg"
         ],
-        "size": 6387924992,
+        "size": 7009730560,
         "version": null
     },
     "70070000030754": {
