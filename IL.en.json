@@ -136,6 +136,56 @@
         "size": 577765376,
         "version": null
     },
+    "70010000043293": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4.jpg",
+        "category": [
+            "Action",
+            "Other"
+        ],
+        "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pok\u00e9mon, level up and evolve your partner Pok\u00e9mon, and knock out the opposing team\u2019s Pok\u00e9mon to prevent them from scoring points. Put your teamwork to the test, and take home the win! \n\nKey Features:\n\u2022BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pok\u00e9mon in a variety of holographic outfits\u2014with new styles arriving regularly!\n\n\u2022UNITE MOVES: Unleash the true power of your Pok\u00e9mon with Unite Moves! Leverage these all-new Pok\u00e9mon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n\u2022RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n\u2022COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team\u2019s success. Leverage signals, quick-chat messages, and\u2014for the first time in a Pok\u00e9mon title\u2014voice chat to communicate and stay in sync with your team.\n\n\u2022CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pok\u00e9mon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2108ffc7f8078dab9dc41be73029eba8c54f318ed1e3f1e6a16478c957a7c2c9.jpg",
+        "id": "0100939011ED4000",
+        "intro": "Team up and take down the opposition in Pok\u00e9mon\u2019s first 5-on-5 strategic team battle game! ",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pok\u00e9mon UNITE",
+        "nsuId": 70010000043293,
+        "numberOfPlayers": 1,
+        "publisher": "The Pok\u00e9mon Company",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-game Purchases (Includes Random Items)"
+        ],
+        "region": null,
+        "releaseDate": 20210721,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/027f702ea78bfce82a26a88f8f69025e34c70e38445b6d1de434b69cf58c01ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76de7107ad119bd6e5a034830a12f5f1c9d0466f3f274123b579ce5b83d8c469.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ae8126b0357c9df2c62759220c581065f9e5af09fb56bac8b1a07496e814657.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3eca2a7427a4cd802e6bc814f40bf1f0ed7baeda5246d79cae4e9e4b5fd01f32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce0b4caeb737766fe42aedfc7067af2caf88250f7439304efd837cc6e85f7348.jpg"
+        ],
+        "size": 5738856448,
+        "version": null
+    },
     "70010000046406": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/140aaa2d40060aae05f85d6b82ed3879c49e80e5f69b030ec1cdf34d951b6489.jpg",
         "category": [
@@ -1651,7 +1701,7 @@
         "version": null
     },
     "70070000030754": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fecfbb9d5c4a7a55a48e6d76c2f795598f4df41328ad1eae5fe52fa25e4549cb.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87dd583f7e002fbb1a8cec1ea4ac73ce9c9929a2102c2cb996fa213711ab8d8f.jpg",
         "category": null,
         "description": "If you purchase Pok\u00e9mon Legends: Z-A \u2013 Mega Dimension by February 28th 2026, you\u2019ll receive a serial code for a Luxurious Pok\u00e9 Ball Set. This item set includes 12 Pok\u00e9 Balls in four different varieties \u2013 featuring three of each variety \u2013 that are especially effective at catching certain kinds of Pok\u00e9mon.\n\nThe Mega Dimension DLC includes the following content:\n\nWave 1: Holo-X and Holo-Y Apparel Sets \u2013 available October 16th, 2025\n\nWave 2: Additional story content \u2013 planned for release by February 28th, 2026\n\nAn additional story that can be enjoyed after completing the main story of Pok\u00e9mon Legends: Z-A.\n",
         "developer": null,
