@@ -392,8 +392,8 @@
         "description": "If you purchase the digital version of Pok\u00e9mon Legends: Z-A or Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition by Saturday, February 28th, 2026, you\u2019ll receive a serial code for a gift of 100 Pok\u00e9 Balls.\n\nIf you pre-order Pok\u00e9mon Legends: Z-A or Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition, you'll receive a Ralts holding a Gardevoirite stone as an early-purchase bonus. \nYou can receive Ralts in both the physical and digital versions of Pok\u00e9mon Legends: Z-A and Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition by choosing Get via Internet in the Mystery Gift feature in your game until Saturday, February 28th, 2026.\n\nAn urban redevelopment plan is underway in Lumiose City! The goal: to turn it into a place Pok\u00e9mon and people can truly share. Shortly after arriving, you\u2019ll choose from one of these partner Pok\u00e9mon to accompany you on your journey \u2013 Chikorita, Tepig or Totodile. \n\nTogether, you can explore the streets of this vast city or visit Wild Zones \u2013 habitats where you\u2019ll encounter wild Pok\u00e9mon. To catch them, aim carefully and throw a Pok\u00e9 Ball or take them on with the help of the Pok\u00e9mon on your team. ",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b7ab9ae1642ca103189c3274fc4f5a7f6e44d2d9c5d306250d7f3658db3c364.jpg",
+        "id": "0100F43008C44000",
         "intro": "An ambitious new adventure set within Lumiose City is coming in 2025.",
         "isDemo": false,
         "key": null,
@@ -428,7 +428,7 @@
             "https://img-eshop.cdn.nintendo.net/i/97881202f35a42a4ce720b48898de36bd185b092ff041457e4d4f8ba2b11bf4e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3c4ae9a90637c2f0f4e5dbcbd849e34422ff49d6af5d4e0441a28c3033c3cb21.jpg"
         ],
-        "size": 0,
+        "size": 4383047680,
         "version": null
     },
     "70010000096818": {
@@ -640,8 +640,8 @@
         "description": "If you purchase the digital version of Pok\u00e9mon Legends: Z-A or Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition by Saturday, February 28th, 2026, you\u2019ll receive a serial code for a gift of 100 Pok\u00e9 Balls.\n\nIf you pre-order Pok\u00e9mon Legends: Z-A or Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition, you'll receive a Ralts holding a Gardevoirite stone as an early-purchase bonus. \nYou can receive Ralts in both the physical and digital versions of Pok\u00e9mon Legends: Z-A and Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition by choosing Get via Internet in the Mystery Gift feature in your game until Saturday, February 28th, 2026.\n\nAn urban redevelopment plan is underway in Lumiose City! The goal: to turn it into a place Pok\u00e9mon and people can truly share. Shortly after arriving, you\u2019ll choose from one of these partner Pok\u00e9mon to accompany you on your journey \u2013 Chikorita, Tepig or Totodile. \n\nTogether, you can explore the streets of this vast city or visit Wild Zones \u2013 habitats where you\u2019ll encounter wild Pok\u00e9mon. To catch them, aim carefully and throw a Pok\u00e9 Ball or take them on with the help of the Pok\u00e9mon on your team. \n\n",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b7ab9ae1642ca103189c3274fc4f5a7f6e44d2d9c5d306250d7f3658db3c364.jpg",
+        "id": "0100F43008C44000",
         "intro": "Explore Lumiose City on Nintendo Switch 2",
         "isDemo": false,
         "key": null,
@@ -675,7 +675,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a4109bdbc07ffc4ee2c59de9ab8ff8a86503addaa0264d3142e9b595bd943e74.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4aec0b4b804c99ff21142b4156d85326ef7c22839fcf5cd01ffa865e06ed11f6.jpg"
         ],
-        "size": 0,
+        "size": 4383047680,
         "version": null
     },
     "70010000102053": {
@@ -1496,7 +1496,10 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
+        "id": "0100F43008C45002",
+        "ids": [
+            "0100F43008C45002"
+        ],
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -1514,7 +1517,7 @@
         "releaseDate": 20251016,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 3145728,
         "version": null
     },
     "70050000062529": {
@@ -1542,7 +1545,7 @@
         "releaseDate": 20260228,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 3145728,
         "version": null
     },
     "70070000029649": {
@@ -1708,6 +1711,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "id": null,
+        "ids": [],
         "intro": "Continue your adventures in Pok\u00e9mon Legends: Z-A with the Mega Dimension paid DLC!",
         "isDemo": false,
         "key": null,
@@ -1727,7 +1731,7 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/d58f4dbd03fb1e62a4339fcf5d59e05ff1ae14eaba396f3ad057d2ac4e658d3a.jpg"
         ],
-        "size": 0,
+        "size": 3145728,
         "version": null
     }
 }
