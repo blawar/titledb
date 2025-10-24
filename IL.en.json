@@ -92,6 +92,53 @@
         "size": 0,
         "version": null
     },
+    "70010000027620": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4742a437b346c3d7b3737603b49f330a5dbf5566aa945ee1381a7644846b0e32.jpg",
+        "category": [
+            "Simulation",
+            "Multiplayer"
+        ],
+        "description": "If the hustle and bustle of modern life\u2019s got you down, Tom Nook has a business venture up his sleeve that he knows you\u2019ll adore: his brand-new, ultra-exclusive Nook Inc. Deserted Island Getaway Package! \n\n\u2022\tCustomise your character and home, and decorate the landscape (with furniture, if you like!), as you create your very own island paradise.\n\n\u2022\tExperience a robust new crafting system \u2013 collect materials to construct everything from furniture to tools!\n\n\u2022\tEnjoy a variety of relaxing activities like gardening, fishing, decorating, interacting with charming NPCs, and more, as classic Animal Crossing experiences come to life in fun new ways within the deserted-island setting.\n\n\u2022\tUp to eight players can reside on an island; four residents of the same island can play together simultaneously on a single system.\n\n\u2022\tEight players can play together on one player\u2019s island via online multiplayer or local wireless.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a320d37cd85f49d6e4a675b6d7b82f5ad13ae10b212d5b220fe4208c7d7c2f8.jpg",
+        "id": "01006F8002326000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Animal Crossing: New Horizons",
+        "nsuId": 70010000027620,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20200320,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e87398150bd1bf3d5c8b5f242c35601e2d1aeb017b528bf9c6ca049278f9ed9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4896e27eccf5687ea273b02b67f6d6390f733cee2b30e4addc8a946cb0937333.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e05739b4f66e143350cbfa0e4c13edc798bd8f0301ae3715b32685f5cf4d4254.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc0fb2298104d18e8f871f6238dd38accac7910bd68dcb257dda1c08a426644e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ced002f322df11aa99bc8935b2867b51ce57b8bacdc8796047b60f183a8bebf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c4ae9a90637c2f0f4e5dbcbd849e34422ff49d6af5d4e0441a28c3033c3cb21.jpg"
+        ],
+        "size": 10956570624,
+        "version": null
+    },
     "70010000032446": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff75e948b8af4324400062527e00f6166dca2c2356e49744868d2e3b670bd467.jpg",
         "category": [
@@ -145,7 +192,7 @@
         "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pok\u00e9mon, level up and evolve your partner Pok\u00e9mon, and knock out the opposing team\u2019s Pok\u00e9mon to prevent them from scoring points. Put your teamwork to the test, and take home the win! \n\nKey Features:\n\u2022BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pok\u00e9mon in a variety of holographic outfits\u2014with new styles arriving regularly!\n\n\u2022UNITE MOVES: Unleash the true power of your Pok\u00e9mon with Unite Moves! Leverage these all-new Pok\u00e9mon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n\u2022RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n\u2022COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team\u2019s success. Leverage signals, quick-chat messages, and\u2014for the first time in a Pok\u00e9mon title\u2014voice chat to communicate and stay in sync with your team.\n\n\u2022CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pok\u00e9mon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2108ffc7f8078dab9dc41be73029eba8c54f318ed1e3f1e6a16478c957a7c2c9.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/12fa1310168e0331c236568acab503ae42d27db3d87edbed4413c98cf4a383ac.jpg",
         "id": "0100939011ED4000",
         "intro": "Team up and take down the opposition in Pok\u00e9mon\u2019s first 5-on-5 strategic team battle game! ",
         "isDemo": false,
@@ -183,7 +230,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3eca2a7427a4cd802e6bc814f40bf1f0ed7baeda5246d79cae4e9e4b5fd01f32.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ce0b4caeb737766fe42aedfc7067af2caf88250f7439304efd837cc6e85f7348.jpg"
         ],
-        "size": 5738856448,
+        "size": 5998903296,
         "version": null
     },
     "70010000046406": {
@@ -967,6 +1014,68 @@
         "size": 3145728,
         "version": null
     },
+    "70050000019994": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0012293845bf53728d0aeb28fb265e5a9d56443695badc2992781a65001646c.jpg",
+        "category": null,
+        "description": "On top of the Nook Inc. Silk Rug that is available as an exclusive item from Nook Shopping, Nintendo Switch Online members will also be able to order a Nintendo Switch Lite as an in-game item after the latest update. It comes in four different colours, so pick your favourite when it pops up in Nook Shopping to order!\nNotes:\n- You need to have progressed far enough through the game in order to use miles at the Nook Stop.\n- Even if other players on the island do not have Nintendo Switch Online memberships, they can still trade for the item. If other players cannot trade, please get the player with the reward to start the game and try again.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006F800232712D",
+        "ids": [
+            "01006F800232712D"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Exclusive items for Nintendo Switch Online members",
+        "nsuId": 70050000019994,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20200320,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000030743": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/495c43bb5432d86ace169231c1a1a9f5c4f47159a5dd6a634d8163ef386481b1.jpg",
+        "category": null,
+        "description": "Get creative and help design dream vacation homes for many of your favourite island residents in Animal Crossing: New Horizons \u2013 Happy Home Paradise, available as paid downloadable content for Animal Crossing: New Horizons.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006F80023273E8",
+        "ids": [
+            "01006F80023273E8"
+        ],
+        "intro": "Paradise Planning needs you!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Animal Crossing: New Horizons \u2013 Happy Home Paradise",
+        "nsuId": 70050000030743,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20211105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/94b2abe173a0301031b998c5dfaddb0f4d74d7e04862b0929a20c8cf3f4fbbd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f8b621611e955de3964c3375f696fed7df4d1eba5aa8b55e6e47d730e3d2dfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da7fc0c8b609123c4fd3aca179be4e0f3a65844fb12f6676da5bd9e3dbf49f85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7524bb30c5dd4ff0822ea9233399d71415f1e44b47fc1c230f8d83cd5001baf6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a50a83ac829c659fd3b706dbc9b216bfeb35c53b9c7c761eb274552f532c444.jpg"
+        ],
+        "size": 627048448,
+        "version": null
+    },
     "70050000036095": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cb277b834be1837f0abdf31658e7066ea0b1841c2e9af6dc89dec57c10227a9.jpg",
         "category": null,
@@ -1545,6 +1654,38 @@
         "releaseDate": 20260228,
         "rightsId": null,
         "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000064840": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0c9e740c72adb189803ce467b34a966a99007f3456a973831c05ac8c5a0873e.jpg",
+        "category": null,
+        "description": "\u203bThis skin includes two sets: \u201cPhantom Pumpkin\u201d and \u201cBizarre Asylum.\u201d\n\n[Set Details]\n\u201cPhantom Pumpkin\u201d:\nPoppy, Box, Fruits, Background (with animation), Fruits, Box, BGM,Decorations (10 items)\n\n\u201cBizarre Asylum\u201d:\nBackground, Decorations (10 items)",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Suika Game Skin Expansion Pack",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Wacky Halloween Set",
+        "nsuId": 70050000064840,
+        "numberOfPlayers": null,
+        "publisher": "Aladdin X",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20251024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/654d631de108e01dac6d97c4f0d43bf58ff01be274268b67b7bb863c3b1fa613.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f500bb1370efd240b883fc3046eb9f5c8e426cb089828f831a519ad6ff03cceb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23871b79d58781106d138ab1215ba2ca087a355807f90b46c4ba9f621c38e75d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/740596c8688835ba66903239a17d9c3cc79853113ae65d4a6cb0c80e4d4f85b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1a2e98228a8d1b57be96fff2000f4e76b913b729ea08ffb4c580efd30cb74b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7375cd1ee92045714f6cc6aee93f440103e67c5fcd90532db4ca6847c7f3308.jpg"
+        ],
         "size": 3145728,
         "version": null
     },
