@@ -923,6 +923,49 @@
         "size": 0,
         "version": null
     },
+    "70010000110441": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/43fe4c85db89d8881dc38e3942fb94742b55a33d2996956a159f45552397c5f8.jpg",
+        "category": [
+            "Simulation",
+            "Multiplayer"
+        ],
+        "description": "A carefree new life is just beyond the horizon! Step off the plane and onto your very own deserted island where new friends, discoveries and opportunities are waiting for you.\n\nNew ways to play\nThe Nintendo Switch 2 Edition of Animal Crossing: New Horizons uses the unique features of the console to offer even more ways to enjoy your island paradise!\n\nYour island, clearer than ever\nWith the enhanced 4K resolution of the Nintendo Switch 2 Edition, you\u2019ll be able to see your island and its residents even clearer than before!\n\nGet creative with mouse controls\nUse the intuitive mouse controls of the Joy-Con 2 controller to redecorate your home, organise your furniture, create Custom Designs and even draw posts for the bulletin board.\n\nNew item: Megaphone\nPurchase the Megaphone from Nook's Cranny, then use it to find your island friends by calling out their names. The built-in microphone of Nintendo Switch 2 will help find where they are, even if they\u2019re far away from you!\n\nPlay with more friends at once!\nIn the Nintendo Switch 2 Edition, up to 12 players can play together on one island online or up to eight players via local wireless play.\n\nWith GameChat, you\u2019ll be able to talk to your friends while playing with them. And by connecting a compatible USB-C camera, such as the Nintendo Switch 2 camera (sold separately), they\u2019ll be able to see your expressions as you play!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Welcome to the Deserted Island Getaway Package!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Animal Crossing: New Horizons \u2013 Nintendo Switch 2 Edition",
+        "nsuId": 70010000110441,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260115,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ed4432ed02fdff6c6dd62152b22ac2080415c9f8ef32f08f0f398de5dea1a5ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bcfde80de69c9355d9a3732794743bba1dd46c93d898fe71adebd4b6466cef13.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70030000015787": {
         "bannerUrl": null,
         "category": null,
@@ -1687,6 +1730,34 @@
             "https://img-eshop.cdn.nintendo.net/i/b7375cd1ee92045714f6cc6aee93f440103e67c5fcd90532db4ca6847c7f3308.jpg"
         ],
         "size": 3145728,
+        "version": null
+    },
+    "70050000065275": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/43fe4c85db89d8881dc38e3942fb94742b55a33d2996956a159f45552397c5f8.jpg",
+        "category": null,
+        "description": "New ways to play\nThe Nintendo Switch 2 Edition of Animal Crossing: New Horizons uses the unique features of the console to offer even more ways to enjoy your island paradise!\n\nYour island, clearer than ever\nWith the enhanced 4K resolution of the Nintendo Switch 2 Edition, you\u2019ll be able to see your island and its residents even clearer than before!\n\nGet creative with mouse controls\nUse the intuitive mouse controls of the Joy-Con 2 controller to redecorate your home, organise your furniture, create Custom Designs and even draw posts for the bulletin board.\n\nNew item: Megaphone\nPurchase the Megaphone from Nook's Cranny, then use it to find your island friends by calling out their names. The built-in microphone of Nintendo Switch 2 will help find where they are, even if they\u2019re far away from you!\n\nPlay with more friends at once!\nIn the Nintendo Switch 2 Edition, up to 12 players can play together on one island online or up to eight players via local wireless play.\n\nWith GameChat, you\u2019ll be able to talk to your friends while playing with them. And by connecting a compatible USB-C camera, such as the Nintendo Switch 2 camera (sold separately), they\u2019ll be able to see your expressions as you play!\n\n\nAnimal Crossing: New Horizons for Nintendo Switch required to use this upgrade pack, sold separately.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Animal Crossing: New Horizons \u2013 Nintendo Switch 2 Edition Upgrade Pack",
+        "nsuId": 70050000065275,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260115,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ed4432ed02fdff6c6dd62152b22ac2080415c9f8ef32f08f0f398de5dea1a5ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bcfde80de69c9355d9a3732794743bba1dd46c93d898fe71adebd4b6466cef13.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70070000029649": {
