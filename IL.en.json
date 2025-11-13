@@ -1678,7 +1678,7 @@
     "70050000062529": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55c79af85dcd8ff235ae890be17d4afcd6f501daf6365d23fde005073f1a42f9.jpg",
         "category": null,
-        "description": "Wave 2: Additional story content \u2013 planned for release by February 28th, 2026",
+        "description": "Wave 2: Additional story content \u2013 planned for release on December 10th, 2025",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -1697,7 +1697,7 @@
             "In-game purchases"
         ],
         "region": null,
-        "releaseDate": 20260228,
+        "releaseDate": 20251210,
         "rightsId": null,
         "screenshots": null,
         "size": 3145728,
@@ -1924,7 +1924,7 @@
     "70070000030754": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87dd583f7e002fbb1a8cec1ea4ac73ce9c9929a2102c2cb996fa213711ab8d8f.jpg",
         "category": null,
-        "description": "If you purchase Pok\u00e9mon Legends: Z-A \u2013 Mega Dimension by February 28th 2026, you\u2019ll receive a serial code for a Luxurious Pok\u00e9 Ball Set. This item set includes 12 Pok\u00e9 Balls in four different varieties \u2013 featuring three of each variety \u2013 that are especially effective at catching certain kinds of Pok\u00e9mon.\n\nThe Mega Dimension DLC includes the following content:\n\nWave 1: Holo-X and Holo-Y Apparel Sets \u2013 available October 16th, 2025\n\nWave 2: Additional story content \u2013 planned for release by February 28th, 2026\n\nAn additional story that can be enjoyed after completing the main story of Pok\u00e9mon Legends: Z-A.\n",
+        "description": "If you purchase Pok\u00e9mon Legends: Z-A \u2013 Mega Dimension by February 28th 2026, you\u2019ll receive a serial code for a Luxurious Pok\u00e9 Ball Set. This item set includes 12 Pok\u00e9 Balls in four different varieties \u2013 featuring three of each variety \u2013 that are especially effective at catching certain kinds of Pok\u00e9mon.\n\nThe Mega Dimension DLC includes the following content:\n\nWave 1: Holo-X and Holo-Y Apparel Sets \u2013 available October 16th, 2025\n\nWave 2: Additional story content \u2013 planned for release on December 10th, 2025\n\nAn additional story that can be enjoyed after completing the main story of Pok\u00e9mon Legends: Z-A.\n",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -1947,7 +1947,10 @@
         "releaseDate": 20251016,
         "rightsId": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/d58f4dbd03fb1e62a4339fcf5d59e05ff1ae14eaba396f3ad057d2ac4e658d3a.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/87ec90f7e5d28ef3adc4fba20c8eefa3015b79f4c714389c635101d6dff7c858.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afae05b0672fd80dfacb4ccd7ec5a1b89afc27244fa1dbdb22309ddb7c9cecc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cc453b608a22cf906e4337f45d1be4623bee298330587238cbe28c03234392b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/882a3e1460c356717c00b11a69bc9e489baaf334300644352caa6c77e4ddf842.jpg"
         ],
         "size": 3145728,
         "version": null
