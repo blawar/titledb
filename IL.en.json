@@ -474,7 +474,7 @@
             "https://img-eshop.cdn.nintendo.net/i/97881202f35a42a4ce720b48898de36bd185b092ff041457e4d4f8ba2b11bf4e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3c4ae9a90637c2f0f4e5dbcbd849e34422ff49d6af5d4e0441a28c3033c3cb21.jpg"
         ],
-        "size": 4394582016,
+        "size": 6461325312,
         "version": null
     },
     "70010000096818": {
@@ -721,7 +721,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a4109bdbc07ffc4ee2c59de9ab8ff8a86503addaa0264d3142e9b595bd943e74.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4aec0b4b804c99ff21142b4156d85326ef7c22839fcf5cd01ffa865e06ed11f6.jpg"
         ],
-        "size": 4394582016,
+        "size": 6461325312,
         "version": null
     },
     "70010000102053": {
@@ -1763,6 +1763,33 @@
             "https://img-eshop.cdn.nintendo.net/i/b175ae69b2fca3a9d9c4c22fef8e038c3470116ff78b486922a169810ada6f72.jpg"
         ],
         "size": 0,
+        "version": null
+    },
+    "70050000067586": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/710ae6c40d9dc6feb3d154a6b5e9dbcbbeb3202ce68c7f7126b237848dc6a163.jpg",
+        "category": null,
+        "description": "This DLC pack includes five tracks with arrangements of popular Phantom Thieves music that are ideal for training, as well as three T-shirts featuring crossover designs! Feel like one of the Phantom Thieves as you box to these game-themed beats!\n\n\u30fbWake Up, Get Up, Get Out There / ATLUS Sound Team\n\u30fbLife Will Change / ATLUS Sound Team\n\u30fbI believe / ATLUS Sound Team\n\u30fbRivers In the Desert / ATLUS Sound Team\n\u30fbLast Surprise / ATLUS Sound Team",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Exercise to Phantom Thieves music!\nA DLC pack with five popular tracks and three crossover T-shirts!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Phantom Thieves Pack",
+        "nsuId": 70050000067586,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260108,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 286261248,
         "version": null
     },
     "70070000029649": {
