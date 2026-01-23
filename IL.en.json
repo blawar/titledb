@@ -1792,6 +1792,35 @@
         "size": 286261248,
         "version": null
     },
+    "70050000069174": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc22756b486aaa9795d1b629a85151412304a2d9ed68f2e2aa6583e6f9c140ee.jpg",
+        "category": null,
+        "description": "Lots of multiplayer fun awaits in this area of Bellabel Park! Visit the Local Multiplayer Plaza for enjoy 17 different co-operative and competitive attractions, where up to four people can play together – even via GameShare!\n\nAlternatively, you can head to the Game Room Plaza and play with friends and family either online or via local wireless. Six different attractions await here, allowing up to 12 players to work together or compete for first place!\n\nSuper Mario Bros. Wonder for Nintendo Switch required to use this upgrade pack, sold separately.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Head to Bellabel Park plaza!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup at Bellabel Park Upgrade Pack",
+        "nsuId": 70050000069174,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260326,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bc7687198b976e453650aa06594f121b14989245bb7bd1874d33e501e47e292a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b1e2332861f6739e5c0e4c437a71aae8557a4a440e2177c3b1b4d395c031257.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0ad4e56306d3ccfb77eec67b429c146d711cb78949a63bcf954f7debfbca62b.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000029649": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28ddf561761cfa42025ef01dd443103bf017acdc84d4fe2ccfae12fa0986b646.jpg",
         "category": null,
