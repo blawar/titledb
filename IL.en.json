@@ -968,6 +968,45 @@
         "size": 11276386304,
         "version": null
     },
+    "70010000116664": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f68dd271d577c453434e1dc04d0befd68227f10d74df696274bd74978bf54c98.jpg",
+        "category": [
+            "Simulation",
+            "Lifestyle"
+        ],
+        "description": "Become the caretaker of an island full of silliness, drama, love and other surprises in Tomodachi Life: Living the Dream for Nintendo Switch!\n\nCreate all sorts of Mii characters based on your family and friends, someone you admire, or someone completely original! From their appearance to their personality traits and even little quirks, there are all sorts of ways to customise your Mii characters – including face parts that are unique to this game.\n\nBy picking up and placing Mii characters next to each other, they’ll start hanging out together. Watch as they forge unlikely friendships, get into fights, fall in (and out of) love unexpectedly, and so much more. \n\nExpand and design your island as you see fit. Place homes, shops, restaurants, and more to give your island residents new hang out spots to visit. Want to make your Mii characters feel at home? Decorate their rooms with different interior sets, including furniture, wallpaper and floors to match their vibe. ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Your Mii characters, their wacky world!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Tomodachi Life: Living the Dream",
+        "nsuId": 70010000116664,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260416,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70030000015787": {
         "bannerUrl": null,
         "category": null,
