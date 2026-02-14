@@ -1005,7 +1005,14 @@
         "region": null,
         "releaseDate": 20260416,
         "rightsId": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/90a6fe92c603ac50bd791fef6655eaa6da0a9edad6ede196100b7199ea755fd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3dc5c5856d9d8f5fb824647c76ea153f15ed47e4d29163401a1fd6829a9260e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca834d65740d97caa9b79b77c8b0286ce26a070fd20ca702051c3ce31f03140c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/712910d9b51d7bb0ac83900bc6a6ce6871809f1c0908dfefaaa55c67b6e3ee14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19d99c61f2dcac41298638f84ce7f14d2355d511d00bafd3775f4f09938a5d7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/789eab7f5f881538fc4855466de7b67b11982b13c30afa75ef26d695bf016343.jpg"
+        ],
         "size": 0,
         "version": null
     },
