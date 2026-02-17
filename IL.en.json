@@ -1024,8 +1024,8 @@
         "description": "Access a selection of classic Virtual Boy games on your Nintendo Switch 2 or Nintendo Switch, including Galactic Pinball and Teleroboxer. Dedicated accessories required to play are available to buy from My Nintendo Store!",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/03065e9e3bda6d677ccde8344a7bf02265e4a87afadcf20d8c6feef7b38162bd.jpg",
+        "id": "0100BFC01D976000",
         "intro": "Play classic Virtual Boy games",
         "isDemo": false,
         "key": null,
@@ -1059,7 +1059,7 @@
             "https://img-eshop.cdn.nintendo.net/i/6d774ac293de18520218542142f5cdf10ce92e09adc9be9d1fe439e04dddfceb.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d9d3dd4c108f803c1e79fce46e35612549aa7b06c1c52b31aa5e05d3907c0e83.jpg"
         ],
-        "size": 0,
+        "size": 65011712,
         "version": null
     },
     "70030000015787": {
