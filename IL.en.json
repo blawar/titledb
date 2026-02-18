@@ -46,7 +46,7 @@
             "https://img-eshop.cdn.nintendo.net/i/8cc629e17264aeaae0b4c75ae822f8ed25ecb4f0f793878147d62268048d71b3.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ca07fab95ef4964983d7a8ec798ef2085934476cb99feb5b708f70dd518da37a.jpg"
         ],
-        "size": 15479078912,
+        "size": 15480127488,
         "version": null
     },
     "70010000004515": {
@@ -428,6 +428,54 @@
         "size": 28292677632,
         "version": null
     },
+    "70010000088833": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab81d56288cd01064ea3a660f9a504c6e0f42c93d8323c6b2be4ec8d62fa5ea4.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Fight for survival while exploring the vast expanses of an alien world in Xenoblade Chronicles X: Definitive Edition. This visually enhanced version of the epic sci-fi RPG features additional content – including new story elements.\n\nThe year is 2054. Earth has been destroyed by an intergalactic war between two alien races, and humanity is on the brink of annihilation. A small number of survivors, aboard the USS White Whale, crash land on the vast and untamed planet Mira – and now it falls to you, as a member of BLADE, to help bring humanity back from the edge of extinction.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/31ec5995a721df28f9bb288fbebfa2ba1c1451a3c3ec02be72797f07dbe2c778.jpg",
+        "id": "0100453019AA8000",
+        "intro": "This is where we build our future",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Xenoblade Chronicles X: Definitive Edition",
+        "nsuId": 70010000088833,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20250320,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/905b34aef7513719641a558c612a0d43b92db62ddd15561776f2ac380c096e40.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb260b77797e7c5cb106595fcd8486139048239497120cdf0f81e7b46a40ecda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1472a0c9662255b09f0aa3b19c4875f3e4cdca90a20e569bd42bfc81df26db0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c2fd60b72d261edef32be071b29dd134920339d9fd8dd288dc38e3191e57f17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95281d1133e9b074610cc618fe6f495796c4858ed992e34679c6ca85ea8d1559.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f85ce9c880ba7d4f806c5a7482dd3d1f011b4f629b8a262302815e3c3bbebe52.jpg"
+        ],
+        "size": 14511243264,
+        "version": null
+    },
     "70010000094235": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eed015c2a2d6edc184076039792206183e5f031e53762c1e38888379228f6d23.jpg",
         "category": [
@@ -503,7 +551,8 @@
             "ru",
             "ko",
             "zh",
-            "zh"
+            "zh",
+            "th"
         ],
         "name": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition",
         "nsuId": 70010000096818,
@@ -525,7 +574,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a14e5ac9e58c47ffb4e51d03f2e49b7b551106b06ade299158f40477ef3510c0.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2f6535add3fd789812a0d3ebb1022e581a46457dc806ba845627f156919c7d42.jpg"
         ],
-        "size": 15479078912,
+        "size": 15480127488,
         "version": null
     },
     "70010000096822": {
@@ -1402,6 +1451,38 @@
             "https://img-eshop.cdn.nintendo.net/i/d040c0ac95beea5ee652b145acfde11107a7c4df14fe39d2807f3b24eb7f9cf0.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a6bfad156c059df3fe2c3e845d95f9b36be2b2efd77c618842f48dc9299e0fb8.jpg"
         ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000055049": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfc326ae693de7e2848771f889c966a4127c6aaf7c6493213457bb82cc59e688.jpg",
+        "category": null,
+        "description": "Includes the following in-game items:\n\n100,000 credits\n\nMelee weapon: Advanced Iron Knife\n\nRanged weapon: Advanced Storm Assault Rifle\n\nSurvival armor series: Survival Goggles, Survival Bodywear, Survival Glove R, Survival Glove L, Survival Footwear\n\nSix weapon augments: Melee Accuracy Up I,  Ranged Accuracy Up I, Melee Attack Up I,  Ranged Attack Up I, Theroid Slayer I, Secondary CD Reducer I\n\nFive armor augments: Max HP Up I, Max TP Up I, Evasion Up I, Potential Up I, Physical Resistance Up I",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100453019AA9001",
+        "ids": [
+            "0100453019AA9001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Exploration Support Pack",
+        "nsuId": 70050000055049,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20250320,
+        "rightsId": null,
+        "screenshots": null,
         "size": 3145728,
         "version": null
     },
