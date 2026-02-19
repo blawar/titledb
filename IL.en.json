@@ -1111,6 +1111,55 @@
         "size": 65011712,
         "version": null
     },
+    "70010000119888": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c36c7e27ddcad9f2365c4dabc0d598cb0af1e07a98c54b056de8c6f7f29b63e7.jpg",
+        "category": [
+            "Action",
+            "Communication",
+            "Other"
+        ],
+        "description": "\"Hello, Mario!\" is a free application where you can touch Mario's face to play.\n\n■ Play with Mario's face\nTry poking Mario's face, pulling on it or spinning it and watch him react! What kind of face will he make next?\nYou can also tap the ? Block in the top left of the screen and select icons to add items like Super Mushrooms and Super Stars, pipes or even enemies.\n\n■ Peekaboo!\nTap the leftmost icon in the menu to play peekaboo with Mario. Sometimes, a Boo might make an appearance, too...\n\n■ Goodnight, Mario!\nAfter a little while of playing together, Mario will get tired and go to sleep.\nYou won't be able to play with him while he's asleep. This is a good opportunity to have children take a break too.\n(It is possible to disable this feature. To do so, tap the cog icon in the top right of the screen when starting the app.)\n\n■ Play offline\nOnce you've downloaded the app, you don't need the internet to play!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a80e5ee655c385e1d9a11a641c04d7c01796f5ce310676e4cc1caa80315789ea.jpg",
+        "id": "01007FE0221D8000",
+        "intro": "Mario is ready to play!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Hello, Mario!",
+        "nsuId": 70010000119888,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260219,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/33142f714f0e96df5b018399274a994da2d5d52b07745e5aa14cd32da46b3d1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/731823414ad9bca95034e8f0a52fe994e2161f5939ab179397ed97c2efe216c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15cb036709a090224f9d00b672e06bc58be0d5f6e3bdf26377a1c08440a4ecad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d63f81326f85eb3aa409d8dff721a11590d5dd79b065ea976ea8ebe0c4dada9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60a346d68e7c13d29f40b07b1e02951395789051b5e42c8a8ae14f8a443fe30d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49e6a190b9248a3b9df6241cd35b33aa3aac31992aa34a9d4d50286320c6ab46.jpg"
+        ],
+        "size": 179306496,
+        "version": null
+    },
     "70030000015787": {
         "bannerUrl": null,
         "category": null,
