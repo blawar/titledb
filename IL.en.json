@@ -473,7 +473,7 @@
             "https://img-eshop.cdn.nintendo.net/i/95281d1133e9b074610cc618fe6f495796c4858ed992e34679c6ca85ea8d1559.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f85ce9c880ba7d4f806c5a7482dd3d1f011b4f629b8a262302815e3c3bbebe52.jpg"
         ],
-        "size": 14511243264,
+        "size": 14512291840,
         "version": null
     },
     "70010000094235": {
@@ -1065,6 +1065,53 @@
         "size": 0,
         "version": null
     },
+    "70010000116670": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46ff1516f9f57b6ad8795b2287cc0f1b44a9ce2abf45173c493a45bd3597752b.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Fight for survival while exploring the vast expanses of an alien world in Xenoblade Chronicles X: Definitive Edition. This visually enhanced version of the epic sci-fi RPG features additional content – including new story elements.\n\nThe year is 2054. Earth has been destroyed by an intergalactic war between two alien races, and humanity is on the brink of annihilation. A small number of survivors, aboard the USS White Whale, crash land on the vast and untamed planet Mira – and now it falls to you, as a member of BLADE, to help bring humanity back from the edge of extinction.\n\nWith smoother frame rates and up to 4K resolution in TV mode, the sprawling alien landscapes of planet Mira have never looked better. ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/31ec5995a721df28f9bb288fbebfa2ba1c1451a3c3ec02be72797f07dbe2c778.jpg",
+        "id": "0100453019AA8000",
+        "intro": "Your epic adventure is now enhanced for Nintendo Switch 2",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Xenoblade Chronicles X: Definitive Edition – Nintendo Switch 2 Edition",
+        "nsuId": 70010000116670,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260219,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b85f80c2e4f561382e24ac685bb676db7d1d34e7c259e77dbb49279f1219e8e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65d57cb11c03049b3b612f6a411c016f743c580bb4081b653488b118d6ace9c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3defc0bea9e651fa3a970fa9ffc5bbc59d2f131da2d6831e7856c24b5b761aef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/372b1a3f14ad34931ea386a23f1fe83a6d7c71a25cf99ddb3bc5560ad61f1d6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6faa024f15853625bf86ecb04a4298628c8d0cbd42930614d3e8bebefbfc3070.jpg"
+        ],
+        "size": 14512291840,
+        "version": null
+    },
     "70010000116686": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/079e9cfe272a1444b47458c6b71209ade40f2546c92911dc8888e0b9a3e55289.jpg",
         "category": [
@@ -1109,6 +1156,296 @@
             "https://img-eshop.cdn.nintendo.net/i/d9d3dd4c108f803c1e79fce46e35612549aa7b06c1c52b31aa5e05d3907c0e83.jpg"
         ],
         "size": 65011712,
+        "version": null
+    },
+    "70010000118614": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa215e42ab1979155b1b659797005424e2fb5068eab5a35818ccd2e59d891d54.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "This is the English language version.\n\nThe thrill of the Kanto region, as well as familiar Pokémon, are just as you remember them – with updated graphics compared to the original Game Boy title. The Sevii Islands – not present in Pokémon Red Version – have also been added, greatly expanding the areas you can explore and the scope of your adventure.\n\nSome excitement doesn’t fade no matter how many years pass. Whether it’s choosing your first partner Pokémon, confronting a sinister organisation or encountering a legend, a world of dreams and adventures with Pokémon awaits. Let’s go!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d3027dcbed375864ead92a59c75d4cc40fdc2e686dae511f7febbfa9c05d8fc.jpg",
+        "id": "0100554023408000",
+        "intro": "Immerse yourself in the adventure once again in Pokémon FireRed Version!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "(English) Pokémon FireRed Version",
+        "nsuId": 70010000118614,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 40894464,
+        "version": null
+    },
+    "70010000118619": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8695f464d74b026d1b7856bb19794b40c56730574155fceff2d3261bc82bac2.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "This is the English language version.\n\nThe thrill of the Kanto region, as well as familiar Pokémon, are just as you remember them – with updated graphics compared to the original Game Boy title. The Sevii Islands – not present in Pokémon Green Version – have also been added, greatly expanding the areas you can explore and the scope of your adventure.\n\nSome excitement doesn’t fade no matter how many years pass. Whether it’s choosing your first partner Pokémon, confronting a sinister organisation or encountering a legend, a world of dreams and adventures with Pokémon awaits. Let’s go!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4a160625794cb6bdb453b5331740213cd2855fc541aa6c305b9e67efa0fb688.jpg",
+        "id": "010034D02340E000",
+        "intro": "Immerse yourself in the adventure once again in Pokémon LeafGreen Version!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "(English) Pokémon LeafGreen Version",
+        "nsuId": 70010000118619,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 40894464,
+        "version": null
+    },
+    "70010000118624": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c25fa9216ca09074ce75ded920e9bfb520106fa4f1cd81a0fdca06459b73685e.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Esta es la versión del juego en español.\n\nLa magia de la región de Kanto y muchos rostros Pokémon familiares siguen estando presentes tal y como los recuerdas, pero ahora el juego incorpora gráficos modernizados en comparación con el título original de Game Boy. Por otro lado, también incluye un nuevo añadido con respecto a Pokémon Edición Roja: Archi7, un archipiélago de islas que amplía considerablemente el territorio que puedes explorar y hace que tu aventura sea aún más grande.\n\nAlgunos recuerdos no desaparecen con el paso del tiempo... Tanto si vas a elegir a tu primer compañero Pokémon, enfrentarte a una siniestra organización o tener un encuentro legendario, te espera un mundo de sueños y aventuras con los Pokémon. ¡Adelante!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/22fb21b054bfb6ac7bbcdcc68a361300b0227d11134a7668f69c67a9eb71ac2e.jpg",
+        "id": "0100EB702342C000",
+        "intro": "¡Vuelve a lanzarte de lleno a la aventura en Pokémon Edición Rojo Fuego!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "es"
+        ],
+        "name": "(Español) Pokémon Edición Rojo Fuego",
+        "nsuId": 70010000118624,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
+        "version": null
+    },
+    "70010000118626": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0189058bb4a5cbbe957a6ebae9b824345a00e6b500e0ac7345011a870ec56260.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Esta es la versión del juego en español.\n\nLa magia de la región de Kanto y muchos rostros Pokémon familiares siguen estando presentes tal y como los recuerdas, pero ahora el juego incorpora gráficos modernizados en comparación con el título original de Game Boy. Por otro lado, también incluye un nuevo añadido con respecto a Pokémon Edición Verde: Archi7, un archipiélago de islas que amplía considerablemente el territorio que puedes explorar y hace que tu aventura sea aún más grande.\n\nAlgunos recuerdos no desaparecen con el paso del tiempo... Tanto si vas a elegir a tu primer compañero Pokémon, enfrentarte a una siniestra organización o tener un encuentro legendario, te espera un mundo de sueños y aventuras con los Pokémon. ¡Adelante!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/974ec255b02f02414036a6f534152341f257d3e1ca6818eaafdb33efc809d014.jpg",
+        "id": "01002B5023434000",
+        "intro": "¡Vuelve a lanzarte de lleno a la aventura en Pokémon Edición Verde Hoja!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "es"
+        ],
+        "name": "(Español) Pokémon Edición Verde Hoja",
+        "nsuId": 70010000118626,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
+        "version": null
+    },
+    "70010000118630": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28942ca2938f1a1e066a2a8130855e9def2e8ba15875bf3e98c623e89b6dad65.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Il s'agit ici de la version en français.\n\nRetrouvez l'engouement de la région de Kanto et vos Pokémon favoris comme si vous ne les aviez jamais quittés, avec des graphismes améliorés par rapport au jeu Game Boy d'origine. Les Îles Sevii, qui n'existaient pas dans Pokémon Version Rouge, ont été ajoutées afin d'enrichir votre aventure et vous proposer encore plus de lieux à explorer !\n\nCertains souvenirs restent à jamais gravés dans nos mémoires. Qu'il s'agisse de choisir votre premier partenaire Pokémon, d'affronter une sombre organisation ou encore de faire des rencontres légendaires, un monde de rêves, d'aventures et de Pokémon vous attend !\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/95c6b8dbbc210628ed15d6b9bf56a50905117317f9de186a482ee18ebf778156.jpg",
+        "id": "01004B3023412000",
+        "intro": "Revivez l'aventure Pokémon Version Rouge Feu Version !",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "fr"
+        ],
+        "name": "(Français) Pokémon Version Rouge Feu",
+        "nsuId": 70010000118630,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
+        "version": null
+    },
+    "70010000118632": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d058dd2bae556273e37b0285fc0da91f48ea0c3040d69215f6fcad775b0ef29.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Il s'agit ici de la version en français.\n\nRetrouvez l'engouement de la région de Kanto et vos Pokémon favoris comme si vous ne les aviez jamais quittés, avec des graphismes améliorés par rapport au jeu Game Boy d'origine. Les Îles Sevii, qui n'existaient pas dans Pokémon Version Bleue, ont été ajoutées afin d'enrichir votre aventure et vous proposer encore plus de lieux à explorer !\n\nCertains souvenirs restent à jamais gravés dans nos mémoires. Qu'il s'agisse de choisir votre premier partenaire Pokémon, d'affronter une sombre organisation ou encore de faire des rencontres légendaires, un monde de rêves, d'aventures et de Pokémon vous attend !",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/22536beeecc6dc25f53a0d41efd2a1d6815c54089b0d4ffab521cf0ff221e71c.jpg",
+        "id": "010087C02342E000",
+        "intro": "Revivez l'aventure Pokémon Version Vert Feuille !",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "fr"
+        ],
+        "name": "(Français) Pokémon Version Vert Feuille",
+        "nsuId": 70010000118632,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
+        "version": null
+    },
+    "70010000118633": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ea6bf21991131c4983f4bffa3711a18fdc8b10e511978d2c071212d42e6bc1e3.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Dies ist die Version in deutscher Sprache.\n\nDie Kanto-Region und bekannte Pokémon genau so, wie du sie in Erinnerung hast – mit aktualisierter Grafik im Vergleich zum ursprünglichen Game Boy-Titel. Außerdem wurden die Sevii Eilanden hinzugefügt, die in Pokémon Red Version nicht vorkamen. Die Gebiete, die du erkunden kannst, und somit auch dein Abenteuer werden dadurch erweitert.\n\nManche Erlebnisse bleiben einfach immer spannend, egal wie viele Jahre vergehen. Sei es die Wahl deines ersten Partner-Pokémon, die Auseinandersetzung mit einer finsteren Organisation oder die Begegnung mit einer Legende – eine Welt der Träume und Abenteuer mit Pokémon erwartet dich. Los geht‘s!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dfa09f03f153dcaaa03165c98597118390970dc7e5857bff66ef9ec904095aac.jpg",
+        "id": "01007F8023416000",
+        "intro": "Begib dich erneut auf das Abenteuer in Pokémon Feuerrote Edition!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "de"
+        ],
+        "name": "(Deutsch) Pokémon Feuerrote Edition",
+        "nsuId": 70010000118633,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
+        "version": null
+    },
+    "70010000118634": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f18948192a44246b5ac718012fa126cad38705041b000a5b661894c964a91fd3.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Dies ist die Version in deutscher Sprache.\n\nDie Kanto-Region und bekannte Pokémon genau so, wie du sie in Erinnerung hast – mit aktualisierter Grafik im Vergleich zum ursprünglichen Game Boy-Titel. Die Sevii Eilanden – kommen nicht in Pokémon Green Version vor – wurden auch hinzugefügt, was die Gebiete erweitert, die du erkunden kannst, wie auch den Umfang deines Abenteuers.\n\nManche Erlebnisse bleiben einfach immer spannend, egal wie viele Jahre vergehen. Sei es die Wahl deines ersten Partner-Pokémon, die Auseinandersetzung mit einer finsteren Organisation oder die Begegnung mit einer Legende – eine Welt der Träume und Abenteuer mit Pokémon erwartet dich. Los geht‘s!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f06fbede24da555383fd7f7818be1fe39db9e669dae8353405d3d0e824ffaac.jpg",
+        "id": "0100FD6023430000",
+        "intro": "Begib dich erneut auf das Abenteuer in Pokémon Blattgrüne Edition!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "de"
+        ],
+        "name": "(Deutsch) Pokémon Blattgrüne Edition",
+        "nsuId": 70010000118634,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
+        "version": null
+    },
+    "70010000118635": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46788a20be79cb33a6270064bd44873fb51424d1e84e83246d76a4b7f1bd4a51.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Questa è la versione del gioco in italiano.\n\nRitrova le emozioni e i Pokémon della regione di Kanto proprio come li ricordavi, ma con grafica aggiornata rispetto al titolo originale per Game Boy. Con l’aggiunta del Settipelago, non presente in Pokémon Versione Rossa, le aree da esplorare e la profondità della tua avventura sono ora molto aumentate.\n\nNon importa quanto tempo sia passato: certe emozioni non svaniscono. Che tu debba scegliere il tuo primo Pokémon compagno, affrontare una sinistra organizzazione o incontrare una leggenda, ti aspetta un mondo di sogni e avventure con i Pokémon! Andiamo!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/14e0732ddb568f99cc89b915d07e1b39a75a8a951d3f8ee1496a9bcc74277a83.jpg",
+        "id": "010092302342A000",
+        "intro": "Immergiti di nuovo nelle avventure di Pokémon Versione Rosso Fuoco!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "it"
+        ],
+        "name": "(Italiano) Pokémon Versione Rosso Fuoco",
+        "nsuId": 70010000118635,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
+        "version": null
+    },
+    "70010000118636": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c49e7b348116b9a4d473d2dc7596db2d806f922767c0e70d27c567bebc27d9a1.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Questa è la versione del gioco in italiano.\n\nRitrova le emozioni e i Pokémon della regione di Kanto proprio come li ricordavi, ma con grafica aggiornata rispetto al titolo originale per Game Boy. Con l’aggiunta del Settipelago, non presente in Pokémon Versione Verde, le aree da esplorare e la profondità della tua avventura sono ora molto aumentate.\n\nNon importa quanto tempo sia passato: certe emozioni non svaniscono. Che tu debba scegliere il tuo primo Pokémon compagno, affrontare una sinistra organizzazione o incontrare una leggenda, ti aspetta un mondo di sogni e avventure con i Pokémon! Andiamo!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/db13255228127b4e83eb9b14fede8a3622b47e6c82bebafc2662534f13899c3c.jpg",
+        "id": "01005C7023432000",
+        "intro": "Immergiti di nuovo nell’avventura di Pokémon Versione Verde Foglia!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "it"
+        ],
+        "name": "(Italiano) Pokémon Versione Verde Foglia",
+        "nsuId": 70010000118636,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260227,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 39845888,
         "version": null
     },
     "70010000119888": {
@@ -2078,6 +2415,35 @@
         "size": 0,
         "version": null
     },
+    "70050000069945": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46ff1516f9f57b6ad8795b2287cc0f1b44a9ce2abf45173c493a45bd3597752b.jpg",
+        "category": null,
+        "description": "Enhanced on Nintendo Switch 2 \n\nWith smoother frame rates and up to 4K resolution in TV mode, the sprawling alien landscapes of planet Mira have never looked better.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Your epic adventure is now enhanced for Nintendo Switch 2",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles X: Definitive Edition – Nintendo Switch 2 Edition Upgrade Pack",
+        "nsuId": 70050000069945,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260219,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70070000029649": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28ddf561761cfa42025ef01dd443103bf017acdc84d4fe2ccfae12fa0986b646.jpg",
         "category": null,
@@ -2298,7 +2664,7 @@
             "https://img-eshop.cdn.nintendo.net/i/beea77d2492e6af755a4155859882ead1c235fec354b6d61f0be37f0b28ca2a1.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f65920b9cd380d05866f2319ae482586b6d8f1e577c7154a5ac3e84d24382580.jpg"
         ],
-        "size": 9076473856,
+        "size": 9078571008,
         "version": null
     }
 }
