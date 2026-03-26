@@ -81,7 +81,7 @@
         "rating": 7,
         "ratingContent": [],
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20260408,
         "rightsId": null,
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/5c84d14eaf48a16b22003b2bca6ec076c80644298caf5a0a0638879aebe7ac9b.jpg",
@@ -1020,12 +1020,12 @@
         "version": null
     },
     "70010000116664": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f68dd271d577c453434e1dc04d0befd68227f10d74df696274bd74978bf54c98.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/489c12835d100ce8eb0ddaa33618a05efe987d73bd28247e38de138460be18cf.jpg",
         "category": [
             "Simulation",
             "Lifestyle"
         ],
-        "description": "Become the caretaker of an island full of silliness, drama, love and other surprises in Tomodachi Life: Living the Dream for Nintendo Switch!\n\nCreate all sorts of Mii characters based on your family and friends, someone you admire, or someone completely original! From their appearance to their personality traits and even little quirks, there are all sorts of ways to customise your Mii characters – including face parts that are unique to this game.\n\nBy picking up and placing Mii characters next to each other, they’ll start hanging out together. Watch as they forge unlikely friendships, get into fights, fall in (and out of) love unexpectedly, and so much more. \n\nExpand and design your island as you see fit. Place homes, shops, restaurants, and more to give your island residents new hang out spots to visit. Want to make your Mii characters feel at home? Decorate their rooms with different interior sets, including furniture, wallpaper and floors to match their vibe. ",
+        "description": "Become the caretaker of an island full of silliness, drama, love and other surprises in Tomodachi Life: Living the Dream for Nintendo Switch!\n\nCreate all sorts of Mii characters based on your family and friends, someone you admire, or someone completely original! From their appearance to their personality traits and even little quirks, there are all sorts of ways to customise your Mii characters – including face parts that are unique to this game.\n\nBy picking up and placing Mii characters next to each other, they’ll start hanging out together. Watch as they forge unlikely friendships, get into fights, fall in (and out of) love unexpectedly, and so much more. \n\nExpand and design your island as you see fit. Place homes, shops, restaurants, and more to give your island residents new hang out spots to visit. Want to make your Mii characters feel at home? Decorate their rooms with different interior sets, including furniture, wallpaper and floors to match their vibe. \n\nThe demo of this game may contain product placement and advertising. ",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -1525,6 +1525,32 @@
         "rightsId": null,
         "screenshots": null,
         "size": 1472200704,
+        "version": null
+    },
+    "70030000024954": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Tomodachi Life: Living the Dream Demo",
+        "nsuId": 70030000024954,
+        "numberOfPlayers": null,
+        "parentId": null,
+        "publisher": null,
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1123024896,
         "version": null
     },
     "70050000000122": {
