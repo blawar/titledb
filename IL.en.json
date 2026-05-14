@@ -1019,6 +1019,55 @@
         "size": 11276386304,
         "version": null
     },
+    "70010000115568": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc22756b486aaa9795d1b629a85151412304a2d9ed68f2e2aa6583e6f9c140ee.jpg",
+        "category": [
+            "Action"
+        ],
+        "description": "Every course contains its very own Wonder Flower – collect one, and anything can happen. From moving pipes to tilting terrain, singing Piranha Plants to stampeding Bulrushes, skydiving to space walks, you never know what’ll happen next. You might even transform into something totally new!\n\nLots of multiplayer fun awaits in this area of Bellabel Park! Visit the Local Multiplayer Plaza to enjoy 17 different co-operative and competitive attractions, where up to four people can play together – even via GameShare!\n\nAlternatively, you can head to the Game Room Plaza and play with friends and family either online or via local wireless. Six different attractions await here, allowing up to 12 players to work together or compete for first place!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bf2fca7eed5ad7ec96d03025907ea52c3efe168e02c8be96e868d8430a247a57.jpg",
+        "id": "010015100B514000",
+        "intro": "Head to Bellabel Park plaza!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh",
+            "th",
+            "pl"
+        ],
+        "name": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+        "nsuId": 70010000115568,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260326,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bc7687198b976e453650aa06594f121b14989245bb7bd1874d33e501e47e292a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b1e2332861f6739e5c0e4c437a71aae8557a4a440e2177c3b1b4d395c031257.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0ad4e56306d3ccfb77eec67b429c146d711cb78949a63bcf954f7debfbca62b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd300a6959aac129bc04dd3719930aa9be8ab406259524b7762420f56717374.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7eae1c0b207c42ac61086e9f0d8085b71e7b8804ebb49841eec45d65fed26a94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c291cd63cf7d0bebb77cc920b2197fcc02be58b3e6a77c109cabfb17b443f61.jpg"
+        ],
+        "size": 3926917120,
+        "version": null
+    },
     "70010000116664": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/489c12835d100ce8eb0ddaa33618a05efe987d73bd28247e38de138460be18cf.jpg",
         "category": [
@@ -1496,6 +1545,101 @@
             "https://img-eshop.cdn.nintendo.net/i/49e6a190b9248a3b9df6241cd35b33aa3aac31992aa34a9d4d50286320c6ab46.jpg"
         ],
         "size": 179306496,
+        "version": null
+    },
+    "70010000122819": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b24e5be916e85afd01b138ab38f640f3e3f006c167cf4af4209b6e650d529aac.jpg",
+        "category": [
+            "Music"
+        ],
+        "description": "Anyone can feel the flow in Rhythm Paradise Groove! Discover a colourful collection of funny little rhythm games, including music by renowned Japanese producer Tsunku♂.\n\nYou can do anything with rhythm! \nNo matter how strange the situation, the rules are always the same: just press buttons in time with the beat! Hop through hoops, catch flying vegetables, swing sledgehammers, and much more – perform surprising feats with the music as your guide!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Get in the groove!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Rhythm Paradise Groove",
+        "nsuId": 70010000122819,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260702,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2d44bf6a9cdb13eb003427d95cf428d2e711d0518201654e610bef47574eb750.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74dea02d41eb7aa577bbbcfb178a9a84860c4fe83f1e0417755b07a678091595.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ee2e52870d0ced2c51389154ed133a50e5542ebdb034e42600fa639cbe2e676.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e08a08196ccce19fb28f8415a5499b7336ddd9e96df6c4ed5f9ad2e82f3c4256.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/305e67e7a6f26305d94d85b03b68bc80f7df42493064e61efb0dd7c2b7f3ed06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc7d82ebfa3336824d40275432e1c92c5e8422b916c9bd01d74e51818f3004cf.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000123634": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/240a80ff5ce517a952d4c4a005280095314ec60583bb4afdfeff0bc56330504b.jpg",
+        "category": [
+            "Action",
+            "Communication"
+        ],
+        "description": "\"Hello, Yoshi!\" is a free application where you can touch Yoshi's face to play.\n\n■ Play with Yoshi's face\nTry poking Yoshi's face, pulling on it or spinning it and watch him react! What kind of face will he make next?\nYou can also tap the ? Block in the top left of the screen and select icons to add items like Super Mushrooms and Super Stars, pipes or even enemies.\n\n■ Peekaboo!\nTap the leftmost icon in the menu to play peekaboo with Yoshi. Sometimes, a Boo might make an appearance, too...\n\n■ Goodnight, Yoshi!\nAfter a little while of playing together, Yoshi will get tired and go to sleep.\nYou won't be able to play with him while he's asleep. This is a good opportunity to have children take a break too.\n(It is possible to disable this feature. To do so, tap the cog icon in the top right of the screen when starting the app.)\n\n■ Play offline\nOnce you've downloaded the app, you don't need the internet to play!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/51d779da843978207aab3c72e3e2d6ffb53fa2ceb73456da39311c6fedf87f52.jpg",
+        "id": "0100D060251AA000",
+        "intro": "Yoshi is ready to play!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Hello, Yoshi!",
+        "nsuId": 70010000123634,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260409,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b55839aebe86733278cca4b70b3680aa8de96453af83748182d1d82d258b14c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b1a7276c060a3232c1456140a69651863bc0bb111f2603e1506edfe8cc7fa57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af01158fff6df4a271ff94ae4e5efee35b9d3e1c0f9adabfe8b812120588edc0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2a3a3fde682f67235e1a11c07020bb803d3b83c68ca8a9b7a16b4a18a3f5d38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13b2f73618f939c46a1aae592346df6b04455580a876494981d66f17c3998322.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7e88a1ccf2e00844806cf96f1acc7ebf4ef26eb4018b2fb78d98dd23911d506.jpg"
+        ],
+        "size": 167772160,
         "version": null
     },
     "70030000015787": {
@@ -2474,6 +2618,66 @@
         "size": 0,
         "version": null
     },
+    "70050000072267": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/174a6e37403364de39e82237d1c07d984a52f0ee45eb7e1d78f3354e4893bb2d.jpg",
+        "category": null,
+        "description": "New customization skins are now available in Suika Game!\n＜Skin Name＞\nWaterside\n＜Customization Contents＞\n■ Backgrounds: 2\n・Waterside · Sunlit\n・Waterside · Rainfall\n■ Poppy: 1\n■ Box: 1\n■ Fruit: 1\n*Changes the appearance of the watermelon\n■ Decorations: 14\n＜Icon Contents＞\n■ Icon Frames: 3",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Suika Game Skin Expansion Pack",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Waterside",
+        "nsuId": 70050000072267,
+        "numberOfPlayers": null,
+        "publisher": "Aladdin X",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260430,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/37090cc120a44dd6bdc550ec719022b6f374ef69c9746cd4863ef3251485843c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/085cef7fb774deee3d4917c91a9cff45b79d8efa41eb78db39029389749848fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11d9ce015eb609d45958272657ff7bdf5b7c9dede2a75070671be454a0a35d05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52b48914959294ce233d6c0c81a569ca04bc690c4f3624df3d1b15b546dc48cc.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000072355": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b791206c4da913142aaf7cbe95f9633c1a62948fe6103e55abaf56e6eb85cf3c.jpg",
+        "category": null,
+        "description": "New customization skins are now available in Suika Game!\n＜Skin Name＞\nNight Chill\n＜Customization Contents＞\n■ Backgrounds: 2\n・Night Chill · Clear Sky\n・Night Chill · Rainy Mood\n■ Poppy: 1\n■ Box: 1\n■ Fruit: 1\n*Changes the appearance of the watermelon\n■ Decorations: 14\n＜Icon Contents＞\n■ Icon Frames: 3",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Suika Game Skin Expansion Pack",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Night Chill",
+        "nsuId": 70050000072355,
+        "numberOfPlayers": null,
+        "publisher": "Aladdin X",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20260430,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/30886facce009087fd4ed27bc8a0f38fa8f7930cc49043ba10b4a2748ce1d89a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a602d0e65898e1b11a73a72dfd31c94a54c390dcdbe5454b86e1aab70c877c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1cd7209ade5247124886e579a00968b213e6449e51d94242318d70ea966d7685.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f755a72ef0036797daabe3e103c7a8efa2f7d7445a2304b5de37cea350814d7a.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70070000029649": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28ddf561761cfa42025ef01dd443103bf017acdc84d4fe2ccfae12fa0986b646.jpg",
         "category": null,
@@ -2695,6 +2899,42 @@
             "https://img-eshop.cdn.nintendo.net/i/f65920b9cd380d05866f2319ae482586b6d8f1e577c7154a5ac3e84d24382580.jpg"
         ],
         "size": 9078571008,
+        "version": null
+    },
+    "70070000035539": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c06ff00029b9d926a935b879baac85b89cd939ddd2e3046359e6d39f464dc120.jpg",
+        "category": null,
+        "description": "Pokémon Champions + Starter Pack is a set that includes the main game and various in-game bonuses. The Starter Pack will make it easier to both obtain and train Pokémon, perfect for constructing a wider variety of teams.\n\nExperience everything you love about Pokémon battles all in one place – in Pokémon Champions for Nintendo Switch. This battle-focused game features familiar mechanics such as Pokémon types, Abilities, and moves, allowing new and experienced Trainers alike to experiment with rich and varied strategies.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pokémon Champions + Starter Pack",
+        "nsuId": 70070000035539,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260408,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ee623582903dad5c2c4a395175dc48297363e1b56e11bca5bce69cb514e9f02f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a827cc499eba166503f402176d7d51746dd45f9f0719cefa9bfa8c0a79c6986f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a0cbdf3c0628cab033d3ea496deb8c333ecf347f0b909de4df746787f5aa083.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19458deb5e55a565e4fb909f17cb8176d47a2e48d3dfb730e8b9b6fa97db00ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edee935461329f09c94895714684adb9551831761d8106e6019b83b6270237f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
+        ],
+        "size": 2019557376,
         "version": null
     }
 }
