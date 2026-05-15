@@ -50,17 +50,17 @@
         "version": null
     },
     "70010000004515": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f43ebd5cdac98ed79b9e15c399b87e2c0d354757906f90eb3bd02aa01edc01e8.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/690ff180025dcf275bf66879ee02963cb405a99371155ea1245afdc55ec31218.jpg",
         "category": [
             "Strategy",
             "RPG"
         ],
-        "description": "Enjoy traditional Pokémon battles using familiar mechanics such as Pokémon Types, abilities, and moves, enabling rich and varied battle strategies that Trainers know and love. ",
+        "description": "Experience everything you love about Pokémon battles all in one place – in Pokémon Champions for Nintendo Switch. This battle-focused game features familiar mechanics such as Pokémon types, Abilities, and moves, allowing new and experienced Trainers alike to experiment with rich and varied strategies.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
-        "intro": "Pokémon Champions is coming to Nintendo Switch!",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/34c8782e3fbbb8c4ae2466487725069455f5e3c173d8b09c2db0fe03b634dead.jpg",
+        "id": "01005B7008C52000",
+        "intro": "It’s time to become a champion",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -76,20 +76,26 @@
         ],
         "name": "Pokémon Champions",
         "nsuId": 70010000004515,
-        "numberOfPlayers": null,
+        "numberOfPlayers": 1,
         "publisher": "Nintendo",
         "rating": 7,
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-game purchases"
+        ],
         "region": null,
         "releaseDate": 20260408,
         "rightsId": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/5c84d14eaf48a16b22003b2bca6ec076c80644298caf5a0a0638879aebe7ac9b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2ee92f5614936eda5711e819e7610181ca5800403359c46d916d002cc369de3e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/aef67cb24f9e320aab514a847ef575454082a1f019ad3d139bb8937712501fa2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e692b61d71d7af3d4850a1cc10784220f91511b3dae850f2df2aa74a36204444.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/ee623582903dad5c2c4a395175dc48297363e1b56e11bca5bce69cb514e9f02f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a827cc499eba166503f402176d7d51746dd45f9f0719cefa9bfa8c0a79c6986f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a0cbdf3c0628cab033d3ea496deb8c333ecf347f0b909de4df746787f5aa083.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19458deb5e55a565e4fb909f17cb8176d47a2e48d3dfb730e8b9b6fa97db00ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edee935461329f09c94895714684adb9551831761d8106e6019b83b6270237f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
         ],
-        "size": 0,
+        "size": 2016411648,
         "version": null
     },
     "70010000027620": {
@@ -136,7 +142,7 @@
             "https://img-eshop.cdn.nintendo.net/i/fdfb8e133598d5ecb037a606373e56d8a29a2eac06859d62f525597f6feaa61e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e616d579dd3baf0c17c49da0caef0e90d185533d0ec71f7b845ba56a95e29adc.jpg"
         ],
-        "size": 11276386304,
+        "size": 11356078080,
         "version": null
     },
     "70010000032446": {
@@ -180,7 +186,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d72282319cec17f225bf098f314106f5891231e0b79198f8bb47e322a1a34bec.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c8d7c85d0f5f2fe9e9db9fe7abb14a07dd037c22b11ab4411d992dac24d0d346.jpg"
         ],
-        "size": 655360000,
+        "size": 680525824,
         "version": null
     },
     "70010000043293": {
@@ -229,7 +235,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3eca2a7427a4cd802e6bc814f40bf1f0ed7baeda5246d79cae4e9e4b5fd01f32.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ce0b4caeb737766fe42aedfc7067af2caf88250f7439304efd837cc6e85f7348.jpg"
         ],
-        "size": 6608125952,
+        "size": 6765412352,
         "version": null
     },
     "70010000046406": {
@@ -921,7 +927,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1c578ec7a6d9be0e8429c18d316c41d746ac8150c8d0e173c2775bbfcc99222a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9a7badad418536f0631ed1c40db07648fb9605336a71bdbc2e2340a40864597c.jpg"
         ],
-        "size": 3059744768,
+        "size": 3073376256,
         "version": null
     },
     "70010000104850": {
@@ -1016,7 +1022,7 @@
             "https://img-eshop.cdn.nintendo.net/i/132b86a3dc75914ac733704ac76b9865ea219cd2f8d30aaf26b1a49c47a1dd71.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b175ae69b2fca3a9d9c4c22fef8e038c3470116ff78b486922a169810ada6f72.jpg"
         ],
-        "size": 11276386304,
+        "size": 11356078080,
         "version": null
     },
     "70010000115568": {
@@ -1077,8 +1083,8 @@
         "description": "Become the caretaker of an island full of silliness, drama, love and other surprises in Tomodachi Life: Living the Dream for Nintendo Switch!\n\nCreate all sorts of Mii characters based on your family and friends, someone you admire, or someone completely original! From their appearance to their personality traits and even little quirks, there are all sorts of ways to customise your Mii characters – including face parts that are unique to this game.\n\nBy picking up and placing Mii characters next to each other, they’ll start hanging out together. Watch as they forge unlikely friendships, get into fights, fall in (and out of) love unexpectedly, and so much more. \n\nExpand and design your island as you see fit. Place homes, shops, restaurants, and more to give your island residents new hang out spots to visit. Want to make your Mii characters feel at home? Decorate their rooms with different interior sets, including furniture, wallpaper and floors to match their vibe. \n\nThe demo of this game may contain product placement and advertising. ",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b5bbea3c7dbcc5932da310ed6bd1fd9c765c7daed12610f7f87d6ca17af7e7fd.jpg",
+        "id": "010051F0207B2000",
         "intro": "Your Mii characters, their wacky world!",
         "isDemo": false,
         "key": null,
@@ -1111,7 +1117,7 @@
             "https://img-eshop.cdn.nintendo.net/i/19d99c61f2dcac41298638f84ce7f14d2355d511d00bafd3775f4f09938a5d7f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/789eab7f5f881538fc4855466de7b67b11982b13c30afa75ef26d695bf016343.jpg"
         ],
-        "size": 0,
+        "size": 6761218048,
         "version": null
     },
     "70010000116670": {
@@ -1205,7 +1211,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d9d3dd4c108f803c1e79fce46e35612549aa7b06c1c52b31aa5e05d3907c0e83.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b419ff763d1327e6325083ea82a22bd08d5a25e35b36ab8f51a0d0d600df1c1b.jpg"
         ],
-        "size": 97517568,
+        "size": 104857600,
         "version": null
     },
     "70010000118614": {
@@ -1686,7 +1692,7 @@
         "name": "Tomodachi Life: Living the Dream Demo",
         "nsuId": 70030000024954,
         "numberOfPlayers": null,
-        "parentId": null,
+        "parentId": "010051F0207B2000",
         "publisher": null,
         "rating": 3,
         "ratingContent": [],
@@ -1694,7 +1700,7 @@
         "releaseDate": null,
         "rightsId": null,
         "screenshots": null,
-        "size": 1172307968,
+        "size": 1179648000,
         "version": null
     },
     "70050000000122": {
@@ -2618,6 +2624,38 @@
         "size": 0,
         "version": null
     },
+    "70050000071696": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c06ff00029b9d926a935b879baac85b89cd939ddd2e3046359e6d39f464dc120.jpg",
+        "category": null,
+        "description": "Starter Pack",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01005B7008C53001",
+        "ids": [
+            "01005B7008C53001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Starter Pack",
+        "nsuId": 70050000071696,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260408,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
     "70050000072267": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/174a6e37403364de39e82237d1c07d984a52f0ee45eb7e1d78f3354e4893bb2d.jpg",
         "category": null,
@@ -2830,7 +2868,7 @@
             "https://img-eshop.cdn.nintendo.net/i/92e54844116c79ebb07e3b4f56c454238d2e777fa61ed84c88b2f79909c51ab7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/076acf13b378125791d6731ed45cbecc825abb448cc0811200ec8233802c644e.jpg"
         ],
-        "size": 6964641792,
+        "size": 6978273280,
         "version": null
     },
     "70070000030754": {
