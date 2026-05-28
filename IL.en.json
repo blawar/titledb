@@ -198,7 +198,7 @@
         "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pokémon, level up and evolve your partner Pokémon, and knock out the opposing team’s Pokémon to prevent them from scoring points. Put your teamwork to the test, and take home the win! \n\nKey Features:\n•BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pokémon in a variety of holographic outfits—with new styles arriving regularly!\n\n•UNITE MOVES: Unleash the true power of your Pokémon with Unite Moves! Leverage these all-new Pokémon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n•RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n•COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team’s success. Leverage signals, quick-chat messages, and—for the first time in a Pokémon title—voice chat to communicate and stay in sync with your team.\n\n•CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pokémon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/348aa747aefd0d1a4d368baaf5189226bc5765a4c0a26de33d6815c6ccde81e3.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e7b1a3ce704e3d214d5e0d78b39e632f3a5c2b6e8a432b188e4a8f2b211adf08.jpg",
         "id": "0100939011ED4000",
         "intro": "Team up and take down the opposition in Pokémon’s first 5-on-5 strategic team battle game! ",
         "isDemo": false,
@@ -235,7 +235,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3eca2a7427a4cd802e6bc814f40bf1f0ed7baeda5246d79cae4e9e4b5fd01f32.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ce0b4caeb737766fe42aedfc7067af2caf88250f7439304efd837cc6e85f7348.jpg"
         ],
-        "size": 6768558080,
+        "size": 6865027072,
         "version": null
     },
     "70010000046406": {
@@ -480,6 +480,55 @@
             "https://img-eshop.cdn.nintendo.net/i/f85ce9c880ba7d4f806c5a7482dd3d1f011b4f629b8a262302815e3c3bbebe52.jpg"
         ],
         "size": 14512291840,
+        "version": null
+    },
+    "70010000089072": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d835d279baabb7dc0873eafa47e7be22b5feb3012574e03b686ec4e3e6f4dd92.jpg",
+        "category": [
+            "Training",
+            "Sports",
+            "Music",
+            "Other"
+        ],
+        "description": "Discover a workout that fits your lifestyle in Fitness: Boxing 3: Your Personal Trainer. Choose from six fully-voiced personal trainers and get moving as you punch and dodge to the rhythm of 30 new instrumental songs.\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0328efd6127ae6cb1d2b4aece98479ed37dae6bfd45dc1fdf72f1349de36071d.jpg",
+        "id": "010020101F804000",
+        "intro": "Start your fitness journey!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Fitness Boxing 3: Your Personal Trainer",
+        "nsuId": 70010000089072,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20241205,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8edfa27675937db1a6c27d1a721b362be1731d164ae035606c0d2c5c60433361.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c26faceb1fae55ecd65a0ed9ab500132db6cbdba55b2c48dc5cb68c2bfe38ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/485facce69cfde48e4f8284abb8371726c15bfb8213b946cb8aaea1bcfd774d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/694649364bd5e939a76433166c0092ee4359df01f1f3c34f5a642dfff95a6450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0be3da31e8abbe5e9c2cf7fb16addc4802947926b66de2c20d175db682fba5c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25e12861ffacf82f6a21a2036bbc2dca9f3042658cc0770772a66696bc275ba5.jpg"
+        ],
+        "size": 4411359232,
         "version": null
     },
     "70010000094235": {
@@ -1677,6 +1726,34 @@
         "size": 1472200704,
         "version": null
     },
+    "70030000022410": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Fitness Boxing 3: Your Personal Trainer Demo",
+        "nsuId": 70030000022410,
+        "numberOfPlayers": null,
+        "parentId": "010020101F804000",
+        "publisher": null,
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1722810368,
+        "version": null
+    },
     "70030000024954": {
         "bannerUrl": null,
         "category": null,
@@ -2049,6 +2126,38 @@
         "size": 3145728,
         "version": null
     },
+    "70050000056307": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6feb33859bba0824f5e3cf0454ecbe234bc29f4c2492a74cf0afd28a1ff534d.jpg",
+        "category": null,
+        "description": "More songs have been added! These new tracks will be played during the additional exercises suggested by Instructors and the EX Exercises available via the Free Training mode.\n\nThe tracks are selected at random, so you can focus on the high-speed exercises. Get moving to a variety of beats – from grooving retro game sounds to energetic EDM. Change up the mood and get into the rhythm!\n\n*Please note that this pack is for EX Exercises only and cannot be used for regular exercises.  ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010020101F805003",
+        "ids": [
+            "010020101F805001",
+            "010020101F805002",
+            "010020101F805003"
+        ],
+        "intro": "EX Exercises get a new groove! An expansion pack featuring three original songs is available now!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fitness Boxing 3: Encore Tunes EX",
+        "nsuId": 70050000056307,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250318,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 200278016,
+        "version": null
+    },
     "70050000056804": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72.jpg",
         "category": null,
@@ -2220,7 +2329,12 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
+        "id": "010020101F805004",
+        "ids": [
+            "010020101F805004",
+            "010020101F805005",
+            "010020101F805006"
+        ],
         "intro": "Box to the rhythm of three popular J-pop tunes!",
         "isDemo": false,
         "key": null,
@@ -2307,7 +2421,12 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
+        "id": "010020101F805007",
+        "ids": [
+            "010020101F805007",
+            "010020101F805008",
+            "010020101F805009"
+        ],
         "intro": "Dial up the intensity with three tunes from popular anime series!",
         "isDemo": false,
         "key": null,
@@ -2334,7 +2453,10 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
+        "id": "010020101F80500A",
+        "ids": [
+            "010020101F80500A"
+        ],
         "intro": "Add some feline ferocity to your next workout with new cat paw targets!",
         "isDemo": false,
         "key": null,
@@ -2543,7 +2665,11 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
+        "id": "010020101F80500B",
+        "ids": [
+            "010020101F80500B",
+            "010020101F80500C"
+        ],
         "intro": "Exercise to Phantom Thieves music!\nA DLC pack with five popular tracks and three crossover T-shirts!",
         "isDemo": false,
         "key": null,
