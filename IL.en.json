@@ -49,6 +49,50 @@
         "size": 15480127488,
         "version": null
     },
+    "70010000000706": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1843162ea8aaa718c61d1f1025410b40ac7993cfe216ed6950c31a260c5ba63.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Explore an endless ocean of clouds, where the last remnants of civilisation live on the backs of colossal beasts called Titans. Experience the story of Rex and his new friend, Pyra, a mysterious being known as a Blade who grants him tremendous power. Together, search for Pyra’s long lost home Elysium, the ultimate paradise for all of humanity.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0edb5a2abf375dfb0d29cf9e7c723450a93bf4d66f090dde4f3bdb68c4698ed9.jpg",
+        "id": "0100E95004038000",
+        "intro": "Search for the ultimate paradise, Elysium, with your companion, Pyra.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko"
+        ],
+        "name": "Xenoblade Chronicles™ 2",
+        "nsuId": 70010000000706,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "0100E950040380000000000000000003",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a97a518ec369b21fbf2b0b2a828b833b04e52f24491e718e9ac3ae4ad303c49b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b26d4df1e68f85d7ab473390124cfa1c775b9a56cc04a34b843b09c2aafa15b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0a344c195df01f728f8b21d781caccc2ae3b5cb04c914eb6e7c987392055d2d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1b62712f301cf3b0063537384040054c99f4f11d69f3294a9cf41a687ac42e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/807f2984ba4371c8a43d258aab2c45d515eddf344135f76bcb7554530fdb2175.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23d7b85d74c3bd2c291cfe0534e260f43017a9a5a8904097cb9076c0f64711c3.jpg"
+        ],
+        "size": 14169407488,
+        "version": null
+    },
     "70010000004515": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/690ff180025dcf275bf66879ee02963cb405a99371155ea1245afdc55ec31218.jpg",
         "category": [
@@ -143,6 +187,53 @@
             "https://img-eshop.cdn.nintendo.net/i/e616d579dd3baf0c17c49da0caef0e90d185533d0ec71f7b845ba56a95e29adc.jpg"
         ],
         "size": 11356078080,
+        "version": null
+    },
+    "70010000029712": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8931f520c4c76721d41baafc5201f45a7cbf6cfd08de5c9a20cf70311141b2d4.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "A sprawling RPG classic is reborn in Xenoblade Chronicles: Definitive Edition for Nintendo Switch. In the aftermath of a devastating invasion, embark on a journey that will take you beyond the horizon. Can you change the future, or is your race doomed to extinction?\n\nWith a brand new epilogue adventure, HD visuals, smoother gameplay, remastered music tracks, and more, new and returning players can freshly experience the ultimate version of Shulk and co.’s epic RPG adventure!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b9eb62296e2835cc177bb44c360edcc6eac5d70b6abd6eacf3bb7c7d6ddf9e5.jpg",
+        "id": "0100FF500E34A000",
+        "intro": "Uncover the secrets of the Monado and save the world",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Xenoblade Chronicles Definitive Edition",
+        "nsuId": 70010000029712,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200529,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c65a0690ff19505a3ce9348b88d674099b3fe35e8fbfcb8a13bfb4bd80b5c62c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66bb066b89dcad185d583b98e7c8bdd1f4b57f98592409e182f3a8cbb08196b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c201b5ff3f7fd361d537da9c1a2ddb0a2b09a85a0b5bdc33174b446e38313c79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0983bb94f6d417dbb88a20599e98c8581a1a7e60331608553aec9fe09fbf96a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61d0d73e85712d7f090b93fc79a8e135c3460d610e5b86f205c96190e5f9e4a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c21d4dd71bb747bbd838c30a81f0a25f42d5e7ec16323435e9d0c34f30c311cb.jpg"
+        ],
+        "size": 14729347072,
         "version": null
     },
     "70010000032446": {
@@ -285,6 +376,55 @@
             "https://img-eshop.cdn.nintendo.net/i/f8dd93ea77667d3bc20e7b1384a49ca1f558be5495b1ee88e041e58a3e051836.jpg"
         ],
         "size": 6234832896,
+        "version": null
+    },
+    "70010000053337": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7b95d514b32cdcbbf124d0ae2080ffccfe123044a989e33a3f31c101f782907.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Bringing together the futures of Xenoblade Chronicles and Xenoblade Chronicles 2, this title will take players to the world of Aionios, home to two hostile nations.\n\nKeves: a nation where mechanical technology was developed. Their armies are composed of units consisting mainly of combat vehicles. They use units of small, mobile weapons operated by soldiers riding them.\n\nAgnus: a nation strong in ether, a magical technology. Their forces are built around units that specialise in ether combat, and they fight with small, mobile, autonomous weapons that use ether technology.\n\nSix soldiers hailing from these nations, will take part in a grand tale with life as its central theme. ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/be4402ec6556f50be0ec05ee9745061d69fcd970c5cc6b8aa134cbab9291c07e.jpg",
+        "id": "010074F013262000",
+        "intro": "“Fighting to live…and living to fight”",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Xenoblade Chronicles 3",
+        "nsuId": 70010000053337,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "Horror",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20220729,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/477973a6849e331dfe4a5ec5821fa01aab0c7434c74be05ea939e6177be433e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/050ba380ae508b350a5af4273f33317504273dc0a16713c18a21693263cd6b28.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d81a20a4b12a6cdbb2498312ffc9b1608662e558976d82480ee101aef7f2ad16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ed745da1f05a0280dac1d2bda6e35e02c64db0dee32a0027e2c925df9535f44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d469824c4edb5c8da19e73aa74fbc503777de1290dbf409c04c5d010a8851a43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5a9354f5d6e2ab5047e5dbef39841a9241839f631ec708d02411836b7d3a98f.jpg"
+        ],
+        "size": 15421407232,
         "version": null
     },
     "70010000063715": {
@@ -1842,6 +1982,161 @@
         "size": 3145728,
         "version": null
     },
+    "70050000001941": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f455786fe5a09e01542fa3e1eaa81d9451c3151c309392a8696ba016336f78a.jpg",
+        "category": null,
+        "description": "Helpful items for your adventure:\nWar Chest Contribution from Bana: 50,000G\nSuper-Useful Pouch Item Sample: Cream Orange Paratha x 3\nGift from Mr Rurui: Silver Cylinder x 10\nNewbie Driver's Core Crystal Set: Common Core Crystal x 5\nDriver Essentials Set: 10 x Rare Core Crystal, 1 x Legendary Core Crystal, 3 x Overdrive Protocol\nUpgrade Parts for Poppi: 30,000 ether\nPyra’s Favourite Things: 5 x Jenerossi Tea\nNia’s Favourite Things: 5 x Ardainian Bear Carving\nDriver Essentials Set 2: 10 x Rare Core Crystal, 1 x Legendary Core Crystal, 1 x Overdrive Protocol\nTora's Favourite Thing: 3 x Juicy Samod\nPoppi α's Favourite Thing: 3 x Fizz Juice\nCharming Driver Gear: 1 x Auto-Balancer\nUpgrade Parts for Poppi 2: 30,000 ether\nDriver Essentials Set 3: 8 x Legendary Core Crystals, 3 x Overdrive Protocols\n15 x Legendary Core Crystal\n3 x Overdrive Protocol\n10 x Love Source",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100E95004039005",
+        "ids": [
+            "0100E95004039005"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Helpful items",
+        "nsuId": 70050000001941,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100E950040390050000000000000003",
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000001942": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b7b18021d66681973703136c1d2b8cff6e968f6bb5c74e8fb2d58b2c63b1374.jpg",
+        "category": null,
+        "description": "Meet Corvin, an Uchigatana-toting Light-element cool dude with a positive attitude! He comes in a Core Crystal with a 100% resonance rate, and can't wait to find a place in your party.\n\nElma, the Full Metal Jaguar BLADE colonel from Xenoblade Chronicles X, has arrived in Xenoblade Chronicles 2 as part of the Expansion Pass! Starting now, you can face her in the Challenge Battle Mode.\n\nCrossette is bursting with excitement to finally meet you all! This Bitball-wielding Fire-element girl comes in a Core Crystal with a 100% resonance rate, and is very eager to prove herself!\n\nThe Poppibuster is ready to serve! To access him, finish the quest \"Shiny New Power\".",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100E95004039003",
+        "ids": [
+            "0100E95004039003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "New Rare Blades",
+        "nsuId": 70050000001942,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100E950040390030000000000000000",
+        "screenshots": null,
+        "size": 218103808,
+        "version": null
+    },
+    "70050000001943": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/edd57958edcb96ff3487c9c7b7d8c9f56d50105ceff930477aa401477d8ecdaf.jpg",
+        "category": null,
+        "description": "New quests:\nPassion of the Artisan\nM.I.A. Nopon\nIndustrial Sort of Tour\nMidnight Feasting\nThe Lone Watchman\nNopon of Good Tastes\nCleared of All Charges\nBeneath the Aurora\nUpgrades and Tinkering\nMost Awful News?!\nA Smith's Pastime\nA Hat Fit for a Lady\nMaking Love Source\nA Mercenary's Honor\nMerclibay's Mightiest\nSunken Boosters\nThe Trendy Patissier\nArtisanal Accessories\nHot Spring Bonanza\nMystery Launch Codes",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100E95004039002",
+        "ids": [
+            "0100E95004039002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "New quests",
+        "nsuId": 70050000001943,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100E950040390020000000000000000",
+        "screenshots": null,
+        "size": 5242880,
+        "version": null
+    },
+    "70050000001944": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/711294ea5eb56ba48c247081d1b7e2b037225e32adee587b759f87c688bea1e8.jpg",
+        "category": null,
+        "description": "Challenge Battle Mode",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100E95004039004",
+        "ids": [
+            "0100E95004039004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Challenge Battle Mode",
+        "nsuId": 70050000001944,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100E950040390040000000000000000",
+        "screenshots": null,
+        "size": 486539264,
+        "version": null
+    },
+    "70050000001945": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce305e9807e3e48c49fe92837f2b96ae7557feca982c7d003cda4f340b4f6c95.jpg",
+        "category": null,
+        "description": "In this new story mode, uncover the full history of Jin and the fall of his homeland that took place 500 years before the events of Xenoblade Chronicles 2. The newly refined combat system lets you take control of both Driver and Blades as you explore a new Titan, the Kingdom of Torna.\n\nThe year was 3564…\n\nThe 107th Indoline Praetor, Rhadallis, had sent an armed expedition against the country of Coeia. Its capital, Omrantha, fell overnight and sank beneath the clouds, along with the rest of the Titan.\n\nThis cataclysm shook the whole of Alrest. As the dust settled, Indol and the newly-risen land of Empire of Mor Ardain claimed the credit for this devastation.\n\nIn fact, it had been the work of one Blade. The Aegis, a man known as Malos.\n\nDiscover how the fates of Jin and his Driver, Lora, intertwined with that formidable individual...",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100E95004039001",
+        "ids": [
+            "0100E95004039001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles 2: Torna - The Golden Country",
+        "nsuId": 70050000001945,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100E950040390010000000000000000",
+        "screenshots": null,
+        "size": 3320840192,
+        "version": null
+    },
     "70050000019994": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0012293845bf53728d0aeb28fb265e5a9d56443695badc2992781a65001646c.jpg",
         "category": null,
@@ -1902,6 +2197,151 @@
             "https://img-eshop.cdn.nintendo.net/i/3a50a83ac829c659fd3b706dbc9b216bfeb35c53b9c7c761eb274552f532c444.jpg"
         ],
         "size": 627048448,
+        "version": null
+    },
+    "70050000035358": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4aa74dd5666580430a8aa5445a24c6ac339bbf674ede134017bcab350ab53069.jpg",
+        "category": null,
+        "description": "Items to support your adventure\nConsumable items: Nopon Coin (Silver) x30, Nopon Coin (Gold) x10\nAccessories: “Iron Temple Guard”, “Circlet of Wisdom”, “Silver Belt”, “Auto-Balancer”, “Glass Memory”, “Nopon Strap”\n(above items can also be acquired within the game)\n\nOutfit colour variants\n“Noah - Color #02”, “Mio - Color #02”, “Eunie - Color #02”, “Taion - Color #02”, “Lanz - Color #02”, “Sena - Color #02”",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010074F013263001",
+        "ids": [
+            "010074F013263001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles 3 - Wave 1",
+        "nsuId": 70050000035358,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "Horror",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20220729,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 45088768,
+        "version": null
+    },
+    "70050000035359": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c3855d2e211a41111dd08a7e52a918142e8ca34eae4cb629760de2007acc13ae.jpg",
+        "category": null,
+        "description": "New Hero character: Ino – complete her quest to add her to your party and unlock a new class!\n\nChallenge Battles – test your mettle in consecutive battles against tough enemies to earn rewards!\n\nNew swimwear outfits",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010074F013263002",
+        "ids": [
+            "010074F013263002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles 3 - Wave 2",
+        "nsuId": 70050000035359,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "Horror",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20221014,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b2fd0a9e2e0eff5f1f981a0bbbbd1b39b3505af3af71f766f437ae2318ba99ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/465c7bd33f2d9ce5dafae3dff54fc9e5eda485216fc448002a2b6dd97618b985.jpg"
+        ],
+        "size": 213909504,
+        "version": null
+    },
+    "70050000035361": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d435a4961a78bc0fb7e9efe86584303573b5b0511b31fe45d4f409f4c8201663.jpg",
+        "category": null,
+        "description": "New Hero character: Masha – complete her quest to add her to your party and unlock a new class!\n\nNew Challenge Battle: \"Archsage's Gauntlet\"  – select only one character and\nbattle wave after wave of enemies to earn rewards.\n\nCraft Accessories: After adding Masha to your party, you can craft new accessories using crystals collected in \"Archsage's Gauntlet\".\n\nNew throwback outfits",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010074F013263003",
+        "ids": [
+            "010074F013263003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles 3 - Wave 3",
+        "nsuId": 70050000035361,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "Horror",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20230430,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b0a0e4ab1e0ab32a7617a7a61160c2081629916047dd0545002cf9e0985337d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7186dbe34f10eb271cca9537bef31af53bed95c9c9f1d9276626b5334ce83b5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7604bfea8404765bee3db4752702fae6473766fcd6ad32e76fc4cf9f10f2a98.jpg"
+        ],
+        "size": 192937984,
+        "version": null
+    },
+    "70050000035362": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ff18e7039fffa9de758974fd13c92c9d9810c3d88254fc41a5bbabcf1c873a6.jpg",
+        "category": null,
+        "description": "Set before the events of Xenoblade Chronicles 3, join a cast of new and familiar characters in this original story scenario that connects all three instalments in the Xenoblade Chronicles series. Future Redeemed also features new battle mechanics, such as Unity Combo, where two characters can attack in unison.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010074F013263004",
+        "ids": [
+            "010074F013263004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles 3 - Wave 4: Future Redeemed",
+        "nsuId": 70050000035362,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "Horror",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20230426,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ee82083193f125b68e66a8a5c61a84f089cd3689cd7fc82d8db44df8d729399e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b82bb2726c4b7b21087451100862682c17d0d1147c40a7898b2df90b4592f16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed19953e4d48c7cf05cdc8ac309b7cea7f4dcde0c7a54f7dae99fd67607da528.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fdfd0b1ae489188d95310f2dbafc4e03f83eec300d4926aff73b36afbf0d1c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1003150dbdf17846face249f3dbbd6c335bda72c85323d9d537bfef48a9fb82f.jpg"
+        ],
+        "size": 4285530112,
         "version": null
     },
     "70050000036095": {
