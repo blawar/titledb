@@ -1837,6 +1837,54 @@
         "size": 167772160,
         "version": null
     },
+    "70010000127806": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0798fa2811e4f1ac9a34dc55792cc552a47a9c7bdf8c1e1a95c322b544a0531a.jpg",
+        "category": [
+            "Training",
+            "Sports",
+            "Music"
+        ],
+        "description": "Punch and dodge to the beat in the latest entry of the Fitness Boxing series, now with additional content and performance enhancements for Nintendo Switch 2! Correct your form using a compatible USB-C camera (sold separately), take things up a notch with Boost Up feature, work out with up to three friends via GameShare and more!\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0328efd6127ae6cb1d2b4aece98479ed37dae6bfd45dc1fdf72f1349de36071d.jpg",
+        "id": "010020101F804000",
+        "intro": "A workout that works for you – now enhanced for Nintendo Switch 2!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Fitness Boxing 3: Your Personal Trainer – Nintendo Switch 2 Edition",
+        "nsuId": 70010000127806,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260716,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ab13f4b3b7ba4bfcf1207293d8f2dec96088099b61e48030099895b346722df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65fd8f2f67c92ae24f37e98b66ff5c73252618c189e2cbd6a20c8f1f7e69da17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad9451a491f2511ba2ca9ac034da846999e5030f9631499550badfa44de0dc74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49e1463f13850ac7790d00d028290094bda2cd8c0aca3fdfbfd946a7bc864c62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/419f3934399cbf960d1d462f7e84fdd6bcd3492bec1e9789cf1c59314d026da9.jpg"
+        ],
+        "size": 4411359232,
+        "version": null
+    },
     "70030000015787": {
         "bannerUrl": null,
         "category": null,
@@ -3280,6 +3328,39 @@
             "https://img-eshop.cdn.nintendo.net/i/f755a72ef0036797daabe3e103c7a8efa2f7d7445a2304b5de37cea350814d7a.jpg"
         ],
         "size": 3145728,
+        "version": null
+    },
+    "70050000075083": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0798fa2811e4f1ac9a34dc55792cc552a47a9c7bdf8c1e1a95c322b544a0531a.jpg",
+        "category": null,
+        "description": "Punch and dodge to the beat in the latest entry of the Fitness Boxing series, now with additional content and performance enhancements for Nintendo Switch 2! Correct your form using a compatible USB-C camera (sold separately), take things up a notch with Boost Up feature, work out with up to three friends via GameShare and more!\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "A workout that works for you – now enhanced for Nintendo Switch 2!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fitness Boxing 3: Your Personal Trainer – Nintendo Switch 2 Edition Upgrade Pack",
+        "nsuId": 70050000075083,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260716,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ab13f4b3b7ba4bfcf1207293d8f2dec96088099b61e48030099895b346722df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65fd8f2f67c92ae24f37e98b66ff5c73252618c189e2cbd6a20c8f1f7e69da17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad9451a491f2511ba2ca9ac034da846999e5030f9631499550badfa44de0dc74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49e1463f13850ac7790d00d028290094bda2cd8c0aca3fdfbfd946a7bc864c62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/419f3934399cbf960d1d462f7e84fdd6bcd3492bec1e9789cf1c59314d026da9.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70070000029649": {
