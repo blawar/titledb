@@ -49,6 +49,146 @@
         "size": 15480127488,
         "version": null
     },
+    "70010000000126": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6746200f54a1b6f2626f0ccf911d94a57f98bfc1d06b158b59c32d8e13df9b2.jpg",
+        "category": [
+            "Racing",
+            "Party"
+        ],
+        "description": "Whether you’re racing your family on the big screen in your living room, playing in the park, or visiting a friend’s place, Nintendo Switch lets you play Mario Kart any way you like!\n\nUp to eight players can connect for local multiplayer fun via Wireless Play. If you're playing in TV mode or tabletop mode, up to four players can enjoy split-screen multiplayer!\n\nYou can also challenge racers from around the world! Up to 12 players can take part in online races, and two local players can even play online together from the same Nintendo Switch.\n\nVisit amiibo.nintendo.eu for compatible amiibo™ and the latest information.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/55e0720b1a064e28b5df173d30b343ecd91287dc86942f833ffbf979a7a66ec9.jpg",
+        "id": "0100152000022000",
+        "intro": "Play Mario Kart wherever you go!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru"
+        ],
+        "name": "Mario Kart™ 8 Deluxe",
+        "nsuId": 70010000000126,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "01001520000220000000000000000000",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1e61ef8561016049a287653b5d25cd685cb4c3df817c42cef07677612b7af8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5af8e7eb65e53f1dac2559817b230cfc15690db5d76bb923606a7639697af7bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2fa1f4e9106d3b172840d00dbb7b16db59cd56422be4938143e510861534c97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db0373648fa026e179b8747a6d53fea2223d6b18d047261529bc9c79e7f4735e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e294ce39921ac7d0d9d28a29360b288b195f62baa38258134998e3b79c4d1a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16b68ff979f2d0809b9aab72dfee773a6408303d88c8fb325b0117b48e433a31.jpg"
+        ],
+        "size": 12082741248,
+        "version": null
+    },
+    "70010000000127": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9cf8220e928ecd25fce3abaa591bccf28b5192294c6d307ef73a86995f3ce583.jpg",
+        "category": [
+            "Platformer"
+        ],
+        "description": "Join Mario on a massive, globe-trotting 3D adventure and use his incredible new abilities to collect Moons so you can power up your airship, the Odyssey, and rescue Princess Peach from Bowser’s wedding plans!\n\nThis sandbox-style 3D Mario adventure – the first since 1997’s beloved Super Mario 64 and 2002’s Nintendo GameCube classic Super Mario Sunshine – is packed with secrets and surprises, and with Mario’s new moves like cap throw, cap jump, and capture, you’ll have fun and exciting gameplay experiences unlike anything you’ve enjoyed in a Mario game before. Get ready to be whisked away to strange and amazing places far from the Mushroom Kingdom!\n\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ad4d31f664a1ce704f0219da2805f8459595bc3c01c3f04df2e32ba34a05b8c6.jpg",
+        "id": "0100000000010000",
+        "intro": "Mario jumps out of the Mushroom Kingdom \nand embarks on a journey in Super Mario \nOdyssey, only on Nintendo Switch!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "name": "Super Mario Odyssey™",
+        "nsuId": 70010000000127,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "01000000000100000000000000000003",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7db70ecd883f94d935f65b9f4454b8151b6f8be7c4be95543e87488e48e5a6b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1839d571921e3fb19ef48da64c145cb8ce573b07d7390c6350f15291b3905048.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0510e4804381287c64dc3ab374ae9273419e263e9a732e72af3b39cd70f2b5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab713d841b0f0d9bbce38b589d75dd3bba2aef005418e59d3f0fd95389ae7016.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abcf9708cc28ef5b7ab412aa17fafe4ad181f0b957456ffd9b83de2561d9f62a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5dd8b464ac560ae950c3bf23a010a29050f2f3cb67329514802f99099435bae.jpg"
+        ],
+        "size": 6023020544,
+        "version": null
+    },
+    "70010000000152": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/52af8522945004d73e74a45506508e3be34fbf28b2d179fc02a2c45fce73483b.jpg",
+        "category": [
+            "Action",
+            "Fighting"
+        ],
+        "description": "Featuring a unique multiplayer fighting sport that lets you trade blows using extendable arms, this game includes elements of both boxing and shooting games, plus an all-new cast of characters. After customising a character with a variety of arms, the player holds one Joy-Con in each hand and throws left and right punches at the opponent. Characters can jump and dash, and players can bend their punches by twisting their hands as they swing. As players learn the game and improve their skills, they will discover a deeper level of advanced tactics. Players can compete against the computer, against a friend on a split screen using a second set of Joy-Con (sold separately), against worldwide rivals online, or with two Nintendo Switch consoles over a local wireless connection.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa88abadfd692703f85f15182bff689015702b9359412ac37d6e8438ca233f12.jpg",
+        "id": "01009B500007C000",
+        "intro": "ARMS for Nintendo Switch lets you trade blows using extendable arms in a unique multiplayer fighting sport!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko"
+        ],
+        "name": "ARMS™",
+        "nsuId": 70010000000152,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "01009B500007C0000000000000000000",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/787b18e19a952bfe92596e96f631027060fce61955773ee70056e45441ec8f79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5ed7d2ddeafa4fea3069c0de3b2c1f60ecf0f9914d389f071b5d7a62bb9502d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7108064a23310da93727f960407752794b3840a797356a853603dc2c4da72f23.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85ccf29ba63bab1a8b197680186ceeee6b617b71641e5f55b8ea0307faf5dfc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ff7397359d9d6e1081af25ccd0ed548dd0f891019686116bbc86dd71afe0a5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b3cbc07d6468dee0e39fe91cf023e567cd487f30d406c54b31f1d6ce956c8db.jpg"
+        ],
+        "size": 3483369472,
+        "version": null
+    },
     "70010000000706": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1843162ea8aaa718c61d1f1025410b40ac7993cfe216ed6950c31a260c5ba63.jpg",
         "category": [
@@ -91,6 +231,93 @@
             "https://img-eshop.cdn.nintendo.net/i/23d7b85d74c3bd2c291cfe0534e260f43017a9a5a8904097cb9076c0f64711c3.jpg"
         ],
         "size": 14169407488,
+        "version": null
+    },
+    "70010000001041": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28858ed50539b85e0923fd502582344cdb374304fd8f85196214eb683b2a3eeb.jpg",
+        "category": [
+            "Action",
+            "Fighting"
+        ],
+        "description": "Play Pokkén Tournament DX in TV mode, handheld mode, or share a Joy-Con controller with another Trainer to battle one-on-one in tabletop mode anywhere!\n\nA brand new fighter – Decidueye enters the battle, alongside all previous Pokémon from the Wii U and arcade versions.\n\nNew Support Pokémon – Litten and Popplio make their debut to lend their support in battle.\n\nTeam Battle mode – Pick three Pokémon and battle it out to be the first to defeat all your opponent’s Pokémon to win in the new Team Battle mode.\n\nGroup Match mode – Find similarly skilled players in battle rooms for intense and fun battles online.\n\nDaily Challenges – Complete a variety of different daily challenges.\n\nWatch battle replays – Hone your skills by watching other players’ replays and share your best matches online with the new replay feature.\n\nJump straight into battle – All characters and Support Pokémon will be available right from the start of the game.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/12623dc3cb41523591f122ee7fc83f8030b6aece8c690979c8239498df78b58b.jpg",
+        "id": "0100B3F000BE2000",
+        "intro": "Play Pokkén anytime, anywhere on Nintendo Switch!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Pokkén Tournament™ DX",
+        "nsuId": 70010000001041,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "0100B3F000BE20000000000000000000",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/318cfa26546495ece8042eaaff9d7188b2a8f03cd2c921b4669c951791f7a7f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bfcd1033ebe89537d52d01786e692cb7c1b74a98ca8e3a67d661cafe9e1c5d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/201ae414fce2305fc241427c8dbf5d5f470aa9eb5f039d2aabc97f65b83496f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70c109a1dd96f7453cb3676629c166aecd818d92b331da41f6bcf1304e4ed288.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6867709acd10aa051d1507fd58b35f1d292c6d9ccaf575c953582de1cf495b4a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/386e2a17a2409be685b64e3e9a1e4d58aa9d53ed7536ce9302866d76f22267a5.jpg"
+        ],
+        "size": 4260364288,
+        "version": null
+    },
+    "70010000002721": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a74dff1709276130d81a78f9bfadb5be781fa4e52c14fe93c1ae83b208de1293.jpg",
+        "category": [
+            "Puzzle",
+            "Platformer"
+        ],
+        "description": "Explore a variety of tricky sandbox-style levels inspired by Japanese box gardens called Hakoniwa in Captain Toad: Treasure Tracker. You can rotate the camera and touch the screen for a better view of hidden treasures!\n\nAnd, this time, we’ve included a few Super Mario Odyssey levels, too! Now you can explore locales from a variety of kingdoms – like New Donk City!\n\nThe Nintendo Switch version can be played with a friend by sharing a pair of Joy-Con controllers. Two players can explore levels together co-operatively, or, while one player controls Captain Toad or Toadette, the other can assist by shooting turnips and stopping foes in their tracks!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63ca1c160b69fcf2b9dd8dd993bb6ef86218ff68f8afa5167b48d35d38c33478.jpg",
+        "id": "01009BF0072D4000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "name": "Captain Toad™: Treasure Tracker",
+        "nsuId": 70010000002721,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "01009BF0072D40000000000000000004",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/588b1fd23af1a6fd9a6b0225e6b3b1527aca164061f5755ee1a2516ff7f1ffde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0b1ca225a7e0854ef86e109fe95087785abbdc8aa6274431f9673c1caa61f69.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7de582cd1ac10d6dd632f1ec61efe40dc9c8e2a01ea79939b81df0a1abd5eb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e957189bb02c22d95da88b3e9716b926736f73211a07888a91fc1c56519a975a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2b321cff736632119e3794277fbe9b7cef67b0b09a83669227e18f6afa36b1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8164dc65b2f3857bf17ccde50aa995ac119b2d83591be6b352ebe31d99e4cd73.jpg"
+        ],
+        "size": 1768947712,
         "version": null
     },
     "70010000004515": {
@@ -140,6 +367,279 @@
             "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
         ],
         "size": 2016411648,
+        "version": null
+    },
+    "70010000005301": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35837bfb5cf89a0ebc991ff6c44c93f83b95ca8520c3a685604e014e61440b10.jpg",
+        "category": [
+            "Strategy"
+        ],
+        "description": "Command a capable crop of tiny creatures and explore a hostile planet in this exciting blend of action and strategy. \n\nUse each Pikmin type's unique skills to overcome obstacles and open up a diverse world around you. Seek out valuable items, solve puzzles and defeat vicious enemies in a richly detailed world full of surprises!  ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a85a9a593013e4a7bcef55f27c5eea4b8a2ff3432413ce7df1ba927b68c669b.jpg",
+        "id": "0100F4C009322000",
+        "intro": "Tiny creatures on a big adventure!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pikmin 3 Deluxe",
+        "nsuId": 70010000005301,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20201030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7b57372e960a3a5cc204f947b94615ee185c02b144b2b682ac814d72956a2704.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7774b2ffbc8df9b6b0d04d4d166d03e3a44fbc71134da90a34423c36b8f31f79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93b222e97924315f3b7325a0ff330e8a7b873d90cbfabd0313b81c2c4ef0cf65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/543b0e9defec0d0cf8cbc8460f2788e5e730fa844f9ad9a63e51b2914d0da0db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2020b116d224ae4567eeca05aaeb19b8cf6a31df91ef8e56372aaf66c10938c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/141d18ba72836d4ddeb2ac033df37851c08ce2a898cb256e06832e0174818044.jpg"
+        ],
+        "size": 7018119168,
+        "version": null
+    },
+    "70010000005306": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2abe1edbf62d989ab22f099cb64a0c514eb8bb0acbc5e1b8d393c1f882abc921.jpg",
+        "category": [
+            "Adventure"
+        ],
+        "description": "Pikmin are back for yet another grand mission in Pikmin 4 for Nintendo Switch! These tiny, plant-like creatures inhabit a mysterious planet. Grow, pluck and command them, as you traverse this new world with their help. ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06471c4bb150ff3f0a75afdaebf9891b0904ceeba003a4e888258c9cacd3c540.jpg",
+        "id": "0100B7C00933A000",
+        "intro": "A new adventure blossoms!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pikmin 4",
+        "nsuId": 70010000005306,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230721,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a25e8585ba9a3ff231bed46d1cbe0fbbe72db9ba886e07f3938be5b4676ad51f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a491827ba7ded3472e811ca943d9726b11266db953517ee839eebfeff38c676.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bc1eddd1537ea81208ae71ebe724b3c03f3e9e97afbd925d70965e47552c18e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fd54fd884a9fe060d25e0304ee8b2288c542cdab20095a833374c28e13d85b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/503119e4f93db61092e6cc40a616e2b44baa662e24b64c1b897527f0d7bef61b.jpg"
+        ],
+        "size": 12086935552,
+        "version": null
+    },
+    "70010000005923": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c833027df04daa99eaa1567deb695e8c03065ac9fb5659b567779ceefb241be2.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "The goddess Rubiss has spoken – and you have been chosen. Dragon Quest Builders is destined for Nintendo Switch.\n\nThe game is a big hit in Japan, mixing the fun of building with an overarching story and the combat of an action-RPG. You’ll master the art of construction, build your own towns however you want, defend them from monsters, and rescue townsfolk in need. Succeed and you may just rebuild Alefgard, the very same world where the series began.\n\nA separate free build mode allows you to build to your heart’s content with unlimited resources. And a Nintendo Switch exclusive Great Sabrecub will boost your speed and grant you special material by defeating enemies.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e12f24bdb7de6acca595cc47c0ab2ef0a67a706fd1105aa64660c0cda1a3c528.jpg",
+        "id": "010008900705C000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Dragon Quest Builders™",
+        "nsuId": 70010000005923,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "010008900705C0000000000000000003",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fd9a8eb0293f6c5ee1bae67bc2d48b3c6cfdd16e95e682c6418ed8b8ccd6bfa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee406ffd14f0e191aaaba799697683ed67782487c625e186dc7648b1fa97ecdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbcdeef9c3226ecbda75511c866e8fdb4cc962a276c33be08362650457965430.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/560cd4269afa077da8a2e33152a510eb233c168dd8b5ab702df55768201a7f4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6297a38a380fa893e93b6e5b985c9d3c3c970a0e9872866825752dd1d4820369.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0eca1c36c906e8248fc46481ca1e21642d302008afcc7c3ec710ed47828f22bd.jpg"
+        ],
+        "size": 884998144,
+        "version": null
+    },
+    "70010000006501": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8f6dae2970fd5b7955bce44c423f0c76a348cecef25e53d620ebd0126013f8c.jpg",
+        "category": [
+            "Action"
+        ],
+        "description": "If you purchase Bayonetta 2 on Nintendo eShop, you can get Bayonetta for £10 / €10 / SEK 110 / DKK 80 / NOK 110 / CZK 250 / 39,8 PLN / ZAR 150.\n\nBayonetta 2 comes to Nintendo Switch!\nIn this climactic sequel to the critically acclaimed Bayonetta action game, players will be on the edge of their seats from start to finish. Brimming with jaw-dropping battles and gorgeous cut scenes, this game never lets up on the action, and has been reborn on Nintendo Switch.\n\nFight on top of a jet as it soars through a downtown city. Duke it out against a giant angelic monster with a deadly whip-like arm on top of a speeding train. And take to the skies in a fight against a demonic dragon while ascending to the top of a skyscraper.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/415c0b34a1a3b802767a633ed85b4fd0ccece7ab6185d33c5b5c4ed1524727a5.jpg",
+        "id": "01007960049A0000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Bayonetta™ 2",
+        "nsuId": 70010000006501,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 16,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "01007960049A00000000000000000003",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/741e6b6620934f3d42c03f2e44457ed3ea26a887bed748966ca20547ac282f1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/994e505627f6e1bbdcc4619d5b2a0991766c8d19116a73194cdc1fd7861872fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cc4f557243c29272d96f7f0d910bf8a1350036d23fb646cf8cd4b9ee7e57f4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a56982377dc282e9dd95cc95c1e3d4a951466c567f4d1e548b3daae8fdb43c00.jpg"
+        ],
+        "size": 13461618688,
+        "version": null
+    },
+    "70010000012331": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d765b5794389e675d47d9944aa62a0c001abd5be3826bcbc64f14d05926b2c4.jpg",
+        "category": [
+            "Action",
+            "Fighting",
+            "Multiplayer"
+        ],
+        "description": "Mario, Kirby and all your favourites are heading for another showdown in the latest entry in the Super Smash Bros. series! Every fighter who's ever appeared in the series will take the stage, plus a few new faces! Fight on over 100 stages, listen to over 800 audio tracks, and get your hands on even more Assist Trophies, Items and Pokémon in the biggest Smash Bros. game ever!\n\nWith Nintendo Switch you can enjoy Smash anytime, anywhere, with anyone!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/08af58551a19df2a73ccb36f720388434a1965776b34675c6f69af3f93280330.jpg",
+        "id": "01006A800016E000",
+        "intro": "The greatest line-up in Super Smash Bros. history!\n",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Super Smash Bros.™ Ultimate",
+        "nsuId": 70010000012331,
+        "numberOfPlayers": 8,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20181207,
+        "rightsId": "01006A800016E0000000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8b42e00012633320624f3894179b5d6bec44c255998a58ceb54e07bd352df171.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/245420c78ce40337bdca7ce9c2dd819bd4ae33b022da9b922c0710b8420b59dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a381c9a157deda7997e47a40ebedf5d6357daa54eadb8747c85535247b5966a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/039c33416d22f81d72efa2f1646bb97627f2be0a0bfaea7f4a3638ce0ce73eba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a0b002c60e6fd1cbbf3165fb666fde994decf73d60902957963f7d17113a3e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1194f11c5397e5134cad94a723d9afb2c9ab274ee5d824aa80c6ea4d60f0dc7.jpg"
+        ],
+        "size": 18583912448,
+        "version": null
+    },
+    "70010000020034": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1.jpg",
+        "category": [
+            "Adventure",
+            "Action"
+        ],
+        "description": "Help Link awaken the slumbering Wind Fish to find his way home in The Legend of Zelda: Link’s Awakening, out now on Nintendo Switch.\n\nExplore perilous dungeons, battle myriad monsters and befriend a colourful cast of characters in this puzzle-filled adventure – reimagined in a charming new art style!\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b0b0b2d150830b70b5bb259cdabefe21d2009b55cbd58854cf6a897587249054.jpg",
+        "id": "01006BB00C6F0000",
+        "intro": "Many mysteries await Link on Koholint Island…",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "The Legend of Zelda: Link's Awakening",
+        "nsuId": 70010000020034,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190920,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/29c1657511754241f887292bf279502669fd74a48ab88f767d74564fcdaf1268.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8fa01e329d6102cd2cc435650fe3904b1e37fb9c3bf82b66d07122f523ac56f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdd79e8ac7fbf0282fc55b163f4d1e316fdbbb229e93a949d623b23f70b88ab8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abe7e411fe82b4e9e6af45a2e10ed7cd802f9b1d3fd8b44571a090f9be4e17ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb3f3e9a3e3fbe26c3af7a862f2670ea43e01ef2628cb89dc3348ea927ff725b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fdc24f2eccf8cc925ac8ea85d43d7e602be799d764d5fe7c478c585b29697f2b.jpg"
+        ],
+        "size": 6326059008,
         "version": null
     },
     "70010000027620": {
@@ -233,7 +733,7 @@
             "https://img-eshop.cdn.nintendo.net/i/61d0d73e85712d7f090b93fc79a8e135c3460d610e5b86f205c96190e5f9e4a6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c21d4dd71bb747bbd838c30a81f0a25f42d5e7ec16323435e9d0c34f30c311cb.jpg"
         ],
-        "size": 14727249920,
+        "size": 14730395648,
         "version": null
     },
     "70010000032446": {
@@ -278,6 +778,56 @@
             "https://img-eshop.cdn.nintendo.net/i/c8d7c85d0f5f2fe9e9db9fe7abb14a07dd037c22b11ab4411d992dac24d0d346.jpg"
         ],
         "size": 680525824,
+        "version": null
+    },
+    "70010000034440": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3641a79ae06177df26e5877457512f13e3b14f0cc580bfe549d96b7659371ce9.jpg",
+        "category": [
+            "Platformer"
+        ],
+        "description": "Join Mario, Luigi, Peach and Toad on a quest to save the Sprixie Kingdom in Super Mario 3D World + Bowser’s Fury on Nintendo Switch! Rescue the Sprixie Princess and her followers by yourself or with three other players in this enhanced version of Super Mario 3D World. \n\nThen, either alone or with a friend, help Bowser Jr. turn his papa back to normal in all-new bonus adventure, Bowser’s Fury. \n\nTeam up with Bowser Jr. in a free-roaming 3D adventure to stop his dad’s rampage in the new game mode, Bowser’s Fury! Run and jump across a series of islands to collect the mysterious Cat Shines, and battle against the colossal Fury Bowser whenever he emerges from the water to wreak havoc.\n\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b24fd7398f9b569642ed7846edf633456dfbf5f85ae98479eaf5c49a797c4d0.jpg",
+        "id": "010028600EBDA000",
+        "intro": "Explore a world of Mario fun together!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Super Mario 3D World + Bowser's Fury",
+        "nsuId": 70010000034440,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20210212,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d39f1285186533af1e74ebc8d0081180f0bdaae1807201d28801169bf0cc0594.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e3c3c75530c5c0730f98a2d2606b76980dd6aa501030c52f6d5d5bfb32577b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d4a35c8d2991680a3ef4763d63cd956934d0764e830267909587ca3bcb5a9c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9ad2c7bad46b5603da67d5a99443324d070145ecc85a2208d49e6cb02bb548f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa46dd4bb06fcb9624ecc89c5a36707833f5934b63dc482a1aed671e9b156220.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4125ac10fe5b410244fdd2e5d427e9379187f08908f634c3122465c34a0480fc.jpg"
+        ],
+        "size": 3188719616,
         "version": null
     },
     "70010000043293": {
@@ -329,6 +879,52 @@
         "size": 6865027072,
         "version": null
     },
+    "70010000044952": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6b4a162b33af30dda393f9689d26ab77a44d2d8baa56fade4b210b2048242e0.jpg",
+        "category": [
+            "Puzzle",
+            "Party"
+        ],
+        "description": "Big Brain Academy makes its debut on Nintendo Switch! Challenge yourself with fun questions to iron out the creases in your grey matter!\nStep up to brain-flexing challenges in five different categories: Identify, Memorize, Analyze, Compute, and Visualize.\nMaster each category to pump up your Big Brain Brawn!\n\nPlay with up to four players simultaneously, or pit your Big Brain Brawn against players all over the world in Ghost Clash, even when you aren't playing at the same time.\n\nSo how about stepping up to the plate and building up that Big Brain Brawn in a variety of styles, whether it's by untangling thorny puzzles alone, or by going head-to-head in thrilling contests with rivals?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/67da5c5e81bbbe8ec26c67a319aa6aa44788f4d8cf999b4206d5595fd03064cf.jpg",
+        "id": "0100620012D6E000",
+        "intro": "Flex your brain alone, with friends, or the whole world!\nStretch your grey matter to clear away the cobwebs!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Big Brain Academy: Brain vs. Brain",
+        "nsuId": 70010000044952,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20211203,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/243dd4abeeeb484931bdfc8067a704424f712ab9988a8b1994e19aae081522b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02278862135143eb4c3b9e7bf71226224688b95402ee5d0e42e4f192e917d951.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94d30e660eb5508b9a8497f73ea61a40a3124483dae349f701f73293503a554a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec85c53e9e700eee6062abd430168ef96567343067080ae0f79d2ee04e82d415.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bee541f69f3458ceef439f7d88144cd5026992f618fa0bcf02ebb368584a7227.jpg"
+        ],
+        "size": 754974720,
+        "version": null
+    },
     "70010000046406": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6290742634179fa1d0059d758cb22b81f27e8014d78abed51cb9eb07cead99b5.jpg",
         "category": [
@@ -376,6 +972,54 @@
             "https://img-eshop.cdn.nintendo.net/i/f8dd93ea77667d3bc20e7b1384a49ca1f558be5495b1ee88e041e58a3e051836.jpg"
         ],
         "size": 6234832896,
+        "version": null
+    },
+    "70010000049937": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1f1adef3e5aae419b943b508cd37dba6bbe0766ace05381cb721f96897919300.jpg",
+        "category": [
+            "Sports",
+            "Party"
+        ],
+        "description": "The latest game in the Mario Strikers series is coming to Nintendo Switch! Prepare for Strike, a five-on-five sport like football that’s way heavy on offence.\n\nAim for goals by dribbling and passing to teammates, as well as using tackles, items and crushing special shots. If you spot an orb on the pitch, grab it and charge it up while your opponents are distracted to unleash Hyper Strike, a special shot that can earn you two goals in one! \n\nUp to eight friends can gather around the TV and take to the field together on one Nintendo Switch console. Alternatively, grab your best strike partner and connect with up to 3 other consoles via local wireless or online for more multiplayer mayhem.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3e83341574697a92e13cb958bb2658483966cff58603cbfc9c9f383e3d571e1.jpg",
+        "id": "010019401051C000",
+        "intro": "Anything goes on this pitch!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Mario Strikers: Battle League Football",
+        "nsuId": 70010000049937,
+        "numberOfPlayers": 8,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20220610,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0f28a4a36039aabd7675db2f2bf1d0ecc07113d34481678ecc552c736f7eba9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c443f9daec792a362e84348ea86af2229d8c1365314224a8708603004da6d1a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efdc1574512e1c0a3d8862c5a2a231615dcc885b19785ecc6da579fcf4c22356.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a57a60246feaf8a41037afc0660be0e8e9c8819ee897eb16823e7627548d867f.jpg"
+        ],
+        "size": 2986344448,
         "version": null
     },
     "70010000053337": {
@@ -427,6 +1071,55 @@
         "size": 15421407232,
         "version": null
     },
+    "70010000058803": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f448de04544b78316e4de639cd554d417559def0946b7965e1bee9823f939304.jpg",
+        "category": [
+            "Strategy",
+            "RPG"
+        ],
+        "description": "This new instalment in the Fire Emblem series takes place in Elyos, a continent consisting of four realms surrounding a holy land at its centre. A thousand years ago, a vicious war broke out between people of Elyos and the Fell Dragon.\n\nDuring this war, the people of Elyos called upon Emblems – heroes from other worlds – to aid them. With the Emblems by their side, the warriors of each nation fought as one and, in the end, successfully imprisoned the Fell Dragon. However, signs are now appearing that the Fell Dragon may soon be resurrected…",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b1fe4dd8552b80d836a7aaf8972a4e0d83133d805b141bc18b4fe8eb6f1353e2.jpg",
+        "id": "0100A6301214E000",
+        "intro": "The Fell Dragon rises!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Fire Emblem Engage",
+        "nsuId": 70010000058803,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20230120,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eabf2e3cd03f538a74f4cafa53511fa12c88355cf041517ab087a408daf1b3c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06d398162ecbbbf639be52f02c502a05450a85c95d34c69920730426f02c2cac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac57ea12b9403612642e87cb049407ddec04c1d08fa333b2437b01e3c512f05b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52da4e927073f9cbd99950f322007645a31c0b1c43dd3fd38f16577994248d05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30a21fab3d19ace60579cc3e1f5f1ee1447c77276f86c92d72004b9e66ed96db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba26eaf5b91bc81b6ce79506285301f82cb569794701fc9374f2d3abdee6cff7.jpg"
+        ],
+        "size": 17804820480,
+        "version": null
+    },
     "70010000063715": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9222b2b244072d28af4586c4e33663e2c65527b593edff956367361ec1263989.jpg",
         "category": [
@@ -474,6 +1167,94 @@
             "https://img-eshop.cdn.nintendo.net/i/93371908bf7e5d101ec89a053b4aca94f508d22fec4cffa72da16bf6d7a31f87.jpg"
         ],
         "size": 17688428544,
+        "version": null
+    },
+    "70010000068670": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5d80c7c7a5a37efdb7ff200c714b86c92fc0e77fafeb7e1b86c7035c9906deeb.jpg",
+        "category": [
+            "Action",
+            "Adventure",
+            "Strategy"
+        ],
+        "description": "A crash-landing, an uncharted planet, and a strange but exciting discovery for Captain Olimar! Rebuild his spaceship with the help of tiny plant creatures called Pikmin and explore an overgrown world in Pikmin 1 on Nintendo Switch, an HD version of the Nintendo GameCube classic.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5dc4d2ef4ceb5f7a0260c03c8ccae197f5f7dc479718ba2ee02cd96365f2156c.jpg",
+        "id": "0100AA80194B0000",
+        "intro": "Meet the Pikmin!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pikmin 1",
+        "nsuId": 70010000068670,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230621,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a37b33a383d85454c93de8248d16d2add2e43a15ea5c5a271662f69943f96cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f91c95fbda1de050f81d8b837adb7816f41e634cd45ea9bdd2d236349a10c8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b854aefbec5df77b0d9fd06f72928ba61df3a4372a5235a97754bd0928420dd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f3fbdb70178a5f5a39d666a2cfc1c1b68bc5089c70bef84ca4e38ed1ce37127.jpg"
+        ],
+        "size": 1237319680,
+        "version": null
+    },
+    "70010000068674": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20da26576d1ff7d793f217478c4b4dfaa09a2dd0aab4127cf11f0ffd81e5dd12.jpg",
+        "category": [
+            "Action",
+            "Adventure",
+            "Strategy"
+        ],
+        "description": "A captain’s work is never done! Return to the strange planet and hunt for precious treasures, using the talents of the Pikmin and your new assistant to lighten the load in Pikmin 2 on Nintendo Switch, an HD version of the Nintendo GameCube classic.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b1f8cc30da94a702daaf337e1b7570a420c3d441a7974975fa5c739cb6bd345.jpg",
+        "id": "0100D680194B2000",
+        "intro": "There and back again",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pikmin 2",
+        "nsuId": 70010000068674,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230621,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d2992a23e7427bf89c20ab949bab87ec7d64ef225984a369f59f1687321d8b72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57803b93a7e75f23f04416841d14e842665e5fc80f7dbf0d3defbe31e1a273a2.jpg"
+        ],
+        "size": 1201668096,
         "version": null
     },
     "70010000084609": {
@@ -1742,6 +2523,125 @@
         "size": 179306496,
         "version": null
     },
+    "70010000122672": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2f4272ffa71e95227de8d6855450107d8f91acc4bdf6af1da6169d2777588004.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Join Shulk and his allies in this sprawling RPG classic. In the aftermath of a devastating invasion, embark on a journey that will take you beyond the horizon. Can you change the future, or is your race doomed to extinction?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b9eb62296e2835cc177bb44c360edcc6eac5d70b6abd6eacf3bb7c7d6ddf9e5.jpg",
+        "id": "0100FF500E34A000",
+        "intro": "Uncover the secrets of the Monado and save the world",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition",
+        "nsuId": 70010000122672,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260609,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 14730395648,
+        "version": null
+    },
+    "70010000122692": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25418a78a4e449d32f27d8aebe80b1678e1a66dae840f5faa1f953a82470d571.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Explore an endless ocean of clouds, where the last remnants of civilisation live on the backs of colossal beasts called Titans. Experience the story of Rex and Pyra, a mysterious being known as a Blade who grants him tremendous power.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Journey to the birthplace of humanity",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition",
+        "nsuId": 70010000122692,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260730,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/23a5411eded61904b193c264a7fb455f811799d60d0b62584025f6364d126fc6.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000122697": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f68dbc003845a73241f6cbbf69ac4bddb954e68d0bff6c308a189866d83565a4.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Join Noah, Mio and their friends as they traverse epic landscapes, battle ferocious creatures and fight to break the never-ending cycle of violence that binds their homelands.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "A tale of life, tying past to future",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+        "nsuId": 70010000122697,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70010000122819": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b24e5be916e85afd01b138ab38f640f3e3f006c167cf4af4209b6e650d529aac.jpg",
         "category": [
@@ -1769,7 +2669,7 @@
         ],
         "name": "Rhythm Paradise Groove",
         "nsuId": 70010000122819,
-        "numberOfPlayers": null,
+        "numberOfPlayers": 4,
         "publisher": "Nintendo",
         "rating": 7,
         "ratingContent": [
@@ -1885,6 +2785,32 @@
         "size": 4411359232,
         "version": null
     },
+    "70030000015044": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Big Brain Academy: Brain vs. Brain Demo",
+        "nsuId": 70030000015044,
+        "numberOfPlayers": null,
+        "parentId": "0100620012D6E000",
+        "publisher": null,
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 321912832,
+        "version": null
+    },
     "70030000015787": {
         "bannerUrl": null,
         "category": null,
@@ -1912,6 +2838,60 @@
         "rightsId": null,
         "screenshots": null,
         "size": 1472200704,
+        "version": null
+    },
+    "70030000018343": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Mario Strikers: Battle League Football Demo",
+        "nsuId": 70030000018343,
+        "numberOfPlayers": null,
+        "parentId": "010019401051C000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1289748480,
+        "version": null
+    },
+    "70030000020101": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Pikmin 4 Demo",
+        "nsuId": 70030000020101,
+        "numberOfPlayers": null,
+        "parentId": "0100B7C00933A000",
+        "publisher": null,
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 5772410880,
         "version": null
     },
     "70030000022410": {
@@ -2185,6 +3165,1206 @@
         "size": 3320840192,
         "version": null
     },
+    "70050000003121": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/255e0f2e6f3a81824b8a0ad448824882b8df3c9af07a3213a330058b3fea1e91.jpg",
+        "category": null,
+        "description": "Wave 1 - Released 31 January\n・Aegislash as a Battle Pokémon\n・Mega Rayquaza & Mimikyu as a new Support Set\n・New Avatar Items\n・New Outfit for Nia\n・New Titles",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100B3F000BE3001",
+        "ids": [
+            "0100B3F000BE3001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pokkén Tournament™ DX Battle Pack Wave 1",
+        "nsuId": 70050000003121,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100B3F000BE30010000000000000003",
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000003195": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a3b79cfbdc3b26630bb6274e7c2637eef42bc5eaf91bdd6d2f2ba23db11b99c.jpg",
+        "category": null,
+        "description": "Wave 2 - Released 23 March\n・Blastoise as a Battle Pokémon\n・Mew & Celebi as a new Support Set\n・New Avatar Items\n・New Outfits for Nia\n・New Titles",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100B3F000BE3002",
+        "ids": [
+            "0100B3F000BE3002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pokkén Tournament™ DX Battle Pack Wave 2",
+        "nsuId": 70050000003195,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100B3F000BE30020000000000000003",
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000008501": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8d808228736a5fd136697d86cb28648b7877de5f862c0aea7e80e737f31604e.jpg",
+        "category": null,
+        "description": "Piranha Plant from the Super Mario series is now available as fighter DLC!\nYou don't need to purchase this if you received a download code as a bonus for purchasing the game early. Make sure you aren't paying for something you already have!\n\nNote: Piranha Plant is not included in the Fighters Pass (sold separately).",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F001",
+        "ids": [
+            "01006A800016F001"
+        ],
+        "intro": "Piranha Plant now available!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Piranha Plant",
+        "nsuId": 70050000008501,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "01006A800016F0010000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0db1f41040a6829c0f6010c6cedef05c42017d24a9de1d257f91613977344efd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b78619514a3890f643c63e9ff6eeecc80541d1ddd99a6ea198e6f0fd9c7d67f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4c595daa00f49174c8108e96e83c33e95fe67e7a5a4de2d1e6a294d8cf07852.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebfd76854fd5d3ef9e9e81146eb7325a0b7f5e6e50e4491e9528657881ba0429.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a33ab9ebc23b0a236cb5cf6ef2d81f46e38816e2fe725b97e499057a3f35c5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6623e6868b357b05465df83af2ceee70e3d00df03154aa13f3c25da9f3aa513.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000008502": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53455186b8a29b578f340daf95da8d2537fb0facb22b20a6bd637a75dd09a244.jpg",
+        "category": null,
+        "description": "Joker, the leader of the Phantom Thieves of Hearts from Persona 5, joins the battle! Turn your rebellious spirit into strength, and fight gracefully alongside the great Arsene! Joker is paired with a new stage named Mementos. With his bold style and surprising speed, Joker will take your heart!\n\nThis set contains the following:\n・ Fighter: Joker\n・ Stage: Mementos\n・ Music: 11 tracks (*1)\n・ Smash tag icons: 3\n・ Spirits: Joker (Phantom Thief), Joker (Student) (*2)\n・ Spirit Board additions: Spirits from the Persona series that were added in Ver. 3.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds.\n*2 Collectable via Classic Mode or the Shop on the Vault menu after purchasing this set.\n*3 Check the \"Software update available: Ver. 3.0.0\" news update for details on the new spirits.\n*4 You can get the new Persona spirits (excluding the Joker spirits) from Vault → Shop even without purchasing this set.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F002",
+        "ids": [
+            "01006A800016F002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Joker Challenger Pack",
+        "nsuId": 70050000008502,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "01006A800016F0020000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/051b9c86d9a8b5506d5c12dac83d82ea8e676ec48f5fe75d61d5f330e8ba88b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d38649bdec9ec6517ea27c6b95a9bba1a5612dfa9ddd357d2845298c60c2ccc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68b2fc9f18e6ad9832f451a6625ec55926b72450d213b3d760936ebf23069bdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6c190550c2c1cd17098186fe2de85a0ea0bc16e6ff69a9fb31e3d86f530f9d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d958ca70027102b51f4fd006495507e95f0dc5db55ced447a0722e55104fe8f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f7ae2886324768b51ad5aa3f303be647add8a079794bb4f71c59458ddb726d8.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000008503": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c284a0ce0eba965b5a72c0aa6b65583438bf562bf1600606ccb737a1de1f92c5.jpg",
+        "category": null,
+        "description": "The Hero from DRAGON QUEST XI S has arrived! You can attack with all kinds of spells and techniques by selecting them from a command window, just like in the DRAGON QUEST series. Past heroes from DRAGON QUEST III, IV and VIII are also available, and the stage for this set is Yggdrasil's Altar. You can also enjoy the field and battle music from each featured game!\n\n*This DLC is included in the Fighters Pass (sold separately). If you've purchased the Fighters Pass, you don't need to purchase this set.\n\nThis downloadable content set contains the following:\n\n・ Fighter: Hero\n・ Stage: Yggdrasil's Altar\n・ Music: 8 tracks (*1)\n・ Smash tag icons: 5\n・ Spirits: Hero (DRAGON QUEST XI S), Hero (DRAGON QUEST III), Hero (DRAGON QUEST IV), Hero (DRAGON QUEST VIII) (*2)\n・ Spirit Board additions: Spirits from the DRAGON QUEST series that were added in Ver. 4.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds.\n*2 Collectable via Classic Mode or the Shop on the Vault menu after purchasing this set.\n*3 You can get the new DRAGON QUEST spirits (excluding the Hero spirits) from Vault → Shop even without purchasing this set.\n*4 Check the \"\"Software update available: Ver. 4.0.0\"\" news update for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F003",
+        "ids": [
+            "01006A800016F003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hero Challenger Pack",
+        "nsuId": 70050000008503,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "01006A800016F0030000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/24848e4d9fb82affce3bd7dee71c7c004b3214fc8972f194c75184d18e2032de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91bef6bfc78d7961ab516cfe91d90643f5f7e58677c0af3b1f84663bc64b633a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adfa82d7a58e1523f07b5695d864f9e2c10d24957d24c06935218d9df8701485.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c08c6ce28b550a4a07a6df36dcb466539550f0ee843d0440cb74b94daf754d6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa32ecfc6b97a6c9ebe0e3eae32e3e859e9d95051fdb059602dfa8aa1d9df695.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14b59b31823db129bd9d8b5f1e6889b540f1d38506581a0d9a061b83d558919f.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000008504": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12618913de588ddc6340bbbd2b475c74ef5157c722b4585ad76e13f81d44142a.jpg",
+        "category": null,
+        "description": "The titular unlikely duo from the Banjo-Kazooie series is going strong in the world of Smash! The pack includes the stage Spiral Mountain, which, as the name suggests, rotates during battle! Finally, there's a song arrangement created by Grant Kirkhope himself!\n\n*This DLC is included in the Fighters Pass (sold separately). If you've purchased the Fighters Pass, you don't need to purchase this set.\n\nThis downloadable content set contains the following:\n\n・ Fighter: Banjo & Kazooie\n・ Stage: Spiral Mountain\n・ Music: 10 tracks (*1)\n・ Smash tag icons: 3\n・ Spirits: Banjo & Kazooie (*2)\n・ Spirit Board additions: Spirits from the Banjo-Kazooie series that were added in Ver. 5.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds.\n*2 Collectable via Classic Mode or the Shop on the Vault menu after purchasing this set.\n*3 You can get these new spirits from Vault → Shop even without purchasing this set.\n*4 Check the \"Software update available: Ver. 5.0.0\" news update on the Nintendo website for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F004",
+        "ids": [
+            "01006A800016F004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Banjo & Kazooie Challenger Pack",
+        "nsuId": 70050000008504,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190905,
+        "rightsId": "01006A800016F0040000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/366b3c06483dc2102addc2307ed94339ad01f20c54b9e23d61179e073d91e7c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50d5bdbcec2b750b66ccfeff0da248da24ef74c300a41552b6987332969062a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70ab8c9530ebf52c719d9900d19a985cf9b0e35f168bf05ee9c4c5b7e706c884.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80b92a6fb0b8b83252b1de348f877e2b651ef4699344647d6c324de84ff2ea2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3587451b314c3aea22b1a76e62bcace8a9da57d1147bbfca60fbddcb88419af8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51085bb6e1df3d68458949291a145f8ec18f344b2d0551fe76bde5ced24c6126.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000008505": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b0bc002675450be2384accc45f80573cc44064899a36c51462c51a8d999b40b.jpg",
+        "category": null,
+        "description": "Here he comes! It's the martial artist from South Town they call the Legendary Wolf: Terry Bogard from the FATAL FURY series! Better not back him into a corner; he's got some wicked super special moves!\nHis stage is the King of Fighters Stadium, which has invisible walls at either side. Use them to launch your opponents at high speed and KO them hard! Includes a whopping 50 tracks, 17 of which are remixed!\n\nThis downloadable content set contains the following:\n・ Fighter: Terry Bogard\n・ Stage: King of Fighters Stadium\n・ Music: 50 tracks (*1)\n・ Smash tag icons: 3\n・ Spirits: Terry Bogard (*2)\n・ Spirit Board additions: Spirits from the FATAL FURY, Art of Fighting, THE KING OF FIGHTERS, SAMURAI SHODOWN and Ikari Warriors series, as well as spirits from Psycho Soldier that were added in Ver. 6.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds.\n*2 Collectable via Classic Mode or the Shop on the Vault menu after purchasing this set.\n*3 You can get these spirits from Vault → Shop even without purchasing this set.\n*4 Check the \"Software update available: Ver. 6.0.0\" news update for details on these spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F005",
+        "ids": [
+            "01006A800016F005"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Terry Bogard Challenger Pack",
+        "nsuId": 70050000008505,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20191106,
+        "rightsId": "01006A800016F0050000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cd57bda9fad8bb73a64070d5c3cae4a984b8732f69983be78ae236b331f6a9df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd24a65521739182546c30d6e5c4493f938fc589b57f4dbbe936f7df7d38923f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51a3e7657513863ff6933957ce0b6948157947e15118c36e67b04847627a8baf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3afabd730532348aeb1f62470daf1298d1d38fd315c9d9975c051720db14fcf8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00601f38587842e97659f23d7b7c68a352ff579f891f68675e7d19ba4f4c9b4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e39df9f18b1253c31f379c9559bdc68cd742dea6172860812822c3a0d1c0431.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000008506": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3256e9970a53148d82d08bf89b587d1066d664fe003cfaed3d6f863e5a822d88.jpg",
+        "category": null,
+        "description": "Byleth from Fire Emblem: Three Houses joins the battle! Both the male and female characters are included. Use Byleth's sword, axe, lance and bow to teach your opponents a lesson! Take the battle to Garreg Mach Monastery, where Byleth resided as a professor in their original game. The stage will cycle through four different locations, including the marketplace and cathedral! Several songs, including arrangements of the main theme, are included!\n\nIncludes:\n・ Fighter: Byleth\n・ Stage: Garreg Mach Monastery\n・ Music: 11 tracks (*1)\n・ Smash tag icons: 4\n・ Spirits: Byleth (Male), Byleth (Female) (*2)\n・ Spirit Board additions: Other spirits from Fire Emblem: Three Houses that were added in Ver. 7.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault → Shop.\n*4 Check the \"Software update available: Ver. 7.0.0\" news update for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F006",
+        "ids": [
+            "01006A800016F006"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Byleth Challenger Pack",
+        "nsuId": 70050000008506,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200129,
+        "rightsId": "01006A800016F0060000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f6acf1e3d10e8cc551aea8711dd4a5b100b741157b6c780dcea8e0b2ac7246bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c60b91c605477a43fe14d25adbf83dbd87d3da79ddb586ee0f2c8ec9aecd53e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2fa089e58337b1279d3ce8b6dcc445912b0c2385617d6458709791012cadca8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5189c2a86dec922d7d18dec14a36b6447f4ef9b82f12f82cd040ff27a7394097.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8eb15ff74b4bc20e18935a768f33fab8d60e0b75d1549f16275cac6ccda05138.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df2727775d335b314abbc38e120151f753fe20fa7d465021226acbbdc7852214.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000008507": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/010032573f77445c1be053e6afd8954bbcc9d7deea4159e955a95c364558a947.jpg",
+        "category": null,
+        "description": "Available 07/12/2018\nThis costume of Rex from Xenoblade Chronicles 2 is an exclusive bonus for purchasing the Fighter Pass. The set contains the following:\n\nMii Fighter Costume\n・ Rex Wig\n・ Rex Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F015",
+        "ids": [
+            "01006A800016F015"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rex: Xenoblade Chronicles 2\nMii Fighter Costume",
+        "nsuId": 70050000008507,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "01006A800016F0150000000000000005",
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000010915": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9965d3b6705679296249992ccb9445edb68c46f00072ecb2fe89a132e7512c39.jpg",
+        "category": null,
+        "description": "This paid downloadable content includes 18 new challenges, including five new courses and new Shiny Crowns to track down on each course!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01009BF0072D5001",
+        "ids": [
+            "01009BF0072D5001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Captain Toad™: Treasure Tracker – Special Episode",
+        "nsuId": 70050000010915,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 269484032,
+        "version": null
+    },
+    "70050000010916": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9965d3b6705679296249992ccb9445edb68c46f00072ecb2fe89a132e7512c39.jpg",
+        "category": null,
+        "description": "This paid downloadable content includes 18 new challenges, including five new courses and new Shiny Crowns to track down on each course!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01009BF0072D5002",
+        "ids": [
+            "01009BF0072D5002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Captain Toad: Treasure Tracker – Special Episode",
+        "nsuId": 70050000010916,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000014641": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a1194948f98a5ff52c76a5261c90aef99a336d50479289fa649803cba7ef79a.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・1500 SP\n・Rematch x5\n・Damage 50% x5\n・Weaken Minions x5\n・Health Drain x5",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F06D",
+        "ids": [
+            "01006A800016F069",
+            "01006A800016F06A",
+            "01006A800016F06B",
+            "01006A800016F06C",
+            "01006A800016F06D"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Spirit Board Battle Set 2 - For Powerful Enemies",
+        "nsuId": 70050000014641,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190830,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 20971520,
+        "version": null
+    },
+    "70050000014741": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f4904cea87e1f59bf7611315e000792be2f9a96852f21b30e763911216a1668.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Team Rocket's uniform is now available. The big R on black clothes is a sign that you're the real deal. Instead of having a Pokémon battle, though, you'll be getting your hands dirty as a Mii Brawler!\n\nThis set contains the following:\n\nMii Fighter Costume\n・ Team Rocket Hat\n・ Team Rocket Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F029",
+        "ids": [
+            "01006A800016F029"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Team Rocket Hat + Outfit",
+        "nsuId": 70050000014741,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190905,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000014742": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a963259689bc34e0cd8d8071b87a2e0225630cd4782822691395a8159152f01.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Goemon from the Mystical Ninja series (known in Japan as Ganbare Goemon) is now available. The outfit part is for Mii Swordfighters only, and it lets you attack with Goemon's favourite pipe! Set your Mii Fighter's neutral special to Shuriken of Light to feel like you're throwing gold coins!\n\nThis set contains the following:\n\nMii Fighter Costume\n・ Goemon Wig\n・ Goemon Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F02A",
+        "ids": [
+            "01006A800016F02A"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Goemon Wig + Outfit",
+        "nsuId": 70050000014742,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190905,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000014743": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/23e42c444ec46afa0f04f292bef9d8b8be0b31344b10108b519bad44142e88ca.jpg",
+        "category": null,
+        "description": "Get ready for a skele-ton of fun! This Mii Fighter costume allows you to dress your Mii Gunner up as Sans from UNDERTALE. And if that's not enough, the included special arrangement of MEGALOVANIA will fill you with determination.\n\nThis set contains the following:\n\nMii Fighter Costume\n・ Sans Mask\n・ Sans Outfit (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.\n\nMusic\n・ MEGALOVANIA (Arrangement)\nUsable after purchase by going to Vault → Sounds or by setting it in My Music.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F02B",
+        "ids": [
+            "01006A800016F02B"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Sans Mask + Outfit",
+        "nsuId": 70050000014743,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190905,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000014744": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1733dd50e31e2def8672ebc9db90fcd2f0a1e0ffa586af04ac7baefa4306a666.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Proto Man from the Mega Man series is now available. The outfit part is for Mii Gunners only, but the heroically hidden features of the solitary Proto Man might make you jump into battle whistling a familiar tune…\n\nThis set contains the following:\n\nMii Fighter Costume\n・ Proto Man's Helmet\n・ Proto Man's Armor (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F02C",
+        "ids": [
+            "01006A800016F02C"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Proto Man's Helmet + Armor",
+        "nsuId": 70050000014744,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190905,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000014745": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a5f6d5da5912857dc9f6b8ee1429ba297b8e2f17b17ed40adafbf1f3789c1bd.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Zero from the Mega Man X series is now available. The outfit part is for Mii Swordfighters only, which is a good fit for the Rank SA reploid. Take your blue Beam Saber and show your enemies the power of a Maverick Hunter!\n\nThis set contains the following:\n\nMii Fighter Costume\n・ Zero's Helmet\n・ Zero's Armor (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F02D",
+        "ids": [
+            "01006A800016F02D"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Zero's Helmet + Armor",
+        "nsuId": 70050000014745,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190905,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000016733": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8034e1900d103561c0356306fc08afc080d8c73f5c67977fa68072892a47aa6.jpg",
+        "category": null,
+        "description": "Osu! A Mii Fighter costume of Ryo Sakazaki from the Art of Fighting series is now available. The outfit part is for Mii Brawlers only. Are you ready to don that gi and show your opponent what the Kyokugenryu karate style is all about? I mean, if you're going up against the cast of Super Smash Bros., you've gotta get your bro Ryo involved, right?!\n\nThis set contains the following:\nMii Fighter Costume\n・ Ryo Sakazaki Wig\n・ Ryo Sakazaki Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F02E",
+        "ids": [
+            "01006A800016F02E"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Ryo Sakazaki Wig + Outfit",
+        "nsuId": 70050000016733,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20191106,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000016734": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf26636a28a11742101075273895943475b545c7074dcfbf0479c2f81032e8ad.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Nakoruru from the SAMURAI SHODOWN series is now available. The outfit part is for Mii Swordfighters only. Naturally, you can enter the fray with her father's keepsake in hand, the treasured sword Chichi-ushi. In the name of Kamui, any fighter who dare defile this beautiful land must prepare to face nature's wrath!\n\nThis set contains the following:\nMii Fighter Costume\n・ Nakoruru Wig\n・ Nakoruru Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F02F",
+        "ids": [
+            "01006A800016F02F"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Nakoruru Wig + Outfit",
+        "nsuId": 70050000016734,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20191106,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000016735": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/336cbe5b6e7166c1de360c8a0754e77be8c479f9d4ec70211d5385cc4686ce9e.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Iori Yagami from THE KING OF FIGHTERS series is now available. The outfit part is for Mii Brawlers only. The moon crest on the back is a sign that the wearer belongs to the Yagami clan. It's time we kick those foolish fighters into place! Heh heh heh heh... Hahahaha... HAAAHAHAHAHAHA!!!\n\nThis set contains the following:\nMii Fighter Costume\n・ Iori Yagami Wig\n・ Iori Yagami Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F030",
+        "ids": [
+            "01006A800016F030"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Iori Yagami  Wig + Outfit",
+        "nsuId": 70050000016735,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20191106,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000016736": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c52042671e84a1f4504074406f82608e67e17bdf66d97002e48f19cc69e28fb.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Akira from the Virtua Fighter series is now available. The outfit part is for Mii Brawlers only. A practitioner of Yuki-style Hakkyoku-Ken, Akira's iconic sparring garb and bandana lend themselves perfectly to the Mii Brawler aesthetic. The outfit also faithfully recreates the classic polygonal look from the original Virtua Fighter. If you win a battle, try shouting Akira's classic victory line, \"Try again in 10 years!\"\n\nThis set contains the following:\nMii Fighter Costume\n・ Akira Wig\n・ Akira Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F031",
+        "ids": [
+            "01006A800016F031"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Akira Wig + Outfit",
+        "nsuId": 70050000016736,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20191106,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000016737": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c614a5f102249a113718e3d6f94e651d959143a05a992f9834ea076300777cd1.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Jacky from the Virtua Fighter series in his swanky racing suit is now available. The outfit part is for Mii Brawlers only, and if you set Soaring Axe Kick as your up special while wearing it, your Mii Fighter might just be tempted to throw out Jacky's very own Somersault Kick!\n\nThis set contains the following:\nMii Fighter Costume\n・ Jacky Wig\n・ Jacky Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F032",
+        "ids": [
+            "01006A800016F032"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Jacky Wig + Outfit",
+        "nsuId": 70050000016737,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20191106,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000016738": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/453e427c6b57f5b7e9a084a05a7a9cfa74fddf75924e36ab25f844be393ff9a3.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・5000 G\n・Classic Ticket x3",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F06F",
+        "ids": [
+            "01006A800016F06E",
+            "01006A800016F06F"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Vault Shopper Set - Classic Tickets & Gold for Music, Mii Costumes and More",
+        "nsuId": 70050000016738,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20191105,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 6291456,
+        "version": null
+    },
+    "70050000016746": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6be8d784a74aa1f22142d8dd6be78910298b974920d4a3264cbd52bce65b9b82.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・3000 SP\n・Snack (S) x 100\n・Snack (M) x 30\n・Snack (L) x 5",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F073",
+        "ids": [
+            "01006A800016F070",
+            "01006A800016F071",
+            "01006A800016F072",
+            "01006A800016F073"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Spirit Training Set",
+        "nsuId": 70050000016746,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200128,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 12582912,
+        "version": null
+    },
+    "70050000018630": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abc9ead85fd2a4998cce227fba7a39ff53cae9139c2002173624dfcbe0e5c416.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of the titular hero from Cuphead is now available for Mii Gunners! A cup for a head, a red straw, a red nose, white gloves, and red shorts...what more could you need for a swell battle? Everything about it, including the comical and charming 1930s-inspired visuals, has been replicated. Also included is a fan-favourite music track from the game, \"Floral Fury\"! Fighting to some big-band jazz music...what a knockout!\n\nIncludes:\n\nMii Fighter Costume\n・ Cuphead Hat\n・ Cuphead Outfit (for Gunners)\nUsable after purchase by going to Games & More → Mii Fighter.\n\nMusic\n・ Floral Fury\nUsable after purchase by going to Vault → Sounds or by setting it in My Music.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F033",
+        "ids": [
+            "01006A800016F033"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Cuphead Hat + Outfit",
+        "nsuId": 70050000018630,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200129,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018631": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c3ea4f75329179c85ba0faea0bb63b2276cb602afb74e711bc9e3fd757011a0.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Altaïr from the Assassin's Creed® series is available for Mii Swordfighters.\n\nWear the mysterious white cloak to hide your identity, and battle to prove yourself worthy of standing with the other legendary Assassins.\n\nIncludes:\nMii Fighter Costume\n・ Altaïr Hood\n・ Altaïr Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F034",
+        "ids": [
+            "01006A800016F034"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Altaïr Hood + Outfit",
+        "nsuId": 70050000018631,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200129,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018632": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/825c011c70f9c573f7e75977e642e89d9ec31e5da9ed720aaaf81c81ef5677dc.jpg",
+        "category": null,
+        "description": "A Mii Fighter hat based on the unpredictable Rabbids characters is now available for purchase! Their big mouth, goofy front teeth and large eyes make them charming. Wear this and go crazy. You'll really feel like Rabbids!\n\nIncludes:\nMii Fighter Costume\n・Rabbids Hat\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F035",
+        "ids": [
+            "01006A800016F035"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rabbids Hat",
+        "nsuId": 70050000018632,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200129,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018633": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c786ded0231dde6daf7cd81a62b20f3bbe2e78d7c4d8735a56ad1b2d9b587829.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of X from the Mega Man X series is now available.\nWith its trademark blue body and X-Buster, this costume is perfect for Mii Gunners looking to be the best Maverick Hunter they can be!\n\nIncludes:\nMii Fighter Costume\n・ X's Helmet\n・ X's Armor (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F036",
+        "ids": [
+            "01006A800016F036"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "X's Helmet + Armor",
+        "nsuId": 70050000018633,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200129,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018634": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd4b88abe1cb9251d6f0dc58bbbf307a965e2374114dfd138b3ebda54b4756e5.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of MegaMan.EXE from the Mega Man Battle Network series is now available for Mii Gunners.\nEven the NetNavi marks on his chest and helmet are perfectly recreated. Become a hero of the Cyber World and jack-in to Smash!\n\nIncludes:\nMii Fighter Costume\n・ MegaMan.EXE's Helmet\n・ MegaMan.EXE's Armor (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F037",
+        "ids": [
+            "01006A800016F037"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "MegaMan.EXE's Helmet + Armor",
+        "nsuId": 70050000018634,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200129,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018967": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0455e82a1f6e78825e250a1cd86ed1ee7b27454dbb91cd860b19f6c5665e036.jpg",
+        "category": null,
+        "description": "From ARMS, the Ramen Bomber Min Min is now available! She switches between three stretchy, long-reaching ARMS to fight.\n\nHer stage is \"Spring Stadium\" - use its jumping platforms and item-dropping drones to get the edge in battle! \n\nThe music includes original stage themes and a remix of the official theme song! Maybe you'll discover some favourites!\n\nIncludes:\n・ Fighter: Min Min\n・ Stage: Spring Stadium\n・ Music: 18 tracks (*1)\n・ Smash tag icons: 3\n・ Spirits: Min Min (Fighter) (*2)\n・ Spirit Board additions: Other spirits from ARMS that were added in Ver. 8.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault → Shop.\n*4 Check the \"Software update available: Ver. 8.0.0\" news update for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F007",
+        "ids": [
+            "01006A800016F007"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Min Min Challenger Pack",
+        "nsuId": 70050000018967,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200630,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d741eaf6546aabc153cf0bd56b439c3e22d7c3e9437ea89a782656f7c7b98e05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e98849f7a5b43b173797569c65bf9e2c8f0648db410148c9ff43390ebee9244.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/427242a5f11c59a78cf2b0ec5f19948aa1721fa762f860886c9ab1b244da53ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/366afbefcab18dc5e3bcfac7f72817cc8f5918056defc3d406485762af0fe78f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f37e5e6a0a2f254454985ee95f280b2ea5b6ad750cb8cfceeb0b4daf433a85b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f401cb51f197665deee78a742ff98b2edb7fa64b1b6986ae18c8a826d138ee9.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018968": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab61208dbe45e77ef36f47d9d917e66d4987485689d5d609d9d60ce85dfdba8f.jpg",
+        "category": null,
+        "description": "Steve and Alex from the Minecraft series are joining the battle! You can also choose to look like a Zombie or Enderman when selecting your fighter. Set out for adventure on the new stage, Minecraft World; dig for materials, craft items, and even place blocks!\n\nTravel to six different biomes in Minecraft World, including the plains and the snowy tundra. There are also seven music tracks, mainly consisting of arrangements. Mine, craft, and battle it out!\n\nIncludes:\n・ Fighter: Steve/Alex/Zombie/Enderman\n・ Stage: Minecraft World\n・ Music: 7 tracks (*1)\n・ Smash tag icons: 5\n・ Spirits: Steve, Alex (*2)\n・ Spirit Board additions: Other spirits from Minecraft that were added in Ver. 9.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault → Shop.\n*4 Check the \"Software update available: Ver. 9.0.0\" news update for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F008",
+        "ids": [
+            "01006A800016F008"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Steve & Alex Challenger Pack",
+        "nsuId": 70050000018968,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201014,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2c37243b3daefbc0d7b8934e8c0fbe13573d381fd3d41052c4b97b198bbe7910.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d925fb8fef50cf2505714c213e4e582e05818b95f5356dd1269bb8b8c122919d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d6fe0b35b9fbc38c212068c66783740fb95d5a8f525a7ede0c2e51e2ecea8d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13cfe47da1fcb795c8fa74de2838438be545a10ba2e60d544edafb8a5e65bd24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12a233472560a0ff8953f4f97afea4b5ec6b589f1524d3cbbb88f9859e31040b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb9e953256eafa0384c47ee89c630fb7f5ee39dbb73faa47cc8b5859f7ca21c7.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018969": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/605c1d6be87ff447c25d43c7a4d455b8427a1824179604ae21cca81788454132.jpg",
+        "category": null,
+        "description": "Sephiroth from FINAL FANTASY VII is joining the battle! He'll appear topless in his 7th and 8th colour variations. Using the immense reach of his treasured sword Masamune, his opponents won't be able to land a scratch on him. And when the going gets tough, he'll sprout one wing and tap into great power!\nHis stage, the Northern Cave, descends into the heart of the planet; a fitting place for climactic showdowns. Nine song arrangements are also featured, so you can dominate your foes to the sweet sounds of nostalgia...\n\nThis DLC Challenger Pack includes\n・ Fighter: Sephiroth\n・ Stage: Northern Cave\n・ Music: 9 tracks (*1)\n・ Smash tag icons: 2\n・ Spirits: Sephiroth (*2)\n・ Spirit Board additions: Spirits from the FINAL FANTASY series to be added in Ver. 10.1.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits will also be available free of charge from Vault → Shop.\n*4 Details on the new spirits will be available in a later news update titled \"Software update available: Ver. 10.1.0\".",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F009",
+        "ids": [
+            "01006A800016F009"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Sephiroth Challenger Pack",
+        "nsuId": 70050000018969,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201223,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2bb5db7be405f24b97a43c83d6e8077deff8f50916d8bc1d33d95f9a46e29d4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2258ccb4ee652f3fea1eb3ba48666e5f47a07edb02bc7090ceb046d585ca9945.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8250cd81b80a1e6212f8e9a411aaa49b04b0fde1015a74e2e8a94aa3995c040.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6737f301a240dd0c4e701abcbd6f1c5ce9af40d0914efaf6a42f1c3b6e5a8bb7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec72a6558fde4258aef4dd985f1de20573b8d6fa9ae6972006eb7113d035f43b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e7f1e40fd381727576ef3ec6c8ad2478763e36eae09e2990963d33367b3bc70.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018970": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d7f542d922660be4463db9a22b29907329b58e8ccc014acc8e4f6665cae9a9d.jpg",
+        "category": null,
+        "description": "Pyra and Mythra, the Blades that Rex forms a strong bond with in Xenoblade Chronicles 2, are joining the battle! Your opponents won't know what hit them as you switch between the powerful Pyra and the speedy Mythra.\nTheir stage, Cloud Sea of Alrest, is located on the Titan Azurda's back. While you're battling it out, he may move his head on a whim and alter the platform! You can also enjoy 16 new music tracks, including new arrangements. Lose yourself in the magnificent sounds of Xenoblade Chronicles 2!\n\nThis DLC Challenger Pack includes\n・ Fighter: Pyra/Mythra\n・ Stage: Cloud Sea of Alrest\n・ Music: 16 tracks (*1)\n・ Smash tag icons: 4\n・ Spirits: Pyra (Fighter), Mythra (Fighter) (*2)\n・ Spirit Board additions: Rex, Nia, Tora, Poppi α, Mòrag, Zeke and new spirits from Xenoblade Chronicles 2 added in Ver. 11.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault → Shop.\n*4 Check the \"Software update available: Ver. 11.0.0\" news update for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F00A",
+        "ids": [
+            "01006A800016F00A"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pyra & Mythra Challenger Pack",
+        "nsuId": 70050000018970,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210305,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6597ad3698c9898523a5cd9c140bde062584b7f1a809a6f634994169c2e588d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c81bb394c784921f55f502b051b0afca93f00ab19c3edbef064e6ec1feb74b8f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ca5913cae4526109075117ef81ac1154ec6a46fb122d23d9d9df29fbdf7255e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf71b42230b09bb30a890fb27e8c6501d6091cf262663df1c0632ec79255a76e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdf0d008938ca94be459e71d29a94b782ed8106ff8f35483311e520366e330ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b6a76e547a7648dc278e2b718ba589706f55a5c89b8a11db8bab1edbc5499b3.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018971": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4eae92819f058aca71b67650a86bcc74ba9c90df46965fba835f46329d463cfd.jpg",
+        "category": null,
+        "description": "Kazuya from the Tekken series is joining the battle! Kazuya can make use of a wide range of command-input moves. For his special moves, he'll awaken the Devil Gene that lurks within his body to become Devil Kazuya. In a pinch, he can work himself into a Rage to quickly turn things around on the battlefield.\nKazuya's stage is Mishima Dojo. The walls and ceiling offer protection from KOs - that is, until they're broken! You can also enjoy a whopping 39 new tracks, including eight song arrangements. Find your favourites and pump up your fighting spirit!\n\nThis DLC Challenger Pack includes\n・ Fighter: Kazuya\n・ Stage: Mishima Dojo\n・ Music: 39 tracks (*1)\n・ Smash tag icons: 3\n・ Spirits: Kazuya Mishima, Kazuya Mishima (Coat) (*2)\n・ Spirit Board additions: Other spirits from the Tekken series added in Ver. 12.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault → Shop.\n*4 Check the \"Software update available: Ver. 12.0.0\" news update for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F00B",
+        "ids": [
+            "01006A800016F00B"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Kazuya Challenger Pack",
+        "nsuId": 70050000018971,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210630,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c466e172bdadcd415e892937efde993e9df2a7da43fb352ec90bdc58dda58b9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea2dda964b9c33d82646d6d1e64e221659011238f4095ac81bde7f9756e9ddf8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca2da96ee039fdbc920000a4df19987550f02c5fdddbdbc827f65a852a2b8412.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96a5b96edb6951b4b1834052c181d4cfd0a73e143cc8542d8282cf7258869ad3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c55ad67adc917741ebb3a4bac8414effc256baa1fea1238273ce04526485dcf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/352fae56d3c5cd098969e16aee1969f23cb6e21af6aa25adc64714bfdf868cc8.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018972": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5042fbb01451b768367cf50b8180835f1a87b771fa29f477b7da253dd923078.jpg",
+        "category": null,
+        "description": "Sora from the KINGDOM HEARTS series joins the battle! His colour variations give you several options from the original games. Keep opponents at bay with three types of Magic, or take advantage of Sora's exceptional airborne potential, and pursue victory from the air!\nThe new stage Hollow Bastion features a floating platform that will travel around the castle. Towards the end of the battle, the background will change to a dark stage with floating stained glass.\nThere are nine music tracks that will invoke memories of adventures with Sora. Be sure to check out the fanfare that was arranged especially for this game!\n\nThis DLC Challenger Pack includes\t\n・ Fighter: Sora\n・ Stage: Hollow Bastion\n・ Music: 9 tracks (*1) (*2)\n・ Smash tag icons: 3\n・ Spirits: Sora, Sora (KINGDOM HEARTS II), Sora (KINGDOM HEARTS 3D [Dream Drop Distance]), Sora (KINGDOM HEARTS III), Sora (Timeless River) (*3)\n・ Spirit Board additions: Other spirits from the KINGDOM HEARTS series that were added in Ver. 13.0.0. (*4) (*5)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 If you have play data for KINGDOM HEARTS Melody of Memory on your console, the song Dearly Beloved -Swing Version- will be added as a bonus, for a total of 10 tracks.\n*3 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*4 These new spirits are also available free of charge from Vault → Shop.\n*5 Check the \"Software update available: Ver. 13.0.0\" news update for details on the new spirits.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F00C",
+        "ids": [
+            "01006A800016F00C"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Sora Challenger Pack",
+        "nsuId": 70050000018972,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20211019,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c174f99061dc0c16e220b97a820411dc4012518b7755636d55bc4a1e7c4a5f47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3548c3445483c1a4674e0a1337206069c9b68d551bf2c69d272cd2ce6f67960.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f7bb45f331f3fff587c4d86d64dd2863b479c206d3f4873fc25f0ad089ab262.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e03227d745185f186829a7ba6b7955c2884ab7e443b25ba9d8928e5dd71974c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/298bf6aa823f45637e4c00a158d20028ae36dff76b6ed95cbbf78d897bd4cdc8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4c48befeb2b9153006edfc015c7136d31b6f80adeab647b932b829c19a80f77.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000018974": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd8ae3d4fcad12a4a9e94821a91b6798981ead2689c7b121a039293c94c3b626.jpg",
+        "category": null,
+        "description": "This is an exclusive bonus for purchasing the Fighters Pass Vol. 2 available from 29/01/2020.\n\nIncludes:\nMii Fighter Costume\n・ Ancient Helm\n・ Ancient Soldier Gear (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F016",
+        "ids": [
+            "01006A800016F016"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Purchase Bonus Ancient Helm + Gear",
+        "nsuId": 70050000018974,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200129,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
     "70050000019994": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0012293845bf53728d0aeb28fb265e5a9d56443695badc2992781a65001646c.jpg",
         "category": null,
@@ -2208,6 +4388,1041 @@
         "ratingContent": [],
         "region": null,
         "releaseDate": 20200320,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000020823": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25fae08cd170a601f49a5045c6f07e43efb15b81f5a9aa10cce689860f9d3bfd.jpg",
+        "category": null,
+        "description": "A Mii Brawler costume of Ninjara from ARMS is now available, complete with trademark green hair, silver goggles and blue mask! \nBecome the \"student of stealth\" and take control of the fight with style!\n\nContents\n\nMii Fighter Costume\n・ Ninjara Wig\n・ Ninjara Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F038",
+        "ids": [
+            "01006A800016F038"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Ninjara Wig + Outfit",
+        "nsuId": 70050000020823,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000020824": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/013b85141e6cbfc7f8a1ea5c9184fa9400a844da4b5301cd384bbddbdb52a425.jpg",
+        "category": null,
+        "description": "A Mii Brawler costume is now available of the happy-go-lucky, carefree member of the Squid Sisters, Callie from the Splatoon series! When creating a Mii, don't forget the mole under the left eye! Stay fresh!\n\nContents\n\nMii Fighter Costume\n・ Callie Wig\n・ Callie Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F039",
+        "ids": [
+            "01006A800016F039"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Callie Wig + Outfit",
+        "nsuId": 70050000020824,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000020825": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a66f1e4c82f4aeb5537e50d81035def08eeefae471ee4e2c0ddccd3eac414a2.jpg",
+        "category": null,
+        "description": "A Mii Gunner costume is now available of the cool, calm and collected member of the Squid Sisters, Marie from the Splatoon series! Anyone who feels like a Turf War battle can blast away with a Hero Shot! Stay fresh!\n\nContents\n\nMii Fighter Costume\n・ Marie Wig\n・ Marie Outfit (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F03A",
+        "ids": [
+            "01006A800016F03A"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Marie Wig + Outfit",
+        "nsuId": 70050000020825,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000020826": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee8dc973d56e82802c26e7fbe3125703b85b359ddd17907dd1e7c302165001d8.jpg",
+        "category": null,
+        "description": "Vault Boy's costume from the Fallout series is now available for Mii Gunners! The jumpsuit, blonde hair, and disarming smile have been re-created perfectly. Control Vault-Tec Corporation’s mascot, equipped with a futuristic sidearm, and join in the battle!\n\nContents\n\nMii Fighter Costume\n・ Vault Boy Mask\n・ Vault 111 Jumpsuit (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F03B",
+        "ids": [
+            "01006A800016F03B"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Vault Boy Mask + Vault 111 Jumpsuit",
+        "nsuId": 70050000020826,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000020827": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa1f626493e511e10bc999d6a467f536692e4815b4d4c92fde8df77fbd53541b.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Heihachi from the Tekken series is now available for purchase. That spiky hair and embroidered tiger on the black gi are really intimidating! The King of Iron Fist is not a title easily claimed — take out your rivals and prove yourself worthy!\n\nContents\n\nMii Fighter Costume\n・ Heihachi Wig\n・ Heihachi Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F03C",
+        "ids": [
+            "01006A800016F03C"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Heihachi Wig + Outfit",
+        "nsuId": 70050000020827,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000021152": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6f6f8c55ab4e2346ba55b855a42c20177bfb3cf3cf07e948c6d36f441e3d3b0.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・ All Primaries x10\n・ All Supports x10\n・ Rematch x5\n・ Sluggish Shield x10\n・ Shield Spacer x10",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F07B",
+        "ids": [
+            "01006A800016F077",
+            "01006A800016F078",
+            "01006A800016F079",
+            "01006A800016F07A",
+            "01006A800016F07B"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Spirit Board Battle Set 3 - For Targeting Specific Spirits",
+        "nsuId": 70050000021152,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200626,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 15728640,
+        "version": null
+    },
+    "70050000021153": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84389ab9fa69110eaed4ef395f19e5dd2e9c2bac95e19bbd5682cbda2d513e5f.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・ 3000 Gold\n・ Classic Ticket x5",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F07D",
+        "ids": [
+            "01006A800016F07C",
+            "01006A800016F07D"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Vault Shopper Set 2 - Classic Tickets & Gold for Music, Mii Costumes and More",
+        "nsuId": 70050000021153,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201009,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 6291456,
+        "version": null
+    },
+    "70050000021154": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/edc8be2d6f53ed3ce3299494a6cea10f379ee0b9f17dadd789499e0c80478c29.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・ 3000 SP\n・ Rematch x5\n・ Damage 50% x5\n・ Weaken Minions x5\n・ Health Drain x5",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F082",
+        "ids": [
+            "01006A800016F07E",
+            "01006A800016F07F",
+            "01006A800016F080",
+            "01006A800016F081",
+            "01006A800016F082"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Spirit Board Battle Set 4 - For Powerful Enemies",
+        "nsuId": 70050000021154,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201217,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 15728640,
+        "version": null
+    },
+    "70050000021155": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac10dfd6881287896dd30dc1f74d269540eb29e3c2bffc13ea2a4e781f669581.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・ Random Ace-class primary spirit x1\n・ Random Legend-class support spirit x1",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F084",
+        "ids": [
+            "01006A800016F083",
+            "01006A800016F084"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Spirit Set 1 - Legend-class Support & Ace-class Primary",
+        "nsuId": 70050000021155,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210304,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 6291456,
+        "version": null
+    },
+    "70050000021156": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/94dc85ba47d5ef54c7ad7f2a9496c7c53eaffd97c90ac8f27d584c21fa8a6721.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・ Random Legend-class primary spirit x1\n・ Random Ace-class support spirit x1",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F086",
+        "ids": [
+            "01006A800016F085",
+            "01006A800016F086"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Spirit Set 2 - Legend-class Primary & Ace-class Support",
+        "nsuId": 70050000021156,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210623,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 6291456,
+        "version": null
+    },
+    "70050000021157": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b61292afbe6f7a55d19cd74991f53b6ddb14aa3eabaca04d782ce9332b33680.jpg",
+        "category": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n・ 3000 SP\n・ Snack (L) x30",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F088",
+        "ids": [
+            "01006A800016F087",
+            "01006A800016F088"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Spirit Training Set 2 - Reaching Lv. MAX",
+        "nsuId": 70050000021157,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20211013,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 6291456,
+        "version": null
+    },
+    "70050000023145": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/573d2d4f09fd80507b7d28f65ec9d4e61ccf7c8bfb6b203d18efb1f9ec2a365c.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of the Creeper from the Minecraft series is now available. This is for Mii Brawlers, so unleash punches and kicks that can be seen only in Smash! Fill your opponents with fear as you take on the appearance of this dreaded green terror!\n\nContents\n\nMii Fighter Costume\n・ Creeper Mask\n・ Creeper Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F03D",
+        "ids": [
+            "01006A800016F03D"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Creeper Mask + Outfit",
+        "nsuId": 70050000023145,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201014,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000023146": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ed3b652aea18c23dd593ed75a95e64d8c72872e064b3ade52d84a132a6c688f.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of the Pig from the Minecraft series is now available! The cute eyes, nose, and that piggy frame all call back to the original game. As a Mii Brawler, deliver a fierce (pork) chop to your opponents!\n\nContents\n\nMii Fighter Costume\n・ Pig Mask\n・ Pig Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F03E",
+        "ids": [
+            "01006A800016F03E"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pig Mask + Outfit",
+        "nsuId": 70050000023146,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201014,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000023147": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bda5a48018440848ef7868cd57a2e41875379064386869ccb43bb25244e8c55c.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of the Diamond Armor from the Minecraft series is now available for Mii Swordfighters! With the sturdy Diamond Armor equipped and trusty Diamond Sword in hand, bring the battle to your opponents, and see who will survive the night!\n\nContents\n\nMii Fighter Costume\n・ Diamond Helmet\n・ Diamond Armor (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F03F",
+        "ids": [
+            "01006A800016F03F"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Diamond Helmet + Armor",
+        "nsuId": 70050000023147,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201014,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000023148": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35281cb766debf5720fef6c15463f509ba537ef3d686da937578cd7f8ccd0340.jpg",
+        "category": null,
+        "description": "A Mii Swordfighter costume of Travis from the NO MORE HEROES series is now available! You'll fight with his treasured Beam Katana, as any swordfighter should! The costume comes with sunglasses and a tiger-print jacket so you can strike your foes down in style.\n\nContents\n\nMii Fighter Costume\n・ Travis Wig\n・ Travis Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F040",
+        "ids": [
+            "01006A800016F040"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Travis Wig + Outfit",
+        "nsuId": 70050000023148,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201014,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000023149": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c8182a7b3809e6d9948ad2cda881863b939f6c693dd77d3c4f1688992f7ea1e.jpg",
+        "category": null,
+        "description": "A Mii Brawler costume of Bomberman from the Bomberman series is now available! Unlike Assist Trophy Bomberman, this one is for fighters who like to get up close and personal. His colour is determined by the colour of the Mii used. Pick whatever suits your fancy!\n\nContents\n\nMii Fighter Costume\n・ Bomberman Mask\n・ Bomberman Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F041",
+        "ids": [
+            "01006A800016F041"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Bomberman Mask + Outfit",
+        "nsuId": 70050000023149,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201014,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000023150": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e901cc67081d4fda5065ace63d6aa96097bc69312193fe3cda94639018e84ad.jpg",
+        "category": null,
+        "description": "A Mii Swordfighter costume of Gil from The Tower of Druaga series is now available! Adorn yourself with Gil's mighty golden armour that turns courage into strength, and embrace his unbreakable will to climb to new and heady heights!\n\nContents\n\nMii Fighter Costume\n・ Gil's Helmet\n・ Gil's Armor (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F042",
+        "ids": [
+            "01006A800016F042"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Gil's Helmet + Armor",
+        "nsuId": 70050000023150,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201014,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000024367": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15bb9105e925d0937ff8bfc2b2df6b382f27922bced05567c3ff10fc1174ea32.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Barret from FINAL FANTASY VII is now available, for Mii Gunners only. Toting his arm-mounted gatling gun, the leader of Avalanche doesn't take any flack. Anyone who gets on his bad side is getting blasted to the ends of the planet!\n\nContents\n\nMii Fighter Costume\n・ Barret's Outfit (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F043",
+        "ids": [
+            "01006A800016F043"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barret's Outfit",
+        "nsuId": 70050000024367,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201223,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000024368": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4ce6060493d804b43255463daa99ae42b1e4b937ee43b1ecb88e3847b2e0e3f4.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Tifa from FINAL FANTASY VII is now available, for Mii Brawlers only. Wearing her signature tank top and miniskirt, her martial arts strike fast and true. Whip out a Soaring Axe Kick for that \"Somersault\" Limit Break feeling!\n\nContents\n\nMii Fighter Costume\n・ Tifa's Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F044",
+        "ids": [
+            "01006A800016F044"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Tifa's Outfit",
+        "nsuId": 70050000024368,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201223,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000024369": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16c5b393c68e5e25188ca994d8b638e95e7c12030b7ed065b6581329885ccf14.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Aerith from FINAL FANTASY VII is now available, for Mii Swordfighters only. Her pink dress and red jacket are as stunning as ever, but you'll get to see a whole new side to her in Smash. Whirl that staff like there's no tomorrow!\n\nContents\n\nMii Fighter Costume\n・ Aerith's Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F045",
+        "ids": [
+            "01006A800016F045"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Aerith's Outfit",
+        "nsuId": 70050000024369,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201223,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000024370": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4ad03db6d0424fb2f8753ce83591a7cf78fcc3b1117553d285b5a3aa8cc7ff66.jpg",
+        "category": null,
+        "description": "A Mii Fighter hat based on chocobos from the FINAL FANTASY series is now available for purchase. Those fluffy feathers, those huge round eyes... Can your opponents handle this level of cuteness?! Set your Mii colour to yellow if you really want to go full chocobo!\n\nContents\n\nMii Fighter Costume\n・ Chocobo Hat\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F046",
+        "ids": [
+            "01006A800016F046"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Chocobo Hat",
+        "nsuId": 70050000024370,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201223,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000024371": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3a00d4beb144622d1f9e4d8db80787a4141fd45a5344b70d210a25b8279bec61.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Geno from Super Mario RPG: Legend of the Seven Stars is now available. The outfit part is for Mii Gunners only. Geno descended from above to repair the Star Road. Leap into battle with his billowing blue cape to really Smash out in style!\n\nContents\n\nMii Fighter Costume\n・ Geno Hat\n・ Geno Outfit (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F047",
+        "ids": [
+            "01006A800016F047"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Geno Hat + Outfit",
+        "nsuId": 70050000024371,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201223,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000025915": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90516d84443bba8e56399bc480fcc5f458c248c30c8d06f2514ee3136f355ecf.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Arthur from the Ghosts 'n Goblins series is now available, for Mii Swordfighters only. Arthur sports the armour and lance that are the pride of any knight. He won't lose his armour or turn to bones when he takes damage, so you can breathe easy and keep fighting to the bitter end!\n\nContents\n\nMii Fighter Costume\n・ Arthur's Helm\n・ Arthur's Armor (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F048",
+        "ids": [
+            "01006A800016F048"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Arthur's Helm + Armor",
+        "nsuId": 70050000025915,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210305,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000025919": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/19059777f74ba64944c3af8362de55e5b2e0eca74b36a5a4e0ebc29dc7dfc317.jpg",
+        "category": null,
+        "description": "A Felyne Hat for your Mii Fighter to wear is now available! Get ready to claw your way to the top in the guise of one of these lovable critters from the MONSTER HUNTER series. You'll look so cute and fluffy that your opponents won't know what's hit them!\n\nContents\n\nMii Fighter Costume\n・ Felyne Hat\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F049",
+        "ids": [
+            "01006A800016F049"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Felyne Hat",
+        "nsuId": 70050000025919,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210305,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000025928": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfd44e93d92e90c905606abf566b2b5d9c712c0f52d39a53a98fba49fc559606.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume based on hunter gear from the MONSTER HUNTER series is now available, for Mii Swordfighters only. They say the gear makes the hunter, so suit up, brandish your Hunter's Knife and show your opponents that the hunt is on!\n\nContents\n\nMii Fighter Costume\n・ Hunter's Helm\n・ Hunter's Mail (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F04A",
+        "ids": [
+            "01006A800016F04A"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hunter's Helm + Mail",
+        "nsuId": 70050000025928,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210305,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000025932": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e650c8b404bc772ab19886732793c4ce1cbd90ac68ae0d6febef65f43f81d701.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume based on Rathalos gear from the MONSTER HUNTER series is now available, for Mii Swordfighters only. Grab your fiery one-handed sword and take on any opponent that comes your way. You could even challenge a Rathalos in Rathalos gear and beat it at its own game!\n\nContents\n\nMii Fighter Costume\n・ Rathalos Helm\n・ Rathalos Mail (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F04B",
+        "ids": [
+            "01006A800016F04B"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rathalos Helm + Mail",
+        "nsuId": 70050000025932,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210305,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000027892": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73aad5885f40dd62102484d202627d787f694241987afac2c29264f905834de7.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Dante from the Devil May Cry series is now available. With his silver hair and long red coat, Dante's look is a perfect fit for Mii Swordfighters. Wield Alastor, Dante's magical sword, to slash your way to stylish victory!\n\nContents\n\nMii Fighter Costume\n・ Dante Wig\n・ Dante Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F04C",
+        "ids": [
+            "01006A800016F04C"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Dante Wig + Outfit",
+        "nsuId": 70050000027892,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000027893": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a41d04f757f6c2cb49439e24219ef7eabbf940a7dda7b24479dee434ec4c14e3.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Shantae from the Shantae series is now available. Don Shantae's purple ponytail and genie garb and dance your way to victory with all the charms of this beloved character! The costume also comes with a popular song from the series.\n\nContents\n\nMii Fighter Costume\n・ Shantae Wig\n・ Shantae Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.\n\nMusic\n・ Burning Town\nUsable after purchase by going to Vault → Sounds or by setting it in My Music.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F04D",
+        "ids": [
+            "01006A800016F04D"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Shantae Wig + Outfit",
+        "nsuId": 70050000027893,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000027895": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55f29fdfc9286173780d02334c99c54a4ba5e7ce94a8113fd816fb3a5d4a79ce.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of the Dragonborn from The Elder Scrolls V: Skyrim is now available. Heft your iron armour and wield your blade with all the proud strength of a Mii Swordfighter to show the world of Smash the true power of the Dragonborn!\n\nContents\n\nMii Fighter Costume\n・ Dragonborn Helm\n・ Dragonborn Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F04E",
+        "ids": [
+            "01006A800016F04E"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Dragonborn Helm + Outfit",
+        "nsuId": 70050000027895,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000027896": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46d120f527f99032655fd5de065ebe9cad5b4be38099ebe1d1261e78dc390f9d.jpg",
+        "category": null,
+        "description": "A Mii Fighter costume of Lloyd from Tales of Symphonia is now available. Grab an extra sword-type item to wield two blades for twice the power! You could even try to replicate attacks from the series with Smash moves. Here's a tip: Use the Mii Swordfighter's Blurring Blade attack to feel like you're using Lloyd's move Sword Rain instead!\n\nContents\n\nMii Fighter Costume\n・ Lloyd Wig\n・ Lloyd Outfit (for Swordfighters)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F04F",
+        "ids": [
+            "01006A800016F04F"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Lloyd Wig + Outfit",
+        "nsuId": 70050000027896,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210630,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000030084": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5cdb8f69e1e2f27d77f73ec05eaa1ea6b37d0c89c0deee79bbbd2c2a4d056cf6.jpg",
+        "category": null,
+        "description": "Meow! (A Mii Fighter hat based on me, the charming Judd from the Splatoon series, is now available.)\nMrowr! (Hone your Smash skills while giving your best Judd-style judgement of how the battle's going. I'm expecting greatness from you!)\n\nContents\n\nMii Fighter Costume\n・ Judd Hat\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F050",
+        "ids": [
+            "01006A800016F050"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Judd Hat",
+        "nsuId": 70050000030084,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20211019,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000030085": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e1f9b5be84e4e33ca8c3f2c28eadedff0c9be0d3a76348218fe11cf08e123cd0.jpg",
+        "category": null,
+        "description": "A Mii Fighter wig based on the Octolings from the Splatoon series is now available. This wig combines the squishy appeal of octopus tentacles with a suspicious visor to really up your villain vibes and complete your transformation into an elite Octarian fighter!\n\nContents\n\nMii Fighter Costume\n・ Octoling Wig\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F051",
+        "ids": [
+            "01006A800016F051"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Octoling Wig",
+        "nsuId": 70050000030085,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20211019,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000030086": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff98566f3d2419cae1b3c230676f90ea349e0d1ae3ff22b9786393464309226c.jpg",
+        "category": null,
+        "description": "The Doom Slayer's armor is now available for Mii Gunners! Join the battle and rock the iconic green armor and UAC pistol from the DOOM series!\n\nContents\n\nMii Fighter Costume\n・ Doom Slayer Helmet\n・ Doom Slayer Armor (for Gunners)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01006A800016F052",
+        "ids": [
+            "01006A800016F052"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Doom Slayer Helmet + Armor",
+        "nsuId": 70050000030086,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20211019,
         "rightsId": null,
         "screenshots": null,
         "size": 3145728,
@@ -2245,6 +5460,43 @@
             "https://img-eshop.cdn.nintendo.net/i/3a50a83ac829c659fd3b706dbc9b216bfeb35c53b9c7c761eb274552f532c444.jpg"
         ],
         "size": 627048448,
+        "version": null
+    },
+    "70050000032841": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cea711487fa16d0ee9b66e5fb49e06742f66b91e49c05e55086506611f545a56.jpg",
+        "category": null,
+        "description": "■ Golden Dash Cup\n・ Paris Promenade (Mario Kart Tour)\n・ Toad Circuit (Nintendo 3DS)\n・ Choco Mountain (Nintendo 64)\n・ Coconut Mall (Wii)\n\n■ Lucky Cat Cup\n・ Tokyo Blur (Mario Kart Tour)\n・ Shroom Ridge (Nintendo DS)\n・ Sky Garden (Game Boy Advance)\n・ Ninja Hideaway (Mario Kart Tour)",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100152000023001",
+        "ids": [
+            "0100152000023001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Mario Kart 8 Deluxe – Booster Course Pass: Wave 1",
+        "nsuId": 70050000032841,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20220318,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a68325b461aa2df4bc842c3b17f20f7d484125388fb3430c99e7a96a6a242422.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0434b60cc0bfb64e69fef69156e30183f470509058a99afef0f708013e0c2061.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74dde0fdd29e6b58681f622a7b438916e44fa2d8f8feda039666794327d1e280.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa69edf0c5c16db1b3b14546e70a73096d586e6bf2f46af5c3d7283a6294c148.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d2c81cdad28b8966233944cf1be3a24f13abfbffc6bcbce40b17dbb727b0f49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4561f945ee33d2f89823e865dc13ac859667f0c31a2d8b768130bf2517f78c31.jpg"
+        ],
+        "size": 3145728,
         "version": null
     },
     "70050000035358": {
@@ -2422,6 +5674,76 @@
             "https://img-eshop.cdn.nintendo.net/i/35631b205ae2a72994413ceefd22f81f35f9249fb8368f62f6c856262fedc69c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/786bbd412bf08b1b20c9592009af201a70f19c497359082bab94bf8690ccc962.jpg",
             "https://img-eshop.cdn.nintendo.net/i/bc84f4417cbb10aa5a1bb6fbbfb0b93b1eb3e0e2e334543d925a13a8c8ed60be.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000038813": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a44d77e616c864344d5e1dbf09b1bcb77f23d53c4805b14aa629156e14aaf5dc.jpg",
+        "category": null,
+        "description": "This item set allows you to obtain the following weapons and Bond Rings related to the group known as the Order of Heroes:\n\n- the sword Fólkvangr\n- the lance Fensalir\n- the axe Nóatún\n- Alfonse's Bond Ring (S-rank)\n- Sharena's Bond Ring (S-rank)\n- Anna's Bond Ring (S-rank)\n\nTo receive the Order of Heroes Item Set, visit the Somniel, which forms the protagonist's base of operations and is first accessible after completing Chapter 3 of the game's story.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100A6301214F002",
+        "ids": [
+            "0100A6301214F002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Order of Heroes Item Set",
+        "nsuId": 70050000038813,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20230405,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000039077": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbb329731b74f2a473befda699d8f1c9e8cffc20bc8e977c503b0939a7a43a9d.jpg",
+        "category": null,
+        "description": "Scheduled for release on 20 January 2023\n\nThis DLC pack contains the following:\n\n- Additional Emblems\nAdds the Bracelet of Emblem Edelgard (with Dimitri and Claude). Allies who equip it will be able to learn a skill that increases obtained experience points by 20%, among other benefits. This Emblem is quite special, consisting of three characters residing in one bracelet. To add this Emblem to your army, keep an eye out for an event at Lookout Ridge on the Somniel from Chapter 7 onwards.\nAdds the Bracelet of Emblem Tiki. Allies who equip it will see their stats increase more easily when levelling up. To add this Emblem to your army, complete her battle in the newly added Divine Paralogues from Chapter 7 onwards.\n\n- Adventuring support items\nYou'll be able to pick up Boots, Seraph Robe, Energy Drop, Spirit Dust, Secret Book, Speedwing, Goddess Icon, Dracoshield and Talisman when you visit the Somniel from Chapter 5 onwards.\n\n- New accessories\nYou'll be able to pick up a Rare Set, Frilled Band, Big Ribbon, Single Earring and Round Specs from the Boutique on the Somniel from Chapter 6 onwards.\n\n- Silver Card\nSimply owning it is enough to give you a 30% discount when shopping at the Armory and Item Shop. You can obtain it in one of the newly added Divine Paralogues.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100A6301214F001",
+        "ids": [
+            "0100A6301214F001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fire Emblem Engage - DLC Pack 1",
+        "nsuId": 70050000039077,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20230120,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a99618aa9479caba2e98d9c9a970fdd816f83e2b1649ac7e2e9abba56be61af1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/231016b561f4eedea1f4bcef86bce85adb6809cb4ff71128a5f02086e396c586.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8dd1743cf0a16c1c2bbbbbbd88daf79f16a7a8d4dc7cda982b0d6ab44ded25e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e17dd1a143e2ff584740f5a3c55fdb4cf230a407a7ddcef1b9969689899a756e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/705df797807fbada49fd854b73b122996f6eeaccd28bca101e3181ab14bda61c.jpg"
         ],
         "size": 3145728,
         "version": null
@@ -3328,6 +6650,87 @@
             "https://img-eshop.cdn.nintendo.net/i/f755a72ef0036797daabe3e103c7a8efa2f7d7445a2304b5de37cea350814d7a.jpg"
         ],
         "size": 3145728,
+        "version": null
+    },
+    "70050000073731": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2f4272ffa71e95227de8d6855450107d8f91acc4bdf6af1da6169d2777588004.jpg",
+        "category": null,
+        "description": "Join Shulk and his allies in this sprawling RPG classic. In the aftermath of a devastating invasion, embark on a journey that will take you beyond the horizon. Can you change the future, or is your race doomed to extinction?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Uncover the secrets of the Monado and save the world",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition  Upgrade Pack",
+        "nsuId": 70050000073731,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260609,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000074399": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f68dbc003845a73241f6cbbf69ac4bddb954e68d0bff6c308a189866d83565a4.jpg",
+        "category": null,
+        "description": "Join Noah, Mio and their friends as they traverse epic landscapes, battle ferocious creatures and fight to break the never-ending cycle of violence that binds their homelands.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "A tale of life, tying past to future",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition Upgrade Pack",
+        "nsuId": 70050000074399,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000074400": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25418a78a4e449d32f27d8aebe80b1678e1a66dae840f5faa1f953a82470d571.jpg",
+        "category": null,
+        "description": "Explore an endless ocean of clouds, where the last remnants of civilisation live on the backs of colossal beasts called Titans. Experience the story of Rex and Pyra, a mysterious being known as a Blade who grants him tremendous power.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Journey to the birthplace of humanity",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition Upgrade Pack",
+        "nsuId": 70050000074400,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260730,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
         "version": null
     },
     "70050000075083": {
