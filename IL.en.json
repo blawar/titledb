@@ -1143,6 +1143,96 @@
         "size": 884998144,
         "version": null
     },
+    "70010000006022": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce0ba35a894e661a4bfa0bed9c9b43426115b0c38a12906171110c5d43760f85.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Charge into battle with Hyrule’s mightiest legends in Hyrule Warriors: Definitive Edition, exclusively for Nintendo Switch. Cut down entire legions of enemies using powerful, over-the-top Dynasty Warriors-style moves, and switch between multiple fan-favourite characters to enhance your strategies.\n\nThis new version brings every map, character, and mission from both Hyrule Warriors on Wii U and Hyrule Warriors: Legends on Nintendo 3DS family systems together, including all the original premium downloadable content. Plus, new Link and Zelda outfits based on The Legend of Zelda: Breath of the Wild are included.\n\nPlay Hyrule Warriors anytime, anywhere with anyone, with 29 playable characters, up to full 1080p HD graphics in TV mode, and two-player multiplayer on a single system – made possible by sharing Joy-Con controllers.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d75a710f3feacbaa1be6e277648b2cb04ec61edf6a9e4c67f4a1d1321c0b57a.jpg",
+        "id": "0100AE00096EA000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Hyrule Warriors: Definitive Edition",
+        "nsuId": 70010000006022,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "0100AE00096EA0000000000000000004",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2f76fd3b200082e2c08f1c9d3dd4775782dd3262e0a3f1c314140d9ea66b5ab1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38e90471209d88e32f124f8aef39d84d9ab09f5086bc68b83cd46c7b67bb3f79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1243daba352f07d2c996dd91252bfa8fa6dfc2aaaf7cb1670c330f7fbeb0c2ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e41d634ba3249ffdc7764afe9eb7ab90104609f55b30798bfcab0961db09dd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88b6e764e3cfbf5b56457b7518a1662ff87f31d5d68ac93f2f046839f2bfb332.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13ab4d2e71e8065eaf4f0b212c4d1720eb9e83a4cefe6bb9f22cd87701ab5ac8.jpg"
+        ],
+        "size": 13875806208,
+        "version": null
+    },
+    "70010000006412": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/324ac046a1e5b2fa2c121e117eb09e438a64c29311f2073363df29c7af69e59c.jpg",
+        "category": [
+            "Platformer"
+        ],
+        "description": "Run, leap and stomp your way through more than 160 2D side-scrolling courses in traditional Super Mario style with New Super Mario Bros. U Deluxe for Nintendo Switch!\n\nUp to four players can work together to grab coins and topple enemies on their way to the Goal Pole, or see who can nab the most gold in frantic, friendly – and above all, fun – competition!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/658a846bafd5446bbdfc163c46937152887c6c39eb5f1e6b2337ddec3352b524.jpg",
+        "id": "0100EA80032EA000",
+        "intro": "All-time classic Super Mario, anytime, anywhere with anyone!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "New Super Mario Bros.™ U Deluxe",
+        "nsuId": 70010000006412,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100EA80032EA0000000000000000004",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9fe38caf7db56f06fd51ce21baee7725f61f5119e5c42561d13c7fd3de5fca5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0ce5261cc03cc0fd89644462376b17f002f558fbba197d72736a9a54488b215.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/720f196bf941c2301168fb8e98b4c1d04d8994190caa703b989ea87dd37326ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55f083a682541e8b2552fee37a6a0a0e6ecc2205828791a896d0de9de5d04b54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af942fee1beaa55f22f11f586f54c16e335eddc4df1d43baac8f5fb3a1eab4db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19a4884b7a70c597b4800fdda2f62d1b9784c3b65281e155bfc59649ed63716c.jpg"
+        ],
+        "size": 2715811840,
+        "version": null
+    },
     "70010000006501": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8f6dae2970fd5b7955bce44c423f0c76a348cecef25e53d620ebd0126013f8c.jpg",
         "category": [
@@ -1183,6 +1273,187 @@
             "https://img-eshop.cdn.nintendo.net/i/a56982377dc282e9dd95cc95c1e3d4a951466c567f4d1e548b3daae8fdb43c00.jpg"
         ],
         "size": 13461618688,
+        "version": null
+    },
+    "70010000006762": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d6ae871b11ac87da2e19063b7d224e0d489404c6d5e848154d0b941e3b4bb39.jpg",
+        "category": [
+            "Action"
+        ],
+        "description": "If you purchase Bayonetta on Nintendo eShop, you can get Bayonetta 2 for £25  / €30 / SEK 330 / DKK 210 / NOK 330 / CZK 750 / 119,80 PLN / ZAR 450.\n\nBayonetta comes to Nintendo Switch!\nIn a coffin submerged at the bottom of a murky lake, a witch is reborn. Discover or relive the epic Bayonetta anytime, anywhere on Nintendo Switch!\n\nOriginally released in 2010, the unforgettable first chapter of the Bayonetta saga introduced the world to \"climax action\", an explosive blend of dynamic action and saucy style. Armed with a gun in each hand and one on each foot, Bayonetta destroys her opponents with combo attacks that are as beautiful as they are brutal.\n\nDodge enemy attacks with perfect timing to activate Witch Time, leaving your slowed-down opponents defenceless against your barrage of kicks, blows and bullets, then finish them off with a devastating Torture Attack. No angel will stand in Bayonetta’s way.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8dc9d52abe5f25dcbd586d62a9e67254d03d6aa40d7607a8dda4b81d4a092172.jpg",
+        "id": "010076F0049A2000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Bayonetta™",
+        "nsuId": 70010000006762,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 18,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20180216,
+        "rightsId": "010076F0049A20000000000000000003",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/077ace3d7dc181d74db889e60e5ce8e68deff86d32dee50ff48292481d74e1dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56371d7c4e65630dc67a0dacc28f804299fb48b1f0116fe6d0869afdda786faa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c8033eaf1501102e1dda0c12b11f146c98c441c2991a27e01cc846d26ed8d6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28c1a2b94e51b6add881df8b0b2fec7c1b23a70ba8b9483d9a49e16e74417936.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2875d3a70c970971b9e7b3343f0c6aad4571d712a167a5f28d8bb04ac4c9abf4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/977049aa74b53213de472f9fbb2cf97547e50fba71f38f4297c4fce45306a40e.jpg"
+        ],
+        "size": 9441378304,
+        "version": null
+    },
+    "70010000006927": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec63941c1a8e96d45a92d2c8e0a9433652b6da9f0fe1e6f65aa0654c2c3753b6.jpg",
+        "category": [
+            "Action",
+            "Platformer"
+        ],
+        "description": "The pink puff is back – in HD – and he's not alone.\n\nKirby is back – and he’s finally on the Nintendo Switch console in HD! But this time, he’s not alone. Recruit enemies by hitting them with hearts, and gather helpers for a party of up to four characters. On top of that, you can join with up to three friends for a different kind of team-up action!\n\nFeatures:\n- Recruit up to three enemies as helpers by hitting them with hearts\n- Returning copy abilities include Sword, Fire, Water, Bomb, Cleaning and many more!\n- Imbue copy abilities with different elements, such as wind, water, fire and electricity, by borrowing or giving them to helpers to add more attack power, unleash powerful attacks, or solve puzzles\n- Up to four players can join in with the horizontal Joy-Con controller configuration, or eight Joy-Con with four Joy-Con grips\n\nThis game also supports Japanese\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff44624d05899c24ef7e74dba3e8a43118641ffaab9f379425037608d3fc8f34.jpg",
+        "id": "01007E3006DDA000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "name": "Kirby™ Star Allies",
+        "nsuId": 70010000006927,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "01007E3006DDA0000000000000000004",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0bc008abea8730d4b4871e42284fb419d8956699a96a37050954916e6be1bbbd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e8c7d30fcecaeb5120f7fa19c1fb296ccdedbf7753fb1f6c478db510aaa2b90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2d59187e5b4ddf4388e2d05ffabb2d48682f4779570d3ad2cd3d4c15daaedf5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41e506bda5153afe21efd596917777d8ec39d28253c38bee3cf1786a25217bc6.jpg"
+        ],
+        "size": 4242538496,
+        "version": null
+    },
+    "70010000007605": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e815b3fc125676ccb08c809b2e6161e725d4b14378c3c15d960908572578fb61.jpg",
+        "category": [
+            "RPG",
+            "Strategy"
+        ],
+        "description": "Become the hero the world needs in Fire Emblem: Three Houses for Nintendo Switch!\n\nFire Emblem: Three Houses takes place on Fódlan, where the Church of Seiros exercises great power over the land and its people. As the main character, you must not only fight on the battlefield, but also can move your character freely and interact with other characters to build relationships and gather information at some parts.\n\nThis turn-based tactical RPG will put new strategic twists on battling, with formations of troops supporting individual units on the battlefield. Do you have what it takes to survive and conquer in this brand new Fire Emblem game? \n\nFeatures:\n- A traditional turn-based tactical RPG that puts new twists on strategic battling. Now when the player manoeuvres a unit, formations of troops move with them and support them in battle\n- In some parts, the player can move the main character freely, and interact with other characters and gather information\n- The game is set in a new world – Fódlan, where the Church of Seiros exercises great power over the land and people\n- Your protagonist meets three main characters – Edelgard, Dimitri, and Claude – who play important roles in the story",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/11c6f71a52f1ac7282fe02ef9b96e0db42f7f664fc694be5bff744becd79894d.jpg",
+        "id": "010055D009F78000",
+        "intro": "Three realms, three houses, your decision.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Fire Emblem: Three Houses",
+        "nsuId": 70010000007605,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d012eb5f65948f66909e99aaa9b2e1bcccad4f4b3eab8d338d71447b1ddf454e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/caf60b508c9d0ef5148ca944c32bef0c8edeb00da9a693f193b3d1c574059b21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8778910e4a2d6756990f5a549d1820520fbaa0b183cb1198237df57d953fef98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23ceb5f2246be9383f68f874a8c2a4ddfed882e4b8bbcb2e0736a75f2c43909e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ea766181b0c6cc949fd1e25c8503350be3699781295e61f2a166e87cdef13e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0387c0170035addb179b4293b5a2f1f40e3a277d82511c0eb7a96838a9ca4439.jpg"
+        ],
+        "size": 12402556928,
+        "version": null
+    },
+    "70010000008108": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91e323fc3514ff627131c1dbbbb151e0f45f6aa0e8473c3cc67347019f96ce57.jpg",
+        "category": [
+            "Multiplayer",
+            "Action"
+        ],
+        "description": "Dash across the map and rescue wobbly citizens in wacky ways in The Stretchers! Team up with a friend and let the frantic fun ensue as you avoid traps and solve puzzles while helping those who need a hand! \n\nRescue injured civilians, known as Dizzies, from all kinds of bizarre situations! Drive to each scene in your ambulance – but be prepared, it won’t be a smooth ride. Break through walls, soar through the sky and face other wild perils on your way to each rescue!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fd194f25187e886d8d9c5b2171e084762bf990cb5bd3daf8e95568e112c089e9.jpg",
+        "id": "0100AA400A238000",
+        "intro": "Frantic co-op fun",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "zh",
+            "zh"
+        ],
+        "name": "The Stretchers™",
+        "nsuId": 70010000008108,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20191108,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dd8e946d89f34af3bf3c742980466ed2c5baf11b135cb2691fe8c5e423f6554d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/777a5e7fdeab2bdbbbd46935fa9792b30fa73d99449d63cbfd4d38ba04da8bed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fe031fd4cc57ce552da5dfb3682129d024c14c2a1c14b15399bbbeb6254b60b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac3f8e8d4700a188a7a1d899b15cb44d4221ff899d191ee7097d8313f55ec9c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bed78384c6679c53d6566b6dbfdecf9a24de195546707751f451ccd86f8e671.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6511489bd7046c07cd41bffb4856f89871f2f0cc92329253e74bb48a7e5c48c5.jpg"
+        ],
+        "size": 1992294400,
         "version": null
     },
     "70010000008121": {
@@ -1232,6 +1503,135 @@
         "size": 4283432960,
         "version": null
     },
+    "70010000008622": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7eca7e485af5f70042b4c872e1c861ff7bcbd1518669732c9090c4ee40fdebc7.jpg",
+        "category": [
+            "Platformer"
+        ],
+        "description": "Donkey Kong Country: Tropical Freeze is powering up for the franchise’s debut on Nintendo Switch! The invading Snowmads have locked Donkey Kong Island in a deep freeze, and it’s up to the Kongs to thaw things out!\n\nJoin Donkey Kong, Diddy Kong, Dixie Kong, Cranky Kong and Funky Kong as they swim, swing, spring and surf through islands packed with hazards, hidden collectibles, and unforgettable boss encounters! Use each character’s unique moves to explore every corner of each island, unearth special items and even hidden exits.\n\nExclusively on Nintendo Switch, enjoy a chill new mode as groovy surfing simian Funky Kong! He can double jump, hover, perform infinite rolls and even perform infinite underwater corkscrews! Thanks to his sturdy surfboard, even spikes can’t slow him down. With this righteous dude, even stages packed with perils can be smooth surfing.\n\nPlay the whole game by yourself, or partner up with a pal in two-player co-operative mode. Work together as a team and put the Snowmads’ plans on ice!\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c6b5fb5af65974e3067ff4f1fa6e29d9dc7872afa255bf4bba6b1175ec33a3e.jpg",
+        "id": "0100C1F0051B6000",
+        "intro": "Enjoy this funky adventure anytime, anywhere, with anyone!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Donkey Kong Country™: Tropical Freeze",
+        "nsuId": 70010000008622,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "0100C1F0051B60000000000000000004",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fc446b7282d0cba996a6b2123326f3a7851e90abc1aeda8eb1b63844cef5b467.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/448f5b7227253931b5775824127072e82e512a4a9a49e6c971271137bd20a46f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/340c2a39dbd15ef88543bc13a6ec4ad70739b62af09b64c7fec07e90ebaac7b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57d62baeff47e88d9d7a520f6812af0687192eb3298d8bbcd7a0c77527fad20a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ea90afbd2da20b60817de0a00e48fa8b4cc3be21e2e8d43bafb6d3cd0841af8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32d1ab2f3c62423ada07baf41d24444bcbd3645ed2ab36b28f494dbb8f8f58d5.jpg"
+        ],
+        "size": 7162822656,
+        "version": null
+    },
+    "70010000009166": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc95b4e0e528999e9999f97356b0bd7d03707265f3265b1371a424f004e6fa8b.jpg",
+        "category": [
+            "Adventure",
+            "RPG",
+            "Multiplayer"
+        ],
+        "description": "Dragon Quest Builders 2 is headed to Nintendo Switch.  Combining both RPG and crafting gameplay together, this game is all about gathering materials to create things like weapons, buildings, and even entire towns!\n\nWith the help of the mysterious Malroth and other villagers, you’ll be exploring large islands, finding quests, and battling monsters and bosses scattered around the world. Are you prepared to take on the Children of Hargon?\n\nAs a bonus you will receive the Download Version Bonus Set downloadable content containing:\n\nStackable slime\nOrnamental medicinal herb\nOrnamental chimaera wing\nPixelated protagonist\nPixelated prince\nPixelated princess\nLegendary line art\nDragon Quest logo\nSoul Sigil block.\nWater Sigil block\nMoon Sigil block\nStar Sigil block\nSun Sigil block\n\nEnjoy!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/784d4b9be1fc6d2d1572afcc9d830337df2be46ecd623faf1f2f9470d147e4c7.jpg",
+        "id": "010042000A986000",
+        "intro": "Build a new world in Dragon Quest Builders 2!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Dragon Quest Builders 2",
+        "nsuId": 70010000009166,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b5b00b6da456208d0d56d6f40a2f11ab3147151b79d03da25f68db8362776d07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2623d5177506c50061f1aa4991e731bc20dd33b61dacf3365db7f4ba6b49425c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a2971dbde40a613e9e4f5d9cfb688c2efba236500e02f2d0290aea9efc9ba00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46e353c6d1a0a4753d58dfbb96a416f33acc2aa871eb97e8bbed29d897321b2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e950446dbb0f9e57627975ddbbfb5d01a454d4ff34f10c379e07d52d62f0b1cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ecb53ac3779d58103820f0590eae6c235d9146c82b05228142a80665a37005e9.jpg"
+        ],
+        "size": 1923088384,
+        "version": null
+    },
+    "70010000009228": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3c4fdfffeae5451dbbce8c116882da2bae7acf50d1ff57824fb19d30f7357688.jpg",
+        "category": [
+            "Party",
+            "Sports",
+            "Racing"
+        ],
+        "description": "Welcome to Kawawii Island, a paradise resort where friends and family can enjoy 50+ co-op and competitive activities.\n\nThere are all sorts of exciting ways to explore the island, from horseback to buggies, snowmobiles to inline skates. And to add to the fun, up to four players can enjoy visiting and discovering every corner of the island together!\n\n- Kawawii Island is a paradise resort with 50+ co-op and competitive activities\n\n- Explore four huge paradise resorts – Marine, City, Snow, and Mountain – on horseback, underwater, or a variety of other vehicles\n\n- Enjoy leisure activities like Scuba Diving, Horseback Riding, and Marine Fishing\n\n- Try out extreme sports like Sky Diving, Surfing, and skateboarding\n\n- Compete to be the best at a variety of other fun activities like skiing, Beach Volleyball, and Tennis\n\n- Up to four players on one system or local wireless, with variety of control styles, including motion controls\n\n- Share a Joy-Con controller with a friend for instant multiplayer fun\n\n- The Joy-Con Wheel (sold separately) is optional for steering vehicles\n\n- Customise your character with outfits and choose a dog companion from various breeds\n\n- Daily presents include new breeds of dogs or costumes\n\n- Daily challenges appear in sets of three across the island",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0832bb0cc7b14ece3123f520c6475ce103d20e51b3758f700c75aaec2e58d82e.jpg",
+        "id": "0100C1800A9B6000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "name": "Go Vacation™",
+        "nsuId": 70010000009228,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "0100C1800A9B60000000000000000004",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/afd3d7aff994067e027b7133ec48d56c9b7ac843060fd0eb7ad633b983739b60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3050d5642411d93b0fa77e9a9eac81554f87882d73126e239d376d9c6cc24c0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a87263e8f5c886c639a9237b5b12d2c043099818fd3c858c1bb85f575c617d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac990c830db9009811ac618673b9c4cc9395b85b8dbfc840849fdd5e0024cde6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a9679731842364638538545afbc019f6d31f419843681d6c213875aa4ef32b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d683d27ee586bb7cbfa24582da44667977a0ab18d13ccaa6236753e085b95960.jpg"
+        ],
+        "size": 9488564224,
+        "version": null
+    },
     "70010000011607": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/874c7c99a89cbf87da9a4c77bca3a2014f2186a4142aa7e3c0bf218f07086de0.jpg",
         "category": [
@@ -1276,6 +1676,49 @@
             "https://img-eshop.cdn.nintendo.net/i/99ccd91dc46faec59e10da12942a678f2b1e7d250f807316b3318906adcf0da7.jpg"
         ],
         "size": 16095641600,
+        "version": null
+    },
+    "70010000011851": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7251d02fb10414b9f4212717922a3038c0292ceb3c3af9b9a76ec0620e426d7.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "The highly stylised and critically acclaimed Nintendo DS game “The World Ends With You” is coming to Nintendo Switch.\n\nWhen the main character, Neku, suddenly encounters the mysterious girl Shiki, he gets caught up in a deadly game – he’ll be erased from existence if he can’t complete a series of twisted tasks.\n\nTear into each rhythmic battle using the game’s traditional touch controls or Joy-Con controllers for a fresh style of combat! The action-RPG will also include a sizeable new scenario that gets right to the heart of the story.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d9c346d3bd01529967e9b8133218ea4c959793c6ab31f166d047061de0ca61cd.jpg",
+        "id": "0100C1500B82E000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "The World Ends With You® -Final Remix-",
+        "nsuId": 70010000011851,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "0100C1500B82E0000000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5d8043dc83802f5ba14b014616e16805de931ac936b4e0c93aa9b85a125ca127.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d9eb50cbe3c404fd6bfde108604771dab0c7440b947b7dfdf8db4bb124e9bfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b51bbb208b8ea129405add1ac76018fa1ff973e67e0a5206793b9dbf5dc0c27b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e33d70f43039b7bf6d367ca50112088938806bda4bfa9289c5a8b49660280819.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c12bf67ab2e8923ccb19e220114ccf325fc09d02125460f822bad4b27c5a65d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ce8a43176d4bf19d033c3d75a6d862645b07fac5f519c3a04de698a580efd66.jpg"
+        ],
+        "size": 2588934144,
         "version": null
     },
     "70010000012331": {
@@ -1327,6 +1770,96 @@
             "https://img-eshop.cdn.nintendo.net/i/a1194f11c5397e5134cad94a723d9afb2c9ab274ee5d824aa80c6ea4d60f0dc7.jpg"
         ],
         "size": 18583912448,
+        "version": null
+    },
+    "70010000012521": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2748bdd3a086e62cddd87bfbf5697d6b0aad2d8495adb1b1f044156d1a130f48.jpg",
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "description": "Get ready to explore a beautiful, reimagined world in Pokémon Mystery Dungeon: Rescue Team DX – a remake of the original Nintendo DS and Game Boy Advance titles. Build your rescue team from the likes of Pikachu, Eevee and Charmander and complete missions to save Pokémon in the ever-changing mystery dungeon!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/01bdf842194256f9948bf5ff6fb7b77bacc6905adfede8b7d69cd4ca70c5a216.jpg",
+        "id": "01003D200BAA2000",
+        "intro": "What would you do if you woke up one morning…and you were a Pokémon?!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Pokémon Mystery Dungeon: Rescue Team DX",
+        "nsuId": 70010000012521,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200306,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dc7caf4adafda2772377a886d6f41504885e745b85984377c7ecf5c141004022.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c41da6f6aeaa7aef2fc693c9fd1ed7add715ad47eae57ff38845f0e69b10c9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4e89446c7ca2f1bcea1742595849f20095eda3e9b3e617e7ba200f756108d8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1618cab6cdc357dfad63f0b0127d63561baa17bbf8fab16f83d44af38a0b78cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12e7206fcba9a08274f2a8a3cca9a4474df4e656e429873f86bcb1c3b61c8864.jpg"
+        ],
+        "size": 2326790144,
+        "version": null
+    },
+    "70010000014063": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47b184c930f2a66ab2ec09df68582729b3150395a18656cd50a42f220604173b.jpg",
+        "category": [
+            "Party",
+            "Board Game"
+        ],
+        "description": "The original board game style has been kicked up a notch with deeper strategic elements, like specific Dice Blocks for each character. \n\nThe game also introduces all-new ways to play, including Joy-Con controller enabled minigames, and new modes to enjoy with family and friends.\n\nWith new modes and new minigames coupled with original board game play, the party starts anywhere, anytime, and with all kinds of players.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b200ef18f68bed4e23b7e384700862b23bcb943966e0a040d98174b3e24bb7bd.jpg",
+        "id": "010036B0034E4000",
+        "intro": "Throw a party anytime, anywhere, with anyone!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Super Mario Party™",
+        "nsuId": 70010000014063,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": "010036B0034E40000000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/897cc0afd65f16d900d62ca7b865d2d7b9d05f2c44561431fe620e62ef7baffb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e0173843019c2980b23728c8d7894e75f14a930a39622ce0d0d30e59d938df3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2840c14a0288362e28dc1e87098953c687c4dc143a435805d8bbb6fd464d0bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54a36736b52fcca82c0c36042f33a224968a55244c9d031a9e958ff0bebe5239.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a9a3c2287a0060101db5c86ff4726b3d5cf0ea25994c45042aad58cb059c890.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15397365b8e273742cc19f16533c882ac18ec97a260a52c7ad96f1c49a5ddf12.jpg"
+        ],
+        "size": 3118465024,
         "version": null
     },
     "70010000015121": {
@@ -1513,6 +2046,49 @@
         "size": 2064646144,
         "version": null
     },
+    "70010000018693": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/014dc357cb84a7368ef5bbb58b1c68e45f214866b37be69b08ad6fc3816be431.jpg",
+        "category": [
+            "Puzzle",
+            "Platformer",
+            "Multiplayer"
+        ],
+        "description": "The fan-favourite 2D puzzle-platformer series comes to Nintendo Switch, in BOXBOY! + BOXGIRL! Think outside the box – alone or with a friend in co-op – as you help Qbby and his pals solve tricky puzzles across 270 brainteasing stages!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a81c11f95b031e40780e853b46daf5d35ca3b43e098072ed652bb0dd70b290a.jpg",
+        "id": "010018300D006000",
+        "intro": "Spawn boxes. Solve puzzles. Reach the goal!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "BOXBOY! + BOXGIRL!",
+        "nsuId": 70010000018693,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/99c2281f00a415c8507b6a812506481c3ddef249923b26468c4a53adbe520ecc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d69083504673d360e83bb4ea4d88321c7d22eb50357116524f738efe80b3102c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a71d6e1578edb9920dd6fd04308567d6087a3b5946571e134ff0bf66f57aec13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/310232dfbcd73ccf7947021202021c98e0e4510cfef08a2cfe26a08420aebb9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dccd60142151fe2c4e8df94fc77b36c35bedb583c5e7fc0622a1c60e44ab7a66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adf6a57a2634fe81d740d19b4f1d70efe2b35a7c301b1bb062b69a5bd8f12f3e.jpg"
+        ],
+        "size": 613416960,
+        "version": null
+    },
     "70010000018696": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5d03c6a15e307178e40c8c000a0430258687eba066da2bbcbd20f7ece0d084b.jpg",
         "category": [
@@ -1607,6 +2183,54 @@
             "https://img-eshop.cdn.nintendo.net/i/fdc24f2eccf8cc925ac8ea85d43d7e602be799d764d5fe7c478c585b29697f2b.jpg"
         ],
         "size": 6326059008,
+        "version": null
+    },
+    "70010000020157": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5732885c57cab320265b5dddbdf0567286acc4ed2a01f61d1974cd183e6e2e3b.jpg",
+        "category": [
+            "Adventure",
+            "Music"
+        ],
+        "description": "In the latest rhythmic action-adventure from Brace Yourself Games, you can enjoy the gameplay of Crypt of the NecroDancer in the setting of The Legend of Zelda series. As Link – or even as Princess Zelda – you’ll explore the randomly generated overworld and dungeons on a quest to save Hyrule. Every beat of each remixed The Legend of Zelda tune is a chance to move, attack, defend, and more, so stay one step ahead of each enemy and boss…or face the music.\n\nFree update 'Octavo's Ode' out now!\n\n- Octavo's Ode: a new storyline starring the game's villain, Octavo. Attack enemies using his Golden Lute and uncover Octavo's true intentions for taking over Hyrule.\n\n- Dungeon Mode: test your mettle in this challenging new mode where you'll face the toughest foes!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1972ebb4a507e7d83c7d4592ae4702ebdc5bf3738659644bc29c243b144782ee.jpg",
+        "id": "01000B900D8B0000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Cadence of Hyrule – Crypt of the NecroDancer Featuring The Legend of Zelda",
+        "nsuId": 70010000020157,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4425bfc566efc5cc4550fc3af4de06cf1684bfa783593209ff11bc76d4a06857.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cb3febaafb22e2db34cfe400e5dfabbc7f036115bdd56aaf8a53ed5141e9dc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/555d8cd694971f33c03c08ccefc5bc664705a3b692a31ddad9ddf07802c6e856.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/313a8f483a53f196b5472b4587ded3c185ebd2d6b285b699b9fd616f808fb77f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dfdadccab44d829ccfa77d5f1a00a2cdb6200efc366377b597f832fba5f378c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/522377693b37974afbc93d085bc740675a13e5d1541b0f63f9e58e45be1c8054.jpg"
+        ],
+        "size": 1772093440,
         "version": null
     },
     "70010000021241": {
@@ -1705,6 +2329,46 @@
             "https://img-eshop.cdn.nintendo.net/i/ddf27248898a69ecbed4331dbdc0375ce852d88c9a02646109b9b6f270c26a71.jpg"
         ],
         "size": 1179648000,
+        "version": null
+    },
+    "70010000025421": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d83c33701e5a6ec215d4724b6a42dc52b0af879fc100520c3c83380818ffd0ac.jpg",
+        "category": [
+            "Education"
+        ],
+        "description": "Get ready to challenge your brain in a variety of ways in Dr Kawashima’s Brain Training for Nintendo Switch! Enjoy new exercises, some of them making use of the right Joy-Con’s IR Motion Camera, or tap and train with classic exercises from past Brain Training games that you can play using a stylus (included with the packaged version from retail stores) or your finger. It’s in your hands!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c11333d5b52f68cea5e4346414f2879879222ad08e94c061068accedf79832f2.jpg",
+        "id": "0100ED000D390000",
+        "intro": "How old is your brain?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "name": "Dr Kawashima's Brain Training for Nintendo Switch",
+        "nsuId": 70010000025421,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20200103,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c080754104d74fdd3ef600c13341c3aaaf3b79df507e2076679dca538c945e24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7833b5c93a456e53d82073b718239047569fee6d0268d948f780997439537810.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b45f1c4ef5990690bd069966dc5de5daa2a8b2d34e2f8b16e789a9f0926be1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ced4692c2144b032284503be76e354303b5b9570539f8fb93b6c5130d45b1927.jpg"
+        ],
+        "size": 385875968,
         "version": null
     },
     "70010000027620": {
@@ -1939,6 +2603,43 @@
         "size": 2644508672,
         "version": null
     },
+    "70010000029722": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4ae84d2695afd0ebd2ee9e143e61e8daad47a2ad8293f921a596ef3960541eb3.jpg",
+        "category": [
+            "Puzzle",
+            "Action"
+        ],
+        "description": "Rise through the ranks in your quest to become the new CEO of your dad’s company in Good Job! on Nintendo Switch! Together with a friend, climb the corporate ladder to take over the family business by tackling bizarre office problems – from building the company zen garden to delivering cubes of goo!  ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfa2af93d02bdb8e79ed222bcbc5dfdd3386434bda08a7bdc431a9aef9341377.jpg",
+        "id": "0100B0500FE4E000",
+        "intro": "Another day on the job",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko"
+        ],
+        "name": "Good Job!",
+        "nsuId": 70010000029722,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20200326,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 439353344,
+        "version": null
+    },
     "70010000032446": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff75e948b8af4324400062527e00f6166dca2c2356e49744868d2e3b670bd467.jpg",
         "category": [
@@ -2079,6 +2780,43 @@
             "https://img-eshop.cdn.nintendo.net/i/11c5ff4740960e64e3ec6265359fa637019185986adf5f923090fd7aa02ec8f7.jpg"
         ],
         "size": 1195376640,
+        "version": null
+    },
+    "70010000036179": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/298ac5eda5cbdbf2da9fa4c5c43f1dd2e374e201136ab3a39613ac460556ba77.jpg",
+        "category": [
+            "Puzzle"
+        ],
+        "description": "In Part Time UFO, fly Jobski the UFO around and complete odd jobs. Help out at a farm, support cheerleaders, cook up the ultimate dessert at a restaurant, build castles, and much more! Wherever Jobski goes, there are sure to be plenty of jobs waiting. At the centre of all this is Jobski's super special awesome claw. Use the claw crane to grab, move, and stack objects to complete jobs.\n\nJob done? Think again! Completing all the part-time jobs unlocks Treasure Island, a puzzle-solver’s paradise that can also be explored in local co-op. Overcome ever more difficult challenges to progress from one room to the next in this mini adventure!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/268563c083ddb5f636521b56c2d52d274f41d692f8af10a95467e360862911f0.jpg",
+        "id": "01006B5012B32000",
+        "intro": "Part time worker, full time UFO!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Part Time UFO",
+        "nsuId": 70010000036179,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20201028,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 203423744,
         "version": null
     },
     "70010000037990": {
@@ -2642,6 +3380,54 @@
         "size": 10597957632,
         "version": null
     },
+    "70010000046401": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5310a7e63ba9c18085961535093ad7070baff56e331f8646a0a32229e16ceabd.jpg",
+        "category": [
+            "Action"
+        ],
+        "description": "Bayonetta struts through multiple locations in an all-new, over-the-top climax action game for Nintendo Switch. Sporting a wicked new ensemble and somehow familiar pigtails, the titular Umbra Witch must face a mysterious evil using her signature guns and time-slowing Witch Time ability. This time, invading man-made bioweapons called Homunculi find themselves in Bayonetta’s crosshairs.\n\nFight your way through the streets of Tokyo, the mountains of China, and many other locales! Along the way you’ll meet a virtual coven of Bayonettas, each more fabulous than the last. You’ll also slash and slay as Viola, a feisty witch in training who fights with a sword and a capricious companion, the demon Cheshire. Find out what fate awaits Bayonetta, and if this arcane alliance can really save reality!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fb51186efe9a35471ce3ad80c947c62fbb0c2623f640207e8e9919d7c316248b.jpg",
+        "id": "01004A4010FEA000",
+        "intro": "The witch is back and more powerful than ever!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Bayonetta 3",
+        "nsuId": 70010000046401,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 16,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20221028,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f90b27f32f116e572706015ffb601896988432d91d19f24f2732d76cf23c1a0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b072bf5fd245417c97fa46a1c11144fc86cd4ea7c16571b034186339a3447c9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b5be0258f97aba85b3b5744a6e1cf350fb3244857fdcea96900cc89c1a59f58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0bb139c37fc66b495c3977cc57f898b78df7ff6df8b9b735de341cccde389c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad1e2dabbca80f95bc43a845fb7bed9fd0c4518ba485b5e104c6a0b998918487.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1e57b12b6a5c992ae1ea3f78bf90f17841a622983ff319211b9784b5c21b777.jpg"
+        ],
+        "size": 15546187776,
+        "version": null
+    },
     "70010000046406": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6290742634179fa1d0059d758cb22b81f27e8014d78abed51cb9eb07cead99b5.jpg",
         "category": [
@@ -2789,6 +3575,102 @@
         "size": 2986344448,
         "version": null
     },
+    "70010000050786": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/76e4ed6a864dc5b9577a18e3a235fcb59becdb93f59962af6a45c55b5df91fde.jpg",
+        "category": [
+            "Action"
+        ],
+        "description": "Set in Fódlan, a land governed by three powers, Fire Emblem Warriors: Three Hopes takes the world and characters of Fire Emblem: Three Houses and spins a new tale.\n\nEnjoy fights that fuse action and tactics. Directly control characters and mow down hordes of enemies in intense Warriors action, while giving orders to allies. Think tactically as you decide where to advance, based on the state of the battlefield. Between battles, interact with charming characters from Fire Emblem: Three Houses.\n\nWhat awaits in this as-yet unseen story? Will it be hope…or despair?\n\nThe game will be available in English, French, German, Spanish and Italian, with English and Japanese voiceover.\n\n\n(Download version bonus) Owl Perch\nAn owl will now periodically appear in front of your personal quarters in camp. If you talk to the owl, you can get an Owl Feather as a gift. You can use an Owl Feather to gain support points with an ally.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d7a519b2d98e969fd11bd33ba16aff4a5125acc30453535080ad4b3ec804bf39.jpg",
+        "id": "010071F0143EA000",
+        "intro": "Three houses, three hopes",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "es",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Fire Emblem Warriors: Three Hopes",
+        "nsuId": 70010000050786,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20220624,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/928b83112d51df45df999ce527f883f851035c0e44928e6cecffea15f019947a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12db68b3c1d6e010e3c66390b30673fa9ae5a898051a4dfb032c8ee276493b6c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/675d9a11f621be10ee0c4e226a18a10a3a088a61c9b813d83a03960b914cac52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06934aa562c5b5da947a9606aca31607d2dd9684ac0d07ac3f9714d780c806b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a5746ec3e51eae93f58b4204e5a672a1d28548a4bcf32160abfc4da082197d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/968770a51c8a1e8a367971582dc40182f826f035e35d282f499d8790163c77f0.jpg"
+        ],
+        "size": 14451474432,
+        "version": null
+    },
+    "70010000050788": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5d250087224f45e0593b77f61abb880f7c153d881476c578085b8fd05c687ef.jpg",
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "description": "LIVE A LIVE, originally only released for the Super Famicom in Japan, is being revived on Nintendo Switch! Experience this legendary RPG for the first time in the west, brought alive in the same HD-2D visual style as OCTOPATH TRAVELER and TRIANGLE STRATEGY.\n\nMeet seven heroes, each with their own unique abilities and lives to live across different time periods. Experience their stories in any order you choose, uncovering shocking developments along the way:\n\nPrehistory: A tribesman comes of age in a world without words.\nThe Wild West: A wanderer with a bounty on his head fights for his life.\nImperial China: A kung fu master searches for a worthy successor.\nTwilight of Edo Japan: A shinobi undertakes an important secret mission.\nPresent Day: A martial artist strives to become the strongest there ever was.\nThe Near Future: A youth with psychic powers takes a stand against evil.\nThe Distant Future: A newly built robot is swept up in a tragedy in space.\n\nFeaturing remastered music from original composer Yoko Shimomura and produced by Takashi Tokita (the director of the Super Famicom version), this remake retains everything that players loved about the original game while also being accessible to newcomers.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a12bf0d6e82395e26d244aed0981b9b9a4f3703e8df6ba317954d979728762f1.jpg",
+        "id": "0100CF801776C000",
+        "intro": "The legend is alive!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Live A Live",
+        "nsuId": 70010000050788,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20220722,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ebba1286d3998c3b1dd6090841c223c1efe0edb8852bb2edffa4f8021c5fd3ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5eda648b7839299fe6e7baea71382015dff977f6b4cea01c0040034a501c164.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1787ff1d636fe2c77214818a6b60275ad6dda3a21a1917972a9464f7dc2056a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04cf092eb1527fa35e93ca5121653b7934ccc94042b683f51ddfe9f957f1455f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab9ffe1906ceea894abc56320db6af06c496afd330c44165f00cb00a9ec67941.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2ec2e5b06b9f5f4b5b37479b884eb1abc05f8d7fccb7313622a473a231336ba.jpg"
+        ],
+        "size": 5069864960,
+        "version": null
+    },
     "70010000053337": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7b95d514b32cdcbbf124d0ae2080ffccfe123044a989e33a3f31c101f782907.jpg",
         "category": [
@@ -2836,6 +3718,146 @@
             "https://img-eshop.cdn.nintendo.net/i/f5a9354f5d6e2ab5047e5dbef39841a9241839f631ec708d02411836b7d3a98f.jpg"
         ],
         "size": 15421407232,
+        "version": null
+    },
+    "70010000053967": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7fcfb141b039b01209c625dffc94ab64192e92c11319566a7fa9c65d616e4708.jpg",
+        "category": [
+            "Adventure",
+            "RPG"
+        ],
+        "description": "Welcome to the Paldea region, a sprawling land of vast open spaces dotted with lakes, towering peaks, wastelands and perilous mountain ranges. \n\nExperience your adventure the way you want as you freely go back and forth between three grand stories and challenge Gyms in the order you desire!\n\nShare the joy of discovery as you and up to three friends adventure together in the same space! Cheer each other on as you battle wild Pokémon and show off the Pokémon that walk along with you.\n\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa0f7bba88e0bc9b24cb0a2d1707990a6bc2c59480d22b821114d1a57762fafc.jpg",
+        "id": "0100A3D008C5C000",
+        "intro": "Welcome to the open world of Pokémon!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pokémon Scarlet",
+        "nsuId": 70010000053967,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20221118,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08a6917be9ff66034d903127ff3ba1990e4fcb45baeb4bbe69b93bacd2d6ede4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a34ceeff64f17a7639f431b6c4d5ccf4fbb77c50cbc1a0b18762a02314ffaba6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ade90179aa609d91df0a6e0f29832bd44ec91787172d8ae7592a84f781e8aff4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97a9b00c6d55a5f2b543a1cb38d5300bc7c904b7e62f6e5c8d866ce31ea0fa85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d76f8d32938540d07585050d5d14ebc97526044299eb61c28605ab534310338.jpg"
+        ],
+        "size": 10672406528,
+        "version": null
+    },
+    "70010000053972": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b9ea8f1503b00da868d145995cfe9b2ee9f58dbc1dd19d4c479a07d5761d952.jpg",
+        "category": [
+            "Adventure",
+            "RPG"
+        ],
+        "description": "Welcome to the Paldea region, a sprawling land of vast open spaces dotted with lakes, towering peaks, wastelands and perilous mountain ranges. \n\nExperience your adventure the way you want as you freely go back and forth between three grand stories and challenge Gyms in the order you desire!\n\nShare the joy of discovery as you and up to three friends adventure together in the same space! Cheer each other on as you battle wild Pokémon and show off the Pokémon that walk along with you.\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/572379cee509d9dcd8ca11f8d41217d34889ea83c44aa320e22b7dd87093cedc.jpg",
+        "id": "01008F6008C5E000",
+        "intro": "Welcome to the open world of Pokémon!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pokémon Violet",
+        "nsuId": 70010000053972,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20221118,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08a6917be9ff66034d903127ff3ba1990e4fcb45baeb4bbe69b93bacd2d6ede4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a34ceeff64f17a7639f431b6c4d5ccf4fbb77c50cbc1a0b18762a02314ffaba6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/751ff6cf64c41ef8adc62bf228b0bf9ed361efab77b602e45af5c1df79a6f689.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97a9b00c6d55a5f2b543a1cb38d5300bc7c904b7e62f6e5c8d866ce31ea0fa85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d76f8d32938540d07585050d5d14ebc97526044299eb61c28605ab534310338.jpg"
+        ],
+        "size": 10672406528,
+        "version": null
+    },
+    "70010000056621": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3a134f171e40851937a7250f0c62e9fe6f4e7531fd71eb46e9ed8752d3b16596.jpg",
+        "category": [
+            "Party",
+            "Multiplayer"
+        ],
+        "description": "Snack your way to victory as you roll through yummy food-themed levels in Kirby’s Dream Buffet for Nintendo Switch!\n\nFeast your senses on this full, four-course competition! Up to four hungry Kirbys must race, compete in minigames and battle it out across creamy, crunchy courses overflowing with chocolate, ice cream and other delicious delights.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b043a9af19163ad3b17f7b085585d24c339c7bf82043905e87783bab07a52a4.jpg",
+        "id": "0100A8E016236000",
+        "intro": "A jam-packed race!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Kirby's Dream Buffet",
+        "nsuId": 70010000056621,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20220817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c5578bdf4226192e4db01e3af646e64175f581d373596f70f8c1c69fa1134dda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52c5fd45b9387bb143a32b026cdc77ff05dd084b1fcae9ca960a8e4555209c8f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/784377db72eca23f6cba5332141cfe9fd64a6db466bf856a61fa60dceb0e1e25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c9970ceca228ef6fcb83ccb6fdd61647f7c51c0196c5cf68505a5079298e84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44d0f7ec9e9d744cdb8edb0d861172e14128989f44c99a229a6ca946de735e0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cb2cb270aa06c4544fb381c3b71e668ae6d5da0ffd1dc220d3d24557109cf8c.jpg"
+        ],
+        "size": 1305477120,
         "version": null
     },
     "70010000058798": {
@@ -2981,6 +4003,55 @@
         "size": 7450132480,
         "version": null
     },
+    "70010000061847": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15dde2042848f0592a3015a968b8e12aaf7d380616d8246c26d2d9d851bc6bc1.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Long before this trainee of the dark arts would come to be called Bayonetta, she took a fateful journey into the forbidden Avalon Forest. Alongside her was Cheshire, her very first demon, possessing Cereza’s stuffed toy. Play as both Cereza and Cheshire and search through the treacherous forest to look for the power to save Cereza’s mother.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/314ad84762afe6dc918c280663d52b55b7310944f1338d8480945f7e26123c49.jpg",
+        "id": "0100CF5010FEC000",
+        "intro": "Once upon a time, there was a young witch named Cereza…",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Bayonetta Origins: Cereza and the Lost Demon",
+        "nsuId": 70010000061847,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "Horror"
+        ],
+        "region": null,
+        "releaseDate": 20230317,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c4cd210bb7fcc9ef369830e4983ed7c411918f835b111b156bf7494061ac6ea2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4cc471477141f981ab5fe534edd7dfee4a68ddb6fc05fc43f6f1e9920d26369c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a222b54b47a3d731f775099873847d046d8df2e0c8cf2b32688bf5bb7c874d7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffba85c39e9ad74cb6ec793822e6cae11b42b793587f37c20d0bcb4fa18c3372.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1950e53a5ca57ba5e61df544ae4fb8db0f8cce955dbdce87c0a8149fe152de15.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5454f47fda8afd5f24240ec6df5283dea65edda1d3398556cfea27ec3a50ef9.jpg"
+        ],
+        "size": 3433037824,
+        "version": null
+    },
     "70010000063710": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/418713343fee828aa15035530a16c3b104b3f1301615cb0f50f2edad775ed1f0.jpg",
         "category": [
@@ -3076,6 +4147,95 @@
         "size": 17688428544,
         "version": null
     },
+    "70010000063860": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cf6a52d93890df44059d7ba1376beec19155112c7b9cff000ba10eabea0f6ecd.jpg",
+        "category": [
+            "Strategy"
+        ],
+        "description": "The Orange Star nation needs you! Put your strategy to the test in Advance Wars 1+2: Re-Boot Camp.\n\nThe Game Boy Advance classics have been rebuilt from the ground up, featuring all the gameplay of the originals with the added ability to challenge your friends online!\n\nTackle strategic, turn-based missions as you manoeuvre land, air and naval units. Take down enemy squads, capture bases, and fight to restore peace.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5a9d72bc1a6f75d6be7d28d2821eb0096a88e67aa89732002c4a093b4948e0fa.jpg",
+        "id": "0100300012F2A000",
+        "intro": "Reimagined, rebuilt and redeployed!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "name": "Advance Wars 1+2: Re-Boot Camp",
+        "nsuId": 70010000063860,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20230421,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1396b6df591119d3e90f80966c9f05f3599a725a9cd627340c9dcb5f42c9f2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb4aa590f27cf8dc2606c0cd5e64be2a5e2f84d14347337ab03f2bea2aea4175.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dec00c1715b116a428b65bf6c5e7d0a329cdc2437d951182f419c28b0e80cca2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b5329eb052003fd932fa2fcdd490dabc9e722f2e31734907d068f6174aaed8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69d8562cda3a8eef81a9c5bbd2195776e2023784d8a45098bc32fce3997e6500.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd86ad92c9b98e3533de12dd683331e44d13fdd6aac235545a23df55923cf98a.jpg"
+        ],
+        "size": 7155482624,
+        "version": null
+    },
+    "70010000068160": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/03a8e29cf8a280444615e02102c56c56424e336aba1ffee43f9740c422e4ddd4.jpg",
+        "category": [
+            "Party"
+        ],
+        "description": "Get together in groups and compete in a host of weird and wonderful minigames, featuring everything from balloons to aliens, and much more! In those games, you'll use your Joy-Con controller or smart device in fun and unique ways, earning points for your team. In time-honoured fashion, the team with the most points gets to claim the glory!\n\nUse your smart device’s camera to find something that matches the colour on screen, or outbid the opposing team in a competitive auction – everyone can use their own smart device to play a whole host of minigames. As up to 100 people can join in, everyone at your party can take part!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4b89fe2ace020d6cac3ad3e8fa0fbafd5425f689ee94d41514deea456fedfe2.jpg",
+        "id": "01006F900BF8E000",
+        "intro": "Turn any occasion into a party!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Everybody 1-2-Switch!",
+        "nsuId": 70010000068160,
+        "numberOfPlayers": 8,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230630,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2608c21335614f92b39d6be560d75d675ebffedb7abe79b7236dceacdd7829cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f33342c1c180796debb8f6d6ef9c1ae86c6439c170d79a2a35ee816dc608a717.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3df30be44fb62a92efe5e752d77e414c98394cba9bbb0fa07eff9844b310e7ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53e3421930c821731aa0f0db879cbf6cd98550c88abc930dcf8017c92d1310e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/186af2b4c46d662dc66d6192a2261b41db88bc24334e5fc42ac68ea95b7953a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37cc8a276aba0785d631053c6778c90e7d100252eb13757b7be4d9b1f8956ad2.jpg"
+        ],
+        "size": 3609198592,
+        "version": null
+    },
     "70010000068670": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5d80c7c7a5a37efdb7ff200c714b86c92fc0e77fafeb7e1b86c7035c9906deeb.jpg",
         "category": [
@@ -3164,6 +4324,103 @@
         "size": 1201668096,
         "version": null
     },
+    "70010000068679": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3c206a183baaf3462f4733e23cb5eab1dbe14c00b0b532426c6c594c32362a48.jpg",
+        "category": [
+            "Action",
+            "Party"
+        ],
+        "description": "Grab a pair of Joy-Con controllers, then gently shake, punch, dance, wiggle, and even curtsey through over 200 lightning-fast microgames (minigames that last just a few hilarious seconds).\n\nA second player can use another set of Joy-Con controllers to join the treasure-guarding, sheep-twirling fun. Up to four players, each with one Joy-Con controller, can laugh out loud in the local Party Mode’s minigames like a dicey board game with Wario-style rules.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b8879dbda85ac1829835e757e2802ade2d099557f691ccf0dcdd1fe3945c7ec3.jpg",
+        "id": "010045B018EC2000",
+        "intro": "Strike a pose with a multitude of motion-based microgames in a brand new entry in the WarioWare series!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "WarioWare™: Move It!",
+        "nsuId": 70010000068679,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20231103,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6205e4bc59649442a2c770796b54de9044cf9b61307250b1ec1d54de7eb1d34a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8956870b3ec901dce23459ded8465ed991d40cee9d8a03114286abab871c8eab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bafe7385fcdaaf7c3a1151da187313ef561b630f3c325e9e4f68cec912303d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76800c6d872b20e8350df5c55fae733c41557810c3cdbda5e93786967b3e1032.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96ebf6fbcdc52e59d10c60a22a71c60b6761881d984b5671ef068cdfdb890268.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b34905c7c96b2b225959f86badb068056a0b3acdda1bb84fbaac1c8ab975ddd1.jpg"
+        ],
+        "size": 1409286144,
+        "version": null
+    },
+    "70010000068684": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e15eb77abe5665b4e69378eeccb48fdca5ab334dbcd3d46bea2bbe191e088ca.jpg",
+        "category": [
+            "RPG",
+            "Action"
+        ],
+        "description": "Team up with an oddball group of heroes to save Star Road and stop the troublemaking Smithy Gang. This colourful RPG has updated graphics and cinematics that add even more charm to the unexpected alliance between Mario, Bowser, Peach, and original characters Mallow and Geno! Enter this world of eccentric allies and offbeat enemies in an RPG for everyone.\n\nJump through a colourful world and give attacks some extra oomph in battle! Explore the vibrant environments with your party and jump towards your next goal! Run into monsters to enter turn-based battles with your party of three. Press the button at the right time for a satisfying dose of extra damage or a helpful guard. ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b15ff4449c0e8b3100919e965bd8483ec84c0bee9442522d32012ab949e2acb2.jpg",
+        "id": "0100BC0018138000",
+        "intro": "Wishes can come true in Super Mario RPG!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Super Mario RPG",
+        "nsuId": 70010000068684,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20231117,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4c7e8dd48d4502fe6e055a4123edb756884df4c3b9e38b6e0b2e6467f0e3f156.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b57730b1588f4b165e4e064b0cfc8885617674348a2c6194b9c8b1121159db94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dad2dfa044f3b1809bfb65e0145f824e25d2a363e446a142b5d46b27766463ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/163e4c00b087ebce4aba847ea045c6447847f8441799cff4742ca0b96e16fbb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12e10f02d6da001481ce7ff4e0624b54d8783b37bd028f7e4a67ed16797c45ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6ddbc898fcb6c78c6d186d914c9cbdf446652b930d16eabb30b169fbf9b94c1.jpg"
+        ],
+        "size": 7014973440,
+        "version": null
+    },
     "70010000068689": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5cc55a0ce8157e5ffeb242323d42f45c01a3a8a400f6e84ac7ba1faeac4967d5.jpg",
         "category": [
@@ -3211,6 +4468,51 @@
             "https://img-eshop.cdn.nintendo.net/i/ce769825eb18947f43760c35e0a7848623773e3e6194eedd05d4b571cfd330b6.jpg"
         ],
         "size": 3926917120,
+        "version": null
+    },
+    "70010000068694": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f2cbda945784c8402a51b0a88b4426fe635d1a5d6616761eb4e539c7bb135e3.jpg",
+        "category": [
+            "Adventure"
+        ],
+        "description": "Welcome to Ryme City\n\nA place where humans and Pokémon live side-by-side. In this bustling burg lives a gruff, tough-talking (but surprisingly lovable) Pikachu who loves coffee and calls himself a great detective.\n\nTwo Heads Are Better than One\n\nThis Pikachu works together with his partner, a young man named Tim Goodman, to solve a series of mysterious incidents that are occurring within the city.\n\nStart the Investigation\n\nWe hope you look forward to the mystery-filled adventures of Tim and his chatty Pikachu pal –a sleuthing team that only the world of Pokémon can deliver!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ba04a52062fc29a9b9a771921f79a09daf70794ae8c1ab7085a96578ba19d61a.jpg",
+        "id": "010007500F27C000",
+        "intro": "Back on the case",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Detective Pikachu Returns",
+        "nsuId": 70010000068694,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20231006,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/96c03211ef6317f41f9dd48c191c522594e5a120567993a2e44d32594e53bef6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22fbff592842f429909d2fab9ce2461b4fe8000aea29156bc3a9af60483344ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77dac747b4e85df28a484838ba93625715a5b1e3e62c75c33873e6be106f965e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/babbba586f6d80c82a4b167bd766b7c0a0827c7b22283bd568164130aba5de47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94c9eb36723273f13cab11a1c0fc582705b64fa0724d2c62dd1a6f372c256ba4.jpg"
+        ],
+        "size": 9668919296,
         "version": null
     },
     "70010000072187": {
@@ -3545,6 +4847,56 @@
             "https://img-eshop.cdn.nintendo.net/i/f7827a06b103c006b5ba265af1c99c6260fe84cc986aee724cc34fb6c3c10648.jpg"
         ],
         "size": 5157945344,
+        "version": null
+    },
+    "70010000080665": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9087a1504fd6da3da3e28652962ad0306f6e118115d1023f1975a2a7f30b57d.jpg",
+        "category": [
+            "Action",
+            "Racing",
+            "Party"
+        ],
+        "description": "Test your speedrunning skills in over 150 challenges. Each challenge relives a memorable moment from one of 13 NES games, including classics like Super Mario Bros. 3, The Legend of Zelda, Donkey Kong, and Metroid. \n\nSee how quickly you can blaze through the first level of Super Mario Bros. or how fast you can gobble up an enemy in Kirby’s Adventure. Hone your skills and see if you have what it takes to be a champion! \n\nJump into World Championship Mode and see how your best times match up against those of other players of varying skill levels. No need to master entire games – anyone can become a Nintendo World Champion if they can conquer these “byte-size” challenges! Record your best time in the five weekly challenges and see if you can emerge as the fastest player of the week.  \n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac966d6cdaad1b8d7c44d90295397dad082e90c7732db83440d0a3013523cad4.jpg",
+        "id": "0100AD10185F8000",
+        "intro": "Play it like it's 1990",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Nintendo World Championships: NES Edition",
+        "nsuId": 70010000080665,
+        "numberOfPlayers": 8,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20240718,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/762fbdb9fbeddfc45a9e3bf21c7bd1cdd23aeb3d8f17bbe8b47c60ed4ed9371b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f997b0e4a85fe40c17fd9a3f285160be07ae6f4be98e5f66b308c67f0ebfd2b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0fa0be3f3cda3979de5ee7c30ba205a31cc8e934946569324a964317c93ed21b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa2fc147a959276ef8322730df8e4af608e6e38c242e951ef723d4b3f6037bb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f688f57f6a9463fd9422ba35aaec671ec6322562f09e0bb5f010bc89c6fb9f7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/365269eede40583767f46b06e2ad100812b65dbe7e757b457d94319ee04bbfec.jpg"
+        ],
+        "size": 456130560,
         "version": null
     },
     "70010000084603": {
@@ -5406,6 +6758,65 @@
         "size": 1472200704,
         "version": null
     },
+    "70030000016543": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Fire Emblem Warriors: Three Hopes Demo",
+        "nsuId": 70030000016543,
+        "numberOfPlayers": null,
+        "parentId": "010071F0143EA000",
+        "publisher": null,
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 8352956416,
+        "version": null
+    },
+    "70030000016885": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Live A Live Demo",
+        "nsuId": 70030000016885,
+        "numberOfPlayers": null,
+        "parentId": "0100CF801776C000",
+        "publisher": null,
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1042284544,
+        "version": null
+    },
     "70030000018343": {
         "bannerUrl": null,
         "category": null,
@@ -5460,6 +6871,35 @@
         "rightsId": null,
         "screenshots": null,
         "size": 1599078400,
+        "version": null
+    },
+    "70030000019698": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Bayonetta Origins: Cereza and the Lost Demon Demo",
+        "nsuId": 70030000019698,
+        "numberOfPlayers": null,
+        "parentId": "0100CF5010FEC000",
+        "publisher": null,
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "Horror"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 2646605824,
         "version": null
     },
     "70030000020101": {
@@ -6914,6 +8354,673 @@
         "rightsId": null,
         "screenshots": null,
         "size": 3145728,
+        "version": null
+    },
+    "70050000012434": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b01fe067028ce4c86882ebc7eedea88ec8b53045c23b3f38ff3a135771c2e543.jpg",
+        "category": null,
+        "description": "This pack includes more than 70 different recipes to construct modern-looking structures, as well as additional hairstyles and clothing. Players can take their architectural skills to the next level by building a fashionable luxury hotel.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987013",
+        "ids": [
+            "010042000A987013"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Modernist Pack",
+        "nsuId": 70050000012434,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9ded0a08d76c6fd7a908faaa77a8db045f1d01dbe2bf453e909cbb43a1fbbd1b.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012541": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c78516cf090fa8a8305afb6d8781b54eaef4192dded5571d2c73b90f6e476464.jpg",
+        "category": null,
+        "description": "Check the mailbox on the Isle of Awakening to discover a fishing island with a net full of quests and characters to meet. Learn how to catch 40 different fish that can be added to a DIY aquarium. Unlock the fishing rod as well as customisation options, including swimwear, straw hats and a ponytail hairstyle.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987010",
+        "ids": [
+            "010042000A987010"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Aquarium Pack",
+        "nsuId": 70050000012541,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5bffdc64ef7f2d4e09bd656869ffb7ebc58e1d0b9121dbb8f829cc6cabf34a36.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012542": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be0493c53d187ef47a427f22493fd17a04e3458dd07778fa9ead0b02d281da0.jpg",
+        "category": null,
+        "description": "This pack includes more than 40 recipes to design and decorate structures that look similar to the Hotto Steppe – a popular resting area in a distant land where visitors can take a break from their travels. Players will also get access to an additional island to gather the materials they’ll need to build these recipes.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987001",
+        "ids": [
+            "010042000A987001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hotto Stuff Pack",
+        "nsuId": 70050000012542,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fbd7b5fc8f125e4a418d8195d2542d3387e5c577a9b65297aec8b492db60c7c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0cfd92dbb23d8c309b9e6580149c4ac1e204f525c9b97367271f3ae8e97f9ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac0784c2742cb13e8f0dec300af54e1bd9a3061ebf3356813a12704ef36b6f2e.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012543": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f531dfbca8d73375d13c6e5fa7d9e67678c8980dac6e5469b7a092bfc6fdf19f.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987002",
+        "ids": [
+            "010042000A987002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Stackable Slime Recipe",
+        "nsuId": 70050000012543,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012548": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce5e6a5640a4ceb43cd1ed937c4169ee95efb117c3f1801c0350b42823d4720c.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A98700D",
+        "ids": [
+            "010042000A98700D"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Ornamental Medicinal Herb Recipe",
+        "nsuId": 70050000012548,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012549": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a1d063a852dbf97805b82a285f57c2edb6d258f3347dbb550b8450df175a7e9.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A98700C",
+        "ids": [
+            "010042000A98700C"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Ornamental Chimaera Wing Recipe",
+        "nsuId": 70050000012549,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012550": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b9e07895e29fbcfd4811df666e7bf84e2b44bf19a15eb2aa2a08ccf8a477c58.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987003",
+        "ids": [
+            "010042000A987003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Lo-Res Luminary Recipes",
+        "nsuId": 70050000012550,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012551": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9a80df23b3488b36b3ceb2657cfc01000d89be11ccea9de6ae27549f982807f.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A98700A",
+        "ids": [
+            "010042000A98700A"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Legendary Line Art Recipe",
+        "nsuId": 70050000012551,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012552": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3d58bb5f42285fb28368f01bdc898b107bddd798a7f57f69edf13a5a22998dee.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A98700B",
+        "ids": [
+            "010042000A98700B"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Dragon Quest Logo Recipe",
+        "nsuId": 70050000012552,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012553": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d1178c181a25a3b2a94f1fd138e34bec3832c771ea011747459adba306c4e87.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987009",
+        "ids": [
+            "010042000A987009"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Soul Sigil Block Recipe",
+        "nsuId": 70050000012553,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012554": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af1516706635861b13d77243989be9e3311983567cf62216546b566c976c803c.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987008",
+        "ids": [
+            "010042000A987008"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Water Sigil Block Recipe",
+        "nsuId": 70050000012554,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012555": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fdf9493569d3473be85a47bddeae35e37e897e96007f8a2684a0fb26d194fe42.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987007",
+        "ids": [
+            "010042000A987007"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Moon Sigil Block Recipe",
+        "nsuId": 70050000012555,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012556": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cae9b55e0cc2ac97941d71b493b8db48ea5bbbca22443dd0ca08ad93632b1099.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987006",
+        "ids": [
+            "010042000A987006"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Star Sigil Block Recipe",
+        "nsuId": 70050000012556,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012557": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/539865a1b9acbd579bb0fec359905e15605b2ea17b3278f1181b29c48e81b9ba.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A987005",
+        "ids": [
+            "010042000A987005"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Sun Sigil Block Recipe",
+        "nsuId": 70050000012557,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000012558": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c2b7729fdb1ceda74b254047b3b78995a58aa70cac53a3cdd3de0cbd42fa089.jpg",
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010042000A98700E",
+        "ids": [
+            "010042000A98700E"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Designer's Sunglasses",
+        "nsuId": 70050000012558,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000013259": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98ff0b50b9287c7e5fd078c8e87efe3726903c7bdf15414973c0e822c10a025a.jpg",
+        "category": null,
+        "description": "A multiple-chapter story separate from the main game, featuring all-new additional characters, locations and battlefields.\n\nYou can start Cindered Shadows from Side Story on the title screen, regardless of your progress in the main game. You can choose from Normal or Hard difficulty (Maddening difficulty is not available). There are three save slots available for the side story, independent from those of the main game. There's also a separate autosave for the side story.\nIf you want to pick up from where you left off, select Continue from the title screen as normal. You can then use the ZL and ZR Buttons to toggle between the main game and side story data. \n\nIn addition, the following content will be unlocked in the main game as you progress in the side story:\n-\tA new area of the Monastery to explore\n*Talk to the Shifty Merchant near your personal quarters.\n-\tNew recruitable characters in the Monastery\n*These characters can only be recruited during the first part of the game.\n-\tQuests, activities, character classes, Paralogues involving the new characters, new support conversations, and more!\n-\tA new costume for Anna (the Tricky Merchant outfit) for Expansion Pass holders",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010055D009F79001",
+        "ids": [
+            "010055D009F79001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Side Story: Cindered Shadows",
+        "nsuId": 70050000013259,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20200213,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e0a9d2d8c862be0c6cd1e6d200e59c55bccf319f15e8d95101747215aebd5655.jpg"
+        ],
+        "size": 432013312,
+        "version": null
+    },
+    "70050000013270": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66a279cfe6dce321277a6c1cc93b4d36ee008b54c61d3f666ff8b0bdfc4d00d9.jpg",
+        "category": null,
+        "description": "Third set: released on 19/12/2019\nNew content is available! The protagonist can now wear Sothis Regalia.\nTo try it on, head to your Personal Quarters and select the Sothis Regalia outfit from your Journal.\n\nSecond set: released on 08/11/2019\nNew attire (servants attire, summer wear, evening wear) has been released.\nThis can be worn by both the protagonist and their students. Attire can be changed via your Journal in the Monastery.\n\nFirst set: released on 11/09/2019\nNew attire and a new accessory (Glasses for the protagonist, House Loungewear) have been released.\nHouse Loungewear is for the protagonist and for student characters. It can be changed into from your Personal Quarters and will only be displayed in the monastery, as well as in battle for certain classes. The classes for which the attire will be displayed in battle change depending on the character. Additionally, the attire change will not display for characters sent out as travelers.\nThe Glasses for the protagonist are an accessory that can be combined with any other attire. The accessory can be selected from your Personal Quarters. If equipped, Glasses will be displayed on your player character at the monastery and in battle.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010055D009F79002",
+        "ids": [
+            "010055D009F79002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "New Attire",
+        "nsuId": 70050000013270,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 2019,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 132120576,
+        "version": null
+    },
+    "70050000013271": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a22fc7dcc7438dbecd66211167d85043dd2552eea2cd300f99b56e40903dd46f.jpg",
+        "category": null,
+        "description": "Auxiliary battle maps were released on 11/09/2019.  They consist of multiple map types, featuring increased numbers of enemies that drop items.Furthermore, a new music option has been added.\n\nThe following auxiliary battle maps have been added:\nBattle at Lake Teutates\nBattle in the Forest\nBattle in the Plains\nBattle at the Sealed Forest\nBattle at Conand Tower\nDepending on your progress, one auxiliary battle map will be displayed on the battle-selection screen.\nThese new auxiliary battle maps have a yellow \"!\" icon on the battle-selection screen. In them you will be able to obtain bullion, as well as stat-boosting items such as Ailell Pomegranate.\nYou will also receive more gold as a reward from these special maps.\nYou can challenge any map by spending one activity point.\nThe new music option (\"Corridor of the Tempest\") can be selected from \"Battle Music\" within \"General\" on the system menu while in an auxiliary battle.\nYou can also listen to it in the Music Library.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010055D009F79003",
+        "ids": [
+            "010055D009F79003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Additional Auxiliary Battles",
+        "nsuId": 70050000013271,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 2019,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 559939584,
+        "version": null
+    },
+    "70050000013272": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b22490e2a1130aa08c6003d0e26587231ea64671fe68bc7542c3d5071b9265a.jpg",
+        "category": null,
+        "description": "Released on 08/11/2019\nAdditional quests have been released.\nAlongside the additional quests, new activities such as the sauna and feeding cats and dogs, as well as new battalions, have also been added.\nWhile playing additional quests, a light blue icon will be shown.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010055D009F79004",
+        "ids": [
+            "010055D009F79004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Additional Quests",
+        "nsuId": 70050000013272,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 2019,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000013273": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7b3e774709eeae6d10a4f43cb43e8d0b856cdb319382fddc4a9289eb26b635b.jpg",
+        "category": null,
+        "description": "Released on 11/09/2019\nSupport items (Sacred Items Set) have been released. You can receive the Sacred Items Set by selecting \"DLC Supplies\" near your bed in your Personal Quarters.\n(The items can be received for every save file that has not already received them.)\nSet contents:\n　　Sacred Galewind Shoes (movement +2)\n　　Sacred Floral Robe (max HP +7)\n　　Sacred Snowmelt Drop (strength +3)\n　　Sacred Moonstone (speed +3)",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010055D009F79005",
+        "ids": [
+            "010055D009F79005"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Additional Items",
+        "nsuId": 70050000013273,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 2019,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000013274": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e06d34b381322cc02859b99a1dd58c97b73c9ebaa945d07392f8dff7ae6ed3ea.jpg",
+        "category": null,
+        "description": "An Officers Academy uniform for the protagonist was released on 26/07/2019. You can change into the Officers Acedemy uniform via you Journal in the Monastery. Once selected, the uniform will be\nworn during events and battles or while in the Monastery.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010055D009F79006",
+        "ids": [
+            "010055D009F79006"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Officers Academy Uniform (Byleth)",
+        "nsuId": 70050000013274,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 14680064,
         "version": null
     },
     "70050000013456": {
@@ -10233,6 +12340,126 @@
         "size": 6291456,
         "version": null
     },
+    "70050000022311": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af7824252ba2b7308a1100e57ce7a8a54fefa4cd5e7bcf08e435b98180628b54.jpg",
+        "category": null,
+        "description": "Take your musical journey for a new spin with five newly added characters: Impa, Aria, Frederick, Shadow Link and Shadow Zelda.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01000B900D8B1001",
+        "ids": [
+            "01000B900D8B1001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pack 1: Character Pack",
+        "nsuId": 70050000022311,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200720,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 9437184,
+        "version": null
+    },
+    "70050000022313": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d42ba98f799188e06d7de8cbba6a3f7d25bf5b17014f355a982b582c3b2193e8.jpg",
+        "category": null,
+        "description": "Adds 39 new songs, including remixed versions of the game’s background music. You can change the background music at any time so you can listen to your favourite songs while journeying through Hyrule.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01000B900D8B1002",
+        "ids": [
+            "01000B900D8B1002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pack 2: Melody Pack",
+        "nsuId": 70050000022313,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200827,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000022314": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16a61c361c54edeb4701c347b97fa41834d54d44c1d10fc55e904f34beba8e78.jpg",
+        "category": null,
+        "description": "Play as the mysterious Skull Kid and venture through a brand-new map, complete with new songs and a new story. Plus, he has the power to change abilities based on the masks he dons. What awaits Skull Kid in these strange lands?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01000B900D8B1003",
+        "ids": [
+            "01000B900D8B1003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pack 3: Additional Story Content - Symphony of the Mask",
+        "nsuId": 70050000022314,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200924,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 22020096,
+        "version": null
+    },
+    "70050000022317": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d12f8d56a9bce822a7569d7b1f8a8e993e8ed486823ed5600b93b34f2a14047e.jpg",
+        "category": null,
+        "description": "If you purchase the Season Pass, you’ll receive bonus costumes for Link and Zelda that you can use right away! ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01000B900D8B1004",
+        "ids": [
+            "01000B900D8B1004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Season Pass Bonus Items",
+        "nsuId": 70050000022317,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200720,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 4194304,
+        "version": null
+    },
     "70050000023145": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/573d2d4f09fd80507b7d28f65ec9d4e61ccf7c8bfb6b203d18efb1f9ec2a365c.jpg",
         "category": null,
@@ -11016,6 +13243,37 @@
         "size": 3145728,
         "version": null
     },
+    "70050000033456": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a07a2f1cec69790728766bfc493d2254bcf7ff855d4b182300179da68cc7455a.jpg",
+        "category": null,
+        "description": "An owl will now periodically appear in front of your personal quarters in camp. If you talk to the owl, you can get an Owl Feather as a gift. You can use an Owl Feather to gain support points with an ally.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010071F0143EB001",
+        "ids": [
+            "010071F0143EB001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "(Download version bonus) Owl Perch",
+        "nsuId": 70050000033456,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20220624,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 5242880,
+        "version": null
+    },
     "70050000035358": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4aa74dd5666580430a8aa5445a24c6ac339bbf674ede134017bcab350ab53069.jpg",
         "category": null,
@@ -11364,6 +13622,74 @@
         "releaseDate": 20230209,
         "rightsId": null,
         "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000040579": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4687aff0a8e927468f355f1cd8d89d73f342e0cc3bcd3b7f4444d048a84bc12.jpg",
+        "category": null,
+        "description": "In this year's annual school trip, students from various schools - including you! - will be sent to the land of Kitakami, where people live at the feet of tall, towering mountains and the tranquil landscape is teeming with nature unfamiliar to Paldea, flourishing among rice paddies and apple orchards. At this time of year, the villages hold festivals, bustling with all kinds of stalls and stands. Make new friends and meet new Pokémon as you unravel the old legends of Kitakami.\n\n- You need to have begun the Treasure Hunt in Pokémon Scarlet to access the main story of Part 1: The Teal Mask. It takes approximately 3 hours of play to unlock the Treasure Hunt, depending on the player.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100A3D008C5D001",
+        "ids": [
+            "0100A3D008C5D001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 1: The Teal Mask",
+        "nsuId": 70050000040579,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20230913,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/969675829d2420cc905820211b6da902cfe4edef5e852ecf6accc5c086e9e83d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f641e1c0b02c83246ddcb3307bf6a751166abf9a52488238cafedb32a6432886.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea6dc01243fbb51579e360f3dd381f2172d4adf58d421bdc55f309e4c6487185.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000040637": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4687aff0a8e927468f355f1cd8d89d73f342e0cc3bcd3b7f4444d048a84bc12.jpg",
+        "category": null,
+        "description": "In this year's annual school trip, students from various schools - including you! - will be sent to the land of Kitakami, where people live at the feet of tall, towering mountains and the tranquil landscape is teeming with nature unfamiliar to Paldea, flourishing among rice paddies and apple orchards. At this time of year, the villages hold festivals, bustling with all kinds of stalls and stands. Make new friends and meet new Pokémon as you unravel the old legends of Kitakami.\n\n- You need to have begun the Treasure Hunt in Pokémon Violet to access the main story of Part 1: The Teal Mask. It takes approximately 3 hours of play to unlock the Treasure Hunt, depending on the player.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01008F6008C5F001",
+        "ids": [
+            "01008F6008C5F001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 1: The Teal Mask",
+        "nsuId": 70050000040637,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20230913,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/969675829d2420cc905820211b6da902cfe4edef5e852ecf6accc5c086e9e83d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f641e1c0b02c83246ddcb3307bf6a751166abf9a52488238cafedb32a6432886.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea6dc01243fbb51579e360f3dd381f2172d4adf58d421bdc55f309e4c6487185.jpg"
+        ],
         "size": 3145728,
         "version": null
     },
