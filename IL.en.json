@@ -2046,6 +2046,52 @@
         "size": 2064646144,
         "version": null
     },
+    "70010000018678": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98a67f0529bff33c74ab33e24d0730ef427ecf86942ce8b072c91ea2074e4e10.jpg",
+        "category": [
+            "Platformer"
+        ],
+        "description": "Break the rules and make the Super Mario courses you’ve always dreamed of in Super Mario Maker 2! With lots of new tools, course parts and features at your disposal, let your imagination run wild as you craft and share unique levels.\n\nMaking your own Super Mario courses is easy, and this time, two players can build courses together on a single screen. Simply pick and place iconic objects and enemies wherever you like and choose from many different themes and styles – including the new Super Mario 3D World style!\n\nYou can even combine familiar elements to create incredible things never before seen in a Super Mario game!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6e3e4c0a8e88dd9470d686a55052dca29f1be48ae3af3249a0d34a39f77d2684.jpg",
+        "id": "01009B90006DC000",
+        "intro": "Create anytime… play with everyone",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Super Mario Maker 2",
+        "nsuId": 70010000018678,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8bd0a8e35f8b0e9dfa0ef6b51b7eaa088d59090cdab20870e9c15ae4222f70ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/105f08c9ffc1bc850ad11e966d802caeb575f7f7234fba36e2a2a4ef9be703a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b65df20ed36d366b3a1b54a097d28e946fd7a3c786a89ecbf57d7a983992e67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8715c5073855bf9c41ecdc2d757c7f80cd478990b44bbcc5a68d9e72ddf2e230.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45e1062a6b742a5f9e7d7851e1a67530b7d467a014f685b50e82a9304f30cefe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8aa81720d7c7484d1d72c78bc7b217d245ef65b0eaa0b07d2487a188fafb38b.jpg"
+        ],
+        "size": 3285188608,
+        "version": null
+    },
     "70010000018693": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/014dc357cb84a7368ef5bbb58b1c68e45f214866b37be69b08ad6fc3816be431.jpg",
         "category": [
@@ -2329,6 +2375,49 @@
             "https://img-eshop.cdn.nintendo.net/i/ddf27248898a69ecbed4331dbdc0375ce852d88c9a02646109b9b6f270c26a71.jpg"
         ],
         "size": 1179648000,
+        "version": null
+    },
+    "70010000023326": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dc1dde60be3cdb4425af86a812d50e6ccf28060e207345db66b3787446f47777.jpg",
+        "category": [
+            "RPG"
+        ],
+        "description": "Once there was a group of young people who had no idea of the awesome powers they possessed. Meanwhile, in another dimension, a collection of heroes had lost all purpose and sense of themselves. Now, that’s all about to change…\n\nIn Tokyo Mirage Sessions #FE Encore, budding stars of the stage and screen from Tokyo team up with legendary warriors from the world of Fire Emblem against the forces of darkness.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4ff32efe9352f32ca82af02967216f75453871603e1ec63fa8d2ffd2b0b88438.jpg",
+        "id": "0100A9400C9C2000",
+        "intro": "Two worlds. One heroic destiny.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "zh",
+            "zh"
+        ],
+        "name": "Tokyo Mirage Sessions ♯FE Encore",
+        "nsuId": 70010000023326,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200117,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0dd42d5ea04fd2154ef7c3139e5f53aa44619053e9e4014f524a5bdfe1bea081.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee34ca2eb50cbe3a71cde0b952c6fdbe4129ff2699c1294fbbafa0709d0fe1b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c71eed95e4cbc422fb5a56aabe79dc0d5fb7e22c11c14c56f164f2c77a09611.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69516dddaf63c84a2e880a837c85c638d875c877f7d057d68a62c912647ac419.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ee31f4845cb87d41adc0dc59438d7787c00c24194ce1dde5a415c81295521a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b008bffdb8f2f3ff0628a4b7d32c02fdd1371912286d21df12d2bb9c75d66b8.jpg"
+        ],
+        "size": 12098469888,
         "version": null
     },
     "70010000025421": {
@@ -2640,6 +2729,55 @@
         "size": 439353344,
         "version": null
     },
+    "70010000029727": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e8abd68139acb454b78a5e700283a5aff383439dedd2de5e882eb326047d705.jpg",
+        "category": [
+            "Adventure",
+            "Action"
+        ],
+        "description": "Join Mario and his new companion Olivia on a comedic adventure that will take you to the far corners of a papercraft world in Paper Mario: The Origami King on Nintendo Switch!\n\nFace off against the Origami King and his army of paper invaders, team up with some extraordinary companions and master magical powers on your quest to save the world.\n\n• Journey across the land – from scorching deserts to sailing the high seas\n\n• Recruit a revolving cast of wacky travel buddies\n\n• Engage in battles which will put both your tactical thinking and puzzle solving skills to the test",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f9b01186ac3e3663853f9be978fa2e9a40d71f15bfa88e3a4512e5f410120f8.jpg",
+        "id": "0100A3900C3E2000",
+        "intro": "A beautiful paper world to unfold",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Paper Mario: The Origami King",
+        "nsuId": 70010000029727,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20200717,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eca41cda1b9d378eaedbbd778c663aaf0aa89e005c790cac19412b9679676c05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6c4ca8fa416f9576b861a5d645c865a5c82eab495de1b507a7545617a272a1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5b97b6da11734f256ee8dd642e167561ba58e70f261e960651b67993c79be12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/686fa5e4814b841570d8fc77030eb09896039f8738abbca88ef5a97847ada58a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3494cd435b5ed14abe42bec79745c75c6d54c1f53352ef59c8328ceae9f1a40.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da5d2775ccd75a18a5af2e0b949bd06b79ff9c68b467514ead6812fa6192e74f.jpg"
+        ],
+        "size": 6984564736,
+        "version": null
+    },
     "70010000032446": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff75e948b8af4324400062527e00f6166dca2c2356e49744868d2e3b670bd467.jpg",
         "category": [
@@ -2782,6 +2920,55 @@
         "size": 1195376640,
         "version": null
     },
+    "70010000034701": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9cfa6ef12ae9356249e6e3ccb010989b96f88ba1ed0949f4a369cf5508236db1.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Travel into Hyrule’s past and fight to prevent the kingdom’s destruction in Hyrule Warriors: Age of Calamity for Nintendo Switch!\n\nHyrule Warriors: Age of Calamity combines action-packed gameplay with the rich landscapes of The Legend of Zelda: Breath of the Wild to create a new and exciting experience.\n\nUnfolding a century before the events of The Legend of Zelda: Breath of the Wild, the fate of Hyrule hangs in the balance. Lead your forces onto the battlefield, then battle against the might of Calamity Ganon in the ultimate struggle for survival.\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9eb5a62527c0783cf7cf72b7144f6abe53c2c25264a5a62258e21650830d8b40.jpg",
+        "id": "01002B00111A2000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Hyrule Warriors: Age of Calamity",
+        "nsuId": 70010000034701,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201120,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/085cb581704192a97d254115281a3d06fac1d6c1ce1c3792d9e6bf1a32760ade.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a588407ea5be4d972edfb79362d5e791b2752edffec6d1819c54948dc9b56349.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/490328a897c941ae01d7b67c44abd7acf6bf7c302d3adbf0407d41773e50e359.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f9d81a869a637d813d007344a7d336381959908a2001c4c3b10675f67f373cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c872c99ed50a1b473d7b5f73140cd30b89ffe30534a8a350f230f90bce652d50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aba068cda0fce5f68ed7b5d947557419b066e4e30c2c1a6acc5704fe252db997.jpg"
+        ],
+        "size": 11902386176,
+        "version": null
+    },
     "70010000036179": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/298ac5eda5cbdbf2da9fa4c5c43f1dd2e374e201136ab3a39613ac460556ba77.jpg",
         "category": [
@@ -2861,6 +3048,188 @@
             "https://img-eshop.cdn.nintendo.net/i/45f9adf82f961e4b8f13140b0cf01df485e9a3fe086ef7e7e63925390a5f3acf.jpg"
         ],
         "size": 7415529472,
+        "version": null
+    },
+    "70010000038613": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97f5af23365e15e48ca36664a39528348de4fe0921b82f6d6ace91cfd7bbd9e0.jpg",
+        "category": [
+            "Adventure",
+            "Action"
+        ],
+        "description": "Witness the origins of the Master Sword in The Legend of Zelda: Skyward Sword HD for Nintendo Switch. Originally released on Wii in 2011, this classic quest has been optimised for Nintendo Switch with smoother motion controls, as well as newly-added button controls.\n\nDepicting the earliest story in The Legend of Zelda timeline, Link must travel between a world above the clouds and the great unknown below in search of his childhood friend, Zelda. Armed with his trusty sword and shield, Link will face off against powerful foes, solve tricky puzzles and soar through the skies atop a huge bird called a Loftwing on this epic adventure. ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e575dbcd62ff138066bd6276afda8770f8c91c80ea99d13ab7480aed91b1ae1.jpg",
+        "id": "01002DA013484000",
+        "intro": "The Legend of Zelda: Skyward Sword soars onto Nintendo Switch!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "The Legend of Zelda: Skyward Sword HD",
+        "nsuId": 70010000038613,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20210716,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f5ba369be5f72a70995eafbf834699d297360d7730f12eb9d152ab673be12667.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5108c3b8f525cd24746cf6787a4626408c134b2a42f4744381c285c24357fcfc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eeab7b782ef4a6016c5026b998ea9b026de6e9f0dbe5a716764735765e4e948c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ce053050b7352ce843413a3704425fa92598ff75336b8c4500a96d63145c2a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd88858550eae395b4c42cb1dadc9b6d20a24bfb8f30b1027261d98f5b37d48a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/328729a5f90e39b386ec5b10ddb8cee82a44d9daf77c51e48e8e94984770afaf.jpg"
+        ],
+        "size": 7649361920,
+        "version": null
+    },
+    "70010000038618": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cf6900aac25c8ce63b8b537e84cc1387e3329fa5ebfd1ac194f8c7a63c90a341.jpg",
+        "category": [
+            "Adventure",
+            "RPG"
+        ],
+        "description": "Head out on a hilariously quirky quest with your favourite Mii characters in Miitopia for Nintendo Switch!\n\nEveryone in Miitopia is a Mii! Whether it’s the fearless hero, the beautiful Princess or even the nefarious Dark Lord, you decide who stars in this story. You could have your best mates join you in battle, dress Grandad up like a king, or turn Mum into the big baddy. The choice is yours!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ce5f0940911eab2cc34eb41b121e84c9d00081d02b816585851f9f1819bb256.jpg",
+        "id": "01003DA010E8A000",
+        "intro": "Who will you go on an adventure with?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Miitopia",
+        "nsuId": 70010000038618,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20210521,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/16d26abfb3b8b20db046759c520dd7355b50a6c1a5d85a978bdb89360e3e4e45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24b6d66f0264eb694a936320e0db09e7cc09b536937ce89a813db203143e6548.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c5726a005c6750d3486cad449f54cafd0a2e89db8fdf20a711f9eafb6e02cfd0.jpg"
+        ],
+        "size": 3276800000,
+        "version": null
+    },
+    "70010000038623": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/34b552f9f1239fdd43c67b53cf399ba4282af178f7c9bebaf47f0be830b224f4.jpg",
+        "category": [
+            "Sports"
+        ],
+        "description": "Tee off in Mario Golf: Super Rush, the latest instalment of the Mario Golf series, coming to Nintendo Switch. Join your favourite Mushroom Kingdom characters on the fairway on courses filled with lush, natural scenery.\n\nGet into the swing of things with button controls, or using motion controls by holding the Joy-Con controller like a golf club. Just like the real thing, you’ll need study the wind and terrain, but there are also handy features to help you ace your shots. Take advantage of a shot gauge that shows you how your shot will curve due to slopes, and a scan lets you examine a course’s terrain.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6d017de1dd9cdd46cc932237cf28584df5713f35f0353347768e85ed218d1ae6.jpg",
+        "id": "0100C9C00E25C000",
+        "intro": "Putt your golfing skills to the test!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Mario Golf: Super Rush",
+        "nsuId": 70010000038623,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20210625,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fd80468a123d3ace1905efb64a75b9b68c4793e5a0a7dd47622523c08112c6f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4a50755c5cd3157d9becc448bebe61700ff03df77cdebc092fe4d295c20c2a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e29aaa71dad503b93859c02b32915e19ea1a29fb2a82ebc1f41b03ead0c0f240.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b1dd06174154af60d6a5f85dcb2c462a2742dc11846bd22e8abefc946961e47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5657842800f472ada404750b442a2811b2c0b3c419affbe3c1bc8c46c680309f.jpg"
+        ],
+        "size": 4487905280,
+        "version": null
+    },
+    "70010000038628": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8cf4d7973eecf863c12afa4547fcf6b97a7a2c489b25adbe356d79a28a5786b.jpg",
+        "category": [
+            "Adventure"
+        ],
+        "description": "Join the fight as Wonder Woman, Supergirl, and Batgirl from the animated series DC Super Hero Girls, and save Metropolis from some of DC’s most notorious Super-Villains! Each hero can battle baddies with a unique set of abilities: Wonder Woman uses her warrior skills with the Lasso of Truth and Flying Shield, Supergirl has Heat Vision and Super-Breath, and Batgirl can invent crime-fighting gadgets like the Batarang and Bat-Hook. But when you’re not out fighting crime, you have to balance the super life with their lives as teenagers!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a1626af9e9f4b7d80bc60a10bb56b54200b32663ad18c9c511b5da93dcacb46a.jpg",
+        "id": "0100F8F00C4F2000",
+        "intro": "Suit up as the DC Super Hero Girls and save Metropolis!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "DC Super Hero Girls: Teen Power",
+        "nsuId": 70010000038628,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20210604,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a32493f89290e7bc75f42bcf78dcdb8fb81d39d4dea553e04c91203f983f3d01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4ea68856e298fa83f916006c85437f99749595e42be39fbebab56bf3d35bc5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16701b881e3d80f5441c7d5fb7c17f2c80764d71c494a1ca071fa69ef406e9d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e9def640ecf7e157a39516f47d7bb5b48acbf3e3bc1d218a63d63befb3ba55b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6aa1b542a5fb78897886f8603ca6a53a552b9514b777b667967cb73463bb12d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e3ffc5fb5d9a66a2b049a17f63a316375e14a2484635c7a7352bbd4a6f8749a.jpg"
+        ],
+        "size": 2148532224,
         "version": null
     },
     "70010000039124": {
@@ -6617,6 +6986,63 @@
             "https://img-eshop.cdn.nintendo.net/i/419f3934399cbf960d1d462f7e84fdd6bcd3492bec1e9789cf1c59314d026da9.jpg"
         ],
         "size": 4411359232,
+        "version": null
+    },
+    "70030000012507": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Hyrule Warriors: Age of Calamity Demo",
+        "nsuId": 70030000012507,
+        "numberOfPlayers": null,
+        "parentId": "01002B00111A2000",
+        "publisher": null,
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1430257664,
+        "version": null
+    },
+    "70030000013568": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Miitopia Demo",
+        "nsuId": 70030000013568,
+        "numberOfPlayers": null,
+        "parentId": "01003DA010E8A000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1457520640,
         "version": null
     },
     "70030000013888": {
@@ -12646,6 +13072,37 @@
         "size": 3145728,
         "version": null
     },
+    "70050000023895": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30af6919961c083b1ef852c4f5e8f02e3c237414b5bc48c3e1ba3cb5c9a45bac.jpg",
+        "category": null,
+        "description": "One of the weapons Link can use in the game. You can equip this for battle (paired with a Pot Lid), or you can fuse it with other weapons for stat boosts.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01002B00111A3001",
+        "ids": [
+            "01002B00111A3001"
+        ],
+        "intro": "In-game item: Lucky Ladle",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Digital Version Preorder Bonus",
+        "nsuId": 70050000023895,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20201120,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
     "70050000024367": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15bb9105e925d0937ff8bfc2b2df6b382f27922bced05567c3ff10fc1174ea32.jpg",
         "category": null,
@@ -12923,6 +13380,108 @@
         "rightsId": null,
         "screenshots": null,
         "size": 3145728,
+        "version": null
+    },
+    "70050000026001": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c9c394f7b8235ee8d006c8e1a6d9fb5b3219b83fd3a3c1003daede614222e7b7.jpg",
+        "category": null,
+        "description": "A new outfit and weapon for Link:\nPrototype Ancient Helm\nPrototype Ancient Cuirass\nPrototype Ancient Greaves\nPrototype Ancient Short Sword",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01002B00111A3002",
+        "ids": [
+            "01002B00111A3002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Purchase Bonus",
+        "nsuId": 70050000026001,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210528,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/520340c1cf7c662c146a7180f1ad77b3e997a9f811c671d8761e9d1d3c867b36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/556127d770a221858be4f7df15dcab8bb6f97c3fcfeeef5da5a6fe71c9b2e749.jpg"
+        ],
+        "size": 95420416,
+        "version": null
+    },
+    "70050000026002": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af88e247cf7503392d8e66ad9de5333b65be029897a1c229eba26888daec5269.jpg",
+        "category": null,
+        "description": "New playable character: Battle-Tested Guardian\nUnleash the power of the Battle-Tested Guardian on the forces of Calamity Ganon.\n\nNew weapon types: Flail for Link and Master Cycle for Zelda\nTry out some additional weapon types! These unique combat styles will come in handy in the new challenges you'll face.\n\nNew location: Royal Ancient Tech Lab\nStop by the Royal Ancient Tech Lab to test yourself with new challenges to unlock weapons and other helpful features!\n\nEven more updates!\nTest your skills against newly-added enemies like the bomb-throwing Moblin and a Giant Chuchu. You can also take on a gauntlet of foes in the new 'vicious monster' boss battles, try out the Apocalyptic difficulty level and more!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01002B00111A3003",
+        "ids": [
+            "01002B00111A3003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Wave 1 – Pulse of the Ancients",
+        "nsuId": 70050000026002,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210618,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ae361c676c586883943509336803cb8426481cf4a602c81a4b9e99cb2d5d294.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bcb5220f142a00bea241e4e7f795df610609f3928701c9be2be7dd1b6289831c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/461b567be7b2947b1e71c7ac4803479056127f2304870c02a7ae052f2d3c3f91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edd49b006ea4dd4a9ab940a48ef709fec9c3a789e1003feb663a5dec951b7ccf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf1429fe01f55363710e8ac97bc4fd9001c0125ac8beb6ed37e860831a7c8f18.jpg"
+        ],
+        "size": 231735296,
+        "version": null
+    },
+    "70050000026003": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b08170a15fedc95895590f27bdc1bd75b9ae4684ae9b8d5a5317b5df2740ec7.jpg",
+        "category": null,
+        "description": "New character vignettes, including Battle for Kakariko Village and Battle of Goponga Village\nNewly-added stages, including the coliseum\nExpanded roster: Purah, Robbie and one more\nNew battle skills for existing characters\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01002B00111A3004",
+        "ids": [
+            "01002B00111A3004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Wave 2 – Guardian of Remembrance",
+        "nsuId": 70050000026003,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20211029,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1195376640,
         "version": null
     },
     "70050000027892": {
