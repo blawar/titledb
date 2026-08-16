@@ -496,7 +496,7 @@
             "https://img-eshop.cdn.nintendo.net/i/807f2984ba4371c8a43d258aab2c45d515eddf344135f76bcb7554530fdb2175.jpg",
             "https://img-eshop.cdn.nintendo.net/i/23d7b85d74c3bd2c291cfe0534e260f43017a9a5a8904097cb9076c0f64711c3.jpg"
         ],
-        "size": 14169407488,
+        "size": 14173601792,
         "version": null
     },
     "70010000000733": {
@@ -1485,7 +1485,7 @@
         "name": "DARK SOULS™ Remastered",
         "nsuId": 70010000008121,
         "numberOfPlayers": 1,
-        "publisher": "BANDAI NAMCO Entertainment",
+        "publisher": "Bandai Namco Entertainment",
         "rating": 16,
         "ratingContent": [
             "Violence"
@@ -1813,6 +1813,52 @@
             "https://img-eshop.cdn.nintendo.net/i/12e7206fcba9a08274f2a8a3cca9a4474df4e656e429873f86bcb1c3b61c8864.jpg"
         ],
         "size": 2326790144,
+        "version": null
+    },
+    "70010000013627": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d4786aed209d527250473f81625f45940e8b0bcc8e51736da6dce27b090a65fa.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Access a growing library of classic NES games anytime, anywhere, including Super Mario Bros. 3 and Donkey Kong. Play with friends online or via local wireless in supported games.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab8c30025e9579709fbae163d3b49c13715a64a2ac1fdda1f59ada5af4fc1590.jpg",
+        "id": "0100D870045B6000",
+        "intro": "Play classic NES games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru"
+        ],
+        "name": "Nintendo Entertainment System – Nintendo Classics",
+        "nsuId": 70010000013627,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Sexual Innuendo",
+            "Users Interact"
+        ],
+        "region": null,
+        "releaseDate": 20190820,
+        "rightsId": "0100D870045B60000000000000000005",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a03f40dedcc727de6b0de2db9e9de5f0a987821c2fef8bc0256a9db4b3b32437.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e4d5a02fe21d57b0ba6d6488e0ec74a289bdd6b1d9f6fb3b3a08c31975c4568.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/302193a0e17c422bd8d1d0ddee7aca3b0064dc0be3a4413b223809d8a108ff26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b156be97391946dab5fb7cbd7214c715f899fca37885ae0572b40d26d2d55334.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6727b6a0e7c1f2d0b2daa499a660baba6409526ce646f97cf0cec85410fe462b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/451e07b9156c4752ac0a8a419552b607214ef298bcc2fdf979cf264e529c0600.jpg"
+        ],
+        "size": 158334976,
         "version": null
     },
     "70010000014063": {
@@ -2375,6 +2421,55 @@
             "https://img-eshop.cdn.nintendo.net/i/ddf27248898a69ecbed4331dbdc0375ce852d88c9a02646109b9b6f270c26a71.jpg"
         ],
         "size": 1179648000,
+        "version": null
+    },
+    "70010000023210": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c0fed928a361b755d50885b3a0214458aa3146d144417fb567153d852d19f4c.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Access a growing library of classic Super NES games anytime, anywhere, including Super Mario World and The Legend of Zelda: A Link to the Past. Play with friends online or via local wireless in supported games.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4848234d01f82d02b6741be3cee8248244b0b0deaec2006fa8e9f5533f917083.jpg",
+        "id": "01008D300C50C000",
+        "intro": "Play classic Super NES games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko"
+        ],
+        "name": "Super Nintendo Entertainment System – Nintendo Classics",
+        "nsuId": 70010000023210,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Mild Swearing",
+            "Moderate Violence",
+            "Sexual Innuendo",
+            "Users Interact"
+        ],
+        "region": null,
+        "releaseDate": 20190906,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/03b4da58cde071daee0f990a73cc9574f398ac00a9056d9cff2441f2fcf709ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9ae3031900f803570b8e03f567a66c55eed2a1419702ff5979254ae65a3e017.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1c40ba804d9bb8be7f29c2935aef4f4134bd0bfc6d1c4305c411a935b5d9062.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78dd733ef6012719ec7e69fb34b1334879e7ecaa4d39b2b91f314ad6d91d81d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/146cb0bad57b72cc95cbeb1ab64ac0d3aafed50607779445526d490824853edc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ede22be08bb691b13321e62858784acd7d71f7b2a666c9c4dbd2b4e04b2edf8.jpg"
+        ],
+        "size": 311427072,
         "version": null
     },
     "70010000023326": {
@@ -3614,7 +3709,7 @@
         "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pokémon, level up and evolve your partner Pokémon, and knock out the opposing team’s Pokémon to prevent them from scoring points. Put your teamwork to the test, and take home the win! \n\nKey Features:\n•BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pokémon in a variety of holographic outfits—with new styles arriving regularly!\n\n•UNITE MOVES: Unleash the true power of your Pokémon with Unite Moves! Leverage these all-new Pokémon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n•RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n•COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team’s success. Leverage signals, quick-chat messages, and—for the first time in a Pokémon title—voice chat to communicate and stay in sync with your team.\n\n•CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pokémon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e7b1a3ce704e3d214d5e0d78b39e632f3a5c2b6e8a432b188e4a8f2b211adf08.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d153dd30d4f435319c59d26d939f00fa0b0edce97912dba600c5d0b3d3ba4b6a.jpg",
         "id": "0100939011ED4000",
         "intro": "Team up and take down the opposition in Pokémon’s first 5-on-5 strategic team battle game! ",
         "isDemo": false,
@@ -3651,7 +3746,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3eca2a7427a4cd802e6bc814f40bf1f0ed7baeda5246d79cae4e9e4b5fd01f32.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ce0b4caeb737766fe42aedfc7067af2caf88250f7439304efd837cc6e85f7348.jpg"
         ],
-        "size": 6865027072,
+        "size": 7017070592,
         "version": null
     },
     "70010000044952": {
@@ -3844,6 +3939,99 @@
             "https://img-eshop.cdn.nintendo.net/i/f8dd93ea77667d3bc20e7b1384a49ca1f558be5495b1ee88e041e58a3e051836.jpg"
         ],
         "size": 6234832896,
+        "version": null
+    },
+    "70010000046984": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f0fbf02ce70471c16483bc766c4b8e8db73cec44e7a844c9f5f088c0ebc381a.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Access a growing library of classic Nintendo 64 games anytime, anywhere, including Super Mario 64 and Mario Kart 64. Play with friends online or via local wireless in supported games.\n\nA paid Nintendo Switch Online + Expansion Pack membership is required to use this service.\n\nThis game may contain product placement and advertising. \n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63ebccbc4fd5a2578236f78d522cce7e4017958ca10c1917e6fc3122b19ed635.jpg",
+        "id": "0100C9A00ECE6000",
+        "intro": "Play classic Nintendo 64 games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "name": "Nintendo 64 – Nintendo Classics",
+        "nsuId": 70010000046984,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 16,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "region": null,
+        "releaseDate": 20211026,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/51fef762ef0b1e551224bcdc5e75285449272189818ddcf06b961222da6d580c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38071b6e886cb7857ead42effd84b51124c783ed0d64e088b34d1d426ff6a382.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa65f425ef2aaf0a1370a1204d71c72a011ee55fa852680b6e8c0d9b3960fe0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27f8f66f08f2867d6fbb48c70967371aadf95a33cb4de676b0b7cd34439f465e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3838e562584561424a5196a67d312b8c24b6119554ea0be86768aef0d7d16eed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fdecbe9ced4c9d7145f9b8167fdddc80a3202b9e3f563a51150ba32083580fc4.jpg"
+        ],
+        "size": 2067791872,
+        "version": null
+    },
+    "70010000046989": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/417edb5939c874bba4f1bcf863b78777870bef87d0de1aed63cbabb1df8a775c.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Enjoy access to a growing library of classic SEGA Mega Drive games anytime, anywhere, right on your Nintendo Switch. A paid Nintendo Switch Online + Expansion Pack membership is required to use this service.\n\nSelect games include added online functionality so you can compete and co-operate with friends.\n\nHere’s a list of some available classic SEGA Mega Drive games:\n\n•\tGolden Axe\n•\tStrider\n•\tMusha\n•\tShining Force\n•\tSonic The Hedgehog 2\n•\tDr. Robotnik's Mean Bean Machine\n•\tStreets of Rage 2\n•\tShinobi III: Return of the Ninja Master\n•\tEcco The Dolphin\n•\tGunstar Heroes\n•\tPhantasy Star IV\n•\tCastlevania Bloodline\n•\tContra Hard Corps\n•\tRistar\n\nIf you want to try one of these classic  SEGA Mega Drive games you can download the dedicated app on Nintendo eShop: the entire library will then be ready for you to enjoy!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/19d46b034b5d1bf9f814e731c00201709bddc4c1de0531e633cd12c36e389a3f.jpg",
+        "id": "0100B3C014BDA000",
+        "intro": "Play classic SEGA Mega Drive games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "name": "SEGA Mega Drive – Nintendo Switch Online",
+        "nsuId": 70010000046989,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Moderate Violence",
+            "Users Interact"
+        ],
+        "region": null,
+        "releaseDate": 20211026,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6200c6afaeab359a7cb0d5ebebd88f03ccc95ffa2c9938a7132768d3c28fc4a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca1499817f2751606cd23295367bc4c3cd67b410270d0ea96dac2b066fb2e382.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f32e70266c1f71ea5b53dfe379d0da52173147ebc7f26b7f4413c2388e9c3d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/444e79188cc45f9fdd398cf0871b0a4c0fbf020d5286037b4b28df2dc822ce87.jpg"
+        ],
+        "size": 236978176,
         "version": null
     },
     "70010000049932": {
@@ -4229,6 +4417,55 @@
         "size": 1305477120,
         "version": null
     },
+    "70010000058469": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b826ddfa267502b5c98113bd06b952cd8cf8737bdc356a69ff0206ea3d850c4.jpg",
+        "category": [
+            "Action",
+            "Adventure",
+            "Multiplayer",
+            "Platformer"
+        ],
+        "description": "Join Mickey & Friends on a quest to explore the mysterious island of Monoth and recover three mystical books to save the world from disaster!\n\nPlay as Mickey & Friends\nChoose your favorite character and unlock special abilities as you perform high-flying platforming feats, solve fun puzzles, and take on epic boss battles.\n\nReveal the mysteries of Disney Illusion Island\nRun, swim, swing, and jump your way through a beautiful yet mysterious island and discover rich biomes, intriguing characters, and hidden secrets. \n\nFun with friends in 4-player co-op\nPlay solo or grab up to three friends to save the island of Monoth in 4-player couch co-op. Team up with friends and utilize unique skills such as Rope Drop, Leap Frog, and a heart gifting Hug. \n\nBe a part of an authentic Mickey cartoon\nExperience a brand-new Mickey & Friends adventure with hand-drawn animation, an orchestrated original score and authentic voice talents.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f5fcc54ed5733324551f60716a65c0c66edb0dd73f297e0b0dbd01fed4784c99.jpg",
+        "id": "0100FA401961E000",
+        "intro": "Join Mickey & Friends on a quest to explore the mysterious island of Monoth and recover three mystical books to save the world from disaster!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Disney Illusion Island",
+        "nsuId": 70010000058469,
+        "numberOfPlayers": 4,
+        "publisher": "Disney Electronic Content",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20230728,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/abfc4f2354c6fab8682b702e027600c8ffb51ed9a5113f9d018718ce9318a43e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35dd121aae349e6f661080ca262417861f167736a190a22a52e46b85f9154d38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d4d3863f428c23ba8bc2275aeba220f5749d90d537c8fc61a5dc0fb89453cbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df5bd9a3f6df52d834b1514b04b35021d2dc94280474a9df5ea781daecae4acc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b1780baa106c31a7e55f866a6337cf8135c3bf950ff68c43a4e3a79ad7cb8ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/555d7fc25e61ca870d106f0f3f233677d35fbd152a7dee4b69feacb2e3a3b0d4.jpg"
+        ],
+        "size": 8389656576,
+        "version": null
+    },
     "70010000058798": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cfe54eaeba75d53f4f4446709f0a1feab4ca6d33bcadb37fbb070cecc29a4d4b.jpg",
         "category": [
@@ -4419,6 +4656,99 @@
             "https://img-eshop.cdn.nintendo.net/i/d5454f47fda8afd5f24240ec6df5283dea65edda1d3398556cfea27ec3a50ef9.jpg"
         ],
         "size": 3433037824,
+        "version": null
+    },
+    "70010000062479": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1504afe46ce970542ba4f75fb3559a972624c16657d508a44baf3860305516e4.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Access a growing library of classic Game Boy and Game Boy Color games anytime, anywhere, including Tetris® and Super Mario Land 2 – 6 Golden Coins. Play with friends online or via local wireless in supported games.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/922a2153f8dae9f89619ebb1726568a63e5c364a9dff5cce8d3a8d227aa4d9cf.jpg",
+        "id": "0100C62011050000",
+        "intro": "Play classic Game Boy games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "name": "Game Boy – Nintendo Classics",
+        "nsuId": 70010000062479,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Horror"
+        ],
+        "region": null,
+        "releaseDate": 20230209,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8609ddda19c49e1cf1c3770156fd18e04fd69a58226971265112c03c16a5e2a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3131fb686e7419e632bf90afdb1d8ba5bbe62947e1fa478274ce490928e4156b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1c5f41ecf9f9b23fcdcec9037f31dfd88535943efc23c2eacbbd26e7c141d18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0426fdf417772843879bbe97f2099b2a40539edfcdd656a4846a90b95ec9ee7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bed9369a3c1a4c122bd8c458103ce3ef918b9df83399f9dec0d0dbc1d69ef30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54b0aa91c767f2da7d07cf22a6371803d321f52e27acdd817e3c168ddf8e031e.jpg"
+        ],
+        "size": 175112192,
+        "version": null
+    },
+    "70010000062484": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38d8980a439d03dd449db86c068c5c39c3edf91353a90d8716355ed50cf99059.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Access a growing library of classic Game Boy Advance games anytime, anywhere, including The Legend of Zelda: The Minish Cap and Mario Kart: Super Circuit. Play with friends online or via local wireless in supported games.\n\nA paid Nintendo Switch Online + Expansion Pack membership is required to use this service.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dd3051cc3c7db90eaf6e4f35982fd3aec9d34d66546f251ad387adc247e486e2.jpg",
+        "id": "010012F017576000",
+        "intro": "Play classic Game Boy Advance games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "name": "Game Boy Advance – Nintendo Classics",
+        "nsuId": 70010000062484,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Gambling",
+            "Moderate Violence"
+        ],
+        "region": null,
+        "releaseDate": 20230209,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e4500ad1eb397fc3581986d6c28c14fe95316d36a49cde3d7cb3b898f9422290.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/903149fd6d05f732a1f73532f2c6476ae1de406acda863742a5ad83a95eac471.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a305d8530c48f04ab144e44a44bb81d8816a20aa8013f7f486c0c67c1e5470e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c006437bae0c52e91e8d9f8218a5ebe3f5b9336e963643849ff1d3d63987511.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/042c24e42a42f91ee97e3b10c3e1e98134205e03546c1b1c3c6633fd04e3caed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adcac92b494fff3e731476cd8aee63502416d16ed2c56c09a59ad5a72bd83995.jpg"
+        ],
+        "size": 540016640,
         "version": null
     },
     "70010000063710": {
@@ -5124,6 +5454,45 @@
         "size": 5497683968,
         "version": null
     },
+    "70010000074095": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f304efe3cd2e8d886ec00097c7c6fd97bac3dcdb9885b4ef25f46a2bd2fe1f28.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Access a selection of classic Nintendo 64 games anytime, anywhere. Play with friends online or via local wireless in supported games.\n\nA paid Nintendo Switch Online + Expansion Pack membership is required to use this service.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9d67ff55420b5de25328d6946b5e814c018871ec9fb1ed9fc3ea8ab9d1b04ef1.jpg",
+        "id": "0100E0601C632000",
+        "intro": "Play classic Nintendo 64 games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "name": "Nintendo 64 – Nintendo Classics: Mature",
+        "nsuId": 70010000074095,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 16,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "region": null,
+        "releaseDate": 20240618,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 526385152,
+        "version": null
+    },
     "70010000077706": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/591c4df5698c16e06f3d4eab6c8445b1bce55f7c220ae1fec0cf39b7d6a87be6.jpg",
         "category": [
@@ -5652,7 +6021,7 @@
             "https://img-eshop.cdn.nintendo.net/i/0be3da31e8abbe5e9c2cf7fb16addc4802947926b66de2c20d175db682fba5c9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/25e12861ffacf82f6a21a2036bbc2dca9f3042658cc0770772a66696bc275ba5.jpg"
         ],
-        "size": 4411359232,
+        "size": 4959764480,
         "version": null
     },
     "70010000094235": {
@@ -6290,7 +6659,7 @@
             "https://img-eshop.cdn.nintendo.net/i/19d99c61f2dcac41298638f84ce7f14d2355d511d00bafd3775f4f09938a5d7f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/789eab7f5f881538fc4855466de7b67b11982b13c30afa75ef26d695bf016343.jpg"
         ],
-        "size": 6761218048,
+        "size": 6764363776,
         "version": null
     },
     "70010000116670": {
@@ -6345,7 +6714,7 @@
         "category": [
             "Other"
         ],
-        "description": "Access a selection of classic Virtual Boy games on your Nintendo Switch 2 or Nintendo Switch, including Galactic Pinball and Teleroboxer. Dedicated accessories required to play are available to buy from My Nintendo Store!",
+        "description": "Access a selection of classic Virtual Boy games on your Nintendo Switch 2 or Nintendo Switch, including Galactic Pinball and Teleroboxer. Dedicated accessories required to play are available to buy from Nintendo Store!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/03065e9e3bda6d677ccde8344a7bf02265e4a87afadcf20d8c6feef7b38162bd.jpg",
@@ -6384,7 +6753,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d9d3dd4c108f803c1e79fce46e35612549aa7b06c1c52b31aa5e05d3907c0e83.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b419ff763d1327e6325083ea82a22bd08d5a25e35b36ab8f51a0d0d600df1c1b.jpg"
         ],
-        "size": 104857600,
+        "size": 114294784,
         "version": null
     },
     "70010000118614": {
@@ -6471,7 +6840,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000118626": {
@@ -6500,7 +6869,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000118630": {
@@ -6529,7 +6898,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000118632": {
@@ -6558,7 +6927,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000118633": {
@@ -6587,7 +6956,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000118634": {
@@ -6616,7 +6985,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000118635": {
@@ -6645,7 +7014,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000118636": {
@@ -6674,7 +7043,7 @@
         "releaseDate": 20260227,
         "rightsId": null,
         "screenshots": null,
-        "size": 39845888,
+        "size": 61865984,
         "version": null
     },
     "70010000119888": {
@@ -6774,8 +7143,8 @@
         "description": "Explore an endless ocean of clouds, where the last remnants of civilisation live on the backs of colossal beasts called Titans. Experience the story of Rex and Pyra, a mysterious being known as a Blade who grants him tremendous power.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0edb5a2abf375dfb0d29cf9e7c723450a93bf4d66f090dde4f3bdb68c4698ed9.jpg",
+        "id": "0100E95004038000",
         "intro": "Journey to the birthplace of humanity",
         "isDemo": false,
         "key": null,
@@ -6797,15 +7166,21 @@
         "rating": 12,
         "ratingContent": [
             "Bad Language",
-            "Violence"
+            "Violence",
+            "In-game purchases"
         ],
         "region": null,
         "releaseDate": 20260730,
-        "rightsId": null,
+        "rightsId": "0100E950040380000000000000000003",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/23a5411eded61904b193c264a7fb455f811799d60d0b62584025f6364d126fc6.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/23a5411eded61904b193c264a7fb455f811799d60d0b62584025f6364d126fc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffbfd51b8b0a8eacd9fc7a3ee6314b65a455475e62b5b6b453ff0af0bac985d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55a2a984ef5a67dcc599c509993cb1b47eb61321e7ae47a04092eedf41d28fc5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b238a2cf5d826f88ce6fa1dae554aa47d929fc36304373b0ba19c3bfac5f4fea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bc578650e6bc300365f9f5029e970f1385c5bf1f789541ccdf3c395e7a7c27d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/555479f6673ac703fcdc5f7f8fcf0f5bf1d3c1bde9b723cd1b6afd4b0ba268a0.jpg"
         ],
-        "size": 0,
+        "size": 14173601792,
         "version": null
     },
     "70010000122697": {
@@ -6985,7 +7360,7 @@
             "https://img-eshop.cdn.nintendo.net/i/49e1463f13850ac7790d00d028290094bda2cd8c0aca3fdfbfd946a7bc864c62.jpg",
             "https://img-eshop.cdn.nintendo.net/i/419f3934399cbf960d1d462f7e84fdd6bcd3492bec1e9789cf1c59314d026da9.jpg"
         ],
-        "size": 4411359232,
+        "size": 4959764480,
         "version": null
     },
     "70030000012507": {
@@ -16410,12 +16785,20 @@
         "rating": 12,
         "ratingContent": [
             "Bad Language",
-            "Violence"
+            "Violence",
+            "In-game purchases"
         ],
         "region": null,
         "releaseDate": 20260730,
         "rightsId": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/23a5411eded61904b193c264a7fb455f811799d60d0b62584025f6364d126fc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffbfd51b8b0a8eacd9fc7a3ee6314b65a455475e62b5b6b453ff0af0bac985d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55a2a984ef5a67dcc599c509993cb1b47eb61321e7ae47a04092eedf41d28fc5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b238a2cf5d826f88ce6fa1dae554aa47d929fc36304373b0ba19c3bfac5f4fea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bc578650e6bc300365f9f5029e970f1385c5bf1f789541ccdf3c395e7a7c27d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/555479f6673ac703fcdc5f7f8fcf0f5bf1d3c1bde9b723cd1b6afd4b0ba268a0.jpg"
+        ],
         "size": 0,
         "version": null
     },
@@ -16711,6 +17094,76 @@
             "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
         ],
         "size": 2248146944,
+        "version": null
+    },
+    "70070000039126": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d6412b7a187b01cda3de37c1a54252a9bb528a442469fe87ebb302ae8eadbaf.jpg",
+        "category": null,
+        "description": "Pokémon Legends: Z-A + Mega Dimension includes the main game plus the Mega Dimension DLC",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "An adventure in a thriving Pokémon metropolis!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pokémon Legends: Z-A + Mega Dimension",
+        "nsuId": 70070000039126,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260805,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6477fb588db11a566bd47b761754e5854db06cf3d617d10e9136c9dc05f3d58a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c88ab513320cbcaf05308f20e8e04f2a08804d332273cab8a6a0947e4b598884.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fd07a790a9241a9d1cba0edc4ec77ba8933bbb730ccdca152e9b4bf472760d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87ec90f7e5d28ef3adc4fba20c8eefa3015b79f4c714389c635101d6dff7c858.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afae05b0672fd80dfacb4ccd7ec5a1b89afc27244fa1dbdb22309ddb7c9cecc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cc453b608a22cf906e4337f45d1be4623bee298330587238cbe28c03234392b.jpg"
+        ],
+        "size": 6466568192,
+        "version": null
+    },
+    "70070000039384": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/992464c7ec22083a0582060838c1c3ba9b47f544dd2f05f61acd4cbb2f7c2000.jpg",
+        "category": null,
+        "description": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension includes the main game plus the Mega Dimension DLC",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "An adventure in a thriving Pokémon metropolis!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension",
+        "nsuId": 70070000039384,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260805,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/59915df966fae3f9f87b762d908015af113e2fb5b5c467955ed63ac05e82df57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c3b7ee1eb20033c9d17feb984fb721251b306e3d2aa6f4a644a8e2f2c6a5e31.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/706b31f4fb4c354fd7026d803541866a6e44123a14ac8c0629be24151f80ec55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87ec90f7e5d28ef3adc4fba20c8eefa3015b79f4c714389c635101d6dff7c858.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afae05b0672fd80dfacb4ccd7ec5a1b89afc27244fa1dbdb22309ddb7c9cecc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cc453b608a22cf906e4337f45d1be4623bee298330587238cbe28c03234392b.jpg"
+        ],
+        "size": 6466568192,
         "version": null
     }
 }
