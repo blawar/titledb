@@ -960,7 +960,7 @@
             "https://img-eshop.cdn.nintendo.net/i/edee935461329f09c94895714684adb9551831761d8106e6019b83b6270237f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
         ],
-        "size": 2245001216,
+        "size": 2440036352,
         "version": null
     },
     "70010000005021": {
@@ -7188,7 +7188,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Join Noah, Mio and their friends as they traverse epic landscapes, battle ferocious creatures and fight to break the never-ending cycle of violence that binds their homelands.",
+        "description": "Join Noah, Mio and their friends as they traverse epic landscapes, battle ferocious creatures and fight to break the never-ending cycle of violence that binds their homelands.\n\nThe Nintendo Switch 2 Edition adds the mythical new Hero, Shimmer, who can join you on your adventure! Shimmer is a speedy Attacker who can unleash devastating rapid-fire combos on her foes. She also wields the power of Foresight to see the future!\n\nDefeat as many enemies as you can in a defensive battle mode, exclusive to the Nintendo Switch 2 Edition. The more enemies you defeat, the more you’ll fill a gauge that you can use to strengthen your forces. Enhance your abilities, gain additional allies, but choose wisely – you’ll need to prepare well to defeat the almighty foe awaiting you at the end!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -7216,7 +7216,14 @@
         "region": null,
         "releaseDate": 20261203,
         "rightsId": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/57b97ed3e356610ac7a1f0e3dfe5993306a7b7cb0e788ade7938eedd39fc8dc1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d24e7bc8c30c7d2efd4632871a8f48d5518dbed650962f93ae100bd4b832ddcb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11bd4a960fbd70e75250786efe4a593c69ab63cb462b05157f600f15e7f070b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b022ca2e8db0b26daaae2c3165613591f200299249806c4a5395bd42ea37447.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/631835ad19670ccd97e005b7e28d5a45b5f26b8197f5d473f9d4ed6a15f2cd73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b77dbb87572dcfeeb73624c6a523e2793fe883a7ea1895deee0890a6fadaff88.jpg"
+        ],
         "size": 0,
         "version": null
     },
@@ -7361,6 +7368,45 @@
             "https://img-eshop.cdn.nintendo.net/i/419f3934399cbf960d1d462f7e84fdd6bcd3492bec1e9789cf1c59314d026da9.jpg"
         ],
         "size": 4959764480,
+        "version": null
+    },
+    "70010000135060": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1788b57db362322cb8921475fff24ebae618d7da3e5a3e2fa657a177cc239d31.jpg",
+        "category": [
+            "Adventure"
+        ],
+        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. \n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week. \n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06471c4bb150ff3f0a75afdaebf9891b0904ceeba003a4e888258c9cacd3c540.jpg",
+        "id": "0100B7C00933A000",
+        "intro": "Enrol in Dandori Academy",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
+        "nsuId": 70010000135060,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 12086935552,
         "version": null
     },
     "70030000012507": {
@@ -16835,6 +16881,31 @@
         "size": 0,
         "version": null
     },
+    "70050000080798": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1788b57db362322cb8921475fff24ebae618d7da3e5a3e2fa657a177cc239d31.jpg",
+        "category": null,
+        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. \n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week. \n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Enrol in Dandori Academy",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy Upgrade Pack",
+        "nsuId": 70050000080798,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70070000029649": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28ddf561761cfa42025ef01dd443103bf017acdc84d4fe2ccfae12fa0986b646.jpg",
         "category": null,
@@ -17093,7 +17164,7 @@
             "https://img-eshop.cdn.nintendo.net/i/edee935461329f09c94895714684adb9551831761d8106e6019b83b6270237f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
         ],
-        "size": 2248146944,
+        "size": 2443182080,
         "version": null
     },
     "70070000039126": {
