@@ -5,3 +5,4 @@ titles.*.*.json
 _*.txt
 ranks.txt
 redirectCache.json
+db.bin

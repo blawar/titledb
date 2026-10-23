@@ -10,7 +10,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16259342084f704aa52da956cf1b1a9c2ad1f88b3de6c3e263c350813e7ccd1f.jpg",
         "id": "01007EF00011E000",
-        "intro": "No kingdom. No memories.\nAfter a 100-year slumber, all he had left...was hope. ",
+        "intro": "No kingdom. No memories.\nAfter a 100-year slumber, all he had left...was hope.",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -23,8 +23,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "The Legend of Zelda: Breath of the Wild",
         "nsuId": 70010000000023,
@@ -59,7 +59,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/309dd91466467f356370fb24f858bc15886af38cb344c2beffc928d5ddbd3b8a.jpg",
         "id": "01000320000CC000",
-        "intro": "Lock eyes with your opponent and \ndiscover the many functions of the \nJoy-Con in 1-2-Switch!",
+        "intro": "Lock eyes with your opponent and\ndiscover the many functions of the\nJoy-Con in 1-2-Switch!",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -105,7 +105,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c4c7ca6e9f1a1f777890e2dcf7fb84407bdd701f3e57a3e7ba07c78770331d23.jpg",
         "id": "0100704000B3A000",
-        "intro": "Communicate, co-operate and use your \nimagination to solve shape puzzles in \nSnipperclips – Cut it out, together!",
+        "intro": "Communicate, co-operate and use your\nimagination to solve shape puzzles in\nSnipperclips – Cut it out, together!",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -181,7 +181,7 @@
             "https://img-eshop.cdn.nintendo.net/i/8e294ce39921ac7d0d9d28a29360b288b195f62baa38258134998e3b79c4d1a6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/16b68ff979f2d0809b9aab72dfee773a6408303d88c8fb325b0117b48e433a31.jpg"
         ],
-        "size": 12143558656,
+        "size": 12144607232,
         "version": null
     },
     "70010000000127": {
@@ -189,12 +189,12 @@
         "category": [
             "Platformer"
         ],
-        "description": "Join Mario on a massive, globe-trotting 3D adventure and use his incredible new abilities to collect Moons so you can power up your airship, the Odyssey, and rescue Princess Peach from Bowser’s wedding plans!\n\nThis sandbox-style 3D Mario adventure – the first since 1997’s beloved Super Mario 64 and 2002’s Nintendo GameCube classic Super Mario Sunshine – is packed with secrets and surprises, and with Mario’s new moves like cap throw, cap jump, and capture, you’ll have fun and exciting gameplay experiences unlike anything you’ve enjoyed in a Mario game before. Get ready to be whisked away to strange and amazing places far from the Mushroom Kingdom!\n\n\n",
+        "description": "Join Mario on a massive, globe-trotting 3D adventure and use his incredible new abilities to collect Moons so you can power up your airship, the Odyssey, and rescue Princess Peach from Bowser’s wedding plans!\n\nThis sandbox-style 3D Mario adventure – the first since 1997’s beloved Super Mario 64 and 2002’s Nintendo GameCube classic Super Mario Sunshine – is packed with secrets and surprises, and with Mario’s new moves like cap throw, cap jump, and capture, you’ll have fun and exciting gameplay experiences unlike anything you’ve enjoyed in a Mario game before. Get ready to be whisked away to strange and amazing places far from the Mushroom Kingdom!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ad4d31f664a1ce704f0219da2805f8459595bc3c01c3f04df2e32ba34a05b8c6.jpg",
         "id": "0100000000010000",
-        "intro": "Mario jumps out of the Mushroom Kingdom \nand embarks on a journey in Super Mario \nOdyssey, only on Nintendo Switch!",
+        "intro": "Mario jumps out of the Mushroom Kingdom\nand embarks on a journey in Super Mario\nOdyssey, only on Nintendo Switch!",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -235,7 +235,7 @@
         "category": [
             "Shooter"
         ],
-        "description": "Traditional 4-on-4 turf battles return in this full sequel to the original breakout hit game, along with new stages, new fashions and new weapons such as the two-handed Splat Dualies. Players can compete on the TV or on the go. Whether they use the Nintendo Switch Pro Controller or Joy-Con, players can aim their ink using motion controls. Splatoon 2 supports both local and online multiplayer matches. ",
+        "description": "Traditional 4-on-4 turf battles return in this full sequel to the original breakout hit game, along with new stages, new fashions and new weapons such as the two-handed Splat Dualies. Players can compete on the TV or on the go. Whether they use the Nintendo Switch Pro Controller or Joy-Con, players can aim their ink using motion controls. Splatoon 2 supports both local and online multiplayer matches.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a0af3e5f59b543af010e54c664c53fa17f66c37098418ba73b45aa6b43ac6f0d.jpg",
@@ -342,8 +342,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon: Let's Go, Pikachu!",
         "nsuId": 70010000000446,
@@ -388,8 +388,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon: Let's Go, Eevee!",
         "nsuId": 70010000000449,
@@ -418,7 +418,7 @@
         "category": [
             "Action"
         ],
-        "description": "The fate of the Kingdom of Aytolis lies in the hands of two young twins, Rowan and Lianna. Entrusted with the mysterious Shield of Flames, Rowan and Lianna must band together with warriors from across the Fire Emblem universe to face countless adversaries and stop the Chaos Dragon.\n\nCombat swarms of foes on the battlefield with an array of incredible moves. Pair up warriors to perform devastating attacks, chain together amazing combos and overthrow the enemy’s strongholds.\n\n",
+        "description": "The fate of the Kingdom of Aytolis lies in the hands of two young twins, Rowan and Lianna. Entrusted with the mysterious Shield of Flames, Rowan and Lianna must band together with warriors from across the Fire Emblem universe to face countless adversaries and stop the Chaos Dragon.\n\nCombat swarms of foes on the battlefield with an array of incredible moves. Pair up warriors to perform devastating attacks, chain together amazing combos and overthrow the enemy’s strongholds.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52f8777b58d52be6bddd6c6f811af5b585d0bcc47a250a7c72d5f350f5f4ddfa.jpg",
@@ -522,8 +522,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Yoshi's Crafted World™",
         "nsuId": 70010000000733,
@@ -612,8 +612,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Luigi's Mansion 3",
         "nsuId": 70010000001619,
@@ -704,12 +704,12 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon™ Quest",
         "nsuId": 70010000003481,
-        "numberOfPlayers": null,
+        "numberOfPlayers": 1,
         "publisher": "Nintendo",
         "rating": 3,
         "ratingContent": [
@@ -795,8 +795,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Mario Tennis™ Aces",
         "nsuId": 70010000003888,
@@ -840,8 +840,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Shield",
         "nsuId": 70010000004485,
@@ -888,8 +888,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Sword",
         "nsuId": 70010000004488,
@@ -936,8 +936,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Champions",
         "nsuId": 70010000004515,
@@ -960,7 +960,7 @@
             "https://img-eshop.cdn.nintendo.net/i/edee935461329f09c94895714684adb9551831761d8106e6019b83b6270237f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
         ],
-        "size": 2440036352,
+        "size": 2441084928,
         "version": null
     },
     "70010000005021": {
@@ -987,8 +987,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Princess Peach: Showtime!",
         "nsuId": 70010000005021,
@@ -1017,7 +1017,7 @@
         "category": [
             "Strategy"
         ],
-        "description": "Command a capable crop of tiny creatures and explore a hostile planet in this exciting blend of action and strategy. \n\nUse each Pikmin type's unique skills to overcome obstacles and open up a diverse world around you. Seek out valuable items, solve puzzles and defeat vicious enemies in a richly detailed world full of surprises!  ",
+        "description": "Command a capable crop of tiny creatures and explore a hostile planet in this exciting blend of action and strategy.\n\nUse each Pikmin type's unique skills to overcome obstacles and open up a diverse world around you. Seek out valuable items, solve puzzles and defeat vicious enemies in a richly detailed world full of surprises!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a85a9a593013e4a7bcef55f27c5eea4b8a2ff3432413ce7df1ba927b68c669b.jpg",
@@ -1033,8 +1033,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pikmin 3 Deluxe",
         "nsuId": 70010000005301,
@@ -1061,7 +1061,7 @@
         "category": [
             "Adventure"
         ],
-        "description": "Pikmin are back for yet another grand mission in Pikmin 4 for Nintendo Switch! These tiny, plant-like creatures inhabit a mysterious planet. Grow, pluck and command them, as you traverse this new world with their help. ",
+        "description": "Pikmin are back for yet another grand mission in Pikmin 4 for Nintendo Switch! These tiny, plant-like creatures inhabit a mysterious planet. Grow, pluck and command them, as you traverse this new world with their help.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06471c4bb150ff3f0a75afdaebf9891b0904ceeba003a4e888258c9cacd3c540.jpg",
@@ -1078,8 +1078,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pikmin 4",
         "nsuId": 70010000005306,
@@ -1210,8 +1210,8 @@
             "pt",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "New Super Mario Bros.™ U Deluxe",
         "nsuId": 70010000006412,
@@ -1325,7 +1325,7 @@
             "Action",
             "Platformer"
         ],
-        "description": "The pink puff is back – in HD – and he's not alone.\n\nKirby is back – and he’s finally on the Nintendo Switch console in HD! But this time, he’s not alone. Recruit enemies by hitting them with hearts, and gather helpers for a party of up to four characters. On top of that, you can join with up to three friends for a different kind of team-up action!\n\nFeatures:\n- Recruit up to three enemies as helpers by hitting them with hearts\n- Returning copy abilities include Sword, Fire, Water, Bomb, Cleaning and many more!\n- Imbue copy abilities with different elements, such as wind, water, fire and electricity, by borrowing or giving them to helpers to add more attack power, unleash powerful attacks, or solve puzzles\n- Up to four players can join in with the horizontal Joy-Con controller configuration, or eight Joy-Con with four Joy-Con grips\n\nThis game also supports Japanese\n\n",
+        "description": "The pink puff is back – in HD – and he's not alone.\n\nKirby is back – and he’s finally on the Nintendo Switch console in HD! But this time, he’s not alone. Recruit enemies by hitting them with hearts, and gather helpers for a party of up to four characters. On top of that, you can join with up to three friends for a different kind of team-up action!\n\nFeatures:\n- Recruit up to three enemies as helpers by hitting them with hearts\n- Returning copy abilities include Sword, Fire, Water, Bomb, Cleaning and many more!\n- Imbue copy abilities with different elements, such as wind, water, fire and electricity, by borrowing or giving them to helpers to add more attack power, unleash powerful attacks, or solve puzzles\n- Up to four players can join in with the horizontal Joy-Con controller configuration, or eight Joy-Con with four Joy-Con grips\n\nThis game also supports Japanese",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff44624d05899c24ef7e74dba3e8a43118641ffaab9f379425037608d3fc8f34.jpg",
@@ -1368,7 +1368,7 @@
             "RPG",
             "Strategy"
         ],
-        "description": "Become the hero the world needs in Fire Emblem: Three Houses for Nintendo Switch!\n\nFire Emblem: Three Houses takes place on Fódlan, where the Church of Seiros exercises great power over the land and its people. As the main character, you must not only fight on the battlefield, but also can move your character freely and interact with other characters to build relationships and gather information at some parts.\n\nThis turn-based tactical RPG will put new strategic twists on battling, with formations of troops supporting individual units on the battlefield. Do you have what it takes to survive and conquer in this brand new Fire Emblem game? \n\nFeatures:\n- A traditional turn-based tactical RPG that puts new twists on strategic battling. Now when the player manoeuvres a unit, formations of troops move with them and support them in battle\n- In some parts, the player can move the main character freely, and interact with other characters and gather information\n- The game is set in a new world – Fódlan, where the Church of Seiros exercises great power over the land and people\n- Your protagonist meets three main characters – Edelgard, Dimitri, and Claude – who play important roles in the story",
+        "description": "Become the hero the world needs in Fire Emblem: Three Houses for Nintendo Switch!\n\nFire Emblem: Three Houses takes place on Fódlan, where the Church of Seiros exercises great power over the land and its people. As the main character, you must not only fight on the battlefield, but also can move your character freely and interact with other characters to build relationships and gather information at some parts.\n\nThis turn-based tactical RPG will put new strategic twists on battling, with formations of troops supporting individual units on the battlefield. Do you have what it takes to survive and conquer in this brand new Fire Emblem game?\n\nFeatures:\n- A traditional turn-based tactical RPG that puts new twists on strategic battling. Now when the player manoeuvres a unit, formations of troops move with them and support them in battle\n- In some parts, the player can move the main character freely, and interact with other characters and gather information\n- The game is set in a new world – Fódlan, where the Church of Seiros exercises great power over the land and people\n- Your protagonist meets three main characters – Edelgard, Dimitri, and Claude – who play important roles in the story",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/11c6f71a52f1ac7282fe02ef9b96e0db42f7f664fc694be5bff744becd79894d.jpg",
@@ -1384,8 +1384,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Fire Emblem: Three Houses",
         "nsuId": 70010000007605,
@@ -1417,7 +1417,7 @@
             "Multiplayer",
             "Action"
         ],
-        "description": "Dash across the map and rescue wobbly citizens in wacky ways in The Stretchers! Team up with a friend and let the frantic fun ensue as you avoid traps and solve puzzles while helping those who need a hand! \n\nRescue injured civilians, known as Dizzies, from all kinds of bizarre situations! Drive to each scene in your ambulance – but be prepared, it won’t be a smooth ride. Break through walls, soar through the sky and face other wild perils on your way to each rescue!",
+        "description": "Dash across the map and rescue wobbly citizens in wacky ways in The Stretchers! Team up with a friend and let the frantic fun ensue as you avoid traps and solve puzzles while helping those who need a hand!\n\nRescue injured civilians, known as Dizzies, from all kinds of bizarre situations! Drive to each scene in your ambulance – but be prepared, it won’t be a smooth ride. Break through walls, soar through the sky and face other wild perils on your way to each rescue!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fd194f25187e886d8d9c5b2171e084762bf990cb5bd3daf8e95568e112c089e9.jpg",
@@ -1433,8 +1433,8 @@
             "de",
             "it",
             "nl",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "The Stretchers™",
         "nsuId": 70010000008108,
@@ -1462,7 +1462,7 @@
             "Action",
             "RPG"
         ],
-        "description": "Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning detail. DARK SOULS: REMASTERED includes the main game plus the Artorias of the Abyss DLC.\n\nDeep and Dark Universe\nDelve into an epic dark fantasy universe stricken by decline and the Curse. Explore its intricate world design - full of hidden passages, dungeons and secrets - and uncover its deeply rooted lore.\n \nEach End is a New Beginning\nEach playthrough surprises you with new challenges and unexpected facets of the game. Don’t bet on completing the game only once. \n \nThe Way of the Multiplayer\nWhatever your motivations are to play online – collaboration or confrontation, support or betrayal – you’ll find your true home among the nine covenants. Which allegiance will you choose?",
+        "description": "Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning detail. DARK SOULS: REMASTERED includes the main game plus the Artorias of the Abyss DLC.\n\nDeep and Dark Universe\nDelve into an epic dark fantasy universe stricken by decline and the Curse. Explore its intricate world design - full of hidden passages, dungeons and secrets - and uncover its deeply rooted lore.\n\nEach End is a New Beginning\nEach playthrough surprises you with new challenges and unexpected facets of the game. Don’t bet on completing the game only once.\n\nThe Way of the Multiplayer\nWhatever your motivations are to play online – collaboration or confrontation, support or betrayal – you’ll find your true home among the nine covenants. Which allegiance will you choose?",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/70cababc9b81e73a866ba6762934c124ce6ed139682a76ffeb05b33a54047a5e.jpg",
@@ -1479,8 +1479,8 @@
             "pt",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "DARK SOULS™ Remastered",
         "nsuId": 70010000008121,
@@ -1508,7 +1508,7 @@
         "category": [
             "Platformer"
         ],
-        "description": "Donkey Kong Country: Tropical Freeze is powering up for the franchise’s debut on Nintendo Switch! The invading Snowmads have locked Donkey Kong Island in a deep freeze, and it’s up to the Kongs to thaw things out!\n\nJoin Donkey Kong, Diddy Kong, Dixie Kong, Cranky Kong and Funky Kong as they swim, swing, spring and surf through islands packed with hazards, hidden collectibles, and unforgettable boss encounters! Use each character’s unique moves to explore every corner of each island, unearth special items and even hidden exits.\n\nExclusively on Nintendo Switch, enjoy a chill new mode as groovy surfing simian Funky Kong! He can double jump, hover, perform infinite rolls and even perform infinite underwater corkscrews! Thanks to his sturdy surfboard, even spikes can’t slow him down. With this righteous dude, even stages packed with perils can be smooth surfing.\n\nPlay the whole game by yourself, or partner up with a pal in two-player co-operative mode. Work together as a team and put the Snowmads’ plans on ice!\n\n",
+        "description": "Donkey Kong Country: Tropical Freeze is powering up for the franchise’s debut on Nintendo Switch! The invading Snowmads have locked Donkey Kong Island in a deep freeze, and it’s up to the Kongs to thaw things out!\n\nJoin Donkey Kong, Diddy Kong, Dixie Kong, Cranky Kong and Funky Kong as they swim, swing, spring and surf through islands packed with hazards, hidden collectibles, and unforgettable boss encounters! Use each character’s unique moves to explore every corner of each island, unearth special items and even hidden exits.\n\nExclusively on Nintendo Switch, enjoy a chill new mode as groovy surfing simian Funky Kong! He can double jump, hover, perform infinite rolls and even perform infinite underwater corkscrews! Thanks to his sturdy surfboard, even spikes can’t slow him down. With this righteous dude, even stages packed with perils can be smooth surfing.\n\nPlay the whole game by yourself, or partner up with a pal in two-player co-operative mode. Work together as a team and put the Snowmads’ plans on ice!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c6b5fb5af65974e3067ff4f1fa6e29d9dc7872afa255bf4bba6b1175ec33a3e.jpg",
@@ -1733,7 +1733,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/08af58551a19df2a73ccb36f720388434a1965776b34675c6f69af3f93280330.jpg",
         "id": "01006A800016E000",
-        "intro": "The greatest line-up in Super Smash Bros. history!\n",
+        "intro": "The greatest line-up in Super Smash Bros. history!",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -1746,8 +1746,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Smash Bros.™ Ultimate",
         "nsuId": 70010000012331,
@@ -1867,7 +1867,7 @@
             "Party",
             "Board Game"
         ],
-        "description": "The original board game style has been kicked up a notch with deeper strategic elements, like specific Dice Blocks for each character. \n\nThe game also introduces all-new ways to play, including Joy-Con controller enabled minigames, and new modes to enjoy with family and friends.\n\nWith new modes and new minigames coupled with original board game play, the party starts anywhere, anytime, and with all kinds of players.",
+        "description": "The original board game style has been kicked up a notch with deeper strategic elements, like specific Dice Blocks for each character.\n\nThe game also introduces all-new ways to play, including Joy-Con controller enabled minigames, and new modes to enjoy with family and friends.\n\nWith new modes and new minigames coupled with original board game play, the party starts anywhere, anytime, and with all kinds of players.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b200ef18f68bed4e23b7e384700862b23bcb943966e0a040d98174b3e24bb7bd.jpg",
@@ -1885,8 +1885,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Mario Party™",
         "nsuId": 70010000014063,
@@ -1930,8 +1930,8 @@
             "it",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Travis Strikes Again: No More Heroes",
         "nsuId": 70010000015121,
@@ -2005,7 +2005,7 @@
         "category": [
             "Action"
         ],
-        "description": "When the moon fell from the sky and rained destruction on the world below, mankind forged a network of powerful machinery, controlled by a sophisticated artificial intelligence, in order to help rebuild all that was lost.\n\nBut now, the spread of an energy called Femto has corrupted these once-subservient machines into a dangerous and merciless enemy known as Arms of Immortal, and humanity finds itself in a desperate battle for survival… \n\nThis title supports Japanese voice-over.",
+        "description": "When the moon fell from the sky and rained destruction on the world below, mankind forged a network of powerful machinery, controlled by a sophisticated artificial intelligence, in order to help rebuild all that was lost.\n\nBut now, the spread of an energy called Femto has corrupted these once-subservient machines into a dangerous and merciless enemy known as Arms of Immortal, and humanity finds itself in a desperate battle for survival…\n\nThis title supports Japanese voice-over.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/20ed025aab6919ee83e73d394439bf7cf48d2c90f8dcfa5bc6835625b8375fa2.jpg",
@@ -2069,8 +2069,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "TETRIS® 99",
         "nsuId": 70010000018532,
@@ -2115,8 +2115,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Mario Maker 2",
         "nsuId": 70010000018678,
@@ -2203,8 +2203,8 @@
             "it",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Astral Chain",
         "nsuId": 70010000018696,
@@ -2234,7 +2234,7 @@
             "Adventure",
             "Action"
         ],
-        "description": "Help Link awaken the slumbering Wind Fish to find his way home in The Legend of Zelda: Link’s Awakening, out now on Nintendo Switch.\n\nExplore perilous dungeons, battle myriad monsters and befriend a colourful cast of characters in this puzzle-filled adventure – reimagined in a charming new art style!\n\n",
+        "description": "Help Link awaken the slumbering Wind Fish to find his way home in The Legend of Zelda: Link’s Awakening, out now on Nintendo Switch.\n\nExplore perilous dungeons, battle myriad monsters and befriend a colourful cast of characters in this puzzle-filled adventure – reimagined in a charming new art style!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b0b0b2d150830b70b5bb259cdabefe21d2009b55cbd58854cf6a897587249054.jpg",
@@ -2252,8 +2252,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "The Legend of Zelda: Link's Awakening",
         "nsuId": 70010000020034,
@@ -2299,8 +2299,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Cadence of Hyrule – Crypt of the NecroDancer Featuring The Legend of Zelda",
         "nsuId": 70010000020157,
@@ -2347,8 +2347,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "No More Heroes 3",
         "nsuId": 70010000021241,
@@ -2380,7 +2380,7 @@
             "Action",
             "Multiplayer"
         ],
-        "description": "Head into battle with Kirby! Go on quests and fight powerful bosses in Super Kirby Clash, an exciting action-packed free-to-start adventure! \nBuild your own Team Kirby, choosing any combination of the four unique roles. \nEach role’s weapons and abilities are different, so mix and match to suit each quest and ensure victory!",
+        "description": "Head into battle with Kirby! Go on quests and fight powerful bosses in Super Kirby Clash, an exciting action-packed free-to-start adventure!\nBuild your own Team Kirby, choosing any combination of the four unique roles.\nEach role’s weapons and abilities are different, so mix and match to suit each quest and ensure victory!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a543364f5878003e7b3057a3c697ab6eb4af2e7e498f442064cfefe45a4f1e0e.jpg",
@@ -2397,8 +2397,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Kirby Clash™",
         "nsuId": 70010000022987,
@@ -2489,8 +2489,8 @@
             "ja",
             "en",
             "fr",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Tokyo Mirage Sessions ♯FE Encore",
         "nsuId": 70010000023326,
@@ -2561,7 +2561,7 @@
             "Simulation",
             "Multiplayer"
         ],
-        "description": "If the hustle and bustle of modern life’s got you down, Tom Nook has a business venture up his sleeve that he knows you’ll adore: his brand-new, ultra-exclusive Nook Inc. Deserted Island Getaway Package! \n\n•\tCustomise your character and home, and decorate the landscape (with furniture, if you like!), as you create your very own island paradise.\n\n•\tExperience a robust new crafting system – collect materials to construct everything from furniture to tools!\n\n•\tEnjoy a variety of relaxing activities like gardening, fishing, decorating, interacting with charming NPCs, and more, as classic Animal Crossing experiences come to life in fun new ways within the deserted-island setting.\n\n•\tUp to eight players can reside on an island; four residents of the same island can play together simultaneously on a single system.\n\n•\tEight players can play together on one player’s island via online multiplayer or local wireless.",
+        "description": "If the hustle and bustle of modern life’s got you down, Tom Nook has a business venture up his sleeve that he knows you’ll adore: his brand-new, ultra-exclusive Nook Inc. Deserted Island Getaway Package!\n\n•\tCustomise your character and home, and decorate the landscape (with furniture, if you like!), as you create your very own island paradise.\n\n•\tExperience a robust new crafting system – collect materials to construct everything from furniture to tools!\n\n•\tEnjoy a variety of relaxing activities like gardening, fishing, decorating, interacting with charming NPCs, and more, as classic Animal Crossing experiences come to life in fun new ways within the deserted-island setting.\n\n•\tUp to eight players can reside on an island; four residents of the same island can play together simultaneously on a single system.\n\n•\tEight players can play together on one player’s island via online multiplayer or local wireless.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a320d37cd85f49d6e4a675b6d7b82f5ad13ae10b212d5b220fe4208c7d7c2f8.jpg",
@@ -2579,8 +2579,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Animal Crossing: New Horizons",
         "nsuId": 70010000027620,
@@ -2600,6 +2600,57 @@
             "https://img-eshop.cdn.nintendo.net/i/e616d579dd3baf0c17c49da0caef0e90d185533d0ec71f7b845ba56a95e29adc.jpg"
         ],
         "size": 11356078080,
+        "version": null
+    },
+    "70010000028502": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b3b5d74c6a3230b7f46037ebaf1e7e466526d1aaa095382d48f82b5a5741b83.jpg",
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "description": "A new adventure awaits you in this second instalment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandchild of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f819e4d166d4ff1f77e3dabacca0afd11c6dc97afb9f55b081125b9ff62d3fb1.jpg",
+        "id": "0100E21011446000",
+        "intro": "Train monsters and embark on an epic journey in this charming RPG sequel!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Monster Hunter Stories 2: Wings of Ruin",
+        "nsuId": 70010000028502,
+        "numberOfPlayers": 1,
+        "publisher": "CAPCOM",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210709,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66bf596ead9fc67975b3ab529e678dac87713af9af2d9d4444ed0c9601824625.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/737c24458f57a4488e3fdfc7167fe313b117327988af82f96c3e654ed41d6024.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a7a541b62678f4afddb7eccd20d1e63797af9207f73e442370eb442909ec424.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca8e0f7387d282145b9a37da5c3d0d5e10a3e7be4b52024af1d30ec414949a70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9662930ebac6add6cc4effd4cc7c61d6807fc3ade56a987b428f5889d5ea692a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73b73b97c18c453152ac652de972c23fa783ba5f961d8a763866942417e28b37.jpg"
+        ],
+        "size": 15381561344,
         "version": null
     },
     "70010000028618": {
@@ -2623,8 +2674,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Bravely Default II",
         "nsuId": 70010000028618,
@@ -2649,13 +2700,61 @@
         "size": 13317963776,
         "version": null
     },
+    "70010000029015": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61e3c92945169e2d7b5ddd47c0406ffba32ce769b760752296ae14722ebab4d5.jpg",
+        "category": [
+            "Action"
+        ],
+        "description": "Go on a hunt wherever you want, whenever you want in Monster Hunter Rise for Nintendo Switch! Freely explore sweeping landscapes inspired by ancient Japan, slay ferocious wild monsters solo or co‑operatively with friends, and forge powerful weapons and armour from your spoils in this sprawling action RPG.\n\nThe sighting of a terrifying monster of legend signals the return of a catastrophic event, which threatens to bring chaos to Kamura Village. With the aid of the village elder and the local residents, you must sharpen your hunting skills and save this peaceful settlement from an onslaught of monsters.\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/10f565a04c2183b9c9a31365fd7885b991706e7c511e1388d8f1a930504d4edf.jpg",
+        "id": "0100B04011742000",
+        "intro": "Demo now available for the Sunbreak massive expansion DLC!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Monster Hunter Rise",
+        "nsuId": 70010000029015,
+        "numberOfPlayers": 1,
+        "publisher": "CAPCOM",
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20210326,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/02acbe74ae20a619ff633823027b5f58ab4b9872cd42e02a72e0e37f2da0f1e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c89630e2adc19ad4d91791800cd873cea8dfc62e468fbf1fb541a0e14930372.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8ae4f44583fbb1059ab5d5cad5ea9d51d5fffa073a0e06727803dc69730bfaa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bffa967fdcfc0250fded9ad2ce4170c2d34a8214baad33005cc1a3d220bb79db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71d01d131f87144f39a5a4ec037aa4e35b7fa06b7fa01fa6f0efd8a36e9e161f.jpg"
+        ],
+        "size": 21228421120,
+        "version": null
+    },
     "70010000029350": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ec0adc6b3088d15f215c7add99e0388f7329c8ca9192c6c8b6e37879df689de.jpg",
         "category": [
             "Adventure",
             "Action"
         ],
-        "description": "Deadly Premonition 2: A Blessing in Disguise for Nintendo Switch is a sequel that takes place in present-day Boston. However, through unique storytelling, venture back in time to Le Carré and uncover the mysteries buried within the once peaceful town. \n\nServing as both a sequel and prequel to the original Deadly Premonition, follow Agents Davis and Jones as they begin a new investigation into the Le Carré serial murders. Through the memories of a former FBI agent, go back in time to Le Carré and step into the role of Special Agent York to begin unraveling the mystery.\n\n• Return as FBI Special Agent York and experience a brand-new murder mystery! \n\n• Both a prequel and a sequel: A historic investigation to uncover the murder mystery in Le Carré\n\n• An open-world adventure: Travel around the town of Le Carré by foot or skateboard\n\n• Mini-games: Bowling, Bayou Ride, Skateboard Challenge, and more\n\n• Customisation: Customise your character and upgrade your skateboard for improved speed and landing more difficult tricks\n",
+        "description": "Deadly Premonition 2: A Blessing in Disguise for Nintendo Switch is a sequel that takes place in present-day Boston. However, through unique storytelling, venture back in time to Le Carré and uncover the mysteries buried within the once peaceful town.\n\nServing as both a sequel and prequel to the original Deadly Premonition, follow Agents Davis and Jones as they begin a new investigation into the Le Carré serial murders. Through the memories of a former FBI agent, go back in time to Le Carré and step into the role of Special Agent York to begin unraveling the mystery.\n\n• Return as FBI Special Agent York and experience a brand-new murder mystery!\n\n• Both a prequel and a sequel: A historic investigation to uncover the murder mystery in Le Carré\n\n• An open-world adventure: Travel around the town of Le Carré by foot or skateboard\n\n• Mini-games: Bowling, Bayou Ride, Skateboard Challenge, and more\n\n• Customisation: Customise your character and upgrade your skateboard for improved speed and landing more difficult tricks",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c5d163dec8ba96a0498d523f2309abce81eee67760f64b7970a01c73fd653f46.jpg",
@@ -2714,8 +2813,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Xenoblade Chronicles Definitive Edition",
         "nsuId": 70010000029712,
@@ -2763,8 +2862,8 @@
             "de",
             "it",
             "nl",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "51 Worldwide Games",
         "nsuId": 70010000029717,
@@ -2793,7 +2892,7 @@
             "Puzzle",
             "Action"
         ],
-        "description": "Rise through the ranks in your quest to become the new CEO of your dad’s company in Good Job! on Nintendo Switch! Together with a friend, climb the corporate ladder to take over the family business by tackling bizarre office problems – from building the company zen garden to delivering cubes of goo!  ",
+        "description": "Rise through the ranks in your quest to become the new CEO of your dad’s company in Good Job! on Nintendo Switch! Together with a friend, climb the corporate ladder to take over the family business by tackling bizarre office problems – from building the company zen garden to delivering cubes of goo!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfa2af93d02bdb8e79ed222bcbc5dfdd3386434bda08a7bdc431a9aef9341377.jpg",
@@ -2847,8 +2946,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Paper Mario: The Origami King",
         "nsuId": 70010000029727,
@@ -2894,13 +2993,13 @@
             "de",
             "it",
             "ko",
-            "zh"
+            "zh-Hant"
         ],
         "name": "Pokémon Café ReMix",
         "nsuId": 70010000032446,
         "numberOfPlayers": 1,
         "publisher": "Nintendo",
-        "rating": 3,
+        "rating": 16,
         "ratingContent": [
             "In-game Purchases (Includes Random Items)"
         ],
@@ -2922,7 +3021,7 @@
         "category": [
             "Platformer"
         ],
-        "description": "Join Mario, Luigi, Peach and Toad on a quest to save the Sprixie Kingdom in Super Mario 3D World + Bowser’s Fury on Nintendo Switch! Rescue the Sprixie Princess and her followers by yourself or with three other players in this enhanced version of Super Mario 3D World. \n\nThen, either alone or with a friend, help Bowser Jr. turn his papa back to normal in all-new bonus adventure, Bowser’s Fury. \n\nTeam up with Bowser Jr. in a free-roaming 3D adventure to stop his dad’s rampage in the new game mode, Bowser’s Fury! Run and jump across a series of islands to collect the mysterious Cat Shines, and battle against the colossal Fury Bowser whenever he emerges from the water to wreak havoc.\n\n\n",
+        "description": "Join Mario, Luigi, Peach and Toad on a quest to save the Sprixie Kingdom in Super Mario 3D World + Bowser’s Fury on Nintendo Switch! Rescue the Sprixie Princess and her followers by yourself or with three other players in this enhanced version of Super Mario 3D World.\n\nThen, either alone or with a friend, help Bowser Jr. turn his papa back to normal in all-new bonus adventure, Bowser’s Fury.\n\nTeam up with Bowser Jr. in a free-roaming 3D adventure to stop his dad’s rampage in the new game mode, Bowser’s Fury! Run and jump across a series of islands to collect the mysterious Cat Shines, and battle against the colossal Fury Bowser whenever he emerges from the water to wreak havoc.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b24fd7398f9b569642ed7846edf633456dfbf5f85ae98479eaf5c49a797c4d0.jpg",
@@ -2941,8 +3040,8 @@
             "pt",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Mario 3D World + Bowser's Fury",
         "nsuId": 70010000034440,
@@ -2989,8 +3088,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Kirby Fighters 2",
         "nsuId": 70010000034636,
@@ -3021,7 +3120,7 @@
             "Action",
             "Adventure"
         ],
-        "description": "Travel into Hyrule’s past and fight to prevent the kingdom’s destruction in Hyrule Warriors: Age of Calamity for Nintendo Switch!\n\nHyrule Warriors: Age of Calamity combines action-packed gameplay with the rich landscapes of The Legend of Zelda: Breath of the Wild to create a new and exciting experience.\n\nUnfolding a century before the events of The Legend of Zelda: Breath of the Wild, the fate of Hyrule hangs in the balance. Lead your forces onto the battlefield, then battle against the might of Calamity Ganon in the ultimate struggle for survival.\n\n",
+        "description": "Travel into Hyrule’s past and fight to prevent the kingdom’s destruction in Hyrule Warriors: Age of Calamity for Nintendo Switch!\n\nHyrule Warriors: Age of Calamity combines action-packed gameplay with the rich landscapes of The Legend of Zelda: Breath of the Wild to create a new and exciting experience.\n\nUnfolding a century before the events of The Legend of Zelda: Breath of the Wild, the fate of Hyrule hangs in the balance. Lead your forces onto the battlefield, then battle against the might of Calamity Ganon in the ultimate struggle for survival.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9eb5a62527c0783cf7cf72b7144f6abe53c2c25264a5a62258e21650830d8b40.jpg",
@@ -3038,8 +3137,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Hyrule Warriors: Age of Calamity",
         "nsuId": 70010000034701,
@@ -3085,8 +3184,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Part Time UFO",
         "nsuId": 70010000036179,
@@ -3122,8 +3221,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "New Pokémon Snap",
         "nsuId": 70010000037990,
@@ -3151,7 +3250,7 @@
             "Adventure",
             "Action"
         ],
-        "description": "Witness the origins of the Master Sword in The Legend of Zelda: Skyward Sword HD for Nintendo Switch. Originally released on Wii in 2011, this classic quest has been optimised for Nintendo Switch with smoother motion controls, as well as newly-added button controls.\n\nDepicting the earliest story in The Legend of Zelda timeline, Link must travel between a world above the clouds and the great unknown below in search of his childhood friend, Zelda. Armed with his trusty sword and shield, Link will face off against powerful foes, solve tricky puzzles and soar through the skies atop a huge bird called a Loftwing on this epic adventure. ",
+        "description": "Witness the origins of the Master Sword in The Legend of Zelda: Skyward Sword HD for Nintendo Switch. Originally released on Wii in 2011, this classic quest has been optimised for Nintendo Switch with smoother motion controls, as well as newly-added button controls.\n\nDepicting the earliest story in The Legend of Zelda timeline, Link must travel between a world above the clouds and the great unknown below in search of his childhood friend, Zelda. Armed with his trusty sword and shield, Link will face off against powerful foes, solve tricky puzzles and soar through the skies atop a huge bird called a Loftwing on this epic adventure.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e575dbcd62ff138066bd6276afda8770f8c91c80ea99d13ab7480aed91b1ae1.jpg",
@@ -3169,8 +3268,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "The Legend of Zelda: Skyward Sword HD",
         "nsuId": 70010000038613,
@@ -3217,8 +3316,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Miitopia",
         "nsuId": 70010000038618,
@@ -3262,8 +3361,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Mario Golf: Super Rush",
         "nsuId": 70010000038623,
@@ -3332,7 +3431,7 @@
         "category": [
             "Adventure"
         ],
-        "description": "These deep cuts from Nintendo history are coming to Europe for the first time, localised in English and modernised for Nintendo Switch. Suspense, drama, and twists and turns await at every corner; you’ll be on the edge of your seat as you dive into these deep narratives set in Japan.\n\nFamicom Detective Club: The Missing Heir\nSolve a complex murder case surrounding a wealthy family in a haunted village while dealing with amnesia. \n\nFamicom Detective Club: The Girl Who Stands Behind\nInvestigate a supernatural rumour after a mysterious death to free students from a sinister nightmare.\nInterrogate suspects and hunt for clues to piece together these chilling conundrums. Can you figure out who the culprit is...before it’s too late?\n\nPlease note: both games are only available with Japanese voiceover and English on-screen text.",
+        "description": "These deep cuts from Nintendo history are coming to Europe for the first time, localised in English and modernised for Nintendo Switch. Suspense, drama, and twists and turns await at every corner; you’ll be on the edge of your seat as you dive into these deep narratives set in Japan.\n\nFamicom Detective Club: The Missing Heir\nSolve a complex murder case surrounding a wealthy family in a haunted village while dealing with amnesia.\n\nFamicom Detective Club: The Girl Who Stands Behind\nInvestigate a supernatural rumour after a mysterious death to free students from a sinister nightmare.\nInterrogate suspects and hunt for clues to piece together these chilling conundrums. Can you figure out who the culprit is...before it’s too late?\n\nPlease note: both games are only available with Japanese voiceover and English on-screen text.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c9e2af3dc4cc64359bfce0da5bee22b9ad5fed686900589f0ace41bb4f49ba34.jpg",
@@ -3388,8 +3487,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Legends: Arceus",
         "nsuId": 70010000039946,
@@ -3435,8 +3534,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Brilliant Diamond",
         "nsuId": 70010000039951,
@@ -3482,8 +3581,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Shining Pearl",
         "nsuId": 70010000039956,
@@ -3513,7 +3612,7 @@
             "Education",
             "Training"
         ],
-        "description": "Ever wanted to make your own 3D platformer, high-speed racing game, or side-scrolling alien blaster? Bring your ideas to life with Game Builder Garage for Nintendo Switch, a fun way to make your own games.  \n\nLearn the basics of programming logic step-by-step in a fun and interactive way, then use what you’ve learned to create your own games and share them with the world!",
+        "description": "Ever wanted to make your own 3D platformer, high-speed racing game, or side-scrolling alien blaster? Bring your ideas to life with Game Builder Garage for Nintendo Switch, a fun way to make your own games.\n\nLearn the basics of programming logic step-by-step in a fun and interactive way, then use what you’ve learned to create your own games and share them with the world!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/092985245ec274fda3fc4a0a1d716802fd5126140a0d25c42f69ad41c4e7a51e.jpg",
@@ -3530,8 +3629,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Game Builder Garage",
         "nsuId": 70010000041268,
@@ -3578,8 +3677,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Metroid Dread",
         "nsuId": 70010000042925,
@@ -3627,8 +3726,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "WarioWare: Get It Together!",
         "nsuId": 70010000042930,
@@ -3658,7 +3757,7 @@
             "Party",
             "Multiplayer"
         ],
-        "description": "Calling all superstars! Get ready to PAR-TAY with five classic boards from the Nintendo 64 era and 100 minigames from across the series.\n\nAll minigames are played with button controls, so everyone’s invited to this party, whether you’re using a Joy-Con controller or a Nintendo Switch Pro Controller, and no matter which Nintendo Switch family console you’re playing on.\n\nThis game supports Brazilian Portuguese.\n\nThis game may contain product placement and advertising. ",
+        "description": "Calling all superstars! Get ready to PAR-TAY with five classic boards from the Nintendo 64 era and 100 minigames from across the series.\n\nAll minigames are played with button controls, so everyone’s invited to this party, whether you’re using a Joy-Con controller or a Nintendo Switch Pro Controller, and no matter which Nintendo Switch family console you’re playing on.\n\nThis game supports Brazilian Portuguese.\n\nThis game may contain product placement and advertising.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/22fa52ed91f3cb5cf8ccba24ec495035903a2534ef4020406358c716b7c4e261.jpg",
@@ -3677,8 +3776,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Mario Party Superstars",
         "nsuId": 70010000042935,
@@ -3706,12 +3805,12 @@
             "Action",
             "Other"
         ],
-        "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pokémon, level up and evolve your partner Pokémon, and knock out the opposing team’s Pokémon to prevent them from scoring points. Put your teamwork to the test, and take home the win! \n\nKey Features:\n•BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pokémon in a variety of holographic outfits—with new styles arriving regularly!\n\n•UNITE MOVES: Unleash the true power of your Pokémon with Unite Moves! Leverage these all-new Pokémon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n•RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n•COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team’s success. Leverage signals, quick-chat messages, and—for the first time in a Pokémon title—voice chat to communicate and stay in sync with your team.\n\n•CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pokémon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.\n\nThis game supports Brazilian Portuguese.",
+        "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pokémon, level up and evolve your partner Pokémon, and knock out the opposing team’s Pokémon to prevent them from scoring points. Put your teamwork to the test, and take home the win!\n\nKey Features:\n•BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pokémon in a variety of holographic outfits—with new styles arriving regularly!\n\n•UNITE MOVES: Unleash the true power of your Pokémon with Unite Moves! Leverage these all-new Pokémon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n•RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n•COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team’s success. Leverage signals, quick-chat messages, and—for the first time in a Pokémon title—voice chat to communicate and stay in sync with your team.\n\n•CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pokémon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/12fa1310168e0331c236568acab503ae42d27db3d87edbed4413c98cf4a383ac.jpg",
         "id": "0100939011ED4000",
-        "intro": "Team up and take down the opposition in Pokémon’s first 5-on-5 strategic team battle game! ",
+        "intro": "Team up and take down the opposition in Pokémon’s first 5-on-5 strategic team battle game!",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -3723,16 +3822,15 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon UNITE",
         "nsuId": 70010000043293,
         "numberOfPlayers": 1,
         "publisher": "The Pokémon Company",
-        "rating": 7,
+        "rating": 16,
         "ratingContent": [
-            "Mild Violence",
             "Users Interact",
             "In-game Purchases (Includes Random Items)"
         ],
@@ -3746,7 +3844,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3eca2a7427a4cd802e6bc814f40bf1f0ed7baeda5246d79cae4e9e4b5fd01f32.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ce0b4caeb737766fe42aedfc7067af2caf88250f7439304efd837cc6e85f7348.jpg"
         ],
-        "size": 7235174400,
+        "size": 7238320128,
         "version": null
     },
     "70010000044952": {
@@ -3773,8 +3871,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Big Brain Academy: Brain vs. Brain",
         "nsuId": 70010000044952,
@@ -3818,8 +3916,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Splatoon 3",
         "nsuId": 70010000046396,
@@ -3866,8 +3964,8 @@
             "it",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Bayonetta 3",
         "nsuId": 70010000046401,
@@ -3915,8 +4013,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Kirby and the Forgotten Land",
         "nsuId": 70010000046406,
@@ -3946,7 +4044,7 @@
         "category": [
             "Other"
         ],
-        "description": "Access a growing library of classic Nintendo 64 games anytime, anywhere, including Super Mario 64 and Mario Kart 64. Play with friends online or via local wireless in supported games.\n\nA paid Nintendo Switch Online + Expansion Pack membership is required to use this service.\n\nThis game may contain product placement and advertising. \n",
+        "description": "Access a growing library of classic Nintendo 64 games anytime, anywhere, including Super Mario 64 and Mario Kart 64. Play with friends online or via local wireless in supported games.\n\nA paid Nintendo Switch Online + Expansion Pack membership is required to use this service.\n\nThis game may contain product placement and advertising.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63ebccbc4fd5a2578236f78d522cce7e4017958ca10c1917e6fc3122b19ed635.jpg",
@@ -4040,7 +4138,7 @@
             "Sports",
             "Party"
         ],
-        "description": "Grab a Joy-Con controller and use real-world movements to take part in a variety of sporting activities that’ll get your body moving.  Gather your friends and family to join in the fun on the same Nintendo Switch console, or seek out new competitors in online multiplayer!\n \n• Tennis\n• Bowling\n• Golf\n• Chambara\n• Football (Leg Strap required for Shoot-Out mode)\n• Badminton\n• Volleyball\n• Basketball",
+        "description": "Grab a Joy-Con controller and use real-world movements to take part in a variety of sporting activities that’ll get your body moving.  Gather your friends and family to join in the fun on the same Nintendo Switch console, or seek out new competitors in online multiplayer!\n\n• Tennis\n• Bowling\n• Golf\n• Chambara\n• Football (Leg Strap required for Shoot-Out mode)\n• Badminton\n• Volleyball\n• Basketball",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/673d922befbb98a060c1244252e4df7a0c1a2cfbebf0da12103c8405894c95d2.jpg",
@@ -4059,8 +4157,8 @@
             "pt",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Nintendo Switch Sports",
         "nsuId": 70010000049932,
@@ -4090,7 +4188,7 @@
             "Sports",
             "Party"
         ],
-        "description": "The latest game in the Mario Strikers series is coming to Nintendo Switch! Prepare for Strike, a five-on-five sport like football that’s way heavy on offence.\n\nAim for goals by dribbling and passing to teammates, as well as using tackles, items and crushing special shots. If you spot an orb on the pitch, grab it and charge it up while your opponents are distracted to unleash Hyper Strike, a special shot that can earn you two goals in one! \n\nUp to eight friends can gather around the TV and take to the field together on one Nintendo Switch console. Alternatively, grab your best strike partner and connect with up to 3 other consoles via local wireless or online for more multiplayer mayhem.",
+        "description": "The latest game in the Mario Strikers series is coming to Nintendo Switch! Prepare for Strike, a five-on-five sport like football that’s way heavy on offence.\n\nAim for goals by dribbling and passing to teammates, as well as using tackles, items and crushing special shots. If you spot an orb on the pitch, grab it and charge it up while your opponents are distracted to unleash Hyper Strike, a special shot that can earn you two goals in one!\n\nUp to eight friends can gather around the TV and take to the field together on one Nintendo Switch console. Alternatively, grab your best strike partner and connect with up to 3 other consoles via local wireless or online for more multiplayer mayhem.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3e83341574697a92e13cb958bb2658483966cff58603cbfc9c9f383e3d571e1.jpg",
@@ -4109,8 +4207,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Mario Strikers: Battle League Football",
         "nsuId": 70010000049937,
@@ -4153,8 +4251,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Fire Emblem Warriors: Three Hopes",
         "nsuId": 70010000050786,
@@ -4201,8 +4299,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Live A Live",
         "nsuId": 70010000050788,
@@ -4233,7 +4331,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Bringing together the futures of Xenoblade Chronicles and Xenoblade Chronicles 2, this title will take players to the world of Aionios, home to two hostile nations.\n\nKeves: a nation where mechanical technology was developed. Their armies are composed of units consisting mainly of combat vehicles. They use units of small, mobile weapons operated by soldiers riding them.\n\nAgnus: a nation strong in ether, a magical technology. Their forces are built around units that specialise in ether combat, and they fight with small, mobile, autonomous weapons that use ether technology.\n\nSix soldiers hailing from these nations, will take part in a grand tale with life as its central theme. ",
+        "description": "Bringing together the futures of Xenoblade Chronicles and Xenoblade Chronicles 2, this title will take players to the world of Aionios, home to two hostile nations.\n\nKeves: a nation where mechanical technology was developed. Their armies are composed of units consisting mainly of combat vehicles. They use units of small, mobile weapons operated by soldiers riding them.\n\nAgnus: a nation strong in ether, a magical technology. Their forces are built around units that specialise in ether combat, and they fight with small, mobile, autonomous weapons that use ether technology.\n\nSix soldiers hailing from these nations, will take part in a grand tale with life as its central theme.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/be4402ec6556f50be0ec05ee9745061d69fcd970c5cc6b8aa134cbab9291c07e.jpg",
@@ -4249,8 +4347,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Xenoblade Chronicles 3",
         "nsuId": 70010000053337,
@@ -4283,7 +4381,7 @@
             "Adventure",
             "RPG"
         ],
-        "description": "Welcome to the Paldea region, a sprawling land of vast open spaces dotted with lakes, towering peaks, wastelands and perilous mountain ranges. \n\nExperience your adventure the way you want as you freely go back and forth between three grand stories and challenge Gyms in the order you desire!\n\nShare the joy of discovery as you and up to three friends adventure together in the same space! Cheer each other on as you battle wild Pokémon and show off the Pokémon that walk along with you.\n\n\n",
+        "description": "Welcome to the Paldea region, a sprawling land of vast open spaces dotted with lakes, towering peaks, wastelands and perilous mountain ranges.\n\nExperience your adventure the way you want as you freely go back and forth between three grand stories and challenge Gyms in the order you desire!\n\nShare the joy of discovery as you and up to three friends adventure together in the same space! Cheer each other on as you battle wild Pokémon and show off the Pokémon that walk along with you.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa0f7bba88e0bc9b24cb0a2d1707990a6bc2c59480d22b821114d1a57762fafc.jpg",
@@ -4299,8 +4397,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Scarlet",
         "nsuId": 70010000053967,
@@ -4330,7 +4428,7 @@
             "Adventure",
             "RPG"
         ],
-        "description": "Welcome to the Paldea region, a sprawling land of vast open spaces dotted with lakes, towering peaks, wastelands and perilous mountain ranges. \n\nExperience your adventure the way you want as you freely go back and forth between three grand stories and challenge Gyms in the order you desire!\n\nShare the joy of discovery as you and up to three friends adventure together in the same space! Cheer each other on as you battle wild Pokémon and show off the Pokémon that walk along with you.\n\n",
+        "description": "Welcome to the Paldea region, a sprawling land of vast open spaces dotted with lakes, towering peaks, wastelands and perilous mountain ranges.\n\nExperience your adventure the way you want as you freely go back and forth between three grand stories and challenge Gyms in the order you desire!\n\nShare the joy of discovery as you and up to three friends adventure together in the same space! Cheer each other on as you battle wild Pokémon and show off the Pokémon that walk along with you.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/572379cee509d9dcd8ca11f8d41217d34889ea83c44aa320e22b7dd87093cedc.jpg",
@@ -4346,8 +4444,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Violet",
         "nsuId": 70010000053972,
@@ -4369,6 +4467,56 @@
             "https://img-eshop.cdn.nintendo.net/i/2d76f8d32938540d07585050d5d14ebc97526044299eb61c28605ab534310338.jpg"
         ],
         "size": 10672406528,
+        "version": null
+    },
+    "70010000054981": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb4cf01e8e88159733cfe27a6118c28aa871c53a5b47deed363669fc787f972d.jpg",
+        "category": [
+            "Adventure",
+            "RPG",
+            "Simulation",
+            "Multiplayer"
+        ],
+        "description": "Important Update: Fae Farm will be going offline September 10 at 23:59 Pacific Time. Fae Farm will no longer be playable online and will not receive any future updates. Its single-player offline mode will remain available.\n\nEscape to the world of Fae Farm and create your own cozy home in the enchanted world of Azoria. As you nurture and grow your homestead, you'll get to meet charming characters, foster deep relationships and discover ways to infuse magic into everything you do. Customize your character, master the arts of crafting, cooking, potion-making and discover so much more.\n\nUnfold the mysteries of the island on your own or with up to three other players. You can invite your family and friends or visit their homestead to progress together, playing beside you or online. As the seasons change, you'll be able to unlock new areas and restore the world around you.\n\n●  Cozy and customizable: Create your own character and customize your adventure with unlockable styles and decorations for your farm. The cozier your home, the better your experience! The story unfolds independently from the in-game calendar, allowing you to play at your own pace.\n●  Magical Creatures: As you tend your farm, you can care for a variety of cuddly animals where you can collect eggs, wool, and more. You can also raise baby animals in many different colors and explore the island to discover magical critters that drop rare potion ingredients. But not all creatures are friendly: beware the jumbles; mischievous spirits that block your path!\n●  Adventure is at your doorstep: Explore the realms of Azoria as you traverse the island with your skills and spells. Forage caves to gather resources and battle jumbles! Progress at your own pace as you uncover new mysteries and restore peace to Azoria.\n●  Budding Friendships: Azoria is home to a cast of colorful characters! As you progress through the story, you can build bonds with many islanders along the way. You can even find romance by going on dates and eventually getting married at Town Hall.\n\n\nThis is only the beginning of your adventure on Azoria: between December 2023 and June 2024, two waves of free additional content will be released to expand your horizons, unlock new areas to explore, introduce new characters to meet and bond with, reveal new creatures, tell new stories, and pour in more magic!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1564f744f3d70db8763729a1eb26d3fe6928f9b4119f48339108772dfd2295ad.jpg",
+        "id": "010073F0189B6000",
+        "intro": "Your magical home awaits!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Fae Farm",
+        "nsuId": 70010000054981,
+        "numberOfPlayers": 1,
+        "publisher": "Gambit Digital",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20230908,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/44bc84d78698d3e4a77dd75ccfbac637699134df0ea142d227806f3a7cbf70ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36db906669f1a635a7be6859ffed046c10881ec39339b669535cb074c5f7656c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5388d92b330aa747ac5183c897683c630c3b134aa9e5f12f036c3208e09c5f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cea3c4c80b3fa26dbd6516863ca9ab96f4be6ac23b56f2a3375e1bcd4b0e2b8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6164b185a72764f7fa2093590ed60903a58991738aa3e2e66ab5177b001348c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27cd5ad3feb9f3251148d672e663c41ddee1fc2befbd1962a9b928b51f82c158.jpg"
+        ],
+        "size": 2185232384,
         "version": null
     },
     "70010000056621": {
@@ -4394,8 +4542,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Kirby's Dream Buffet",
         "nsuId": 70010000056621,
@@ -4425,7 +4573,7 @@
             "Multiplayer",
             "Platformer"
         ],
-        "description": "Join Mickey & Friends on a quest to explore the mysterious island of Monoth and recover three mystical books to save the world from disaster!\n\nPlay as Mickey & Friends\nChoose your favorite character and unlock special abilities as you perform high-flying platforming feats, solve fun puzzles, and take on epic boss battles.\n\nReveal the mysteries of Disney Illusion Island\nRun, swim, swing, and jump your way through a beautiful yet mysterious island and discover rich biomes, intriguing characters, and hidden secrets. \n\nFun with friends in 4-player co-op\nPlay solo or grab up to three friends to save the island of Monoth in 4-player couch co-op. Team up with friends and utilize unique skills such as Rope Drop, Leap Frog, and a heart gifting Hug. \n\nBe a part of an authentic Mickey cartoon\nExperience a brand-new Mickey & Friends adventure with hand-drawn animation, an orchestrated original score and authentic voice talents.",
+        "description": "Join Mickey & Friends on a quest to explore the mysterious island of Monoth and recover three mystical books to save the world from disaster!\n\nPlay as Mickey & Friends\nChoose your favorite character and unlock special abilities as you perform high-flying platforming feats, solve fun puzzles, and take on epic boss battles.\n\nReveal the mysteries of Disney Illusion Island\nRun, swim, swing, and jump your way through a beautiful yet mysterious island and discover rich biomes, intriguing characters, and hidden secrets.\n\nFun with friends in 4-player co-op\nPlay solo or grab up to three friends to save the island of Monoth in 4-player couch co-op. Team up with friends and utilize unique skills such as Rope Drop, Leap Frog, and a heart gifting Hug.\n\nBe a part of an authentic Mickey cartoon\nExperience a brand-new Mickey & Friends adventure with hand-drawn animation, an orchestrated original score and authentic voice talents.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f5fcc54ed5733324551f60716a65c0c66edb0dd73f297e0b0dbd01fed4784c99.jpg",
@@ -4441,8 +4589,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Disney Illusion Island",
         "nsuId": 70010000058469,
@@ -4490,8 +4638,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Kirby's Return to Dream Land Deluxe",
         "nsuId": 70010000058798,
@@ -4537,8 +4685,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Fire Emblem Engage",
         "nsuId": 70010000058803,
@@ -4570,7 +4718,7 @@
             "Lifestyle",
             "Communication"
         ],
-        "description": "Enter a virtual world of fashion fantasies made real, where coordination and communication mix like never before. Your new life as an influencer awaits!\n\n◆Create new outfits to rake in the Likes!\nThe virtual space is bustling with Muses, fashion fans who are always on the lookout for new inspiration. Dazzle them with your freshest fits—and if you catch their eye, you'll earn their Likes. Rack up more and more Likes to grow as an iconic fashion influencer!\n\n◆Send Likes to get new items!\nSpot a Muse with impeccable taste? Let them know! Giving a Like will let you use their fashion items not only for yourself, but also when recommending outfits to other Muses.\n\n◆Build your brand with custom items all your own!\nWhen designing new clothing and accessories, the sky's the limit! Customize over 1400 collectable items with your favorite styles and colors for a truly unique flair. Your creations form the basis for your brand, so recommend them to other Muses and conquer the fashion world!\n\n◆Go online to interact with Muses from across the globe!\nWhen you connect to the internet, other players' Muses will appear in your world, letting you snag whatever original outfits they're wearing. Before you know it, your very own designs might just become an international sensation!\n",
+        "description": "Enter a virtual world of fashion fantasies made real, where coordination and communication mix like never before. Your new life as an influencer awaits!\n\n◆Create new outfits to rake in the Likes!\nThe virtual space is bustling with Muses, fashion fans who are always on the lookout for new inspiration. Dazzle them with your freshest fits—and if you catch their eye, you'll earn their Likes. Rack up more and more Likes to grow as an iconic fashion influencer!\n\n◆Send Likes to get new items!\nSpot a Muse with impeccable taste? Let them know! Giving a Like will let you use their fashion items not only for yourself, but also when recommending outfits to other Muses.\n\n◆Build your brand with custom items all your own!\nWhen designing new clothing and accessories, the sky's the limit! Customize over 1400 collectable items with your favorite styles and colors for a truly unique flair. Your creations form the basis for your brand, so recommend them to other Muses and conquer the fashion world!\n\n◆Go online to interact with Muses from across the globe!\nWhen you connect to the internet, other players' Muses will appear in your world, letting you snag whatever original outfits they're wearing. Before you know it, your very own designs might just become an international sensation!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/be56b1902bd5adff68de55a80d6cb27dbb9d470bc3809717c637d2f494da706e.jpg",
@@ -4586,8 +4734,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Fashion Dreamer",
         "nsuId": 70010000061392,
@@ -4632,8 +4780,8 @@
             "it",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Bayonetta Origins: Cereza and the Lost Demon",
         "nsuId": 70010000061847,
@@ -4748,7 +4896,7 @@
             "https://img-eshop.cdn.nintendo.net/i/042c24e42a42f91ee97e3b10c3e1e98134205e03546c1b1c3c6633fd04e3caed.jpg",
             "https://img-eshop.cdn.nintendo.net/i/adcac92b494fff3e731476cd8aee63502416d16ed2c56c09a59ad5a72bd83995.jpg"
         ],
-        "size": 540016640,
+        "size": 563085312,
         "version": null
     },
     "70010000063710": {
@@ -4774,8 +4922,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Metroid Prime Remastered",
         "nsuId": 70010000063710,
@@ -4821,8 +4969,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "The Legend of Zelda: Tears of the Kingdom",
         "nsuId": 70010000063715,
@@ -4912,8 +5060,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Everybody 1-2-Switch!",
         "nsuId": 70010000068160,
@@ -4959,8 +5107,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pikmin 1",
         "nsuId": 70010000068670,
@@ -5004,8 +5152,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pikmin 2",
         "nsuId": 70010000068674,
@@ -5046,8 +5194,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "WarioWare™: Move It!",
         "nsuId": 70010000068679,
@@ -5078,7 +5226,7 @@
             "RPG",
             "Action"
         ],
-        "description": "Team up with an oddball group of heroes to save Star Road and stop the troublemaking Smithy Gang. This colourful RPG has updated graphics and cinematics that add even more charm to the unexpected alliance between Mario, Bowser, Peach, and original characters Mallow and Geno! Enter this world of eccentric allies and offbeat enemies in an RPG for everyone.\n\nJump through a colourful world and give attacks some extra oomph in battle! Explore the vibrant environments with your party and jump towards your next goal! Run into monsters to enter turn-based battles with your party of three. Press the button at the right time for a satisfying dose of extra damage or a helpful guard. ",
+        "description": "Team up with an oddball group of heroes to save Star Road and stop the troublemaking Smithy Gang. This colourful RPG has updated graphics and cinematics that add even more charm to the unexpected alliance between Mario, Bowser, Peach, and original characters Mallow and Geno! Enter this world of eccentric allies and offbeat enemies in an RPG for everyone.\n\nJump through a colourful world and give attacks some extra oomph in battle! Explore the vibrant environments with your party and jump towards your next goal! Run into monsters to enter turn-based battles with your party of three. Press the button at the right time for a satisfying dose of extra damage or a helpful guard.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b15ff4449c0e8b3100919e965bd8483ec84c0bee9442522d32012ab949e2acb2.jpg",
@@ -5095,8 +5243,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Mario RPG",
         "nsuId": 70010000068684,
@@ -5125,7 +5273,7 @@
         "category": [
             "Action"
         ],
-        "description": "Join Mario and friends on a new 2D side-scrolling adventure full of wonder! \n\nEvery course contains its very own Wonder Flower – collect one, and anything can happen. From moving pipes to tilting terrain, singing Piranha Plants to stampeding Bulrushes, skydiving to space walks, you never know what’ll happen next. You might even transform into something totally new!\n\nPick to play as Mario, Luigi, Peach and more! They all play in exactly the same way, so you can freely use your favourite character without having to worry.\n\nThe world of Super Mario Bros. Wonder is even better when enjoyed with others! Play together locally or online and help save the Flower Kingdom from Bowser as a team, or enjoy enhancements to solo play by connecting online.",
+        "description": "Join Mario and friends on a new 2D side-scrolling adventure full of wonder!\n\nEvery course contains its very own Wonder Flower – collect one, and anything can happen. From moving pipes to tilting terrain, singing Piranha Plants to stampeding Bulrushes, skydiving to space walks, you never know what’ll happen next. You might even transform into something totally new!\n\nPick to play as Mario, Luigi, Peach and more! They all play in exactly the same way, so you can freely use your favourite character without having to worry.\n\nThe world of Super Mario Bros. Wonder is even better when enjoyed with others! Play together locally or online and help save the Flower Kingdom from Bowser as a team, or enjoy enhancements to solo play by connecting online.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bf2fca7eed5ad7ec96d03025907ea52c3efe168e02c8be96e868d8430a247a57.jpg",
@@ -5144,8 +5292,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh",
+            "zh-Hans",
+            "zh-Hant",
             "th",
             "pl"
         ],
@@ -5190,8 +5338,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Detective Pikachu Returns",
         "nsuId": 70010000068694,
@@ -5236,8 +5384,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "F-ZERO 99",
         "nsuId": 70010000072187,
@@ -5266,7 +5414,7 @@
             "Action",
             "Puzzle"
         ],
-        "description": "The age-old rivalry that heated up on Game Boy Advance reignites in Mario vs Donkey Kong. Featuring all-new graphics, solve all kinds of puzzles and test your platforming smarts as you try to recover the stolen Mini-Marios. ",
+        "description": "The age-old rivalry that heated up on Game Boy Advance reignites in Mario vs Donkey Kong. Featuring all-new graphics, solve all kinds of puzzles and test your platforming smarts as you try to recover the stolen Mini-Marios.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b2bfebfa7dcb09e4ad4196df3f4f825395148941e2216c0404d35b3578a3bfc.jpg",
@@ -5283,8 +5431,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Mario vs. Donkey Kong",
         "nsuId": 70010000072192,
@@ -5329,8 +5477,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Another Code: Recollection",
         "nsuId": 70010000072197,
@@ -5360,7 +5508,7 @@
             "Adventure",
             "Action"
         ],
-        "description": "In this visually enhanced adventure, you’ll visit the chilling locales of the eerie Evershade Valley, a place where until recently, the peculiar Dark Moon hung in the sky. According to ghost researcher Professor E.Gadd, it pacified the ghosts of the valley... that is until one night when the Dark Moon mysteriously shattered! \n\nNow, the place is screaming and teeming with troublemaking ghosts! Can Luigi recover the missing pieces of the Dark Moon and restore peace to the valley? ",
+        "description": "In this visually enhanced adventure, you’ll visit the chilling locales of the eerie Evershade Valley, a place where until recently, the peculiar Dark Moon hung in the sky. According to ghost researcher Professor E.Gadd, it pacified the ghosts of the valley... that is until one night when the Dark Moon mysteriously shattered!\n\nNow, the place is screaming and teeming with troublemaking ghosts! Can Luigi recover the missing pieces of the Dark Moon and restore peace to the valley?",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/887180a40caabe1066afacd065b5065769d0b454a116e1c6b7a26109118e10be.jpg",
@@ -5379,8 +5527,8 @@
             "pt",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Luigi's Mansion 2 HD",
         "nsuId": 70010000072955,
@@ -5411,7 +5559,7 @@
             "RPG",
             "Adventure"
         ],
-        "description": "After Princess Peach asks for his help on a treasure hunt, Mario heads to the town of Rogueport. But when he arrives, Peach is nowhere to be seen! Upon learning about the legend of the Crystal Stars, Mario sets out to find these mythical treasures and hopefully track down Peach along the way.\n\nOf course, Mario isn't the only one hoping to find the Crystal Stars – and it’s not just Bowser who’s looking to cause trouble this time either! Can our hero find these ancient artifacts, open the Thousand-Year Door and maybe even save the world? ",
+        "description": "After Princess Peach asks for his help on a treasure hunt, Mario heads to the town of Rogueport. But when he arrives, Peach is nowhere to be seen! Upon learning about the legend of the Crystal Stars, Mario sets out to find these mythical treasures and hopefully track down Peach along the way.\n\nOf course, Mario isn't the only one hoping to find the Crystal Stars – and it’s not just Bowser who’s looking to cause trouble this time either! Can our hero find these ancient artifacts, open the Thousand-Year Door and maybe even save the world?",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bd5e46a27aa0e949e338bb55bb5e3b1d66b9483faa2d23a1ea4960d0df5d8be0.jpg",
@@ -5428,8 +5576,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Paper Mario: The Thousand-Year Door",
         "nsuId": 70010000073127,
@@ -5516,8 +5664,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Endless Ocean Luminous",
         "nsuId": 70010000077706,
@@ -5545,7 +5693,7 @@
             "Platformer",
             "Multiplayer"
         ],
-        "description": "Join AiAi and friends in Super Monkey Ball Banana Rumble, where you and up to 16 players can compete online across multiple game modes as you aim to become Top Banana! You can also work together with your favorite bunch in 4 player cooperative mode, or slip into a wonderfully crafted story in the all-new Adventure Mode experience!\n\nFeatures:\n- Drop into online multiplayer for up to 16 players or local multiplayer for up to 4 players.\n- Rally up to 3 of your friends and slip into a wonderfully crafted story in Adventure mode as AiAi and the gang journey to seek out 7 mysterious artifacts that are said to be the key to locating The Legendary Banana in more than 200 all-new stages!\n- Show off your style! Customize your character and monkey ball with over 300 stylish items to choose from.\n- Experience thrilling gameplay that is easy to pick up and play, yet challenging and fulfilling to master \n- Use the new Spin Dash that allows players to sprint past rivals or create new shortcuts to victory!",
+        "description": "Join AiAi and friends in Super Monkey Ball Banana Rumble, where you and up to 16 players can compete online across multiple game modes as you aim to become Top Banana! You can also work together with your favorite bunch in 4 player cooperative mode, or slip into a wonderfully crafted story in the all-new Adventure Mode experience!\n\nFeatures:\n- Drop into online multiplayer for up to 16 players or local multiplayer for up to 4 players.\n- Rally up to 3 of your friends and slip into a wonderfully crafted story in Adventure mode as AiAi and the gang journey to seek out 7 mysterious artifacts that are said to be the key to locating The Legendary Banana in more than 200 all-new stages!\n- Show off your style! Customize your character and monkey ball with over 300 stylish items to choose from.\n- Experience thrilling gameplay that is easy to pick up and play, yet challenging and fulfilling to master\n- Use the new Spin Dash that allows players to sprint past rivals or create new shortcuts to victory!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9c7e0dc30094622881edef17f3fd5d3c904eb0bf6fc4081b0e875aebf38d1ac.jpg",
@@ -5562,8 +5710,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Monkey Ball Banana Rumble",
         "nsuId": 70010000077859,
@@ -5594,7 +5742,7 @@
             "Racing",
             "Party"
         ],
-        "description": "Test your speedrunning skills in over 150 challenges. Each challenge relives a memorable moment from one of 13 NES games, including classics like Super Mario Bros. 3, The Legend of Zelda, Donkey Kong, and Metroid. \n\nSee how quickly you can blaze through the first level of Super Mario Bros. or how fast you can gobble up an enemy in Kirby’s Adventure. Hone your skills and see if you have what it takes to be a champion! \n\nJump into World Championship Mode and see how your best times match up against those of other players of varying skill levels. No need to master entire games – anyone can become a Nintendo World Champion if they can conquer these “byte-size” challenges! Record your best time in the five weekly challenges and see if you can emerge as the fastest player of the week.  \n\nThis game supports Brazilian Portuguese.",
+        "description": "Test your speedrunning skills in over 150 challenges. Each challenge relives a memorable moment from one of 13 NES games, including classics like Super Mario Bros. 3, The Legend of Zelda, Donkey Kong, and Metroid.\n\nSee how quickly you can blaze through the first level of Super Mario Bros. or how fast you can gobble up an enemy in Kirby’s Adventure. Hone your skills and see if you have what it takes to be a champion!\n\nJump into World Championship Mode and see how your best times match up against those of other players of varying skill levels. No need to master entire games – anyone can become a Nintendo World Champion if they can conquer these “byte-size” challenges! Record your best time in the five weekly challenges and see if you can emerge as the fastest player of the week.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac966d6cdaad1b8d7c44d90295397dad082e90c7732db83440d0a3013523cad4.jpg",
@@ -5612,8 +5760,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Nintendo World Championships: NES Edition",
         "nsuId": 70010000080665,
@@ -5642,7 +5790,7 @@
         "category": [
             "Platformer"
         ],
-        "description": "Help Donkey Kong and Diddy Kong recover their precious banana hoard from the villainous Tiki Tak Tribe in Donkey Kong Country Returns HD! Stomp enemies, blast through barrels, and ride rockets and mine carts (and even Rambi the rhino) in 80 levels across nine worlds. ",
+        "description": "Help Donkey Kong and Diddy Kong recover their precious banana hoard from the villainous Tiki Tak Tribe in Donkey Kong Country Returns HD! Stomp enemies, blast through barrels, and ride rockets and mine carts (and even Rambi the rhino) in 80 levels across nine worlds.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e0332f20d185ac7d8aa13a6f508c8483f44d11e2a7173f77759f7e52cacfd1f3.jpg",
@@ -5659,8 +5807,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Donkey Kong Country Returns HD",
         "nsuId": 70010000084603,
@@ -5708,8 +5856,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Mario Party Jamboree",
         "nsuId": 70010000084609,
@@ -5756,8 +5904,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Mario & Luigi: Brothership",
         "nsuId": 70010000084614,
@@ -5787,7 +5935,7 @@
             "Adventure",
             "Action"
         ],
-        "description": "The people of Hyrule are being stolen away by strange rifts that have appeared, and with a certain swordsman among those missing, it’s up to Princess Zelda to save her kingdom.\n\nTeam up with the mysterious fairy, Tri, and use the power of the Tri Rod to learn how to create echoes, imitations of things found in the environment. You can then recreate those echoes whenever you like to solve puzzles and defeat enemies.\n\n\n",
+        "description": "The people of Hyrule are being stolen away by strange rifts that have appeared, and with a certain swordsman among those missing, it’s up to Princess Zelda to save her kingdom.\n\nTeam up with the mysterious fairy, Tri, and use the power of the Tri Rod to learn how to create echoes, imitations of things found in the environment. You can then recreate those echoes whenever you like to solve puzzles and defeat enemies.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2dc088f59a77a690046661216ae33948dc72dfe91675cf19d7d7ac757856bfc1.jpg",
@@ -5806,8 +5954,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "The Legend of Zelda: Echoes of Wisdom",
         "nsuId": 70010000084619,
@@ -5842,7 +5990,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c72018535cd7b3efaf0f9a02fb5a54fa00e4b843f142a45e0aa900bef517c67.jpg",
         "id": "0100A9501759E000",
-        "intro": "Who is Emio – The Smiling Man? ",
+        "intro": "Who is Emio – The Smiling Man?",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -5853,8 +6001,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Emio – The Smiling Man: Famicom Detective Club",
         "nsuId": 70010000084624,
@@ -5902,8 +6050,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Metroid Prime 4: Beyond",
         "nsuId": 70010000084767,
@@ -5948,8 +6096,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Xenoblade Chronicles X: Definitive Edition",
         "nsuId": 70010000088833,
@@ -5999,8 +6147,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Fitness Boxing 3: Your Personal Trainer",
         "nsuId": 70010000089072,
@@ -6031,7 +6179,7 @@
             "Adventure",
             "RPG"
         ],
-        "description": "An urban redevelopment plan is underway in Lumiose City! The goal: to turn it into a place Pokémon and people can truly share. Shortly after arriving, you’ll choose from one of these partner Pokémon to accompany you on your journey – Chikorita, Tepig or Totodile. \n\nTogether, you can explore the streets of this vast city or visit Wild Zones – habitats where you’ll encounter wild Pokémon. To catch them, aim carefully and throw a Poké Ball or take them on with the help of the Pokémon on your team. ",
+        "description": "An urban redevelopment plan is underway in Lumiose City! The goal: to turn it into a place Pokémon and people can truly share. Shortly after arriving, you’ll choose from one of these partner Pokémon to accompany you on your journey – Chikorita, Tepig or Totodile.\n\nTogether, you can explore the streets of this vast city or visit Wild Zones – habitats where you’ll encounter wild Pokémon. To catch them, aim carefully and throw a Poké Ball or take them on with the help of the Pokémon on your team.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b7ab9ae1642ca103189c3274fc4f5a7f6e44d2d9c5d306250d7f3658db3c364.jpg",
@@ -6047,8 +6195,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Legends: Z-A",
         "nsuId": 70010000094235,
@@ -6073,13 +6221,208 @@
         "size": 6463422464,
         "version": null
     },
+    "70010000096800": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f3fe450c8ff6c4feea0ab0524fd2de64933ebeea352582feba036f11b6219664.jpg",
+        "category": [
+            "Other"
+        ],
+        "description": "Access a growing library of classic Nintendo GameCube games anytime, anywhere, including The Legend of Zelda: The Wind Waker and F-ZERO GX. Play with friends online or via local wireless in supported games.\n\nThis app is exclusive to Nintendo Switch 2. A paid Nintendo Switch Online + Expansion Pack membership is required to use this service.\n\nThis game may contain product placement and advertising.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c96fb6952e90222c9beeed8baf52ca20cf9dc06dea272973b5f9df623582387c.jpg",
+        "id": "040029A01D3E0000",
+        "intro": "Play classic Nintendo GameCube games anytime, anywhere",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "name": "Nintendo GameCube – Nintendo Classics",
+        "nsuId": 70010000096800,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Mild Swearing",
+            "Moderate Violence"
+        ],
+        "region": null,
+        "releaseDate": 20250605,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c28fec5ccf453221bec62f89c09395d7c4ceb69b0862ce6a24b339c21171bbea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e3ae543f837978a73f263310e2d63906c44855858b187e5e23241e0fe9b6c17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79fcaa4555b50c084900a236a16cdc675edb1eaa1c6e35324bacb43d9598f447.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d7ff5f5eae7477baa1bb09ebd8e8b33776c64dd8f561b3c4267bc0b0174457e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bf0c27b062528c7fe25522abb0df5f811a776356b1f2728d461a6f2ece5375d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99a1d25dc87929aceec397842152422b5e3fe6518f7f9edd61c2de83cbfac7a7.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000096802": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e2547f766550ce295528c347b5c200272b5d71bf45a791682c96729051ac3d9.jpg",
+        "category": [
+            "Racing"
+        ],
+        "description": "Hit the open road with Mario and friends! Zip along courses on a vast world where everything is connected. Race around grassy plains, bustling cities, wide-open waters, big ol' volcanos, and more...plus everything in-between. Exclusively for Nintendo Switch 2!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f881a2ef02b5e87cd52bdbc9713ac2b72c78dba9a6a050ba78389b846993ab2a.jpg",
+        "id": "0400C3F00006E000",
+        "intro": "Start your engines and race across a sprawling world!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "Mario Kart World",
+        "nsuId": 70010000096802,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20250605,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/db348723e5963189d169e8f4db456687880e091dcc8311476f73d0bd3194bdda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7777d4f2abe148cd4c2e77f771720a5427926c306d258a24d23c9766b0f30628.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62df0fc1dedbcf235f6fb833daf8db24479cb7acc8a5f045abd2e2c1ea720fd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73fcd25cce161f43d6461801734b19925a6df7bb6a220c2e06a72f2cb0d4cfc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3761dd2636d76084238ef3293f1534e40fdc8c8c368c3bd72d5ac32d3d84c47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee54c0864bfb72ef8d1089e9f1888a316bc12ccadc809743b81fac998ef8ecf7.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000096810": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a60c785e2d8905c7d2532d423f39bf80e32859c2164d5c412f77bccf9312e2cc.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Join the unlikely duo of Donkey Kong and Pauline as they smash their way through a vast underground world in Donkey Kong Bananza – only on Nintendo Switch 2.\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4e338d7047c3cbdac2d8c8d2c20e7b89eec166be24530b65879287d2f84d547f.jpg",
+        "id": "040074A01BF12000",
+        "intro": "Smash! Explore! Bananas!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "Donkey Kong Bananza",
+        "nsuId": 70010000096810,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250717,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0358e835ecf330b4b1e8454708844597f9fc666e426e291e00e4d27e901cf16c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8ae4b278d62fb9683adf9939c79a3fc5ac71a671d1d644eb8774c4904e34ee2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1db3e042985d95332cb7750d9353a343b33415b12fbb82be6bffbcf0848949c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e9afec429426817a78f00f879ba798621c67c2c3933e96aa6eb60e7feca08cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/760dd462413e23f48dd733041689430bf6446b9f88494c4edee7a44fd86ebabf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b26c97324f4f252bfafeb75737a50629f53a9b101594fa6ad8d207876053b77.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000096814": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4fc059af59f93c9b0593e8e54160254587569d4e177900c90ed2e16d21db0c03.jpg",
+        "category": [
+            "Action",
+            "Arcade",
+            "Education"
+        ],
+        "description": "You know, when you stop to think about it, there are a lot of interesting technologies and clever designs that go into video game consoles.\n\nSo, let's consider Nintendo Switch 2!\n\nNintendo Switch 2 Welcome Tour is an interactive exhibit of sorts that offers an inside look at the suite of features and tech that power the games you love to play. Look, touch, and feel your way through the different exhibits!\n\nUncover lots of insights about the console. Explore basic features, like the magnetic connectors that keep the Joy-Con 2 controllers firmly attached, and more advanced tech details that you might not otherwise notice.\n\nRoam the exhibit halls, which resemble a giant Nintendo Switch 2. Discover hidden facts, take quizzes, and enjoy playful minigames and tech demos.\n\nThe more you explore, the more you'll get to know!\n\nNintendo Switch 2 Welcome Tour is chock-full of secrets you'll enjoy sharing with others.\n\nCare to join?\n\n\nThis game supports Brazilian Portuguese.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/143c3c38ef6dab5012eb250571ac15157bbe79690ae8c6070970a04130fc71f7.jpg",
+        "id": "040057C02159A000",
+        "intro": "Discover all the secrets of Nintendo Switch 2",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Nintendo Switch 2 Welcome Tour",
+        "nsuId": 70010000096814,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20250605,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9af7128676165c9a56befde271e072ae11e483c6d8754dcade742a3655a1b253.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c6e787ca0e11777c5f5459cfa7de88ce5c316715ae1057082b2e5f1279c3136.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7365754caf7c66be1e729a5ac0fd6c924a4979e031183640138fec3ba3abcd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20c0b4a80a25b22bca3a5144c0dab56a1befd6fa37e2bf64c8b9dea6c3cf28a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/453d7ba8226225622fd16dc7a9a4f65c6ec0d847b9e437fc9d42c03a08c2846b.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000096818": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/feeba23325d25c05a02bfe2f1888077b581abce80cf094d18aa2febd25be100a.jpg",
         "category": [
             "Action",
             "Adventure"
         ],
-        "description": "Explore an even more breathtaking Hyrule on Nintendo Switch 2. \n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.",
+        "description": "Explore an even more breathtaking Hyrule on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16259342084f704aa52da956cf1b1a9c2ad1f88b3de6c3e263c350813e7ccd1f.jpg",
@@ -6098,8 +6441,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh",
+            "zh-Hans",
+            "zh-Hant",
             "th"
         ],
         "name": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition",
@@ -6131,7 +6474,7 @@
             "Action",
             "Adventure"
         ],
-        "description": "Explore the land, sky, and depths of Hyrule like never before on Nintendo Switch 2. \n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.",
+        "description": "Explore the land, sky, and depths of Hyrule like never before on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b53da7ca4b118fe37c8b8040609b84dc63214d6131c51592486de9bf29ef29c.jpg",
@@ -6150,8 +6493,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
         "nsuId": 70010000096822,
@@ -6201,8 +6544,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh",
+            "zh-Hans",
+            "zh-Hant",
             "th",
             "pl"
         ],
@@ -6249,8 +6592,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Kirby and the Forgotten Land – Nintendo Switch 2 Edition + Star-Crossed World",
         "nsuId": 70010000096830,
@@ -6282,7 +6625,7 @@
             "Adventure",
             "RPG"
         ],
-        "description": "An urban redevelopment plan is underway in Lumiose City! The goal: to turn it into a place Pokémon and people can truly share. Shortly after arriving, you’ll choose from one of these partner Pokémon to accompany you on your journey – Chikorita, Tepig or Totodile. \n\nTogether, you can explore the streets of this vast city or visit Wild Zones – habitats where you’ll encounter wild Pokémon. To catch them, aim carefully and throw a Poké Ball or take them on with the help of the Pokémon on your team. \n\n",
+        "description": "An urban redevelopment plan is underway in Lumiose City! The goal: to turn it into a place Pokémon and people can truly share. Shortly after arriving, you’ll choose from one of these partner Pokémon to accompany you on your journey – Chikorita, Tepig or Totodile.\n\nTogether, you can explore the streets of this vast city or visit Wild Zones – habitats where you’ll encounter wild Pokémon. To catch them, aim carefully and throw a Poké Ball or take them on with the help of the Pokémon on your team.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b7ab9ae1642ca103189c3274fc4f5a7f6e44d2d9c5d306250d7f3658db3c364.jpg",
@@ -6298,8 +6641,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition",
         "nsuId": 70010000099366,
@@ -6346,8 +6689,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pokémon Friends",
         "nsuId": 70010000102053,
@@ -6396,8 +6739,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Mario Galaxy",
         "nsuId": 70010000104188,
@@ -6433,7 +6776,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8223299d5613cb05b0a0be3d448d8af8a6d38125e61bd4296312724e848771ed.jpg",
         "id": "0100FD8022DAA000",
-        "intro": "Blast back into space with Mario and Yoshi! ",
+        "intro": "Blast back into space with Mario and Yoshi!",
         "isDemo": false,
         "key": null,
         "languages": [
@@ -6446,8 +6789,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Super Mario Galaxy 2",
         "nsuId": 70010000104193,
@@ -6496,8 +6839,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Metroid Prime 4: Beyond – Nintendo Switch 2 Edition",
         "nsuId": 70010000104850,
@@ -6545,8 +6888,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
         "nsuId": 70010000110441,
@@ -6591,8 +6934,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh",
+            "zh-Hans",
+            "zh-Hant",
             "th",
             "pl"
         ],
@@ -6622,7 +6965,7 @@
             "Simulation",
             "Lifestyle"
         ],
-        "description": "Become the caretaker of an island full of silliness, drama, love and other surprises in Tomodachi Life: Living the Dream for Nintendo Switch!\n\nCreate all sorts of Mii characters based on your family and friends, someone you admire, or someone completely original! From their appearance to their personality traits and even little quirks, there are all sorts of ways to customise your Mii characters – including face parts that are unique to this game.\n\nBy picking up and placing Mii characters next to each other, they’ll start hanging out together. Watch as they forge unlikely friendships, get into fights, fall in (and out of) love unexpectedly, and so much more. \n\nExpand and design your island as you see fit. Place homes, shops, restaurants, and more to give your island residents new hang out spots to visit. Want to make your Mii characters feel at home? Decorate their rooms with different interior sets, including furniture, wallpaper and floors to match their vibe. \n\nThe demo of this game may contain product placement and advertising. ",
+        "description": "Become the caretaker of an island full of silliness, drama, love and other surprises in Tomodachi Life: Living the Dream for Nintendo Switch!\n\nCreate all sorts of Mii characters based on your family and friends, someone you admire, or someone completely original! From their appearance to their personality traits and even little quirks, there are all sorts of ways to customise your Mii characters – including face parts that are unique to this game.\n\nBy picking up and placing Mii characters next to each other, they’ll start hanging out together. Watch as they forge unlikely friendships, get into fights, fall in (and out of) love unexpectedly, and so much more.\n\nExpand and design your island as you see fit. Place homes, shops, restaurants, and more to give your island residents new hang out spots to visit. Want to make your Mii characters feel at home? Decorate their rooms with different interior sets, including furniture, wallpaper and floors to match their vibe.\n\nThe demo of this game may contain product placement and advertising.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b5bbea3c7dbcc5932da310ed6bd1fd9c765c7daed12610f7f87d6ca17af7e7fd.jpg",
@@ -6639,8 +6982,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Tomodachi Life: Living the Dream",
         "nsuId": 70010000116664,
@@ -6667,7 +7010,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Fight for survival while exploring the vast expanses of an alien world in Xenoblade Chronicles X: Definitive Edition. This visually enhanced version of the epic sci-fi RPG features additional content – including new story elements.\n\nThe year is 2054. Earth has been destroyed by an intergalactic war between two alien races, and humanity is on the brink of annihilation. A small number of survivors, aboard the USS White Whale, crash land on the vast and untamed planet Mira – and now it falls to you, as a member of BLADE, to help bring humanity back from the edge of extinction.\n\nWith smoother frame rates and up to 4K resolution in TV mode, the sprawling alien landscapes of planet Mira have never looked better. ",
+        "description": "Fight for survival while exploring the vast expanses of an alien world in Xenoblade Chronicles X: Definitive Edition. This visually enhanced version of the epic sci-fi RPG features additional content – including new story elements.\n\nThe year is 2054. Earth has been destroyed by an intergalactic war between two alien races, and humanity is on the brink of annihilation. A small number of survivors, aboard the USS White Whale, crash land on the vast and untamed planet Mira – and now it falls to you, as a member of BLADE, to help bring humanity back from the edge of extinction.\n\nWith smoother frame rates and up to 4K resolution in TV mode, the sprawling alien landscapes of planet Mira have never looked better.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/31ec5995a721df28f9bb288fbebfa2ba1c1451a3c3ec02be72797f07dbe2c778.jpg",
@@ -6683,8 +7026,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Xenoblade Chronicles X: Definitive Edition – Nintendo Switch 2 Edition",
         "nsuId": 70010000116670,
@@ -6790,7 +7133,7 @@
         "category": [
             "RPG"
         ],
-        "description": "This is the English language version.\n\nThe thrill of the Kanto region, as well as familiar Pokémon, are just as you remember them – with updated graphics compared to the original Game Boy title. The Sevii Islands – not present in Pokémon Green Version – have also been added, greatly expanding the areas you can explore and the scope of your adventure.\n\nSome excitement doesn’t fade no matter how many years pass. Whether it’s choosing your first partner Pokémon, confronting a sinister organisation or encountering a legend, a world of dreams and adventures with Pokémon awaits. Let’s go!\n\nIt is planned to make this title compatible with Pokémon HOME in the future.\n",
+        "description": "This is the English language version.\n\nThe thrill of the Kanto region, as well as familiar Pokémon, are just as you remember them – with updated graphics compared to the original Game Boy title. The Sevii Islands – not present in Pokémon Green Version – have also been added, greatly expanding the areas you can explore and the scope of your adventure.\n\nSome excitement doesn’t fade no matter how many years pass. Whether it’s choosing your first partner Pokémon, confronting a sinister organisation or encountering a legend, a world of dreams and adventures with Pokémon awaits. Let’s go!\n\nIt is planned to make this title compatible with Pokémon HOME in the future.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4a160625794cb6bdb453b5331740213cd2855fc541aa6c305b9e67efa0fb688.jpg",
@@ -6819,7 +7162,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Esta es la versión del juego en español.\n\nLa magia de la región de Kanto y muchos rostros Pokémon familiares siguen estando presentes tal y como los recuerdas, pero ahora el juego incorpora gráficos modernizados en comparación con el título original de Game Boy. Por otro lado, también incluye un nuevo añadido con respecto a Pokémon Edición Roja: Archi7, un archipiélago de islas que amplía considerablemente el territorio que puedes explorar y hace que tu aventura sea aún más grande.\n\nAlgunos recuerdos no desaparecen con el paso del tiempo... Tanto si vas a elegir a tu primer compañero Pokémon, enfrentarte a una siniestra organización o tener un encuentro legendario, te espera un mundo de sueños y aventuras con los Pokémon. ¡Adelante!\n\nEstá previsto que este título sea compatible con Pokémon HOME en el futuro. \n",
+        "description": "Esta es la versión del juego en español.\n\nLa magia de la región de Kanto y muchos rostros Pokémon familiares siguen estando presentes tal y como los recuerdas, pero ahora el juego incorpora gráficos modernizados en comparación con el título original de Game Boy. Por otro lado, también incluye un nuevo añadido con respecto a Pokémon Edición Roja: Archi7, un archipiélago de islas que amplía considerablemente el territorio que puedes explorar y hace que tu aventura sea aún más grande.\n\nAlgunos recuerdos no desaparecen con el paso del tiempo... Tanto si vas a elegir a tu primer compañero Pokémon, enfrentarte a una siniestra organización o tener un encuentro legendario, te espera un mundo de sueños y aventuras con los Pokémon. ¡Adelante!\n\nEstá previsto que este título sea compatible con Pokémon HOME en el futuro.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/22fb21b054bfb6ac7bbcdcc68a361300b0227d11134a7668f69c67a9eb71ac2e.jpg",
@@ -6848,7 +7191,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Esta es la versión del juego en español.\n\nLa magia de la región de Kanto y muchos rostros Pokémon familiares siguen estando presentes tal y como los recuerdas, pero ahora el juego incorpora gráficos modernizados en comparación con el título original de Game Boy. Por otro lado, también incluye un nuevo añadido con respecto a Pokémon Edición Verde: Archi7, un archipiélago de islas que amplía considerablemente el territorio que puedes explorar y hace que tu aventura sea aún más grande.\n\nAlgunos recuerdos no desaparecen con el paso del tiempo... Tanto si vas a elegir a tu primer compañero Pokémon, enfrentarte a una siniestra organización o tener un encuentro legendario, te espera un mundo de sueños y aventuras con los Pokémon. ¡Adelante!\n\nEstá previsto que este título sea compatible con Pokémon HOME en el futuro. \n",
+        "description": "Esta es la versión del juego en español.\n\nLa magia de la región de Kanto y muchos rostros Pokémon familiares siguen estando presentes tal y como los recuerdas, pero ahora el juego incorpora gráficos modernizados en comparación con el título original de Game Boy. Por otro lado, también incluye un nuevo añadido con respecto a Pokémon Edición Verde: Archi7, un archipiélago de islas que amplía considerablemente el territorio que puedes explorar y hace que tu aventura sea aún más grande.\n\nAlgunos recuerdos no desaparecen con el paso del tiempo... Tanto si vas a elegir a tu primer compañero Pokémon, enfrentarte a una siniestra organización o tener un encuentro legendario, te espera un mundo de sueños y aventuras con los Pokémon. ¡Adelante!\n\nEstá previsto que este título sea compatible con Pokémon HOME en el futuro.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/974ec255b02f02414036a6f534152341f257d3e1ca6818eaafdb33efc809d014.jpg",
@@ -6877,7 +7220,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Il s'agit ici de la version en français.\n\nRetrouvez l'engouement de la région de Kanto et vos Pokémon favoris comme si vous ne les aviez jamais quittés, avec des graphismes améliorés par rapport au jeu Game Boy d'origine. Les Îles Sevii, qui n'existaient pas dans Pokémon Version Rouge, ont été ajoutées afin d'enrichir votre aventure et vous proposer encore plus de lieux à explorer !\n\nCertains souvenirs restent à jamais gravés dans nos mémoires. Qu'il s'agisse de choisir votre premier partenaire Pokémon, d'affronter une sombre organisation ou encore de faire des rencontres légendaires, un monde de rêves, d'aventures et de Pokémon vous attend !\n\nCe titre est prévu pour devenir compatible avec Pokémon HOME.\n",
+        "description": "Il s'agit ici de la version en français.\n\nRetrouvez l'engouement de la région de Kanto et vos Pokémon favoris comme si vous ne les aviez jamais quittés, avec des graphismes améliorés par rapport au jeu Game Boy d'origine. Les Îles Sevii, qui n'existaient pas dans Pokémon Version Rouge, ont été ajoutées afin d'enrichir votre aventure et vous proposer encore plus de lieux à explorer !\n\nCertains souvenirs restent à jamais gravés dans nos mémoires. Qu'il s'agisse de choisir votre premier partenaire Pokémon, d'affronter une sombre organisation ou encore de faire des rencontres légendaires, un monde de rêves, d'aventures et de Pokémon vous attend !\n\nCe titre est prévu pour devenir compatible avec Pokémon HOME.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/95c6b8dbbc210628ed15d6b9bf56a50905117317f9de186a482ee18ebf778156.jpg",
@@ -6935,7 +7278,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Dies ist die Version in deutscher Sprache.\n\nDie Kanto-Region und bekannte Pokémon genau so, wie du sie in Erinnerung hast – mit aktualisierter Grafik im Vergleich zum ursprünglichen Game Boy-Titel. Außerdem wurden die Sevii Eilanden hinzugefügt, die in Pokémon Red Version nicht vorkamen. Die Gebiete, die du erkunden kannst, und somit auch dein Abenteuer werden dadurch erweitert.\n\nManche Erlebnisse bleiben einfach immer spannend, egal wie viele Jahre vergehen. Sei es die Wahl deines ersten Partner-Pokémon, die Auseinandersetzung mit einer finsteren Organisation oder die Begegnung mit einer Legende – eine Welt der Träume und Abenteuer mit Pokémon erwartet dich. Los geht‘s!\n\nFür diesen Titel ist Kompatibilität mit Pokémon HOME geplant.\n",
+        "description": "Dies ist die Version in deutscher Sprache.\n\nDie Kanto-Region und bekannte Pokémon genau so, wie du sie in Erinnerung hast – mit aktualisierter Grafik im Vergleich zum ursprünglichen Game Boy-Titel. Außerdem wurden die Sevii Eilanden hinzugefügt, die in Pokémon Red Version nicht vorkamen. Die Gebiete, die du erkunden kannst, und somit auch dein Abenteuer werden dadurch erweitert.\n\nManche Erlebnisse bleiben einfach immer spannend, egal wie viele Jahre vergehen. Sei es die Wahl deines ersten Partner-Pokémon, die Auseinandersetzung mit einer finsteren Organisation oder die Begegnung mit einer Legende – eine Welt der Träume und Abenteuer mit Pokémon erwartet dich. Los geht‘s!\n\nFür diesen Titel ist Kompatibilität mit Pokémon HOME geplant.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dfa09f03f153dcaaa03165c98597118390970dc7e5857bff66ef9ec904095aac.jpg",
@@ -6964,7 +7307,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Dies ist die Version in deutscher Sprache.\n\nDie Kanto-Region und bekannte Pokémon genau so, wie du sie in Erinnerung hast – mit aktualisierter Grafik im Vergleich zum ursprünglichen Game Boy-Titel. Außerdem wurden die Sevii Eilanden hinzugefügt, die in Pokémon Grüne Edition nicht vorkamen. Die Gebiete, die du erkunden kannst, und somit auch deine Abenteuer werden dadurch erweitert.\n\nManche Erlebnisse bleiben einfach immer spannend, egal wie viele Jahre vergehen. Sei es die Wahl deines ersten Partner-Pokémon, die Auseinandersetzung mit einer finsteren Organisation oder die Begegnung mit einer Legende – eine Welt der Träume und Abenteuer mit Pokémon erwartet dich. Los geht‘s!\n\nFür diesen Titel ist Kompatibilität mit Pokémon HOME geplant.\n",
+        "description": "Dies ist die Version in deutscher Sprache.\n\nDie Kanto-Region und bekannte Pokémon genau so, wie du sie in Erinnerung hast – mit aktualisierter Grafik im Vergleich zum ursprünglichen Game Boy-Titel. Außerdem wurden die Sevii Eilanden hinzugefügt, die in Pokémon Grüne Edition nicht vorkamen. Die Gebiete, die du erkunden kannst, und somit auch deine Abenteuer werden dadurch erweitert.\n\nManche Erlebnisse bleiben einfach immer spannend, egal wie viele Jahre vergehen. Sei es die Wahl deines ersten Partner-Pokémon, die Auseinandersetzung mit einer finsteren Organisation oder die Begegnung mit einer Legende – eine Welt der Träume und Abenteuer mit Pokémon erwartet dich. Los geht‘s!\n\nFür diesen Titel ist Kompatibilität mit Pokémon HOME geplant.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f06fbede24da555383fd7f7818be1fe39db9e669dae8353405d3d0e824ffaac.jpg",
@@ -6993,7 +7336,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Questa è la versione del gioco in italiano.\n\nRitrova le emozioni e i Pokémon della regione di Kanto proprio come li ricordavi, ma con grafica aggiornata rispetto al titolo originale per Game Boy. Con l’aggiunta del Settipelago, non presente in Pokémon Versione Rossa, le aree da esplorare e la profondità della tua avventura sono ora molto aumentate.\n\nNon importa quanto tempo sia passato: certe emozioni non svaniscono. Che tu debba scegliere il tuo primo Pokémon compagno, affrontare una sinistra organizzazione o incontrare una leggenda, ti aspetta un mondo di sogni e avventure con i Pokémon! Andiamo!\n\nIn futuro si prevede di rendere questo titolo compatibile con Pokémon HOME.\n",
+        "description": "Questa è la versione del gioco in italiano.\n\nRitrova le emozioni e i Pokémon della regione di Kanto proprio come li ricordavi, ma con grafica aggiornata rispetto al titolo originale per Game Boy. Con l’aggiunta del Settipelago, non presente in Pokémon Versione Rossa, le aree da esplorare e la profondità della tua avventura sono ora molto aumentate.\n\nNon importa quanto tempo sia passato: certe emozioni non svaniscono. Che tu debba scegliere il tuo primo Pokémon compagno, affrontare una sinistra organizzazione o incontrare una leggenda, ti aspetta un mondo di sogni e avventure con i Pokémon! Andiamo!\n\nIn futuro si prevede di rendere questo titolo compatibile con Pokémon HOME.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/14e0732ddb568f99cc89b915d07e1b39a75a8a951d3f8ee1496a9bcc74277a83.jpg",
@@ -7022,7 +7365,7 @@
         "category": [
             "RPG"
         ],
-        "description": "Questa è la versione del gioco in italiano.\n\nRitrova le emozioni e i Pokémon della regione di Kanto proprio come li ricordavi, ma con grafica aggiornata rispetto al titolo originale per Game Boy. Con l’aggiunta del Settipelago, non presente in Pokémon Versione Verde, le aree da esplorare e la profondità della tua avventura sono ora molto aumentate.\n\nNon importa quanto tempo sia passato: certe emozioni non svaniscono. Che tu debba scegliere il tuo primo Pokémon compagno, affrontare una sinistra organizzazione o incontrare una leggenda, ti aspetta un mondo di sogni e avventure con i Pokémon! Andiamo!\n\nIn futuro si prevede di rendere questo titolo compatibile con Pokémon HOME.\n",
+        "description": "Questa è la versione del gioco in italiano.\n\nRitrova le emozioni e i Pokémon della regione di Kanto proprio come li ricordavi, ma con grafica aggiornata rispetto al titolo originale per Game Boy. Con l’aggiunta del Settipelago, non presente in Pokémon Versione Verde, le aree da esplorare e la profondità della tua avventura sono ora molto aumentate.\n\nNon importa quanto tempo sia passato: certe emozioni non svaniscono. Che tu debba scegliere il tuo primo Pokémon compagno, affrontare una sinistra organizzazione o incontrare una leggenda, ti aspetta un mondo di sogni e avventure con i Pokémon! Andiamo!\n\nIn futuro si prevede di rendere questo titolo compatibile con Pokémon HOME.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/db13255228127b4e83eb9b14fede8a3622b47e6c82bebafc2662534f13899c3c.jpg",
@@ -7072,8 +7415,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Hello, Mario!",
         "nsuId": 70010000119888,
@@ -7092,7 +7435,7 @@
             "https://img-eshop.cdn.nintendo.net/i/60a346d68e7c13d29f40b07b1e02951395789051b5e42c8a8ae14f8a443fe30d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/49e6a190b9248a3b9df6241cd35b33aa3aac31992aa34a9d4d50286320c6ab46.jpg"
         ],
-        "size": 179306496,
+        "size": 213909504,
         "version": null
     },
     "70010000122672": {
@@ -7116,8 +7459,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition",
         "nsuId": 70010000122672,
@@ -7156,8 +7499,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition",
         "nsuId": 70010000122692,
@@ -7249,8 +7592,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Rhythm Paradise Groove",
         "nsuId": 70010000122819,
@@ -7299,8 +7642,8 @@
             "nl",
             "ru",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Hello, Yoshi!",
         "nsuId": 70010000123634,
@@ -7319,7 +7662,7 @@
             "https://img-eshop.cdn.nintendo.net/i/13b2f73618f939c46a1aae592346df6b04455580a876494981d66f17c3998322.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e7e88a1ccf2e00844806cf96f1acc7ebf4ef26eb4018b2fb78d98dd23911d506.jpg"
         ],
-        "size": 167772160,
+        "size": 213909504,
         "version": null
     },
     "70010000127806": {
@@ -7346,8 +7689,8 @@
             "de",
             "it",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Fitness Boxing 3: Your Personal Trainer – Nintendo Switch 2 Edition",
         "nsuId": 70010000127806,
@@ -7370,12 +7713,110 @@
         "size": 4959764480,
         "version": null
     },
+    "70010000133321": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bdc3da28e46d1c6dc9c98522c0b4b88acc304f1307bf9cfe2b087e7c241158ee.jpg",
+        "category": [
+            "Action",
+            "Communication",
+            "Other"
+        ],
+        "description": "\"Hello, Luigi!\" is a free application where you can touch Luigi's face to play.\n\n■ Play with Luigi's face\nTry poking Luigi's face, pulling on it or spinning it and watch him react! What kind of face will he make next?\nYou can also tap the ? Block in the top left of the screen and select icons to add items like Super Mushrooms and Super Stars, pipes or even enemies.\n\n■ Peekaboo!\nTap the leftmost icon in the menu to play peekaboo with Luigi. Sometimes, a Boo might make an appearance, too…\n\n■ Goodnight, Luigi!\nAfter a little while of playing together, Luigi will get tired and go to sleep.\nYou won't be able to play with him while he's asleep. This is a good opportunity to have children take a break too.\n(It is possible to disable this feature. To do so, tap the cog icon in the top right of the screen when starting the app.)\n\n■ Play offline\nOnce you've downloaded the app, you don't need the internet to play!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e0188a3df5c13051dd6b7a8765257b37bb97bf98b35e6860637b85b1bd400697.jpg",
+        "id": "0100D8C0251AE000",
+        "intro": "Luigi is ready to play!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Hello, Luigi!",
+        "nsuId": 70010000133321,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261006,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eb3ea2af7317a8e58ee6390c957eadaeaea94d25ccc40a52bb8b87fa493966ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d4f5ec22d75f6daa247af27d035ec7f250cdebb58da64a7cd633f182db6858b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef4089055370c3e81efd91818ecc5c7704d9fcf910caeeb4d46e807b206fa44d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cef7531d214bcc33815ec65f4ba5eb2cba24f669f0fbe44ef164c1b009aa60c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62827d58715987ec85225e8b34648828ce5065a342436d717d54061eeb3c3ee0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93296d2b7f2574cf95e1406bc10a05af1b04e9ff43cfbaa5ebeed567cdbdfab7.jpg"
+        ],
+        "size": 209715200,
+        "version": null
+    },
+    "70010000133324": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a1eba6367cac7c345045c9445e9233ca48db44505704f7e537461f608d01761.jpg",
+        "category": [
+            "Action",
+            "Communication",
+            "Other"
+        ],
+        "description": "\"Hello, Peach!\" is a free application where you can touch Peach's face to play.\n\n■ Play with Peach's face\nTry poking Peach's face, pulling on it or spinning it and watch him react! What kind of face will he make next?\nYou can also tap the ? Block in the top left of the screen and select icons to add items like Super Mushrooms and Super Stars, pipes or even enemies.\n\n■Peekaboo!\nTap the leftmost icon in the menu to play peekaboo with Peach. Sometimes, a Boo might make an appearance, too…\n\n■Goodnight, Peach!\nAfter a little while of playing together, Peach will get tired and go to sleep.\nYou won't be able to play with her while she's asleep. This is a good opportunity to have children take a break too.\n(It is possible to disable this feature. To do so, tap the cog icon in the top right of the screen when starting the app.)\n\n■Play offline\nOnce you've downloaded the app, you don't need the internet to play!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ad65a64a3e9bd23f014ade450132ad399c7e22997597a6aced4705511ff23983.jpg",
+        "id": "01008790251AC000",
+        "intro": "Peach is ready to play!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Hello, Peach!",
+        "nsuId": 70010000133324,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261006,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9c1ef355c24e9963920c4a4e9a75190ea504f53ebd4ffd0b170934f2110729a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/208b1228c8c766156958f1e6273792d0b62d2ab39e6fae4ca95bf08c3f7192e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd8bdcb0010a6f217c38fe55a1ce7adbc7e53e89e795eac81f3d27ecbf1c2030.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c440532e37a6f676ff8023ea5d016cc409d93f8d0ebaa4d91666d4f878c30a2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e991f10eefb9bf4b862de06931d91514f4d64de9dd9110c45bcd61e2e4d95041.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79068e100c4fbd3b2a8e30ab734e6fe4e1e12a66d7c3a793518de496d0652deb.jpg"
+        ],
+        "size": 209715200,
+        "version": null
+    },
     "70010000135060": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1788b57db362322cb8921475fff24ebae618d7da3e5a3e2fa657a177cc239d31.jpg",
         "category": [
             "Adventure"
         ],
-        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. \n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week. \n\nThis game supports Brazilian Portuguese.",
+        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy.\n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06471c4bb150ff3f0a75afdaebf9891b0904ceeba003a4e888258c9cacd3c540.jpg",
@@ -7393,8 +7834,8 @@
             "it",
             "nl",
             "ko",
-            "zh",
-            "zh"
+            "zh-Hans",
+            "zh-Hant"
         ],
         "name": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
         "nsuId": 70010000135060,
@@ -7407,6 +7848,36 @@
         "rightsId": null,
         "screenshots": null,
         "size": 12086935552,
+        "version": null
+    },
+    "70030000012315": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "MONSTER HUNTER STORIES 2: WINGS OF RUIN Trial Version",
+        "nsuId": 70030000012315,
+        "numberOfPlayers": null,
+        "parentId": "0100E21011446000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 2958032896,
         "version": null
     },
     "70030000012507": {
@@ -7605,6 +8076,35 @@
         "size": 1472200704,
         "version": null
     },
+    "70030000016264": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Monster Hunter Rise: Sunbreak Demo",
+        "nsuId": 70030000016264,
+        "numberOfPlayers": null,
+        "parentId": "0100B04011742000",
+        "publisher": null,
+        "rating": 12,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3512729600,
+        "version": null
+    },
     "70030000016543": {
         "bannerUrl": null,
         "category": null,
@@ -7801,6 +8301,34 @@
         "rightsId": null,
         "screenshots": null,
         "size": 1875902464,
+        "version": null
+    },
+    "70030000020843": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Fae Farm Demo",
+        "nsuId": 70030000020843,
+        "numberOfPlayers": null,
+        "parentId": "010073F0189B6000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 1855979520,
         "version": null
     },
     "70030000020884": {
@@ -8153,7 +8681,7 @@
     "70050000001334": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25f9caf569e4a42bb2001bd288e032b140ac0ef593c00169b1a10a95e8654dfe.jpg",
         "category": null,
-        "description": "One new costume for Lucina,\nthe Bride costume, exclusive to\nSeason Pass holders.\nCostume available from day of \npurchase.",
+        "description": "One new costume for Lucina,\nthe Bride costume, exclusive to\nSeason Pass holders.\nCostume available from day of\npurchase.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -8463,7 +8991,7 @@
     "70050000004224": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e91a81aa62ffb095646b529af40677ae67304d13169c4b16c5df6a6073b8224c.jpg",
         "category": null,
-        "description": "Introducing Splatoon 2: Octo Expansion, a hefty new single-player mode for Splatoon 2!\n\nYou’ll play as a new character, Agent 8, who looks like an Octoling! She wakes up on the platform of a dark subway station... without her memories.\n\nSplat your way through 80 shady underground test facilities in a massive subterranean world, where a variety of missions await Agent 8 and her talents.\n\nExpect new stories to unfold, shedding new light on beloved characters. You may think you know everything about the world of Splatoon, but these waters run deep, and so does the lore.\n\nEscape from these twisted depths, and you’ll be able to join multiplayer matches as an Octoling!\n\nIf you purchase the Octo Expansion pass from Nintendo eShop, you'll immediately receive Octo-themed in-game gear to use in battle.\n\n\n\n",
+        "description": "Introducing Splatoon 2: Octo Expansion, a hefty new single-player mode for Splatoon 2!\n\nYou’ll play as a new character, Agent 8, who looks like an Octoling! She wakes up on the platform of a dark subway station... without her memories.\n\nSplat your way through 80 shady underground test facilities in a massive subterranean world, where a variety of missions await Agent 8 and her talents.\n\nExpect new stories to unfold, shedding new light on beloved characters. You may think you know everything about the world of Splatoon, but these waters run deep, and so does the lore.\n\nEscape from these twisted depths, and you’ll be able to join multiplayer matches as an Octoling!\n\nIf you purchase the Octo Expansion pass from Nintendo eShop, you'll immediately receive Octo-themed in-game gear to use in battle.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -8493,7 +9021,7 @@
     "70050000004227": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e91a81aa62ffb095646b529af40677ae67304d13169c4b16c5df6a6073b8224c.jpg",
         "category": null,
-        "description": "If you purchase the Octo Expansion pass from Nintendo eShop, you'll immediately receive Octo-themed in-game gear to use in battle.\n",
+        "description": "If you purchase the Octo Expansion pass from Nintendo eShop, you'll immediately receive Octo-themed in-game gear to use in battle.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -9033,7 +9561,7 @@
         "isDemo": false,
         "key": null,
         "languages": null,
-        "name": "Rex: Xenoblade Chronicles 2\nMii Fighter Costume",
+        "name": "Rex: Xenoblade Chronicles 2 Mii Fighter Costume",
         "nsuId": 70050000008507,
         "numberOfPlayers": null,
         "publisher": "Nintendo",
@@ -9707,7 +10235,7 @@
     "70050000013259": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98ff0b50b9287c7e5fd078c8e87efe3726903c7bdf15414973c0e822c10a025a.jpg",
         "category": null,
-        "description": "A multiple-chapter story separate from the main game, featuring all-new additional characters, locations and battlefields.\n\nYou can start Cindered Shadows from Side Story on the title screen, regardless of your progress in the main game. You can choose from Normal or Hard difficulty (Maddening difficulty is not available). There are three save slots available for the side story, independent from those of the main game. There's also a separate autosave for the side story.\nIf you want to pick up from where you left off, select Continue from the title screen as normal. You can then use the ZL and ZR Buttons to toggle between the main game and side story data. \n\nIn addition, the following content will be unlocked in the main game as you progress in the side story:\n-\tA new area of the Monastery to explore\n*Talk to the Shifty Merchant near your personal quarters.\n-\tNew recruitable characters in the Monastery\n*These characters can only be recruited during the first part of the game.\n-\tQuests, activities, character classes, Paralogues involving the new characters, new support conversations, and more!\n-\tA new costume for Anna (the Tricky Merchant outfit) for Expansion Pass holders",
+        "description": "A multiple-chapter story separate from the main game, featuring all-new additional characters, locations and battlefields.\n\nYou can start Cindered Shadows from Side Story on the title screen, regardless of your progress in the main game. You can choose from Normal or Hard difficulty (Maddening difficulty is not available). There are three save slots available for the side story, independent from those of the main game. There's also a separate autosave for the side story.\nIf you want to pick up from where you left off, select Continue from the title screen as normal. You can then use the ZL and ZR Buttons to toggle between the main game and side story data.\n\nIn addition, the following content will be unlocked in the main game as you progress in the side story:\n-\tA new area of the Monastery to explore\n*Talk to the Shifty Merchant near your personal quarters.\n-\tNew recruitable characters in the Monastery\n*These characters can only be recruited during the first part of the game.\n-\tQuests, activities, character classes, Paralogues involving the new characters, new support conversations, and more!\n-\tA new costume for Anna (the Tricky Merchant outfit) for Expansion Pass holders",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -12578,7 +13106,7 @@
     "70050000018967": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0455e82a1f6e78825e250a1cd86ed1ee7b27454dbb91cd860b19f6c5665e036.jpg",
         "category": null,
-        "description": "From ARMS, the Ramen Bomber Min Min is now available! She switches between three stretchy, long-reaching ARMS to fight.\n\nHer stage is \"Spring Stadium\" - use its jumping platforms and item-dropping drones to get the edge in battle! \n\nThe music includes original stage themes and a remix of the official theme song! Maybe you'll discover some favourites!\n\nIncludes:\n・ Fighter: Min Min\n・ Stage: Spring Stadium\n・ Music: 18 tracks (*1)\n・ Smash tag icons: 3\n・ Spirits: Min Min (Fighter) (*2)\n・ Spirit Board additions: Other spirits from ARMS that were added in Ver. 8.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault → Shop.\n*4 Check the \"Software update available: Ver. 8.0.0\" news update for details on the new spirits.",
+        "description": "From ARMS, the Ramen Bomber Min Min is now available! She switches between three stretchy, long-reaching ARMS to fight.\n\nHer stage is \"Spring Stadium\" - use its jumping platforms and item-dropping drones to get the edge in battle!\n\nThe music includes original stage themes and a remix of the official theme song! Maybe you'll discover some favourites!\n\nIncludes:\n・ Fighter: Min Min\n・ Stage: Spring Stadium\n・ Music: 18 tracks (*1)\n・ Smash tag icons: 3\n・ Spirits: Min Min (Fighter) (*2)\n・ Spirit Board additions: Other spirits from ARMS that were added in Ver. 8.0.0. (*3) (*4)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault → Shop.\n*4 Check the \"Software update available: Ver. 8.0.0\" news update for details on the new spirits.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -12768,7 +13296,7 @@
     "70050000018972": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5042fbb01451b768367cf50b8180835f1a87b771fa29f477b7da253dd923078.jpg",
         "category": null,
-        "description": "Sora from the KINGDOM HEARTS series joins the battle! His colour variations give you several options from the original games. Keep opponents at bay with three types of Magic, or take advantage of Sora's exceptional airborne potential, and pursue victory from the air!\nThe new stage Hollow Bastion features a floating platform that will travel around the castle. Towards the end of the battle, the background will change to a dark stage with floating stained glass.\nThere are nine music tracks that will invoke memories of adventures with Sora. Be sure to check out the fanfare that was arranged especially for this game!\n\nThis DLC Challenger Pack includes\t\n・ Fighter: Sora\n・ Stage: Hollow Bastion\n・ Music: 9 tracks (*1) (*2)\n・ Smash tag icons: 3\n・ Spirits: Sora, Sora (KINGDOM HEARTS II), Sora (KINGDOM HEARTS 3D [Dream Drop Distance]), Sora (KINGDOM HEARTS III), Sora (Timeless River) (*3)\n・ Spirit Board additions: Other spirits from the KINGDOM HEARTS series that were added in Ver. 13.0.0. (*4) (*5)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 If you have play data for KINGDOM HEARTS Melody of Memory on your console, the song Dearly Beloved -Swing Version- will be added as a bonus, for a total of 10 tracks.\n*3 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*4 These new spirits are also available free of charge from Vault → Shop.\n*5 Check the \"Software update available: Ver. 13.0.0\" news update for details on the new spirits.",
+        "description": "Sora from the KINGDOM HEARTS series joins the battle! His colour variations give you several options from the original games. Keep opponents at bay with three types of Magic, or take advantage of Sora's exceptional airborne potential, and pursue victory from the air!\nThe new stage Hollow Bastion features a floating platform that will travel around the castle. Towards the end of the battle, the background will change to a dark stage with floating stained glass.\nThere are nine music tracks that will invoke memories of adventures with Sora. Be sure to check out the fanfare that was arranged especially for this game!\n\nThis DLC Challenger Pack includes\n・ Fighter: Sora\n・ Stage: Hollow Bastion\n・ Music: 9 tracks (*1) (*2)\n・ Smash tag icons: 3\n・ Spirits: Sora, Sora (KINGDOM HEARTS II), Sora (KINGDOM HEARTS 3D [Dream Drop Distance]), Sora (KINGDOM HEARTS III), Sora (Timeless River) (*3)\n・ Spirit Board additions: Other spirits from the KINGDOM HEARTS series that were added in Ver. 13.0.0. (*4) (*5)\n\n*1 Can be found in Vault → Sounds after purchase.\n*2 If you have play data for KINGDOM HEARTS Melody of Memory on your console, the song Dearly Beloved -Swing Version- will be added as a bonus, for a total of 10 tracks.\n*3 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*4 These new spirits are also available free of charge from Vault → Shop.\n*5 Check the \"Software update available: Ver. 13.0.0\" news update for details on the new spirits.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -12865,7 +13393,7 @@
     "70050000020823": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25fae08cd170a601f49a5045c6f07e43efb15b81f5a9aa10cce689860f9d3bfd.jpg",
         "category": null,
-        "description": "A Mii Brawler costume of Ninjara from ARMS is now available, complete with trademark green hair, silver goggles and blue mask! \nBecome the \"student of stealth\" and take control of the fight with style!\n\nContents\n\nMii Fighter Costume\n・ Ninjara Wig\n・ Ninjara Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
+        "description": "A Mii Brawler costume of Ninjara from ARMS is now available, complete with trademark green hair, silver goggles and blue mask!\nBecome the \"student of stealth\" and take control of the fight with style!\n\nContents\n\nMii Fighter Costume\n・ Ninjara Wig\n・ Ninjara Outfit (for Brawlers)\n\nUsable after purchase by going to Games & More → Mii Fighter.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -13308,7 +13836,7 @@
     "70050000022317": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d12f8d56a9bce822a7569d7b1f8a8e993e8ed486823ed5600b93b34f2a14047e.jpg",
         "category": null,
-        "description": "If you purchase the Season Pass, you’ll receive bonus costumes for Link and Zelda that you can use right away! ",
+        "description": "If you purchase the Season Pass, you’ll receive bonus costumes for Link and Zelda that you can use right away!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -13905,7 +14433,7 @@
     "70050000026003": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b08170a15fedc95895590f27bdc1bd75b9ae4684ae9b8d5a5317b5df2740ec7.jpg",
         "category": null,
-        "description": "New character vignettes, including Battle for Kakariko Village and Battle of Goponga Village\nNewly-added stages, including the coliseum\nExpanded roster: Purah, Robbie and one more\nNew battle skills for existing characters\n",
+        "description": "New character vignettes, including Battle for Kakariko Village and Battle of Goponga Village\nNewly-added stages, including the coliseum\nExpanded roster: Purah, Robbie and one more\nNew battle skills for existing characters",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -14430,7 +14958,7 @@
     "70050000036095": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cb277b834be1837f0abdf31658e7066ea0b1841c2e9af6dc89dec57c10227a9.jpg",
         "category": null,
-        "description": "The inspiration behind it all returns to its 2D action roots! Castlevania’s unforgettable characters & gothic setting meet the fast-paced combat of the award-winning roguelite Dead Cells in this unprecedented collaboration.\n\nA gateway to a striking castle has suddenly appeared, and an imposing warrior called Richter asks you to help him vanquish the great evil within. \n\nEnticed by the promise of new loot rather than a sense of moral duty, you strike out through the grounds and corridors of the gothic castle to find and kill this mysterious Dracula...\n\nSlay hordes of his supernatural minions as you progress through our biggest DLC yet, including two levels, three bosses and a new storyline!\n\nWIELD CLASSIC CASTLEVANIA WEAPONS \nUnlock 14 iconic weapons such as the Vampire Killer, Throwing Axe & Holy Water to decimate Dracula's bestiary of monsters and finally the dark lord himself. Each item has been translated into the fast-paced combat of Dead Cells while keeping their original essence. \n\nEXPLORE EVERY CORNER OF DRACULA'S CASTLE \nSecret rooms. Flame-lit corridors. Gloomy tombs. Beautiful paintings. Food hidden in the walls. Full of original monsters from the series, such as harpies, werewolves & haunted armors, the character of the iconic castle will transport you into the realms of gothic fantasy.\n\nENJOY CLASSIC & REIMAGINED MUSIC \nWe're giving you access to an alternative soundtrack made of 51 of the original Castlevania tunes, that can be heard across the entire game. Yes, 51! \nOn top of this, we've taken the 12  most iconic tracks, such as Vampire Killer, Bloody Tears and Simon Belmont's Theme, and reimagined them in the style of Dead Cells as a soundtrack for this DLC, while preserving the Castlevania ambiance of course.\n\nDISCOVER A NEW STORYLINE \nRichter Belmont and Alucard will be by your side throughout your quest to vanquish Dracula, helping you to navigate the maze of Dracula’s Castle  and providing you with strong weapons (sometimes willingly, sometimes not). However, where there is good there is evil, so watch out for powerful foes who will try everything in their power to stop you from reaching the throne room.\n\nMASTER THREE EPIC BOSS FIGHTS \nFight against the very essence of evil in two intense duels versus Death and Dracula, both set against a majestic backdrop. If you can survive these gauntlets, prepare yourself for our most ambitious boss showdown yet...\n\nUNLOCK CASTLEVANIA CHARACTER OUTFITS \nUnlock 20 outfits as you progress through the castle, letting you roleplay as all your favourite characters like Alucard, Richter Belmont, Simon Belmont, Maria Renard, Trevor Belmont, Sypha Belnades or even Dracula himself.",
+        "description": "The inspiration behind it all returns to its 2D action roots! Castlevania’s unforgettable characters & gothic setting meet the fast-paced combat of the award-winning roguelite Dead Cells in this unprecedented collaboration.\n\nA gateway to a striking castle has suddenly appeared, and an imposing warrior called Richter asks you to help him vanquish the great evil within.\n\nEnticed by the promise of new loot rather than a sense of moral duty, you strike out through the grounds and corridors of the gothic castle to find and kill this mysterious Dracula...\n\nSlay hordes of his supernatural minions as you progress through our biggest DLC yet, including two levels, three bosses and a new storyline!\n\nWIELD CLASSIC CASTLEVANIA WEAPONS\nUnlock 14 iconic weapons such as the Vampire Killer, Throwing Axe & Holy Water to decimate Dracula's bestiary of monsters and finally the dark lord himself. Each item has been translated into the fast-paced combat of Dead Cells while keeping their original essence.\n\nEXPLORE EVERY CORNER OF DRACULA'S CASTLE\nSecret rooms. Flame-lit corridors. Gloomy tombs. Beautiful paintings. Food hidden in the walls. Full of original monsters from the series, such as harpies, werewolves & haunted armors, the character of the iconic castle will transport you into the realms of gothic fantasy.\n\nENJOY CLASSIC & REIMAGINED MUSIC\nWe're giving you access to an alternative soundtrack made of 51 of the original Castlevania tunes, that can be heard across the entire game. Yes, 51!\nOn top of this, we've taken the 12  most iconic tracks, such as Vampire Killer, Bloody Tears and Simon Belmont's Theme, and reimagined them in the style of Dead Cells as a soundtrack for this DLC, while preserving the Castlevania ambiance of course.\n\nDISCOVER A NEW STORYLINE\nRichter Belmont and Alucard will be by your side throughout your quest to vanquish Dracula, helping you to navigate the maze of Dracula’s Castle  and providing you with strong weapons (sometimes willingly, sometimes not). However, where there is good there is evil, so watch out for powerful foes who will try everything in their power to stop you from reaching the throne room.\n\nMASTER THREE EPIC BOSS FIGHTS\nFight against the very essence of evil in two intense duels versus Death and Dracula, both set against a majestic backdrop. If you can survive these gauntlets, prepare yourself for our most ambitious boss showdown yet...\n\nUNLOCK CASTLEVANIA CHARACTER OUTFITS\nUnlock 20 outfits as you progress through the castle, letting you roleplay as all your favourite characters like Alucard, Richter Belmont, Simon Belmont, Maria Renard, Trevor Belmont, Sypha Belnades or even Dracula himself.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -14900,7 +15428,7 @@
     "70050000045251": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a4abc7018fcdaa706350f501b9daa41f8e604f757ed33d479705a18772266e78.jpg",
         "category": null,
-        "description": "Bonus contents: \nVintage Pearl Earrings (Consumable) x3\nRetro Rose-Print Shorts (Consumable) x3\nSailor-Collar Blouse w/ Mimosa Embroidery (Consumable) x3\n2-Color Mid-Heel Lace-up Shoes (Consumable) x3",
+        "description": "Bonus contents:\nVintage Pearl Earrings (Consumable) x3\nRetro Rose-Print Shorts (Consumable) x3\nSailor-Collar Blouse w/ Mimosa Embroidery (Consumable) x3\n2-Color Mid-Heel Lace-up Shoes (Consumable) x3",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15020,7 +15548,7 @@
     "70050000047227": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f09e641a829bbfe17fa74bcbc1f9e86c52a633e777d558e4bcb2e3201eb801.jpg",
         "category": null,
-        "description": "Tails, the genius mechanic and Sonic’s closest friend, is ready to take flight on the course! ",
+        "description": "Tails, the genius mechanic and Sonic’s closest friend, is ready to take flight on the course!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15080,7 +15608,7 @@
     "70050000047229": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b59fee75862b2c4a3a5ac0da79bba31e294de25db2bf86a9d1c3e37d472efb9c.jpg",
         "category": null,
-        "description": "Make way for the positive pink hedgehog with a strong sense of justice, because Amy Rose is here!  ",
+        "description": "Make way for the positive pink hedgehog with a strong sense of justice, because Amy Rose is here!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15410,7 +15938,7 @@
     "70050000047240": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/80544ef0c754992688e10ecc39c1cb4e0167e9d9d7c2d485afd42eff55a886e3.jpg",
         "category": null,
-        "description": "An accessory inspired by Gilius! ",
+        "description": "An accessory inspired by Gilius!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15440,7 +15968,7 @@
     "70050000047241": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c633f45254827bc426422aa35193e7a502e876fd549d119ac05cb484e9e5d3de.jpg",
         "category": null,
-        "description": "An accessory inspired by Gilius! ",
+        "description": "An accessory inspired by Gilius!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15470,7 +15998,7 @@
     "70050000047242": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4aa9e5258a65040caff794922766d060e095b0b519a3b5785fde8fbcb1d34fb5.jpg",
         "category": null,
-        "description": "An accessory inspired by Gilius! ",
+        "description": "An accessory inspired by Gilius!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15500,7 +16028,7 @@
     "70050000047243": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df36e1c02feb052c6b9a64787bea7a2aa7f7d8be7df7acf03c1944bc1a67a965.jpg",
         "category": null,
-        "description": "An accessory inspired by Gilius! ",
+        "description": "An accessory inspired by Gilius!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15530,7 +16058,7 @@
     "70050000047244": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dce8365491ee22fb24d8a9c664f2c8b421eebb9d5d99b5669cde57f923f92f1b.jpg",
         "category": null,
-        "description": "An outfit inspired by Akira! ",
+        "description": "An outfit inspired by Akira!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -15620,7 +16148,7 @@
     "70050000047502": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5c545553a32293bade0ef31b5afe3b12ba97934ccf6f50d543ff566ee5816c8.jpg",
         "category": null,
-        "description": "Enjoy four game modes: \"Original,\" \"Time Limit,\" \"Attack,\" and \"Item.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send an evolved fruit to your opponent's box. Sending a big fruit could turn the tables!\n\nIn \"Item,\" the player with the higher score wins. Evolve fruits to get items, and use them strategically to gain an advantage. Timing your item use well could be the key to victory!\n\n※ Online play mode requires a subscription to \"Nintendo Switch Online\" (paid).\n",
+        "description": "Enjoy four game modes: \"Original,\" \"Time Limit,\" \"Attack,\" and \"Item.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send an evolved fruit to your opponent's box. Sending a big fruit could turn the tables!\n\nIn \"Item,\" the player with the higher score wins. Evolve fruits to get items, and use them strategically to gain an advantage. Timing your item use well could be the key to victory!\n\n※ Online play mode requires a subscription to \"Nintendo Switch Online\" (paid).",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -16046,7 +16574,7 @@
     "70050000056307": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6feb33859bba0824f5e3cf0454ecbe234bc29f4c2492a74cf0afd28a1ff534d.jpg",
         "category": null,
-        "description": "More songs have been added! These new tracks will be played during the additional exercises suggested by Instructors and the EX Exercises available via the Free Training mode.\n\nThe tracks are selected at random, so you can focus on the high-speed exercises. Get moving to a variety of beats – from grooving retro game sounds to energetic EDM. Change up the mood and get into the rhythm!\n\n*Please note that this pack is for EX Exercises only and cannot be used for regular exercises.  ",
+        "description": "More songs have been added! These new tracks will be played during the additional exercises suggested by Instructors and the EX Exercises available via the Free Training mode.\n\nThe tracks are selected at random, so you can focus on the high-speed exercises. Get moving to a variety of beats – from grooving retro game sounds to energetic EDM. Change up the mood and get into the rhythm!\n\n*Please note that this pack is for EX Exercises only and cannot be used for regular exercises.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -16145,7 +16673,7 @@
     "70050000056808": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb3b21f6022340a2f1c115399435ba5bae453f8e02da263f110bc874da94bf2b.jpg",
         "category": null,
-        "description": "Explore the land, sky, and depths of Hyrule like never before on Nintendo Switch 2. \n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.\nThe Legend of Zelda: Tears of the Kingdom for Nintendo Switch required to use this upgrade pack, sold separately.",
+        "description": "Explore the land, sky, and depths of Hyrule like never before on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.\nThe Legend of Zelda: Tears of the Kingdom for Nintendo Switch required to use this upgrade pack, sold separately.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -16179,7 +16707,7 @@
     "70050000056836": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/feeba23325d25c05a02bfe2f1888077b581abce80cf094d18aa2febd25be100a.jpg",
         "category": null,
-        "description": "Explore an even more breathtaking Hyrule on Nintendo Switch 2. \n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.\nThe Legend of Zelda: Breath of the Wild for Nintendo Switch required to use this upgrade pack, sold separately.",
+        "description": "Explore an even more breathtaking Hyrule on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.\nThe Legend of Zelda: Breath of the Wild for Nintendo Switch required to use this upgrade pack, sold separately.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -16246,10 +16774,10 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": "010020101F805004",
+        "id": "010020101F805005",
         "ids": [
-            "010020101F805004",
             "010020101F805005",
+            "010020101F805004",
             "010020101F805006"
         ],
         "intro": "Box to the rhythm of three popular J-pop tunes!",
@@ -16334,15 +16862,15 @@
     "70050000060869": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/14dc6dfe2ff11f5b074a85653ab5b28e852bc8d6d6d9a7879fda47fc04a50a39.jpg",
         "category": null,
-        "description": "Work up a sweat while enjoying the tunes of a favourite anime show! These instrumental tracks are arranged to fit with in-game exercises. \n\nSongs Included:\n\n\"IDOL\"\nOSHI NO KO\n\n\"Bling-Bang-Bang-Born\"\nMASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc\n\n\"Where Our Blue Is\"\nJUJUTSU KAISEN Hidden Inventory/Premature Death",
+        "description": "Work up a sweat while enjoying the tunes of a favourite anime show! These instrumental tracks are arranged to fit with in-game exercises.\n\nSongs Included:\n\n\"IDOL\"\nOSHI NO KO\n\n\"Bling-Bang-Bang-Born\"\nMASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc\n\n\"Where Our Blue Is\"\nJUJUTSU KAISEN Hidden Inventory/Premature Death",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
         "id": "010020101F805007",
         "ids": [
             "010020101F805007",
-            "010020101F805008",
-            "010020101F805009"
+            "010020101F805009",
+            "010020101F805008"
         ],
         "intro": "Dial up the intensity with three tunes from popular anime series!",
         "isDemo": false,
@@ -16458,7 +16986,10 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
+        "id": "0100F43008C45002",
+        "ids": [
+            "0100F43008C45002"
+        ],
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -16545,7 +17076,7 @@
     "70050000066478": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ccb5d9d411db94d9a548a06679e5edd5849b4f8a001e580c2258b4c0c30424ad.jpg",
         "category": null,
-        "description": "Hell rises once more in Reign of the Warlock, a transformative DLC for Diablo II: Resurrected. Rediscover the iconic story, gameplay and challenge that defined the original, now enhanced with additional content and an expanded endgame.  \n\nWield forbidden magic as the Warlock, a new class forged from demonic pacts and Hell itself. Discover new builds with brand new items, sets and runewords. Explore dynamic Terror Zones, face the Colossal Ancients in an ultimate endgame encounter and experience modernised quality-of-life upgrades. \n\nThe age of the Warlock has begun; will you master the darkness or be consumed by it? ",
+        "description": "Hell rises once more in Reign of the Warlock, a transformative DLC for Diablo II: Resurrected. Rediscover the iconic story, gameplay and challenge that defined the original, now enhanced with additional content and an expanded endgame.\n\nWield forbidden magic as the Warlock, a new class forged from demonic pacts and Hell itself. Discover new builds with brand new items, sets and runewords. Explore dynamic Terror Zones, face the Colossal Ancients in an ultimate endgame encounter and experience modernised quality-of-life upgrades.\n\nThe age of the Warlock has begun; will you master the darkness or be consumed by it?",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -16582,10 +17113,10 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": "010020101F80500B",
+        "id": "010020101F80500C",
         "ids": [
-            "010020101F80500B",
-            "010020101F80500C"
+            "010020101F80500C",
+            "010020101F80500B"
         ],
         "intro": "Exercise to Phantom Thieves music!\nA DLC pack with five popular tracks and three crossover T-shirts!",
         "isDemo": false,
@@ -16641,7 +17172,7 @@
     "70050000069945": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46ff1516f9f57b6ad8795b2287cc0f1b44a9ce2abf45173c493a45bd3597752b.jpg",
         "category": null,
-        "description": "Enhanced on Nintendo Switch 2 \n\nWith smoother frame rates and up to 4K resolution in TV mode, the sprawling alien landscapes of planet Mira have never looked better.",
+        "description": "Enhanced on Nintendo Switch 2\n\nWith smoother frame rates and up to 4K resolution in TV mode, the sprawling alien landscapes of planet Mira have never looked better.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -16884,7 +17415,7 @@
     "70050000080798": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1788b57db362322cb8921475fff24ebae618d7da3e5a3e2fa657a177cc239d31.jpg",
         "category": null,
-        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. \n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week. \n\nThis game supports Brazilian Portuguese.",
+        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy.\n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week.\n\nThis game supports Brazilian Portuguese.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -17066,7 +17597,7 @@
     "70070000030754": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87dd583f7e002fbb1a8cec1ea4ac73ce9c9929a2102c2cb996fa213711ab8d8f.jpg",
         "category": null,
-        "description": "The Mega Dimension DLC includes the following content:\n\nWave 1: Holo-X and Holo-Y Apparel Sets – available October 16th, 2025\n\nWave 2: Additional story content – available  December 10th, 2025\n\nAn additional story that can be enjoyed after completing the main story of Pokémon Legends: Z-A.\n",
+        "description": "The Mega Dimension DLC includes the following content:\n\nWave 1: Holo-X and Holo-Y Apparel Sets – available October 16th, 2025\n\nWave 2: Additional story content – available  December 10th, 2025\n\nAn additional story that can be enjoyed after completing the main story of Pokémon Legends: Z-A.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -17100,7 +17631,7 @@
     "70070000033588": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/113983dfa10a1240cab108aad6f9d0f65f7249845e1110c865802a84646d8a6c.jpg",
         "category": null,
-        "description": "The Genre-Defining Action RPG, Better than Ever\nDiablo II: Resurrected – Infernal Edition includes the critically acclaimed remaster of Diablo II and its Lord of Destruction® expansion, together with the brand-new Reign of the Warlock DLC. \nJourney through the Hell-scarred land of Sanctuary; faithfully preserved and enhanced with modern 3D graphics, remastered audio and updated cinematics. \nThe included Reign of the Warlock DLC expands upon the Diablo II: Resurrected experience with the brand-new Warlock class, an overhauled endgame, fresh mechanics and modern quality-of-life updates. \n \nEight Classes, Eight Players, Endless Replayability\nExperience the story of a world ravaged by eternal conflict between the forces of Heaven and Hell. Obtain powerful items, master over 200 awe-inspiring skills across eight classes and vanquish the minions of the Burning Hells in 8 player co-op. Dominate the leaderboards, then get a fresh start with seasonal ladder resets that introduce new challenges. \n \nNew Class - Warlock \nThe Warlock arrives in Diablo II: Resurrected, a master of shadow who turns the power of the Burning Hells against itself. \nCommand forbidden power through three unique paths:  \n• Demon focuses on enslaving hellspawn and binding them into loyal, fearsome allies that fight at your command.  \n \n• Eldritch channels searing mental magics into ordinary weapons, transforming them into conduits of devastating force.  \n \n• Chaos unleashes the raw elements of Hell, fire and shadow allowing you to rain elemental destruction upon your enemies from afar. \n \nNew Challenges, New Builds\nCollect new Unique items, sets and runewords to create powerful new builds for classic classes. \nTake on expanded endgame challenges with Terror Zone updates, the Colossal Ancients fight, reworked enemy difficulty scaling and new mechanics that reward strategy and class mastery. \nTrack your progress with the new Chronicle system, which shows all the items you’ve collected account-wide and rewards completionists with exclusive bonuses. \n \nRefined, Not Reimagined\nDiablo II: Resurrected – Infernal Edition includes powerful quality-of-life updates without compromising Diablo II’s iconic feel. The new customisable Loot Filter reduces screen clutter, helping you identify the gear that matters most to you. Managing resources across characters is also easier than ever with updated Stash Tabs, including dedicated tabs for gems, materials and runes for quick sorting. \n \nFeeling nostalgic? Switch freely between eras and experience Diablo II the way you remember.\n \nCross-Game Rewards\nCelebrate your journey through Sanctuary and beyond. Instantly unlock Kervek the Putrid Pet and the Forbidden Tethers Back Trophy in Diablo IV, giving your wanderer a touch of forbidden flair. You’ll also receive the Horadric Cube Housing Item in World of Warcraft, a timeless artifact to display proudly at your home in Azeroth. ",
+        "description": "The Genre-Defining Action RPG, Better than Ever\nDiablo II: Resurrected – Infernal Edition includes the critically acclaimed remaster of Diablo II and its Lord of Destruction® expansion, together with the brand-new Reign of the Warlock DLC.\nJourney through the Hell-scarred land of Sanctuary; faithfully preserved and enhanced with modern 3D graphics, remastered audio and updated cinematics.\nThe included Reign of the Warlock DLC expands upon the Diablo II: Resurrected experience with the brand-new Warlock class, an overhauled endgame, fresh mechanics and modern quality-of-life updates.\n\nEight Classes, Eight Players, Endless Replayability\nExperience the story of a world ravaged by eternal conflict between the forces of Heaven and Hell. Obtain powerful items, master over 200 awe-inspiring skills across eight classes and vanquish the minions of the Burning Hells in 8 player co-op. Dominate the leaderboards, then get a fresh start with seasonal ladder resets that introduce new challenges.\n\nNew Class - Warlock\nThe Warlock arrives in Diablo II: Resurrected, a master of shadow who turns the power of the Burning Hells against itself.\nCommand forbidden power through three unique paths:\n• Demon focuses on enslaving hellspawn and binding them into loyal, fearsome allies that fight at your command.\n\n• Eldritch channels searing mental magics into ordinary weapons, transforming them into conduits of devastating force.\n\n• Chaos unleashes the raw elements of Hell, fire and shadow allowing you to rain elemental destruction upon your enemies from afar.\n\nNew Challenges, New Builds\nCollect new Unique items, sets and runewords to create powerful new builds for classic classes.\nTake on expanded endgame challenges with Terror Zone updates, the Colossal Ancients fight, reworked enemy difficulty scaling and new mechanics that reward strategy and class mastery.\nTrack your progress with the new Chronicle system, which shows all the items you’ve collected account-wide and rewards completionists with exclusive bonuses.\n\nRefined, Not Reimagined\nDiablo II: Resurrected – Infernal Edition includes powerful quality-of-life updates without compromising Diablo II’s iconic feel. The new customisable Loot Filter reduces screen clutter, helping you identify the gear that matters most to you. Managing resources across characters is also easier than ever with updated Stash Tabs, including dedicated tabs for gems, materials and runes for quick sorting.\n\nFeeling nostalgic? Switch freely between eras and experience Diablo II the way you remember.\n\nCross-Game Rewards\nCelebrate your journey through Sanctuary and beyond. Instantly unlock Kervek the Putrid Pet and the Forbidden Tethers Back Trophy in Diablo IV, giving your wanderer a touch of forbidden flair. You’ll also receive the Horadric Cube Housing Item in World of Warcraft, a timeless artifact to display proudly at your home in Azeroth.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -17164,7 +17695,7 @@
             "https://img-eshop.cdn.nintendo.net/i/edee935461329f09c94895714684adb9551831761d8106e6019b83b6270237f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2b05c36a50c88a0d1c5f6900a5bb667390c4ae4cc7def98b0b55805a82267b7a.jpg"
         ],
-        "size": 2443182080,
+        "size": 2444230656,
         "version": null
     },
     "70070000039126": {

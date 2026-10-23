@@ -1,63 +1,69 @@
 {
-    "USA": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "PE",
-        "CA",
-        "MX",
-        "US"
-    ],
-    "EUR": [
-        "BG",
-        "CY",
-        "CZ",
-        "DK",
-        "EE",
-        "FI",
-        "GR",
-        "HR",
-        "HU",
-        "IE",
-        "IL",
-        "LT",
-        "LV",
-        "MT",
-        "NL",
-        "NO",
-        "PL",
-        "PT",
-        "RO",
-        "SE",
-        "SI",
-        "SK",
-        "ZA",
-        "RU",
-        "CH",
-        "IT",
-        "LU",
-        "BE",
-        "FR",
-        "AT",
-        "DE",
-        "ES",
-        "GB"
-    ],
-    "CHN": [
-        "CN"
-    ],
-    "TWN": [
-        "HK"
-    ],
-    "KOR": [
-        "KR"
-    ],
-    "JPN": [
-        "JP"
-    ],
-    "AUS": [
-        "NZ",
-        "AU"
-    ]
+  "USA": [
+    "AR",
+    "BR",
+    "CL",
+    "CO",
+    "PE",
+    "CA",
+    "MX",
+    "US"
+  ],
+  "EUR": [
+    "BG",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IL",
+    "LT",
+    "LV",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK",
+    "ZA",
+    "RU",
+    "CH",
+    "IT",
+    "LU",
+    "BE",
+    "FR",
+    "AT",
+    "DE",
+    "ES",
+    "GB"
+  ],
+  "CHN": [
+    "CN"
+  ],
+  "TWN": [
+    "HK"
+  ],
+  "KOR": [
+    "KR"
+  ],
+  "JPN": [
+    "JP"
+  ],
+  "AUS": [
+    "NZ",
+    "AU"
+  ],
+  "SEA": [
+    "MY",
+    "PH",
+    "SG",
+    "TH"
+  ]
 }
