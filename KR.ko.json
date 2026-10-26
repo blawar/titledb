@@ -365664,7 +365664,7 @@
             "https://img-eshop.cdn.nintendo.net/i/bb989be0dbd773e3cffd61286f365ee0618bc84e5a4f41adfae1b669d428ffa5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fe7ea5948e607ede4e7ef8ee9f001f6833c9692f0961c16acb5f3e856f4beb4b.jpg"
         ],
-        "size": 2214592512,
+        "size": 2239758336,
         "version": null
     },
     "70010000113038": {
@@ -430133,7 +430133,7 @@
             "https://img-eshop.cdn.nintendo.net/i/f53dd6fc441e027a91b6079272220a8641555ff3488034b56372df4395e8622c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b94cd41393bccf51570dd44eccfa2c743269269ac16e18988cf686e786d609e7.jpg"
         ],
-        "size": 447741952,
+        "size": 449839104,
         "version": null
     },
     "70010000135806": {
@@ -431426,6 +431426,56 @@
             "https://img-eshop.cdn.nintendo.net/i/8ef9f3ed4747b56b5b2d01d7c128d4c2676dcaa252feb9779d029a94ba111831.jpg"
         ],
         "size": 93323264,
+        "version": null
+    },
+    "70010000136557": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aae7cffe25bc8f7b7e00ad533adbeb8117e97a2f21f4f03d640a54b7fee20c93.jpg",
+        "category": [
+            "액션",
+            "파티",
+            "전략",
+            "퍼즐"
+        ],
+        "description": "■나무를 숨기려면 숲으로. 사람을 숨기려면 군중 속으로.\n\n도쿄의 인파. 100명이 오가는 교차로, 역의 승강장……\n걷고, 멈춰 서고, 전화를 겁니다.\n세 명의 도망자 「VECTOR」는 그 안에 숨어 있습니다.\n\n그들의 목적은 추격자 「ONI」의 수사망을 빠져나가 골인 지점에 닿는 것.\n뛰면 눈에 띄고, 멈추면 의심받습니다.\n어떻게 군중의 한 사람이 되어 ONI를 속일 것인가?\n\n■유일한 단서, 수배서와 대조하라!\n\n추격자 「ONI」가 가진 수배서에는 도망자 한 명의 특징이 단 두 개.\n예를 들면 「검은 머리」 「안경을 썼다」——그것뿐입니다.\n\n두 특징에 들어맞는 행인은 군중 속에 얼마든지 있습니다.\n한 사람씩 조사하고, 좁히고, 틀리고. 끈질기게 몰아붙이세요.\n\n■VECTOR는 군중과 외모를 바꾼다!?\n\nVECTOR는 군중 속 한 사람과 「외모를 교환하는」 특수 능력을 가지고 있습니다.\n궁지에 몰리기 전에 다른 사람이 되어 위기를 벗어나세요.\n다만 곧바로 신고되어 수배서가 갱신됩니다.\n\n■잡혀도, 끝이 아니다.\n\nVECTOR는 ONI에게 잡히면 연행되어 감옥에 갇힙니다.\n그래도 포기할 필요는 없습니다. 동료가 구하러 갈 수 있습니다.\n버리고 도망칠 것인가, 위험을 무릅쓰고 구출할 것인가.\n\nONI는 잡아서 가둬 놓았다고 안심하지 마세요.\n정신 차려 보면 「텅 비어」 있을지도……\n\n■플레이 방법\n\n온라인 최대 6인 동시 플레이.\n암호를 아는 사람만 들어올 수 있는 방도 만들 수 있습니다.\n혼자 플레이할 때는 남은 자리에 CPU가 들어갑니다.\n\n3인씩 두 팀으로 나뉘어 2라운드를 겨루고, 합계 점수로 승자를 가리는 팀전입니다.\n라운드마다 VECTOR와 ONI의 역할이 교대됩니다.\n쫓는 쪽과 쫓기는 쪽, 양쪽 모두 통달해 팀을 승리로 이끄세요!\n\n※온라인 플레이에는 인터넷 연결과\n　Nintendo Switch Online 가입(유료)이 필요합니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/577be32e8e8994c7f2610b1d1fdc85be9d3ea1d33d09c28902faedd64071ac0b.jpg",
+        "id": "0100E7602A08A000",
+        "intro": "무대는 TOKYO. 등장인물은 100명의 군중.\n군중에 섞여 빠져나가 골인 지점을 노릴까,\n수배서를 단서로 찾아내 도주를 막을까.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "TOKYO WANTED",
+        "nsuId": 70010000136557,
+        "numberOfPlayers": 1,
+        "publisher": "STUDIO FRONTIER",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d83dd817d16b3da94e5c20c4b14170334b2c088f2797a19d059a57648ae20c7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/130fb88d22dbc402dbca258f4ae67d8b90dc16f36b3f31693368cf020cf0111d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a872914e6cf15c8266a8c17ff9bb600d3071b7164acee2e99c53328db0610f2c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/708defa794f3fd143bf3864a9832ae9e1fe7673634c840e73b6dde2bb251a1c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96c29f5afe6fd161cc7bc75474af496997e511e40080d8efaf4b8d853c7677cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3f26cd785ec94c6d71ca75b2cd59e728e6c20b762a495fad9fe0eb7ed7031ba.jpg"
+        ],
+        "size": 3670016000,
         "version": null
     },
     "70010000136590": {
@@ -836151,7 +836201,7 @@
             "https://img-eshop.cdn.nintendo.net/i/bb989be0dbd773e3cffd61286f365ee0618bc84e5a4f41adfae1b669d428ffa5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fe7ea5948e607ede4e7ef8ee9f001f6833c9692f0961c16acb5f3e856f4beb4b.jpg"
         ],
-        "size": 2220883968,
+        "size": 2246049792,
         "version": null
     },
     "70070000039981": {
@@ -840352,6 +840402,38 @@
         "size": 625999872,
         "version": null
     },
+    "70070000041184": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba4cb8dbaeba5484ba5e19be65226a004aa7183797835e4bd6ca101afb5b74f1.jpg",
+        "category": null,
+        "description": "혁명이 왔다!\n\nnOS의 모든 멋진 기능을 즐기십시오. 그리고, 쓰고, 계산하고, 하루를 정리하고, 편한 시간에 놀아보세요. 필요한 모든 도구가 여기에 있습니다!\n\n당신은 힘이 있습니다\n\n하루를 밝게 하고 모든 필요에 맞게 nOS를 사용자 정의하십시오. 마음에 드는 설정을 찾아 환상적인 사용자 경험을 만드십시오.\n\n이 번들에는 「아이콘 테마」, 「스크린세이버 클락」, 「롱 캣」, 「스도쿠」, 「벽지 팩 1」, 「벽지 팩 2」, 「벽지 팩 3」 DLC가 포함되어 있습니다.\n\n주요 특징들:\n- 화려한 사용자 정의 옵션\n- 신뢰할 수 있는 도구(메모장, 스케치북, 일일 플래너)\n- 화려한 디자인\n- 매력적인 퍼즐 게임",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "최신 Nintendo Switch™ 경험에 참여하십시오. 좋아하는 콘솔을 놀라울 정도로 작은 개인용 컴퓨터로 변환하십시오.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "nOS 뉴 오퍼레이팅 시스템 울트라 디럭스",
+        "nsuId": 70070000041184,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261026,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e7035aa4bbd6bb9fd6a7317182b3e45a297cf1dec10110d5b9bf381245175390.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0977e4717eb00a017c032a68fa3725a36b9d10885c895e2503a5c337a9895cb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/816e50fb2abb6057e0d8a5aca4ecaa0c8b5122884146b3d69322643c5740b527.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39b6e728beaff74f496021b9c8eb971eb3206b15c45c1df64fc76a7141582022.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/062a418371e93c4d768d91e6fdf7854d31da45b720def894cfd814069342fb49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c0f8edd98a0ab79e7bac6f901d826c0213340ffe4f32eef66737724e94f6fff.jpg"
+        ],
+        "size": 896532480,
+        "version": null
+    },
     "70070000041190": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a33f1325ee63265e9e3721a1d201519f15a6d328fe73cbc4934570e2bf6ee54.jpg",
         "category": null,
@@ -840671,6 +840753,36 @@
             "https://img-eshop.cdn.nintendo.net/i/27b13d9e2189b8b34f491d777fc590e293eb3d35161ca56ea5d1ecec64e1502a.jpg"
         ],
         "size": 2167406592,
+        "version": null
+    },
+    "70070000041268": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d0e611fbd68e2b79e4751aa59205c36bbd803f5dd42ea05e667f1cf03fa0b8a1.jpg",
+        "category": null,
+        "description": "컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 여름2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 미국독립기념일 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 크리스마스 2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 가을2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 할로윈2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 봄2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 겨울2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 이스터 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 여름방학1",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 사계절 이야기 시즌 9 (Pixel Cross Stitch Color by Number Seasons Collection Season 9)",
+        "nsuId": 70070000041268,
+        "numberOfPlayers": null,
+        "publisher": "Error300 Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/df52783ad8abc25b2d5dcac375381a5e6978cae20a22fda575961415b6d0251a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b00dcc8711a4bb5c4e7d59ef5974dae72dff67c4bd64647dd334d5853237650.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc7e54c23751f59eccc7f3c8addb6a4a5341ec528419bca26bd20450b73dae58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/353102f7809e2101ee39c98bdd33551afaf8c1265401e8e00037a9292ff7902f.jpg"
+        ],
+        "size": 350224384,
         "version": null
     },
     "70070000041282": {

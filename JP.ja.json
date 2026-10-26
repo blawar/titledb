@@ -586938,7 +586938,7 @@
             "https://img-eshop.cdn.nintendo.net/i/bb989be0dbd773e3cffd61286f365ee0618bc84e5a4f41adfae1b669d428ffa5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fe7ea5948e607ede4e7ef8ee9f001f6833c9692f0961c16acb5f3e856f4beb4b.jpg"
         ],
-        "size": 2214592512,
+        "size": 2239758336,
         "version": null
     },
     "70010000113036": {
@@ -657102,10 +657102,10 @@
         "nsuId": 70010000132788,
         "numberOfPlayers": 1,
         "publisher": "Happy Player",
-        "rating": 12,
+        "rating": 7,
         "ratingContent": [
-            "恐怖",
-            "軽い暴力"
+            "恐怖を引き起こすコンテンツ",
+            "暴力 (軽度)"
         ],
         "region": null,
         "releaseDate": 20261015,
@@ -659183,6 +659183,49 @@
             "https://img-eshop.cdn.nintendo.net/i/87d46201cbdb0bc56fb5308883a67aaebe8a305351fb60041dc692b98889af1a.jpg"
         ],
         "size": 119537664,
+        "version": null
+    },
+    "70010000133474": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e15ced0f57e4c403f372a15b4548ff788870ab9049f8097dab4a275c3567892.jpg",
+        "category": [
+            "アドベンチャー",
+            "シミュレーション",
+            "その他"
+        ],
+        "description": "超豪華声優陣によって彩られるダミーヘッドヴィジュアルノベルゲームの金字塔\nALICE＝ALICE ＆ BAD MEDICINE、2つの作品が1つのパッケージになってNintendo Switch™に登場。\n刺激的なあの時間を、もう一度——。\n\n【ALICE＝ALICE　DISCOGRAPHY】\n\n『ようこそアリス、加速する禁断のセカイへ―』\n\n代わり映えのしない日常、どうでも良い日々。\n刺激的な事なんて、何ひとつもない。\nそれが本当に幸せ？\nそんなことを思って過ごしていたら、\nある時、一匹のドギツい黒うさぎがワタシの前に現れた。\n\nワタシが迷うこと無く、選んだ答えは、\nYes/No\n\n■出演\n黒うさぎ(CV:近藤 隆)/三月ウサギ(CV:立花慎之介)\nチェシャ猫(CV:高橋直純)/帽子屋(CV:鳥海浩輔)\nキング(CV:下野 紘)/裏ありす(CV:緑川 光)\n\n■キャラクターデザイン：スオウ\n■企画・制作・開発・販売：Rejet株式会社\n\n【BAD MEDICINE　DISCOGRAPHY】\n\n『危険(ヤバ)すぎる教師(ティーチャー)達との、特別授業。』\n\n超名門校、聖クリストファー學園。\nそこは、学生の本分に反する行為は厳しく処罰されるという規律遵守が徹底された學園である。\nその高等部へ、とある事情から転校してきたアナタ。\n教師達の本当の姿を知った時―、\nアナタは、衝撃(いたみ)に耐えられるか。\n\n今、禁断の特別指導が始まる―。\n\n■出演\n志奴 要(CV:高橋広樹)/凪原大貴(CV:寺島拓篤)\n葛葉 翔(CV:高橋直純)/加修レム(CV:柿原徹也)\n柳 遼太(CV:伊藤健太郎)/東條海里(CV:日野 聡)\n\n■イラストレーター：双葉はづき\n■企画・制作・開発・販売：Rejet株式会社",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e63a30568a804ad3e6a9303b4a9d3774ae14035d8386adf0c03b438617497fbf.jpg",
+        "id": "0100C09027408000",
+        "intro": "ダミーヘッドヴィジュアルノベルゲームの金字塔\nRejetが贈る2つの名作を1つのパッケージで。\n刺激的なあの時間を、もう一度——。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja"
+        ],
+        "name": "ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch",
+        "nsuId": 70010000133474,
+        "numberOfPlayers": 1,
+        "publisher": "Rejet",
+        "rating": 15,
+        "ratingContent": [
+            "恋愛",
+            "セクシャル",
+            "暴力",
+            "麻薬"
+        ],
+        "region": null,
+        "releaseDate": 20261126,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f2a03c094dfa0b4b702532ba517072a248649fb1e9a905d880e34370d94bc3fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de1373212968c66355499c1fde6fa1dd8b969330de957cbd5af47d71066cfa23.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cb86954edf195b957aa2dd6975b9f9b64b76318efec1fb4c8a757c60dfe9a96.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bf0a18c5cee4fb73b0fdf41ace8523506a8eee7c211427530cecbaf657d5dc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5a52cc1decee202ccd7876e16e170c5244bed15d49de0fc840f438e5d4e3155.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4587cddc2764666df708aa49813a787c9c66a31b94dd2d61979ccbdbb7f3b05e.jpg"
+        ],
+        "size": 3761242112,
         "version": null
     },
     "70010000133480": {
@@ -664198,7 +664241,7 @@
             "https://img-eshop.cdn.nintendo.net/i/017fcc9addc6de3f981cca060640c61be0a99b0b88899ece4e2217fd4c389cb0.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d38a50765c224da0fa30ebc18a5d24f196c5247ca515b5120b9004333f753c80.jpg"
         ],
-        "size": 447741952,
+        "size": 449839104,
         "version": null
     },
     "70010000135804": {
@@ -665451,6 +665494,56 @@
             "https://img-eshop.cdn.nintendo.net/i/5366bbc82610d0a6c8f91762a0f899f560981a8746e368c9d50dafbe405261d8.jpg"
         ],
         "size": 93323264,
+        "version": null
+    },
+    "70010000136555": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/571b0c1c8bc873dc3136f426af388dc58f02c89e45a61f42451fddac1950e686.jpg",
+        "category": [
+            "アクション",
+            "シミュレーション",
+            "ストラテジー",
+            "スポーツ"
+        ],
+        "description": "■木を隠すなら森の中に。人が隠れるなら群衆の中に。\n\n東京の雑踏。100人が行き交う交差点、駅のホーム……。\n歩き、立ち止まり、電話をかける。\n3人の逃亡者「ベクター」はそこに潜んでいる。\n\n彼らの目的は、追跡者「オニ」の捜査網をすり抜けて、ゴールにたどり着くこと。\n走れば目立ち、止まれば疑われる。\nいかにして群衆の一人となり、オニを欺けるか？\n\n■唯一の手掛かり、手配書と見比べろ！\n\n追跡者「オニ」が持つ手配書には、1人の逃亡者の特徴が2つだけ。\n例えば「髪は黒」「メガネをかけている」——それだけだ。\n\n群衆には2つの特徴が当てはまる通行人がそこら中にいる。\n一人ひとり調べて、絞って、間違えて。根気よく追い詰めろ。\n\n■ベクターは群衆と見た目を入れ替える！？\n\nベクターは、群衆の1人と「見た目を交換する」特殊能力をもっている。\n追いつめられる前に別人になりきり、危機を脱しよう。\nただし、すぐに通報され、手配書は更新される。\n\n■捕まっても、終わりじゃない。\n\nベクターはオニに捕まると連行され、檻（オリ）に閉じ込められる。\nでも諦める必要はない。仲間は助けに行くことができる。\n見捨てて逃げ切るか、危険を冒して救出するか。\n\nオニは、捕まえて檻に入れても安心するな。\n気が付いたときには「空っぽ」なんてことも……。\n\n■遊び方\n\nオンライン最大6人同時プレイ。\n合言葉を知っている人だけの部屋も作れます。\n1人で遊ぶときは、残りの席にCPUが着きます。\n\n3人ずつ2チームに分かれて2ラウンド戦い、合計スコアで勝者を決めるチーム戦です。\nラウンドごとにベクターとオニの役割をチェンジ。\n追う側と追われる側、どちらも極めてチームを勝利に導こう！\n\n※オンラインプレイには、インターネット接続と\n　Nintendo Switch Online への加入（有料）が必要です。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/577be32e8e8994c7f2610b1d1fdc85be9d3ea1d33d09c28902faedd64071ac0b.jpg",
+        "id": "0100E7602A08A000",
+        "intro": "舞台は TOKYO、登場するのは 100 人の群衆。\nまぎれてすり抜け、ゴールを目指すか、\n手配書を頼りに見つけ出し、逃亡を阻止するか。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "TOKYO WANTED トーキョー・ウォンテッド",
+        "nsuId": 70010000136555,
+        "numberOfPlayers": 1,
+        "publisher": "STUDIO FRONTIER",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/47b891ca9bc6d75b7516592d16aba8405b0ebff54bb719e3a738e0d805c429bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e39656318e5f934ec86500fbd121ebec732a20cfda349cce14495d05f68f29c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4385f56ce6aa002da4348ba7e14a1ebc9a43481be7c11636b6c50a633cfad884.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80d96b3449164b6c51bfe27990737b7730b8c2d4c704e6fde35c26a0a8349b0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61c0dd1652423df4ac158f9a24cf011bee785a69804b93209dd9d4bd18d3befe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e39656318e5f934ec86500fbd121ebec732a20cfda349cce14495d05f68f29c.jpg"
+        ],
+        "size": 3670016000,
         "version": null
     },
     "70010000136588": {
@@ -666771,7 +666864,7 @@
         "version": null
     },
     "70010000137329": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/78891400dd28f827d3c7275919d2af172fd678fb21e915921566f092e2e9b136.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/734e83d69a720ce8584dda2cf47ffc8790eaa5254cef37d39d439074d016a32d.jpg",
         "category": [
             "パズル",
             "テーブル",
@@ -667331,6 +667424,41 @@
             "https://img-eshop.cdn.nintendo.net/i/1bf168fa2aba286f352523954efdc088c5db5d206547656340e43a0a4ee92c2b.jpg"
         ],
         "size": 543162368,
+        "version": null
+    },
+    "70010000137676": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/003bc2b5b410aecbeeba0deb9e521a158de8c1ca2f657b5ca9e9526bed7598cc.jpg",
+        "category": [
+            "シミュレーション",
+            "その他"
+        ],
+        "description": "ただ押すだけなのに、なぜか手が止まらない……！\n\n放置＆クリッカーゲーム『しろくまクリッカー』がNintendo Switch™に登場！\n\n愛らしいしろくまをクリック（タップ）して生産数を増やし、施設やアップグレードをアンロック。桁違いの勢いで増え続けるしろくまたちを眺めながら、自分だけの巨大なしろくま帝国を作り上げましょう。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a1ef3bd491f0ee1c4df86635bf950d56bcbb191879c0ade477d5e00583024493.jpg",
+        "id": "01009C102A2D8000",
+        "intro": "画面をタッチ！ ボタンを連打！ どこでも・いつでも・しろくまパラダイス。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "しろくまクリッカー",
+        "nsuId": 70010000137676,
+        "numberOfPlayers": 1,
+        "publisher": "nikatech",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c180523386730edf988cbc27d8a60b98b6ec286d7586e66b433c3d120826f900.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2223690d4eb8fd773450d6cdbfc14ba86ea797479dcffe124534b1dd23af1c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06300d1160fda8d416e31d84cb8d40b197cbcd71ad7b2c7fa85d397252d939b2.jpg"
+        ],
+        "size": 24117248,
         "version": null
     },
     "70010000137721": {
@@ -668497,7 +668625,7 @@
             "シミュレーション",
             "その他"
         ],
-        "description": "韓国鉄道 Celesti Express KTX ソウル-釜山 編は、韓国高速鉄道の実際の運転室映像を使用した鉄道シミュレーションゲームです。\nプレイヤーはKTXの運転士となり、ソウル駅から釜山駅まで京釜高速線 約417kmを最高時速300kmで運転します。ボーナスコースとして、水西高速線の大田→東灘区間も走行できます。\nITX-マム 太白線 編に続く、韓国鉄道 Celesti Express シリーズ第2弾です。\n________________________________________\n主な特長\n• 韓国を代表する高速線を実写映像で\no 実際のKTX運転室から撮影した約3時間6分の走行コース。ソウル–光明–五松–大田–東大邱–釜山、大田–五松–平沢芝制–東灘。\no 駅ごとに分かれた8コース、または全区間を一気に走行。\no トンネル、高架橋、漢江の横断、時速300kmで流れる韓国の田園と山々。\n• 操作システム\no 本物の運転士のように加速・巡航・減速・停車。定時到着と停止位置がランクを決めます。\no 区間運転モード、全線運転モード、ビューモードの3つのプレイモード。\no Zuiki製「マスコン for Nintendo Switch™」対応。\n• 本物の風景、本物の速度\no 速度データは映像そのものから算出。加速もブレーキ曲線もカメラが捉えた通りです。\n________________________________________\nこんな方におすすめ\n• 鉄道や運転に興味のあるゲーマー\n• ソウルから釜山まで韓国をゲームで旅したい方\n• リアルなシミュレーションが好きなユーザー\n\n映像出典：韓国鉄道公社（KORAIL）公式YouTubeチャンネル「KORAIL TV」。",
+        "description": "韓国鉄道 Celesti Express KTX ソウル-釜山 編は、韓国高速鉄道の実際の運転室映像を使用した鉄道シミュレーションゲームです。\nプレイヤーはKTXの運転士となり、ソウル駅から釜山駅まで京釜高速線 約417kmを最高時速300kmで運転します。ボーナスコースとして、水西高速線の大田→東灘区間も走行できます。\nITX-マム 太白線 編に続く、韓国鉄道 Celesti Express シリーズ第2弾です。\n________________________________________\n主な特長\n• 韓国を代表する高速線を実写映像で\no 実際のKTX運転室から撮影した約3時間6分の走行コース。ソウル–光明–五松–大田–東大邱–釜山、大田–五松–平沢芝制–東灘。\no 駅ごとに分かれた8コース、または全区間を一気に走行。\no トンネル、高架橋、漢江の横断、時速300kmで流れる韓国の田園と山々。\n• 操作システム\no 本物の運転士のように加速・巡航・減速・停車。定時到着と停止位置がランクを決めます。\no 区間運転モード、全線運転モード、ビューモードの3つのプレイモード。\no Zuiki製「マスコン for Nintendo Switch™」対応。\n• 本物の風景、本物の速度\no 速度データは映像そのものから算出。加速もブレーキ曲線もカメラが捉えた通りです。\n________________________________________\nこんな方におすすめ\n• 鉄道や運転に興味のあるゲーマー\n• ソウルから釜山まで韓国をゲームで旅したい方\n• リアルなシミュレーションが好きなユーザー",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d0662754e83a876d6413945ec77fff9b1d65d3f5600412e4283e05d1553dce1e.jpg",
@@ -1257529,7 +1257657,7 @@
             "https://img-eshop.cdn.nintendo.net/i/7355b549dbb7e2b3b39fd1ef5ace9349117f122fe2614bb519a66c83476e5b2b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3046e456eedd936004770331d3505ced986cc5715afa603d8fe8b6ae97197b54.jpg"
         ],
-        "size": 2220883968,
+        "size": 2246049792,
         "version": null
     },
     "70070000039967": {
@@ -1261165,6 +1261293,38 @@
         "size": 370147328,
         "version": null
     },
+    "70070000040920": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c86b48869457c3c2cf09dd1e38378cabdf034b96bf7db6fd3dbc62dbac00c48.jpg",
+        "category": null,
+        "description": "『Fitness Adventure PRO』と『Trip Hop Walking』がセットになった本バンドル版は、トレーニング、音楽、探索がひとつになった、活気あふれるフィットネス体験をお届けします。体を動かすことが、そのまま楽しさへと変わります。\n\n『Fitness Adventure PRO』では、それぞれ異なるテーマを持つ4つの島を舞台に、ウォーキング、ビートウォーキング、ワークアウト、フィットダンス、ボート、瞑想を楽しめます。各アクティビティは、楽しみながらスムーズにステップアップできるように設計されています。運動の成果を記録し、着実な成長をサポート。ミッションやチャレンジ、メダルや段階的に解放される報酬でモチベーションをキープできます。\n\n追加コンテンツ『Trip Hop Walking』には、独特の雰囲気と力強いリズムが魅力のオリジナル楽曲を5曲収録。脈打つビートがウォーキングやボートの時間を盛り上げ、思わず引き込まれるような、没入感のある体験を生み出します。それぞれのアクティビティで、リズムと躍動感をより一層楽しめます。\n\n音楽、探索、そして多彩なフィットネスアクティビティが織りなす、躍動感あふれるウェルネス体験。体を鍛える充実感、リズムに乗る楽しさ、雰囲気豊かなサウンドが、心地よく調和するバンドルです。\n\n主な特徴\n■ 『Fitness Adventure PRO』ゲーム本編を収録\n■ 追加コンテンツ『Trip Hop Walking』を収録（オリジナル楽曲5曲）\n■ ウォーキング、ビートウォーキング、ワークアウト、フィットダンス、ボート、瞑想を楽しめる\n■ ミッションや報酬、多彩なテーマのエリアが待つ4つの島\n■ 進捗の記録と、自分に合わせた目標設定\n■ ウォーキングとボートの体験を盛り上げる、エネルギッシュなトリップホップミュージック",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "リズムに乗って、4つの島を巡る特別なフィットネスアドベンチャーへ。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fitness Adventure PRO ＋ トリップホップBGMパック（ウォーキング用） バンドル",
+        "nsuId": 70070000040920,
+        "numberOfPlayers": null,
+        "publisher": "My World",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f6c97daf950a3fcec667f2dbe4aff059ff9f7b2f16f0c610a75fe676de9f52a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58709b19bbe0b75f96e6e686691d10ab9c39729d95eb73e64a2e9d07e561dfd8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a845e48f1327c79a3816ae7d58dd86db368abffdd696c4b34253f89659f1571.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63010944e823b1b300320eea54c7419ffc503dbf7c1a0e8f776e824b7edd3781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fee573c85a8a3b6de3ba9396438f48d688ce12c7054943c2397f5e915dc9a0a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2b480c5861d0abaf21ffc6f47533000408ed0fba2f1b5784bc64ed92f57271f.jpg"
+        ],
+        "size": 2564816896,
+        "version": null
+    },
     "70070000040922": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8c9dc7a90024a3e8f985eef02fcd4af18f131775a083a0f330cd5b52773e858.jpg",
         "category": null,
@@ -1261591,6 +1261751,38 @@
         "size": 625999872,
         "version": null
     },
+    "70070000041183": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae7eea4fa9b0e9640cf8c35e3f9984fce1c7ef8dc0ee7f2e227930636e22ba43.jpg",
+        "category": null,
+        "description": "革命が起きた！\n\nnOS のすばらしい機能をすべてお楽しみください。 絵を描いたり、書いたり、計算したり、一日を整理したり、都合の良いときに遊んだりできます。 必要なツールはすべてここにあります。\n\nあなたには力があります\n\n一日を明るくし、あらゆるニーズに合わせて nOS をカスタマイズします。 お気に入りのセットアップを見つけて、あなたにふさわしい素晴らしいユーザー エクスペリエンスを作成してください。\n\nこのバンドルには「スクリーンセーバークロック」、「アイコンテーマ」、「ロングキャット」、「数独」、「壁紙 パック1」、「壁紙 パック2」、「壁紙 パック3」のDLCが含まれています。\n\n主な機能:\n- 素晴らしいカスタマイズオプション\n- 信頼できるツール (メモ帳、スケッチブック、デイプランナー)\n- 華麗なデザイン\n- 魅力的なパズルゲーム",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Nintendo Switch™ 体験をお楽しみください。 お気に入りのコンソールを驚くほど小さく驚くほど小さなパーソナル コンピューターに変えます。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "nOS ニューオペレーティングシステム ウルトラデラックス",
+        "nsuId": 70070000041183,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/71554b345d1fab0e5ed49c6f748a4a5c3ec06b2ea22884e3a58de45b0c8a6b76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e36dbc6f1bdad556fe72cc66829d329accca78a8810d93da43dfafb86f99e77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e34cd2c461907f3bf416885c70fc710cd689017920e85e2981bea2b9c05d6951.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9acd140e9ae29ecb298c0b99dfccc25a4325f39bf80e59678b655f588f9743e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70c479c362dcf20da095481a3337e452ab46799361ed03befe54ca700d1e0405.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71cf064fc8cb0430ae887c8be79de2f57989362eef9caacb2573a579b95c6f91.jpg"
+        ],
+        "size": 896532480,
+        "version": null
+    },
     "70070000041194": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a33f1325ee63265e9e3721a1d201519f15a6d328fe73cbc4934570e2bf6ee54.jpg",
         "category": null,
@@ -1261660,7 +1261852,7 @@
     "70070000041197": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/881771375ef5f10ed50f39af8c3abedf375f82d7bdafe7ec7df4a437b4b55bb7.jpg",
         "category": null,
-        "description": "デジタルデラックスエディション同梱内容：\n\n 『Dispatch』ゲーム本編\nキャストとスタッフによるコメンタリー※ - 声優と開発チームによる脚本なしのオーディオコメンタリーを聴きながらゲームをプレイ\nストーリーボードモード ‐ オリジナルのストーリーボードでゲームをプレイしましょう\n『Dispatch』の世界：デジタルアートブック※※（100ページ以上）\nデジタルコミック4冊※（45ページ以上）\n\n*コメンタリーは英語のみであり、字幕もありません。\n**英語でのみの提供となります\n\nコメンタリーは話し手の個人的な見解であり、必ずしもAdHoc Studioの見解を反映するものではありません。コメンタリーは、ゲームの完成版に登場しないコンテンツについて言及する可能性があります。\n\n 現代ロサンゼルスを舞台にしたスーパーヒーロー職場コメディ、『Dispatch』。.\nの脚本家・監督陣による作品に、アーロン・ポール、ローラ・ベイリー、ジェフリー・ライトら豪華キャストが集結。\n\n注：『Dispatch』のオリジナル版に含まれていた一部の成人向けコンテンツは修正されています。\n\n あなたがプレイするのは、宿敵との戦闘でメカスーツを破壊された、ロバート・ロバートソン（別名メカマン）。スーツを失ったロバートは、スーパーヒーロー派遣センターで、ヒーローではなくディスパッチャーとして働くことに。\n\n チームのディスパッチャーとして、更生のチャンスを与えられた元スーパーヴィランたちを率いよう。チームを管理・育成しながら、オフィスの人間関係や恋愛に奮闘し、復讐を目指してスーツの再建に挑め！\n\n 物語を動かすのはあなた\n\n あなたの選択がストーリー展開に大きく影響する、『Dispatch』。休憩室での雑談から現場での生死を分ける決断まで、そのすべてがヒーローとの関係や忠誠心、自身の運命の行方を左右する。\n\n ヒーローを派遣\n\n 戦略マップで発生中の緊急事態を確認し、最適な（時には場違いな）ヒーローを派遣しよう！ひとつひとつの判断が、チームや街の未来に長期的な影響を残すことも。リスクと報酬の絶妙な均衡を維持しよう。\n\n メンバーをマネジメント\n\n ヒーロー管理は、メンバーの能力把握だけに留まらない。個性、クセ、過去のトラウマまできちんと考慮しよう。スキルアップや新能力のアンロックが実現すれば、現場での活躍度もアップ！\n\n 物語、戦略、ユーモアが融合した『Dispatch』で、現場のヒーローやデスクワークの社員に関係なく、真のヒーローのあるべき姿を模索せよ。\n\n エンターテイメントのあらゆる分野から集結した豪華キャストが登場します。\n\n アーロン・ポール\n ローラ・ベイリー\n エリン・イヴェット\n MoistCr1TiKaL（チャールズ・ホワイト）\n Jacksepticeye\n トラヴィス・ウィリンガム\n アラナ・ピアース\n ランス・カントストポリス\n ジョエル・ヘイヴァー\n THOT SQUAD\n Yung Gravy\n マシュー・マーサー\n ジェフリー・ライト）』）\n\n ※アートブックとコミックは英語版のみの提供となります",
+        "description": "デジタルデラックスエディション同梱内容：\n\n 『Dispatch』ゲーム本編\nキャストとスタッフによるコメンタリー※ - 声優と開発チームによる脚本なしのオーディオコメンタリーを聴きながらゲームをプレイ\nストーリーボードモード ‐ オリジナルのストーリーボードでゲームをプレイしましょう\n『Dispatch』の世界：デジタルアートブック※※（100ページ以上）\nデジタルコミック4冊※（45ページ以上）\n\n*コメンタリーは英語のみであり、字幕もありません。\n**英語でのみの提供となります\n\nコメンタリーは話し手の個人的な見解であり、必ずしもAdHoc Studioの見解を反映するものではありません。コメンタリーは、ゲームの完成版に登場しないコンテンツについて言及する可能性があります。\n\n 現代ロサンゼルスを舞台にしたスーパーヒーロー職場コメディ、『Dispatch』。\nの脚本家・監督陣による作品に、アーロン・ポール、ローラ・ベイリー、ジェフリー・ライトら豪華キャストが集結。\n\n注：『Dispatch』のオリジナル版に含まれていた一部の成人向けコンテンツは修正されています。\n\n あなたがプレイするのは、宿敵との戦闘でメカスーツを破壊された、ロバート・ロバートソン（別名メカマン）。スーツを失ったロバートは、スーパーヒーロー派遣センターで、ヒーローではなくディスパッチャーとして働くことに。\n\n チームのディスパッチャーとして、更生のチャンスを与えられた元スーパーヴィランたちを率いよう。チームを管理・育成しながら、オフィスの人間関係や恋愛に奮闘し、復讐を目指してスーツの再建に挑め！\n\n 物語を動かすのはあなた\n\n あなたの選択がストーリー展開に大きく影響する、『Dispatch』。休憩室での雑談から現場での生死を分ける決断まで、そのすべてがヒーローとの関係や忠誠心、自身の運命の行方を左右する。\n\n ヒーローを派遣\n\n 戦略マップで発生中の緊急事態を確認し、最適な（時には場違いな）ヒーローを派遣しよう！ひとつひとつの判断が、チームや街の未来に長期的な影響を残すことも。リスクと報酬の絶妙な均衡を維持しよう。\n\n メンバーをマネジメント\n\n ヒーロー管理は、メンバーの能力把握だけに留まらない。個性、クセ、過去のトラウマまできちんと考慮しよう。スキルアップや新能力のアンロックが実現すれば、現場での活躍度もアップ！\n\n 物語、戦略、ユーモアが融合した『Dispatch』で、現場のヒーローやデスクワークの社員に関係なく、真のヒーローのあるべき姿を模索せよ。\n\n エンターテイメントのあらゆる分野から集結した豪華キャストが登場します。\n\n アーロン・ポール\n ローラ・ベイリー\n エリン・イヴェット\n MoistCr1TiKaL（チャールズ・ホワイト）\n Jacksepticeye\n トラヴィス・ウィリンガム\n アラナ・ピアース\n ランス・カントストポリス\n ジョエル・ヘイヴァー\n THOT SQUAD\n Yung Gravy\n マシュー・マーサー\n ジェフリー・ライト\n\n ※アートブックとコミックは英語版のみの提供となります",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -1261721,6 +1261913,38 @@
             "https://img-eshop.cdn.nintendo.net/i/c78ba846ca69fbca1d0857b29e46069577d46edaecd0cf87eb8f7c5cb7d14cc6.jpg"
         ],
         "size": 634388480,
+        "version": null
+    },
+    "70070000041202": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66348ecdb80753de677f22541f4010c129242883346fddbf5ba1b0ccf52548a6.jpg",
+        "category": null,
+        "description": "ようこそ、クレイジーな収納グッズ、爆発寸前のメイクポーチ、そして雑多なもので崩れそうなキッチン棚の世界へ！Stuff It ではルールはただ一つ——すべてが…どこかに収まること！\n\n\nあなたのミッション？とんでもない組み合わせのアイテムたちを狭いスペースに押し込むこと。ヘアブラシ、カラフルなドライヤー、巨大なおたま、やたら多い小物たち、そしてゴム製のアヒルまで——すべてがあなたのパッキングスキルを待っています！\n\n\n各レベルはまったく新しいチャレンジ！奇妙な形、言うことを聞かない物たち、そして「これ持ってたっけ？」と思うようなアイテムまで登場。でも慌てないで！あなたの整理整頓スーパーパワーを使って、スペースを作って…Stuff It！\n\nこのバンドルには「フルーツ」と「ベーカリー」のDLCが含まれています。\n\n何が待ってるの？\n- カオス満載の105以上のレベル！\n- すべてのステージクリア後に解放されるスペシャルモード（イージー・ミディアム・ハード）！\n- キッチン用品からビューティーグッズまで、カラフルなアイテムが盛りだくさん！\n- リラックスできて心地よい音楽で集中力もアップ…たとえ全部飛び出しても！\n- 引き出しの中のアイテムたちが生き生きと動く、ユニークでワクワクするグラフィック！\n- 勝利にはファンファーレ（と紙吹雪）！笑える効果音やリアクション付き！\n\nその巨大なスプーンがどこから来たかなんて気にしないで——とにかく、入る場所を見つけよう！\n\nStuff It——掃除だって、壮大でいいじゃないか！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "押し込んで、積み上げて、整理しよう！",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Stuff it! ウルトラ版",
+        "nsuId": 70070000041202,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e85af2f2fb8cc1212b557217d40cd80736b20a1591e1959b9bfdbbfc8c801ba8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0839d4f82987105691c07733d867e373f5994211fc13e143d6c880c367afc537.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f202b23c94cce56ee99a2615352ecb6b147b9d6fa2261a8021993028710101c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dacfb2c60a3658a6f8113178293421d8bb1d268704826a3af10f7d473992dae4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4555dbb69cf1d478f693e7f55872dc9c59ff5b8bda41b1644aa2930f3950a9ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67648d2cf239725cba5e0c26e7fb947a55321017d4872e451378397d483fb332.jpg"
+        ],
+        "size": 493879296,
         "version": null
     },
     "70070000041209": {
@@ -1261946,6 +1262170,36 @@
             "https://img-eshop.cdn.nintendo.net/i/27b13d9e2189b8b34f491d777fc590e293eb3d35161ca56ea5d1ecec64e1502a.jpg"
         ],
         "size": 2167406592,
+        "version": null
+    },
+    "70070000041269": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91fd342259c621c8a235f1a4be8622b35e75d125cbca5dcda0ab8b46fde659ed.jpg",
+        "category": null,
+        "description": "塗り絵の達人：ドット絵ドリーマー 四季物語 + 塗り絵の達人：ドット絵ドリーマー 四季物語 サマー2 + 塗り絵の達人：ドット絵ドリーマー 四季物語 アメリカ独立記念日 +  \t塗り絵の達人：ドット絵ドリーマー 四季物語 クリスマス 2 + 塗り絵の達人：ドット絵ドリーマー 四季物語 黄金の秋 2 + 塗り絵の達人：ドット絵ドリーマー 四季物語 ハロウィン2 + 塗り絵の達人：ドット絵ドリーマー 四季物語 春2 + 塗り絵の達人：ドット絵ドリーマー 四季物語 冬2 + 塗り絵の達人：ドット絵ドリーマー 四季物語 イースター + 塗り絵の達人：ドット絵ドリーマー 四季物語 夏休み1",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "塗り絵の達人：ドット絵ドリーマー 四季物語 シーズン 9 (Pixel Cross Stitch Color by Number Seasons Collection Season 9)",
+        "nsuId": 70070000041269,
+        "numberOfPlayers": null,
+        "publisher": "Error300 Games",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ed66dafed896e13dc28577b23e0514417b03c39eceba5682becf7eca721b497c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b00dcc8711a4bb5c4e7d59ef5974dae72dff67c4bd64647dd334d5853237650.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc7e54c23751f59eccc7f3c8addb6a4a5341ec528419bca26bd20450b73dae58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/353102f7809e2101ee39c98bdd33551afaf8c1265401e8e00037a9292ff7902f.jpg"
+        ],
+        "size": 350224384,
         "version": null
     },
     "70070000041286": {

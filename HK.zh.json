@@ -371431,7 +371431,7 @@
             "https://img-eshop.cdn.nintendo.net/i/bb989be0dbd773e3cffd61286f365ee0618bc84e5a4f41adfae1b669d428ffa5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fe7ea5948e607ede4e7ef8ee9f001f6833c9692f0961c16acb5f3e856f4beb4b.jpg"
         ],
-        "size": 2214592512,
+        "size": 2239758336,
         "version": null
     },
     "70010000113037": {
@@ -413890,7 +413890,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3b7b0714eac896d990e8078916d698b323936ecea93967e23da83e0b6daf6d71.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e00c3a5903230ab15cb7557dceba9d6c345cd07abb3927c6c6e87d99f0228775.jpg"
         ],
-        "size": 16539189248,
+        "size": 13419675648,
         "version": null
     },
     "70010000127029": {
@@ -433542,6 +433542,56 @@
             "https://img-eshop.cdn.nintendo.net/i/8ef9f3ed4747b56b5b2d01d7c128d4c2676dcaa252feb9779d029a94ba111831.jpg"
         ],
         "size": 93323264,
+        "version": null
+    },
+    "70010000136556": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aae7cffe25bc8f7b7e00ad533adbeb8117e97a2f21f4f03d640a54b7fee20c93.jpg",
+        "category": [
+            "動作",
+            "派對",
+            "策略",
+            "益智"
+        ],
+        "description": "■藏樹於林，藏人於眾。\n\n東京的街頭。百人穿行的十字路口，車站的月台……\n走著，停下，打著電話。\n三名逃亡者「VECTOR」就藏在其中。\n\n他們的目標很簡單——躲開追捕者「ONI」的搜查，抵達終點。\n跑起來會顯眼，停下來會可疑。\n你能成為人群中的普通一員，騙過ONI嗎？\n\n■唯一的線索，拿通緝令比對！\n\n追捕者「ONI」手上的通緝令，只寫著某一名逃亡者的兩個特徵。\n例如「黑髮」「戴眼鏡」——僅此而已。\n\n人群中符合這兩個特徵的路人到處都是。\n一個一個盤問，一點一點縮小範圍，然後認錯人。\n再耐著性子追下去。\n\n■VECTOR會和路人交換外貌！？\n\nVECTOR擁有和人群中某一人「交換外貌」的能力。\n在被逼入絕境前變成另一個人，脫身而去。\n不過很快就會被舉報，通緝令也會隨之更新。\n\n■被抓住，還不算結束。\n\nVECTOR被ONI抓住後會被押走，關進牢籠。\n但不必放棄。同伴可以來救。\n是拋下他們逃走，還是冒險去營救？\n\nONI也別因為關進牢籠就安心。\n一回頭，說不定已經「空了」……\n\n■遊戲方式\n\n最多6人連線同時遊玩。\n也可以開設只有知道暗號的人才能進入的房間。\n一個人玩時，剩下的位置由CPU補上。\n\n三人一隊，分成兩隊進行兩個回合，以總分決出勝負。\n每回合VECTOR和ONI的角色互換。\n追與被追，兩邊都要精通，帶領隊伍取勝！\n\n※連線遊玩需要連接網際網路，並加入Nintendo Switch Online（付費服務）。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/577be32e8e8994c7f2610b1d1fdc85be9d3ea1d33d09c28902faedd64071ac0b.jpg",
+        "id": "0100E7602A08A000",
+        "intro": "舞台是TOKYO，登場的是100人的人群。\n是混入其中、悄然穿過，直奔終點？\n還是憑通緝令找出他們，阻止逃亡？",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "TOKYO WANTED",
+        "nsuId": 70010000136556,
+        "numberOfPlayers": 1,
+        "publisher": "STUDIO FRONTIER",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/244307efca171939a4cfc0fea1890cbcd6b3df0797c25638c641ae27aada8654.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c76223ec8606308e8dd1233216e0e29e0d228aa727eb8520b99042300054fe92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5ec04d1d75263f553e3dc7760eb60f1c30ca7570ab52ae3a457a581c389e785.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b28acc4d7970a562e64bcd02f9ddfded9f53a20093ad38438dd692cf15207155.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16bbdfd3117c8987d8aa35abfe34791e61f4fe5852d175116980ac9bb23df2e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38c9e4989e8361f45980f9b42ff6c19d83d6ab064735298c126d770138da9eaa.jpg"
+        ],
+        "size": 3670016000,
         "version": null
     },
     "70010000136589": {
@@ -820111,7 +820161,7 @@
             "https://img-eshop.cdn.nintendo.net/i/7355b549dbb7e2b3b39fd1ef5ace9349117f122fe2614bb519a66c83476e5b2b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3046e456eedd936004770331d3505ced986cc5715afa603d8fe8b6ae97197b54.jpg"
         ],
-        "size": 2220883968,
+        "size": 2246049792,
         "version": null
     },
     "70070000039980": {
@@ -824142,6 +824192,38 @@
         "size": 625999872,
         "version": null
     },
+    "70070000041185": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/74662e1db7484da46ac3e718eecd628a746870181ca78e7b4327dbfbaaab5d9b.jpg",
+        "category": null,
+        "description": "一場革命來了！\n\n享受 nOS 的每一個很棒的功能。 畫畫、寫字、計算、安排你的一天，並在你方便的時候玩耍。 您需要的所有工具都在這裡！\n\n你有權力\n\n點亮您的一天並自定義 nOS 以滿足您的各種需求。 找到您最喜歡的設置並創造您應得的出色用戶體驗。\n\n此組合包包含「圖標主題包」、「螢幕保護裝置時鐘」、「長貓」、「數獨」、「壁紙包1」、「壁紙包2」和「壁紙包3」DLC。\n\n主要特徵：\n- 出色的定制選項\n- 可靠的工具（記事本、素描本、日計劃）\n- 出色的設計\n- 迷人的益智遊戲",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "參與最新的 Nintendo Switch™ 體驗。 將您最喜歡的控制台變成一台驚人的、小巧的個人電腦。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "nOS 新作業系統 極豪華",
+        "nsuId": 70070000041185,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261026,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a373618844d5297c7fe3e04c1725cb13931ca0a673c4354f847411d59c5b91a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/effccb80101e1095b722f03350f3c0f725375dd3686f7977b33d3cc088ce32d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64b654a3197ea104d73d9e964c6c9f49cb07626e40fdcbc6811d4d05f98b78dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc5f099b9d297976a55dffa6c4334572cd109407801e117f572084e3350482b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30a221c4e958b75359b9af9ed0c37f80e9bae02d5a9b49da7b74e0e114d63607.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35d80d205506c86e2794b965c51c3e32f5a1f3c3a84b8dfdca2baea9d70cbbbd.jpg"
+        ],
+        "size": 896532480,
+        "version": null
+    },
     "70070000041189": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a33f1325ee63265e9e3721a1d201519f15a6d328fe73cbc4934570e2bf6ee54.jpg",
         "category": null,
@@ -824427,6 +824509,36 @@
             "https://img-eshop.cdn.nintendo.net/i/bbd012c9e7fa848d1317d830adf37af73cfa407763edfd7d7c6835b3e694b6d2.jpg"
         ],
         "size": 632291328,
+        "version": null
+    },
+    "70070000041260": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5a0d4a6fce14be61587b35b7a7ad9b7728fa62222a8d9960906b6a784ad23fc.jpg",
+        "category": null,
+        "description": "塗色大師：像素夢想家 四季物語  + 塗色大師：像素夢想家 四季物語  夏季 2 +  塗色大師：像素夢想家 美國獨立紀念日 + 塗色大師：像素夢想家 四季物語 聖誕節2 + 塗色大師：像素夢想家 四季物語 金秋時節2 + 塗色大師：像素夢想家 四季物語 萬聖節2 + 塗色大師：像素夢想家 四季物語 春天2 + 塗色大師：像素夢想家 四季物語 冬天2 + 塗色大師：像素夢想家 四季物語 美國獨立紀念日 + 塗色大師：像素夢想家 四季物語 復活節 + 塗色大師：像素夢想家 四季物語 暑假1",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "塗色大師：像素夢想家 四季物語 第9季 (Pixel Cross Stitch Color by Number Seasons Collection Season 9)",
+        "nsuId": 70070000041260,
+        "numberOfPlayers": null,
+        "publisher": "Error300 Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/614bab8931f74d9b696bd3dc123c7ab068271932238cfc741daa072962eacabd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b00dcc8711a4bb5c4e7d59ef5974dae72dff67c4bd64647dd334d5853237650.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc7e54c23751f59eccc7f3c8addb6a4a5341ec528419bca26bd20450b73dae58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/353102f7809e2101ee39c98bdd33551afaf8c1265401e8e00037a9292ff7902f.jpg"
+        ],
+        "size": 350224384,
         "version": null
     },
     "70070000041265": {

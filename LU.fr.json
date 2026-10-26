@@ -604242,6 +604242,48 @@
         "size": 380633088,
         "version": null
     },
+    "70010000085883": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b4072e52f3fb56cb5b3f42fae6c03f0309f32a1ca445759cf93a55eac931c35.jpg",
+        "category": [
+            "Sport",
+            "Arcade",
+            "Action",
+            "Jeu de société"
+        ],
+        "description": "Explorez un magnifique monde de hockey roguelite où chaque choix compte dans votre quête pour redonner au hockey sa gloire d’antan. Recrutez des joueurs uniques, gérez vos joueurs qui réchauffent le banc, découvrez les synergies entre eux, choisissez des nouveaux talents, soudoyez les arbitres, obtenez des améliorations auprès du Blademaster et bien plus encore.\n\nFORGEZ VOTRE ÉQUIPE\nPrenez le contrôle d’Angus McShaggy et menez votre équipe à travers un monde peuplé d’équipes rivales, de personnages étranges et de défis de plus en plus ridicules.\nPassez au centre d’entraînement pour améliorer vos attributs, rendez visite au Fan n°1 pour débloquer un nouveau talent de joueur, ou arrêtez-vous à l’Infirmerie pour sacrifier un joueur... pour le bien de l’équipe.\nMais ce n’est pas une saison de hockey ordinaire. Une défaite, et votre aventure prend fin. Recommencez, empruntez un autre chemin, bâtissez une nouvelle équipe grâce aux nouveaux éléments débloqués et découvrez de nouvelles combinaisons en cours de route.\n\nAFFRONTEZ DES ÉQUIPES QUI NE RESPECTENT PAS LES RÈGLES\nVos adversaires n’ont aucune envie de jouer au hockey comme tout le monde. Affrontez des arbitres tricheurs, des princesses péteuses et les adversaires les plus sinistres de tous : les Golfeurs.\nMesurez-vous à des équipes qui ont leurs propres joueurs, talents, stratégies et des interprétations parfois absurdes des règles. Apprenez leur style de jeu, adaptez votre stratégie et trouvez comment contrer leurs forces avant qu’elles ne mettent fin à votre périple.\n\nMAÎTRISEZ CHAQUE ESCOUADE\nChaque escouade apporte sa propre touche au jeu et peut complètement changer votre façon d’aborder chaque aventure.\nConstituez votre effectif en recrutant des agents libres avec l’escouade DG, misez sur le côté physique du hockey avec l’escouade Violence, retrouvez le hockey d’antan avec l’escouade Rétro, ou oubliez complètement le lancer du poignet et bombardez le filet avec l’escouade Lancer frappé.\n\nUNE EXPÉRIENCE DE JEU RICHE ET GRATIFIANTE\nTape to Tape combine un hockey d’arcade effréné avec des commandes réactives, des mises en échec brutales, des lancers sur réception, des passes soulevées, des arrêts désespérés et une foule d’occasions d’envoyer vos adversaires valser.\n\nFacile à prendre en main mais riche en subtilités, le jeu récompense le bon positionnement, les passes, le timing et l’art de tirer parti des forces de votre équipe.\n\nCARACTÉRISTIQUES PRINCIPALES\n\n- Une campagne de hockey roguelite où chaque tentative offre un nouveau parcours, de nouveaux adversaires, de nouveaux événements et de nouvelles occasions de bâtir votre équipe\n- Toute la rejouabilité et la progression d’un roguelite, au service d’un hockey d’arcade effréné\n- Affrontez une multitude d’équipes rivales uniques, chacune avec ses propres joueurs, talents et façons ridicules de jouer au hockey\n- Vivez toute la campagne en solo ou en coopération locale sur le même écran\n- Un hockey d’arcade rapide et réactif : grosses mises en échec, lancers sur réception, passes soulevées, feintes, retours de lancer et arrêts désespérés\n- Revenez encore et encore grâce au contenu débloqué de façon permanente : nouveaux joueurs, talents, reliques et escouades\n- Affrontez vos amis en local, jusqu’à 4 joueurs, dans les modes Partie rapide, Tournoi, Fusillade et d’autres modes de jeu",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c4ab30e3c04aa76e0e7e28a03d038557085a7b9e03a5725b0db04988e25e9866.jpg",
+        "id": "0100D830204E0000",
+        "intro": "Explorez un magnifique monde de hockey roguelite où chaque choix compte dans votre quête pour redonner au hockey sa gloire d’antan",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "name": "Tape to Tape",
+        "nsuId": 70010000085883,
+        "numberOfPlayers": 4,
+        "publisher": "Excellent Rectangle",
+        "rating": 7,
+        "ratingContent": [
+            "Violence modérée"
+        ],
+        "region": null,
+        "releaseDate": 20261023,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cdb598655afba11ee40201f0e2ce495d2e1ae1452b35eff2a6df559670bae7fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9801ec85d1120b86edabf37fadd9df02c1fa8b9b59f2b768497dcaacb87beacc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/545c789903054da868aa79d616ce4343691cb5ab00ff9241630dc317a6a98974.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ca78a2236fde4ad586feb6c7bb80ddbadd6d9925a9c05c0999d92de60ff077c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7af9ae09bcb57abf54c78689d9ab0bbdf764692e653bef6f75a5d744c297e7f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e997a6c75f1590c8b93f1473019c838b5bd05c784e6a2da6d6bdf816e176f25e.jpg"
+        ],
+        "size": 2152726528,
+        "version": null
+    },
     "70010000085885": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4a283c588469fa52f058b0695b2c9ead24ed1f484e8f08ee29337210e7ef976.jpg",
         "category": [
@@ -791942,6 +791984,48 @@
         "size": 3678404608,
         "version": null
     },
+    "70010000120228": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db6e836bc0d81596373e49c4000cf2043979d175d9d01147314f46278f698c06.jpg",
+        "category": [
+            "Stratégie",
+            "Action",
+            "Aventure"
+        ],
+        "description": "Un jour, une unité mystérieuse attaqua la base de l’Unité Slash, qui s’entraînait pour devenir les pilotes des Vectors. Mais qui sont-ils… ?\nÀ présent, la bataille recommence, et les secrets restent cachés !\n\nCe jeu de simulation de science-fiction est basé sur une histoire palpitante, avec divers événements, des personnages uniques et des batailles épiques opposant des dizaines d’unités.\n\n16 niveaux différents de pure stratégie tactique.\n\nCaractéristiques :\n* Liberté stratégique : Assignez n’importe quel VECTOR à n’importe quel personnage.\n* Mort permanente : Les erreurs sont définitives. Commandez avec sagesse.\n* Choix narratifs : Ne faites confiance à personne. Découvrez la vérité en survivant.\n* Galerie : consultez des images tirées des illustrations originales du jeu, affiches, jaquettes, etc.\n* Fonction Rewind/Turbo : recommencez jusqu’à la perfection, ou accélérez le rythme.\n* Fonction de triche : activez des triches pour rendre votre mission beaucoup plus facile (vies infinies, invulnérabilité, etc.)\n* Fonction de sauvegarde : sauvegardez à n’importe quel moment du jeu, et reprenez exactement depuis ce point.\n* Filtres d’écran : sélectionnez parmi plusieurs filtres pour modifier l’aspect visuel du jeu (moniteur rétro, noir et blanc, etc.)",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e55f403e8eb242659319a9142083712058f92646da3499f11b30a960ef0c1eb9.jpg",
+        "id": "01007B8027694000",
+        "intro": "Le fantassin blindé à haute mobilité \"Vector\", secrètement développé pour remplacer l’ancienne arme principale, \"SERD\".",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es"
+        ],
+        "name": "Vixen 357",
+        "nsuId": 70010000120228,
+        "numberOfPlayers": 2,
+        "publisher": "Ratalaika Games",
+        "rating": 7,
+        "ratingContent": [
+            "Violence modérée"
+        ],
+        "region": null,
+        "releaseDate": 20261023,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8effc6ef46a8988125bf7979c77a715effd3326557a72a57c0e080372bac690c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6a5f31c9aa240a8bd6df6fff1c14cfdb98f23a1389d971fa963d3e0c1cece14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cf965406a8c92489af27fdafb8dd4a777e9422022c2ff01a162be7fc56beb0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8025a89e0ad665c4f423bb3589754c546570cdef3568a00cb2eb8a0c81637a46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c80125cb6d0a3b9613e9cdadb71f49fa6d6d4edea07c36bc8d03ad5476dacf6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec68db0cc6cceb1caa210fe23cde2007bfbc84d411ae868252bbf233923507f7.jpg"
+        ],
+        "size": 75497472,
+        "version": null
+    },
     "70010000120238": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d728f2ef4c4a5296f52f269cf58c2f3e07c3aac30c7e26148568505741d246a7.jpg",
         "category": [
@@ -803382,6 +803466,48 @@
             "https://img-eshop.cdn.nintendo.net/i/e752fc0a418ba437203cab6c4e09e26002005554afc46255fe861abfd0614513.jpg"
         ],
         "size": 1560281088,
+        "version": null
+    },
+    "70010000122906": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f89c5f0f3358c54cb8c3c4acb6fe1ef4de6e238920becef62b991cfb13851643.jpg",
+        "category": [
+            "Action",
+            "Simulation",
+            "Réflexion"
+        ],
+        "description": "On laisse des traces quand on part. Certains en laissent bien plus.\n\nDans Distorted – Paranormal Activities, vous êtes chargé d'enquêter sur un vieil immeuble qui a été discrètement évacué après une série d'incidents qu'aucun rapport officiel n'a expliqués de manière satisfaisante. Votre mission est simple : vous y rendre chaque jour, parcourir les étages, vérifier les appartements et déterminer si ce qui s'y passe est véritablement surnaturel.\n\nL'immeuble vous accueille avec le calme particulier d'un lieu autrefois plein de vie. Des paillassons sont encore devant les portes. Un dessin d'enfant est scotché au mur d'un couloir. Les meubles sont restés exactement comme ils étaient le dernier matin où les occupants étaient présents.\n\nMais quelque chose persiste. Une porte restée ouverte alors qu'elle était fermée. Un nom gravé sur un mur qui ne correspond à aucun registre des résidents. Une silhouette se tenant au fond d'un couloir qui a disparu lorsque vous y arrivez.\n\nChaque jour suit la même procédure : parcourir l'immeuble, observer ce qui a changé et se fier à ses souvenirs. Si un événement surnaturel s'est produit, vous devez déposer une marque de purification dans l'ancienne chaufferie avant de partir. Si la journée se déroule sans incident, rentrez chez vous et revenez le lendemain.\n\nMais votre jugement est crucial. Déposez une marque un jour calme, ou partez sans marque alors qu'une présence était bien réelle – et l'enquête risque de s'effondrer.\n\nÉparpillés dans le bâtiment, des lettres jamais envoyées, des journaux intimes oubliés dans des tiroirs et des mots glissés sous des portes restées sans réponse. Petit à petit, ils reconstituent la vie des habitants et retracent le fil conducteur d'une présence qui les a traversés, étage après étage, bien avant que quiconque ne songe à la qualifier de surnaturelle.\n\nLe bâtiment ne se présente jamais de la même manière. L'agencement change. Les appartements se transforment. La présence qui vous observe depuis les portes se fait moins discrète.\n\nQuelque chose ici attendait un locataire qui, enfin, y prêterait attention.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2200ebad6e4933cb7b65055548b74f25fb657750febb24e6b3dad1599e8e2eea.jpg",
+        "id": "01002AA027CE6000",
+        "intro": "Un jeu d'horreur psychologique dans lequel vous incarnez un enquêteur paranormal.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Distorted – Paranormal Activities",
+        "nsuId": 70010000122906,
+        "numberOfPlayers": 1,
+        "publisher": "EpiXR Games",
+        "rating": 7,
+        "ratingContent": [
+            "Peur",
+            "Violence implicite",
+            "Violence modérée"
+        ],
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dfc01816d07e9e6d514ae1a56b0d10ed74fb8fc62b8ee051b1b501633af73b53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e58982681d8f6fad43a4a3bf1832dd1a2e518a3ce32223ad81dc79c8ca4498b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d059f332c98d15775a2f428867bd5d62a37e5434eef3260d3b3dcf53ec4349e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10dcc493335c126341e273c3516ef96d90176b77e387941ce6417528e9a5e9f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d954dbad82b3a4c43d321ab6a50e38931f2166214437b1f90b731b752175bf62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fbec775dcd591b37f06e5c9133a2fb63a40630205c2f49a94beb273d3559d7e.jpg"
+        ],
+        "size": 1969225728,
         "version": null
     },
     "70010000122910": {
@@ -819707,7 +819833,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1b510e28703baf90a2837c59612a8ae00a626ca7bf9996d929ca4e0de0206873.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e00c3a5903230ab15cb7557dceba9d6c345cd07abb3927c6c6e87d99f0228775.jpg"
         ],
-        "size": 16539189248,
+        "size": 13419675648,
         "version": null
     },
     "70010000126998": {
@@ -821691,7 +821817,7 @@
             "https://img-eshop.cdn.nintendo.net/i/2984ee954401ef7512bfe60760d3a0f1533af486c4a26aeafc8c773b12b249ff.jpg",
             "https://img-eshop.cdn.nintendo.net/i/001a2b53718ff5c275e40ccb47f04aeab13e4a366eb07f0641b5e9d2d2c88ca1.jpg"
         ],
-        "size": 8089763840,
+        "size": 8065646592,
         "version": null
     },
     "70010000127427": {
@@ -839579,6 +839705,48 @@
         "size": 97517568,
         "version": null
     },
+    "70010000133636": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d24d644e20b27c919305f3a37da0784967d6eab7ad7b6c57b0d075b27f015e98.jpg",
+        "category": [
+            "Action",
+            "Combat",
+            "Réflexion",
+            "Simulation"
+        ],
+        "description": "Plongez dans le subconscient d’un homme tourmenté qui suit une thérapie expérimentale à travers des rêves lucides contrôlés. Explorez des souvenirs déformés issus de différentes périodes de sa vie, où des lieux familiers deviennent des cauchemars inquiétants façonnés par la solitude, le rejet, la peur et les traumatismes. Cherchez des lieux oubliés, découvrez des objets importants, résolvez de mystérieuses énigmes et reconstituez les fragments d’un passé profondément enfoui dans son esprit.\n\nChaque niveau représente un chapitre différent de sa vie, vous faisant passer de l’enfance à l’adolescence tandis que la réalité cède progressivement la place à des visions troublantes et à des horreurs psychologiques. Explorez des zones interconnectées, débloquez de nouveaux chemins, restaurez votre force spirituelle et préparez-vous à des affrontements terrifiants contre les manifestations de ses peurs les plus profondes. Chaque souvenir révèle une nouvelle partie de son histoire, tandis que chaque confrontation le rapproche du dépassement du traumatisme qui le hante.\n\nCaractéristiques principales :\n\t•\tExplorez des souvenirs déformés : Découvrez des lieux inquiétants issus du passé du protagoniste.\n\t•\tRésolvez de mystérieuses énigmes : Déchiffrez des codes, manipulez des mécanismes et découvrez des passages cachés.\n\t•\tVivez une horreur psychologique : Affrontez des événements troublants, des distorsions visuelles et des manifestations de la peur.\n\t•\tAffrontez vos traumatismes : Restaurez votre force spirituelle et combattez des boss terrifiants représentant les peurs les plus profondes du protagoniste.\n\nPouvez-vous découvrir la vérité cachée dans ses souvenirs, affronter les peurs qui ont façonné sa vie et réparer un esprit brisé avant la fin de la thérapie ?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b6c8f18878014c5e60f6419ab08df6998edd41c45ef7bfe8fdb33cca92f6540.jpg",
+        "id": "0100D7A029930000",
+        "intro": "Vos souvenirs les plus sombres attendent d’être dévoilés.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Subliminal Backrooms Horror",
+        "nsuId": 70010000133636,
+        "numberOfPlayers": 1,
+        "publisher": "MORAHAN Studio Games",
+        "rating": 16,
+        "ratingContent": [
+            "Horreur",
+            "Violence explicite"
+        ],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d08687149ed36c8f15b52168c47a1e3e77008f51a0fcdfe9f111a9fafa9c368f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24950ae16a54e0e0d9ff1be685d158458c2a4822e8f868a78914db8461ee02b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3653dcff4045c9f4079598d35da673c673df30d475aba7a9f0d25d1441a39e29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91ae3fc90b9306d56c4b7703ba3fa347904a48c7e7fa9cf537fbd577c830d033.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0ed712d67724cda92b2354eca245044f787fd500299ac0fe306c37e9b1f871d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bebab143a8621712d60792008bc2ada5e243975ddb61d2af01f2a087fd26f55.jpg"
+        ],
+        "size": 3178233856,
+        "version": null
+    },
     "70010000133655": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b959b0c63fa35c25be78e902730a392287abf45916a0f653b759882b3a0a7c52.jpg",
         "category": [
@@ -844594,7 +844762,7 @@
             "https://img-eshop.cdn.nintendo.net/i/f7808dbe12b5dbe7f72d4cc3e6b06f76fc8c886d4097f9788c12634f8772eebc.jpg",
             "https://img-eshop.cdn.nintendo.net/i/42c043bad3a78771b707fcd7f9c8a658bba64ee2c712f62843fa065008730984.jpg"
         ],
-        "size": 447741952,
+        "size": 449839104,
         "version": null
     },
     "70010000135814": {
@@ -846341,6 +846509,57 @@
         "size": 333447168,
         "version": null
     },
+    "70010000136885": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/18e0eaac762a4fce97e1bb1f3ec8c229b6d787714dc3cf7dbaf94659f08a170e.jpg",
+        "category": [
+            "Simulation",
+            "Aventure"
+        ],
+        "description": "Tout semble sûr et ordinaire au début. Des sols d'exposition impeccables, des rayonnages bien ordonnés et des décors d'intérieur familiers s'étendent devant vous. Mais à mesure que vous vous enfoncez dans les couloirs sans fin, vous réaliserez rapidement que la répétition est votre ennemi dans ce jeu d'horreur psychologique en première personne.\n\nChaque pièce dans laquelle vous entrez est soit correcte, soit incorrecte. Inspectez le décor et écoutez attentivement l'audio. Si vous remarquez la moindre anomalie, revenez immédiatement sur vos pas. Si la pièce est complètement normale, avancez. Faites une seule erreur, et la boucle entière se réinitialise.\n\nMais s'échapper ne consiste pas seulement à choisir la bonne porte. Dispersés dans tous les showrooms se trouvent des articles d'une liste d'achat changeante. Vous devez localiser et collecter chaque article tout en naviguant dans le labyrinthe sans fin. Manquez un seul article, et la sortie de caisse vous enfermera à l'intérieur pour toujours. Il n'y a pas d'armes, pas de carte, et pas d'indices d'interface. Votre mémoire est votre seule bouée de sauvetage.\n\nCaractéristiques principales :\n• Chasse aux Anomalies en Première Personne : Testez votre mémoire et votre sens du détail. Recherchez les anomalies audio, visuelles et environnementales subtiles cachées dans les pièces répétitives.\n• Le Supermarché Liminal Infini : Explorez un labyrinthe 3D infini de présentations de meubles modernes, de showrooms sinistres et de couloirs désorientants.\n• Liste d'Achat Changeante : Vous devez trouver et collecter des articles d'épicerie et d'ameublement spécifiques. Ce n'est qu'alors que vous pourrez déverrouiller la sortie de caisse finale.\n• Horreur Psychologique Pure : Pas d'armes, pas de radar, et pas d'indices d'interface. Vos compétences d'observation et vos décisions rapides sont vos seules armes contre la boucle.\n• Showrooms Imprévisibles : Chaque partie mélange les emplacements des articles et les événements d'anomalies. Cela maintient le gameplay tendu et garantit de nouvelles terreurs à chaque tentative.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b464e4b0684ff722599ef42c02eef095332e6ceeba40cc06a173b2a8c66d146.jpg",
+        "id": "01004E102A174000",
+        "intro": "La boucle n'est jamais terminée...",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "SCP-3008: Infinite Store",
+        "nsuId": 70010000136885,
+        "numberOfPlayers": 1,
+        "publisher": "Upscale Studio",
+        "rating": 12,
+        "ratingContent": [
+            "Horreur"
+        ],
+        "region": null,
+        "releaseDate": 20261023,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/345dc1fc3fa26b044accd4b29c4bd3ec03b0ce68afda9d397f5ea3b6eb822447.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0f862b0b8498057d2c493a57a14b8436bc8fb96db158bd74293c7ffa9bf24a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e770bb6a1df04f13cdc37c0202bf2ad21acc3cca8c8ce1698f84da48769ef9a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6aa81777fb0061447f17980026ee02404d54d09c0b1c5c78798c55a9685132c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e9de82235e2faa06816ad7ceaf0da4d23c487d6c3747a0cfe9d484803303f2e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9ddd2c753de57f205d057b16b3975800e63e13940224b3f4373a8ca77de77bc.jpg"
+        ],
+        "size": 645922816,
+        "version": null
+    },
     "70010000136891": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7277e4355e1c1f1f964bf315f8b8cd5dfef711bc276029831204b65d3693256a.jpg",
         "category": [
@@ -846456,6 +846675,45 @@
             "https://img-eshop.cdn.nintendo.net/i/dcfc8adeb5fe39d8f3b8d11113f2dfdc6c871f3e846f600d99cebeb4b624c773.jpg"
         ],
         "size": 68157440,
+        "version": null
+    },
+    "70010000136927": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/03d3fb60120e02053ea158e49636834011541e03b2bd0e7484772718f715bcaa.jpg",
+        "category": [
+            "Plateformes",
+            "Aventure",
+            "Multijoueur"
+        ],
+        "description": "Lorsque des créatures marines polluantes envahissent l'océan de déchets, c'est à la « Seahorse\nSoap Patrol » de remettre les choses en ordre ! Nagez à travers différents biomes sous-marins,\nen lançant des bulles de savon sur des nautiles espiègles, des requins malodorants et bien d'autres encore ! Ramassez\nles déchets et faites de l'océan un environnement frais et propre dont tout le monde pourra profiter.\n\nUn jeu de plateforme rétro en coopératif à deux joueurs !",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1e57911bb009fc28908d0e22efb9b9c2e540912f9b5cc756bf5ffd7c7f192cf4.jpg",
+        "id": "01003FC02A182000",
+        "intro": "Une escouade d'hippocampes doit chasser les pollueurs",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "Seahorse Soap Patrol",
+        "nsuId": 70010000136927,
+        "numberOfPlayers": 2,
+        "publisher": "Cascadia Games",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261023,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4136a92ee7de9037844182a86d4e8ef35c03bbbf8cbb7a999cd05eba744d814f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2477e74f06798fa5f47d30ef401a8648141aa0a709d8992f2ea5c75e982c8a31.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/557db48b60b78826cc16ed52b3848f8919c503d71ae4f7b7c94199d677372c31.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e54e39e900f4f43cc9efdbcaba9aa9732dc817056567a885ffb91e35e1029a83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/956019a8f2fa4ad31b369d1385403f3f981f0821cd4cc4c0666630bc7eaeb619.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ab9616daed1187740b906e9e466d455e388a81cce7d9bd2d5c3bfc744d43200.jpg"
+        ],
+        "size": 306184192,
         "version": null
     },
     "70010000136930": {
@@ -848540,6 +848798,47 @@
         "size": 722468864,
         "version": null
     },
+    "70010000138342": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1bd9f0a6af59f75d4b55f3955d7ec94da21054d5272fb97eddbfb83a65fa3a77.jpg",
+        "category": [
+            "Arcade",
+            "Action",
+            "Plateformes",
+            "Course"
+        ],
+        "description": "Jhow est un petit cochon surdoué et passionné de technologie dont la vie paisible à la ferme vole en éclats lorsqu’un camion d’une grande entreprise enlève tous ses amis. Refusant de finir dans le petit-déjeuner du lendemain, Jhow fonce vers son atelier secret, démarre son jetpack personnalisé et s’élance dans les airs en véritable héros : Big Jhow Jet !\n\nDans ce jeu d’arcade frénétique mêlant action et physique, l’élan est essentiel ! Faites-vous propulser par un canon et traversez un ciel rempli de missiles, de pigeons-bombes et de Bacon-Bots terrestres. Gérez votre carburant, rebondissez sur l’asphalte et maîtrisez l’aérodynamique pour atteindre votre vitesse maximale.\n\nPlus de carburant ? La course n’est pas terminée ! Utilisez vos dernières forces pour effectuer un sprint héroïque au sol, ou comptez sur des power-ups complètement délirants et des amis fidèles pour continuer à voler !\n\n\nPoints forts du jeu :\n\nPower-Ups Délirants : Transformez-vous en boule de démolition impossible à arrêter avec la Bacon-Ball, ou buvez de l’Oink-Bull pour faire apparaître des ailes d’énergie et trancher vos ennemis à une vitesse supersonique !\nLa Machine Ultime : Ramassez des pièces et des engrenages pour débloquer plus de 140 niveaux d’améliorations !\n\nAméliorez la puissance de votre jetpack, réduisez les frottements au sol et faites appel à des oiseaux et des ballons de sauvetage.\n\nSauvetages Cinématographiques : Réalisez des manœuvres spectaculaires dans les airs pour briser des cages volantes, sauver vos amis cochons et obtenir d’énormes récompenses.\n\nAttention dans les Cieux : Volez trop haut et un Vaisseau Extraterrestre vous volera votre vitesse !\n\nRessentez l’Impact : Optimisé pour Nintendo Switch ! Ressentez chaque explosion, chaque rebond et chaque turbo supersonique entre vos mains grâce aux vibrations HD Rumble natives.\n\nUn cochon, un jetpack, une usine. Le reste, c’est du pur chaos !",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cbb9efcfbdcc0979f4e683572c9904fbbef17a94b0606f0efbc76ece0ca2c0e4.jpg",
+        "id": "0100B5202A608000",
+        "intro": "Préparez-vous au décollage ! Enfilez votre jetpack bricolé, défiez la gravité et semez le chaos pour sauver vos amis de la redoutable Usine à Bacon !",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Big Jhow Jet",
+        "nsuId": 70010000138342,
+        "numberOfPlayers": 1,
+        "publisher": "Nerd Games",
+        "rating": 7,
+        "ratingContent": [
+            "Violence modérée"
+        ],
+        "region": null,
+        "releaseDate": 20261107,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0d4b12979d03eebca077f2d6286e03b495d5f0114a45aca346d57d861134ecb3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9fc667181fbbabbca19aef94706065b1a98ed5bdd8c19e580f24649b9aef125.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e29d65a4f36a8de055f4383d3b5b40844d9be8b8e192797f54dbe9a70a0bc76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/309da931463c3ffea0942410a8a03ca65d85197c95f478d56d8208e58ced28b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5af4f54b1b23c5bc078a05e094cc7554335fd1bc3b3c102917b778270363836.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8ccd952063102097b65330457df20db70621d4ad15e7f2ac7ba9e56fc539693.jpg"
+        ],
+        "size": 110100480,
+        "version": null
+    },
     "70010000138358": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/343a07bf6782fac9e4fb3528b845a3fbadf6930f097e3bb4f55d7fa455be5f29.jpg",
         "category": [
@@ -848907,6 +849206,94 @@
         "size": 713031680,
         "version": null
     },
+    "70010000138547": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/43bbf7e7b13db5ba16c37d6b75a266883697973089bb1ef949d3934da0890e41.jpg",
+        "category": [
+            "Simulation",
+            "Action",
+            "Aventure"
+        ],
+        "description": "Débloquez le chaos total des chiots dans ce simulateur canin 3D en première personne hilarant ! Oublie d'être un « bon garçon » - créons du chaos ! Réalise des farces sauvages et transforme la maison calme de Grand-mère en zone sinistrée !\n\nPrends le contrôle d'un chien espiègle depuis la perspective du chien. Ton objectif ? Causer du chaos sans arrêt sans te faire attraper ! Déchire les coussins du canapé. Vole des saucisses du comptoir de la cuisine. Renverse des téléviseurs coûteux. Terrorise le chat pourri gâté. Gagne des points de chaos, explore le quartier, déverrouille de mignonnes races de chiots, et prouve que tu es l'ennui ultime sur quatre pattes.\n\nCARACTÉRISTIQUES PRINCIPALES :\n• Simulateur de Chien 3D en Première Personne : Découvre le monde depuis la perspective d'un chiot au niveau du sol. Cours, saute, aboie, mords, et crée le chaos avec une physique ludique !\n• Chaos Amusant à la Maison : Casse la poterie, déchire les meubles, renverse les boissons, et crée un désordre dans chaque pièce.\n• Faire des Farces à Grand-mère : Exécute des farces sournaises, attrape de la nourriture savoureuse sur la table, déclenche des pièges bruyants, et surpasse le ménage furieux.\n• Exploration Sandbox en Banlieue : Sors du salon et entre dans la cour arrière ou les rues de la ville. Tu trouveras des secrets cachés, des mini-jeux amusants, et de nouveaux endroits pour creuser.\n• Déverrouille des Races Mignonnes et des Styles Personnalisés : Utilise tes points de chaos pour déverrouiller diverses races de chiens, des accessoires farfelus, des motifs de pelage uniques, et des bonus chiots impressionnants !",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/81c7528a7e7ac69ed8ce7f8123af7f3b075dfd5bc698af8708c911fb019570c7.jpg",
+        "id": "0100A7C02A69C000",
+        "intro": "Quel vilain garçon !",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "ru"
+        ],
+        "name": "Bad Dog",
+        "nsuId": 70010000138547,
+        "numberOfPlayers": 1,
+        "publisher": "Upscale Studio",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261023,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/328a82426991799db1b535665495880e11512a268a6bb7fee3b056c7a156b01d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/390ef2d9691a6818886911a6fbf4dfe66f53876cfc2abc235085fe9411075d93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfd37e3b35884842e71725cc7f6154720d975a24824f8547c9f1ce8dcd744b59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c905a773e6e602ceb928740fb026da3edaa28defe620a1c2aa215930f8b48c04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5201f5e75a76473949f148e322e9b96c767f7f45c4d49fa118005e12492e9470.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2527fd1cc0708df52a82277d2cb3f6590030c23213170789624500ac44ce0449.jpg"
+        ],
+        "size": 354418688,
+        "version": null
+    },
+    "70010000138571": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e5deecb3635a19921f13968d261d4720deeb83f9d81c79309daa1c64086642d.jpg",
+        "category": [
+            "Aventure",
+            "Simulation",
+            "Autre"
+        ],
+        "description": "Le protagoniste, Seiichi Makita, se retrouve soudainement égaré dans un monde inconnu. Un monde mystérieux où les injustices de la vie ordinaire semblent avoir disparu, et où humains, animaux et plantes peuvent vivre librement selon leurs propres désirs.\n\nAyant perdu la majeure partie de ses souvenirs, Seiichi se met en quête d'un moyen de retourner dans son monde aux côtés de Yuki, une jeune fille aux oreilles de chat qu'il rencontre sur place. Au fil de leur voyage, des fragments de sa mémoire commencent peu à peu à refaire surface. Et au bout du chemin se cache une vérité que Seiichi n'aurait jamais pu imaginer...\n\nInclut les voix japonaises.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/369b0a5b1a2073a26066600d37c8d11f4b556a38f3687823dc6a19efe61e954d.jpg",
+        "id": "01009B402A6AC000",
+        "intro": "Au-delà des souvenirs perdus, je te retrouve.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Innocent Memory",
+        "nsuId": 70010000138571,
+        "numberOfPlayers": 1,
+        "publisher": "moesoft",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d19194c9955f34b65073e7d10b179b8230dd89b83e1af42923caa5d70b886b1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/989321f084666dc5f0bd5e033f450e9e025ce316c0b4ee1cc612cc106e24b508.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54a5e9ad5f6b085e1e2a892498e49d22614bd05f2441a04b8b4806051580e70f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed55792be2ee4bc96ea9d4ffe7be11c18f81e2d3c3958ffe1e69df4781b5b137.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95a321277b49db8fe6cf32ed1a6b676a263acb28286a4b11f1bf1a827210dee9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02f9b0889659036c4bdc1e709ae4bfdca0c08050e80e6218e8506c04d832ce79.jpg"
+        ],
+        "size": 1133510656,
+        "version": null
+    },
     "70010000138599": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/335e10e8404ed9eb5f21f54923fb8e36231a6a4e9c04c82b0d33f1242a099d17.jpg",
         "category": [
@@ -848944,6 +849331,51 @@
         "size": 982515712,
         "version": null
     },
+    "70010000138633": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e0babf856ac3c70d6102b546944d9e5c78dc57449e5289cb8fc67b63b5ba4e4.jpg",
+        "category": [
+            "Action"
+        ],
+        "description": "L'humanité a envahi un immense vaisseau galactique et a presque exterminé une espèce arachnide ancestrale. Mais un petit a survécu…\n\nVous êtes désormais le dernier espoir de votre espèce.\n\nExplorez les sections abandonnées de ce colossal vaisseau spatial, chassez insectes et envahisseurs de l'espace, dévorez vos proies et évoluez d'une créature sans défense en un redoutable prédateur.\n\nChaque niveau vous transporte dans une nouvelle partie du vaisseau, avec des environnements, des biomes, des pièges et des ennemis uniques. Utilisez votre environnement pour survivre, devenir plus fort et débloquer de nouvelles capacités.\n\nCaractéristiques :\n\n- Incarnez une créature arachnide extraterrestre unique.\n\n- Nourrissez-vous de créatures de l'espace pour grandir et évoluer.\n\n- Explorez un vaste vaisseau galactique abandonné regorgeant de biomes variés.\n\n- Vivez une action 2D à défilement horizontal frénétique avec une évolution continue.\n\n- Combattez ceux qui ont exterminé votre espèce et reconquérez votre foyer.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4228a6eb600e5cf3839a6aa6176b9d6d8a2ee5d682934af4a3564c435aa487c.jpg",
+        "id": "010082302A6E0000",
+        "intro": "manœuvres stratégiques\nmanger tout le monde\nutiliser les tentacules",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "name": "Omni Growth",
+        "nsuId": 70010000138633,
+        "numberOfPlayers": 1,
+        "publisher": "Brainium Games",
+        "rating": 7,
+        "ratingContent": [
+            "Violence modérée"
+        ],
+        "region": null,
+        "releaseDate": 20261023,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/51131ce4d7a564c3e28331a8d4715d58c5618959c9689a1dcc1babec0cc1ca39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee8e2782728d3c0b188dcfaacada5af9cdc21ec127355e49eadea10617053351.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4872bdd35f7cbabf513e259c1277eef95882989e35693ce3555cdcdac721ce1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3163c8f211898a16fae80d7e0d4842b9c3263e1b2eca33a2265b6ce8007afe33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0150bbf8db89537d9d42d8921e775a84e9271d93c8bd4dff461795c26d423a5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e11e45ac35f17c9a392aa691d6914a7769491a8c138af82e60c67836aa72cea1.jpg"
+        ],
+        "size": 60817408,
+        "version": null
+    },
     "70010000138664": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6c18c3c3857f9078446b730c32a3aaf5e3d79186ea9fb0ec520e0196edb17b2.jpg",
         "category": [
@@ -848951,7 +849383,7 @@
             "Simulation",
             "Autre"
         ],
-        "description": "Korean Rail Celesti Express KTX Séoul–Busan est un jeu de simulation ferroviaire construit sur de vraies images filmées depuis la cabine du train à grande vitesse coréen.\nPrenez les commandes d'un KTX et parcourez la ligne à grande vitesse Gyeongbu de la gare de Séoul à celle de Busan – environ 417 km jusqu'à 300 km/h – ainsi qu'un parcours bonus sur la toute nouvelle ligne de Suseo entre Daejeon et Dongtan.\nDeuxième titre de la série Korean Rail Celesti Express, après ITX-MAUM Taebaek Line.\n________________________________________\nCaractéristiques principales\n• La grande ligne à grande vitesse de Corée, filmée pour de vrai\no Environ 3 h 06 de conduite filmées depuis une vraie cabine de KTX : Séoul – Gwangmyeong – Osong – Daejeon – Dongdaegu – Busan, et Daejeon – Osong – Pyeongtaek-Jije – Dongtan.\no 8 parcours découpés par gare, ou la ligne entière d'une traite.\no Tunnels, viaducs, traversée du fleuve Han et campagne coréenne à 300 km/h.\n• Système de contrôle\no Accélérez, maintenez la vitesse, freinez et arrêtez-vous comme un vrai conducteur. Ponctualité et position d'arrêt déterminent votre classement.\no Mode par section, mode ligne complète et mode vue.\no Compatible avec la manette Mascon for Nintendo Switch de Zuiki.\n• Vrais paysages, vraie vitesse\no Les données de vitesse sont extraites des images elles-mêmes : chaque accélération et chaque courbe de freinage correspondent à ce que la caméra a vu.\n________________________________________\nRecommandé pour :\n• Les passionnés de chemins de fer et de conduite de trains\n• Les joueurs qui veulent traverser la Corée de Séoul à Busan dans un jeu\n• Les utilisateurs qui préfèrent les simulations réalistes\n\nImages : KORAIL TV, la chaîne YouTube officielle de Korea Railroad Corporation.",
+        "description": "Korean Rail Celesti Express KTX Séoul–Busan est un jeu de simulation ferroviaire construit sur de vraies images filmées depuis la cabine du train à grande vitesse coréen.\nPrenez les commandes d'un KTX et parcourez la ligne à grande vitesse Gyeongbu de la gare de Séoul à celle de Busan – environ 417 km jusqu'à 300 km/h – ainsi qu'un parcours bonus sur la toute nouvelle ligne de Suseo entre Daejeon et Dongtan.\nDeuxième titre de la série Korean Rail Celesti Express, après ITX-MAUM Taebaek Line.\n________________________________________\nCaractéristiques principales\n• La grande ligne à grande vitesse de Corée, filmée pour de vrai\no Environ 3 h 06 de conduite filmées depuis une vraie cabine de KTX : Séoul – Gwangmyeong – Osong – Daejeon – Dongdaegu – Busan, et Daejeon – Osong – Pyeongtaek-Jije – Dongtan.\no 8 parcours découpés par gare, ou la ligne entière d'une traite.\no Tunnels, viaducs, traversée du fleuve Han et campagne coréenne à 300 km/h.\n• Système de contrôle\no Accélérez, maintenez la vitesse, freinez et arrêtez-vous comme un vrai conducteur. Ponctualité et position d'arrêt déterminent votre classement.\no Mode par section, mode ligne complète et mode vue.\no Compatible avec la manette Mascon for Nintendo Switch de Zuiki.\n• Vrais paysages, vraie vitesse\no Les données de vitesse sont extraites des images elles-mêmes : chaque accélération et chaque courbe de freinage correspondent à ce que la caméra a vu.\n________________________________________\nRecommandé pour :\n• Les passionnés de chemins de fer et de conduite de trains\n• Les joueurs qui veulent traverser la Corée de Séoul à Busan dans un jeu\n• Les utilisateurs qui préfèrent les simulations réalistes",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b438ccf99ab672f2122ceed6c8493d4aa4a6972c5b5cf6963cebcef6ab7ed18c.jpg",
@@ -849166,6 +849598,47 @@
             "https://img-eshop.cdn.nintendo.net/i/512ee6556548ce9d226a18d66b6ffdbbeb1427b7e049de8d473ee4b98d9ecbd6.jpg"
         ],
         "size": 7453278208,
+        "version": null
+    },
+    "70010000138926": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/72dbdb83c054658bf7478605bc5b8a1ebc40d155e5e5aff1e32555b2b1c7b0dd.jpg",
+        "category": [
+            "Arcade",
+            "Action",
+            "Aventure",
+            "Autre"
+        ],
+        "description": "Dans Cursed Statue: Horror, votre objectif est simple : aventurez-vous au cœur de la forêt et trouvez la mystérieuse statue maudite. Mais cette forêt appartient à des sorcières.\n\n> Explorez une forêt sombre et maudite\n> Partez à la recherche de la mystérieuse statue maudite\n> Découvrez les secrets cachés au sein de la forêt\n> Trouvez la statue et sortez de là",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d9d4d0463a28222df654901cbee1478b7bf937714b2d7604e2076636d6b54860.jpg",
+        "id": "0100BAD02A79A000",
+        "intro": "Tu ne devrais pas aller plus loin...",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Cursed Statue: Horror",
+        "nsuId": 70010000138926,
+        "numberOfPlayers": 1,
+        "publisher": "Downmeadowstreet",
+        "rating": 12,
+        "ratingContent": [
+            "Horreur"
+        ],
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/962fa4578ccc8d6aaa3ae7448a340c9ce5685b7b58a48061b57381078025d215.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb7eba3fc6804d0cd2af2dc81152468e67a421136680854d18f1decfbbf14ad6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf25ea1c1135dbccbffe04176404b908d1b50bba7102f0acda2416e75c058e29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00a092fc011830ecaacc0d75c67fb6df9f8eee83785f1b686fdf6a7cadd69777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/665a1cff3ef0e5fbda7d1b43084a5af6234902ca2a389746f01805f1b1795a8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b7e65e67cdf5a66c25a93bd80247cc2f4403fc7f56606390da9f4abcde5bfcf.jpg"
+        ],
+        "size": 684720128,
         "version": null
     },
     "70010000138942": {
@@ -1426752,7 +1427225,7 @@
             "https://img-eshop.cdn.nintendo.net/i/2984ee954401ef7512bfe60760d3a0f1533af486c4a26aeafc8c773b12b249ff.jpg",
             "https://img-eshop.cdn.nintendo.net/i/001a2b53718ff5c275e40ccb47f04aeab13e4a366eb07f0641b5e9d2d2c88ca1.jpg"
         ],
-        "size": 11284774912,
+        "size": 11260657664,
         "version": null
     },
     "70070000040907": {
@@ -1426855,6 +1427328,40 @@
             "https://img-eshop.cdn.nintendo.net/i/0d5a29867cc4f157249102be1bd3c5aefbc0c428b1446478075abfc4b0db026e.jpg"
         ],
         "size": 389021696,
+        "version": null
+    },
+    "70070000040929": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/458d552419ee661f90daf60b85cae59f508b1e7304b7c5161402f650695581ed.jpg",
+        "category": null,
+        "description": "Découvrez trois univers distincts où la vitesse, la précision et l’action intense sont au rendez-vous. Envolez-vous pour des combats aériens intenses, poussez des véhicules haute performance à leurs limites sur des circuits exigeants et pilotez des drones de livraison avancés à travers une ville animée. Chaque expérience met à l’épreuve vos réflexes, votre capacité à prendre des décisions et votre maîtrise, tandis que vous poursuivez de nouveaux objectifs et relevez des missions toujours plus difficiles.\n\nContenu du bundle :\n1. Ace Thunder: Aircraft Wingman Simulator\nPrenez les commandes de puissants avions de chasse et défendez la Terre contre une invasion extraterrestre dans des combats aériens intenses. Affrontez des flottes ennemies, effectuez des manœuvres avancées, esquivez les attaques entrantes et améliorez la vitesse, le blindage et la puissance de feu de votre appareil pour prendre l’avantage lors de missions exigeantes dans des environnements variés.\n\n2. Auto Sport Racing Simulator\nPrenez le volant de véhicules haute performance et participez à des courses sur des circuits variés aux tracés uniques et aux défis exigeants. Personnalisez vos voitures, améliorez les moteurs, la suspension, les freins et les systèmes de boost, débloquez de nouveaux véhicules et circuits, puis participez à différents types de courses pour tenter de devenir champion.\n\n3. DRONE DELIVERY - FPV SIMULATOR\nPilotez des drones de livraison avancés à travers une ville animée pour acheminer des repas, des colis, des documents, des appareils électroniques et des fournitures médicales urgentes à destination. Maîtrisez des commandes FPV réalistes, naviguez dans la circulation et les passages étroits, adaptez-vous aux changements météorologiques et améliorez vos drones pour augmenter leur vitesse, leur résistance et leur autonomie tout en développant votre activité de livraison.\n\nQue vous affrontiez des appareils ennemis, poursuiviez la victoire sur les circuits ou survoliez les rues animées de la ville, chaque défi vous permet d’affiner vos compétences. Prenez les commandes, repoussez vos limites et démontrez votre talent dans les airs, sur les routes et au-dessus des rues de la ville.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Prenez le contrôle de chaque véhicule et prouvez vos compétences dans les airs, sur les circuits et dans les rues de la ville.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Racing & Flight Simulator Triple Pack – Cars, Jets & Drones",
+        "nsuId": 70070000040929,
+        "numberOfPlayers": null,
+        "publisher": "CONSANN REAL ESTATE",
+        "rating": 12,
+        "ratingContent": [
+            "Violence modérée"
+        ],
+        "region": null,
+        "releaseDate": 20261025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/541d6af724699e89170a068b8f0b278555263ec6943c9c777d0241962ecaab49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afea956b57ec655584de6ad017453ce358095924ba7d0c740c2edf68bacd0aea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05ce5070148fdd67b112a8463b44a5d544c835b1f852a36f3aad62e85dd3c985.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de5b7f70e5ddeec28c53d255f42f7dc82069714a09cf30b19a8e65cf8803096c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/272fcb61ec99404773bac2c0f53f0c2d706bae219cf1c33b5e9951a952ddfe98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/862ecac23457997df5ee67953a7f5801d6feed301158af3416d38fbabb6bfa6a.jpg"
+        ],
+        "size": 2959081472,
         "version": null
     },
     "70070000040935": {
@@ -1427346,6 +1427853,70 @@
         "size": 2230321152,
         "version": null
     },
+    "70070000041172": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4de1a625b425bb7689f0f37fbd0d3f9680692fd36ef2be51ffb23f1fe2fd0221.jpg",
+        "category": null,
+        "description": "Memory for Kids améliore la formule classique des jeux de mémoire. Il vous permet d'augmenter le niveau de difficulté à votre propre rythme et de personnaliser les défis à votre convenance.\n\nNotre cerveau est l'outil le plus important du 21e siècle. Faites une faveur à votre enfant et offrez-lui un cadeau qui l'aidera à réaliser son plein potentiel.\n\nCe bundle inclut les DLC Back Cards, Cards Pack 1, Cards Pack 2 et Cards Pack 3.\n\nCaractéristiques principales\n- Améliore la mémoire\n- Cartes mignonnes\n- Niveau de difficulté réglable\n- Musique relaxante\n- 20 modèles de cartes\n- 18 niveaux de difficulté",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Aidez votre enfant à exploiter le potentiel caché de son esprit. Utilisez ces cartes colorées pour améliorer leur mémoire. Laissez-les devenir les maîtres de leur propre esprit.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Memory For Kids Deluxe Edition",
+        "nsuId": 70070000041172,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0a8e355ad0d528c2d4d388bdfbaa8e678a5d8aab8dd8f381b5db7d975289dab1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ecf82af3192089371fdf72abf8f74b9490f92228d8d573486aa523bdad3c7ddf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4d6cc3fa99df0f3b898470a1b0ff9262f58cbf67edcc35dc460ff187f447ef5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7338a2f446c0fb80041e11dc35bd82984c5000ed32b002b808878fb15b7b4ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd24d0396ce9f06e16df155a956effb833029b215011756e18b5c1324c88cb97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1ca8d4b209a2cef0258169f18f252139842796c57698156697c132575c832c1.jpg"
+        ],
+        "size": 389021696,
+        "version": null
+    },
+    "70070000041182": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d6998e27441197f9257491301a342f0503d5d1053d20da9108bf72da3d6aee1.jpg",
+        "category": null,
+        "description": "Une révolution est arrivée !\n\nProfitez de toutes les fonctionnalités impressionnantes du nOS. Dessinez, écrivez, calculez, organisez votre journée et jouez à votre convenance. Tous les outils dont vous avez besoin sont ici !\n\nVous avez le pouvoir\n\nIlluminez votre journée et personnalisez le nOS pour répondre à tous vos besoins. Trouvez votre configuration préférée et créez l'expérience utilisateur fantastique que vous méritez.\n\nCe bundle inclut les DLC Screensaver Clock, Icon Themes, Long Cat, Sudoku, Wallpapers Pack 1, Wallpapers Pack 2 et Wallpapers Pack 3.\n\nPrincipales caractéristiques:\n- Options de personnalisation splendides\n- Des outils fiables (Notepad, Scetchbook, Day Planner)\n- Conception brillante\n- Un charmant jeu de puzzle",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Découvrez la toute nouvelle expérience Nintendo Switch™. Transformez votre console préférée en un ordinateur personnel incroyable et étonnamment petit.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "nOS new Operating System Ultra Deluxe",
+        "nsuId": 70070000041182,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261026,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/601fd217fd25aae6a7485a6496dc5cbbbe3059c559383d543fd7e820a1b8cc5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b3a4bc2403f1bc6ac347521f617b3081e9a0f79d392388ebbd615150c93a1f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71fd2f395aa58b73e90740d1745a6a32a990e52d1addb076bfe3658408409794.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3380c3b69fb84771af17e579dbccaca8b02a996a358afbb616d9a06b5ba7d65e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89239af3db1a3ee4f90ee6957b7c0d5cb13657a60d12b8b26f3b0ec00ad086e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84e29639ad30de2cab8dcfaa3fd2edb7d71dd87f67fc54f56b6a6b114d64abb7.jpg"
+        ],
+        "size": 896532480,
+        "version": null
+    },
     "70070000041187": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a33f1325ee63265e9e3721a1d201519f15a6d328fe73cbc4934570e2bf6ee54.jpg",
         "category": null,
@@ -1427538,6 +1428109,36 @@
             "https://img-eshop.cdn.nintendo.net/i/bbd012c9e7fa848d1317d830adf37af73cfa407763edfd7d7c6835b3e694b6d2.jpg"
         ],
         "size": 632291328,
+        "version": null
+    },
+    "70070000041259": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/01cc8ac6585bb5a325710c62fee8da84180660fc8fb9fcebd658cd5d48b6b5ac.jpg",
+        "category": null,
+        "description": "Pixel Cross Stitch Color by Number Seasons Collection + Summer 2 + Independence Day + Christmas 2 + Autumn 2 + Halloween 2 + Spring 2 + Winter 2 + Easter + Vacations 1",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pixel Cross Stitch Color by Number Seasons Collection Season 9",
+        "nsuId": 70070000041259,
+        "numberOfPlayers": null,
+        "publisher": "Error300 Games",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a7ab57a8c6ba616dd3cf5ba016fc1645b598eeb41a4d19663af387f15887560.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b00dcc8711a4bb5c4e7d59ef5974dae72dff67c4bd64647dd334d5853237650.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc7e54c23751f59eccc7f3c8addb6a4a5341ec528419bca26bd20450b73dae58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/353102f7809e2101ee39c98bdd33551afaf8c1265401e8e00037a9292ff7902f.jpg"
+        ],
+        "size": 350224384,
         "version": null
     },
     "70070000041262": {
@@ -1427772,6 +1428373,139 @@
             "https://img-eshop.cdn.nintendo.net/i/a072b5867c8e8576c5c7da26a7a794049d9c904b72db4874ffbb9298b21f8bf7.jpg"
         ],
         "size": 2841640960,
+        "version": null
+    },
+    "70070000041389": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316a9eb6dd9ac5199e6d9ff2ffd23a0e293cb3013354c02ef15e585cde491612.jpg",
+        "category": null,
+        "description": "Plongez au cœur de l’action météorologique extrême et ressentez l’adrénaline de la traque de tornades dangereuses à travers de vastes environnements dynamiques. Traversez des tempêtes imprévisibles, explorez des régions exposées aux phénomènes météorologiques violents et mettez vos compétences de conduite et de chasse aux tempêtes à l’épreuve pour poursuivre la tempête parfaite.\n\nContenu inclus :\n1. Storm Chasing Sim 2025 - Tornado Hunter\nPrenez le volant de puissants véhicules de chasse aux tempêtes et suivez des tornades intenses à travers de vastes plaines, des villages ruraux et des zones météorologiques dangereuses. Utilisez des radars, des capteurs météorologiques et des outils avancés pour localiser les tempêtes, accomplir des missions difficiles, personnaliser votre véhicule et capturer des images spectaculaires des phénomènes météorologiques.\n\n2. Storm Chasing Sim 2025 - Tornado Hunter: Chase Capital\nAjoute 3 000 pièces en jeu à votre compte, vous offrant des ressources supplémentaires pour soutenir vos activités de chasse aux tempêtes et continuer à explorer des environnements soumis à des conditions météorologiques extrêmes.\n\nAffrontez une météo imprévisible, suivez des systèmes orageux dangereux et préparez-vous à toutes les conditions. Chaque poursuite apporte de nouveaux défis à mesure que vous vous enfoncez au cœur de la tempête.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Affrontez des conditions dangereuses au volant et partez à la poursuite de la tempête parfaite.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Storm Chasing Sim 2025 - Tornado Hunter: Into the Storm",
+        "nsuId": 70070000041389,
+        "numberOfPlayers": null,
+        "publisher": "Play Games",
+        "rating": 7,
+        "ratingContent": [
+            "Violence modérée"
+        ],
+        "region": null,
+        "releaseDate": 20261025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7d9a72eabfaf0384fb9a2895800141be14bdecc23e67c69bdc908fdaae2217e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1408a0ef5b28d23bb85167757a6a40cdcc5fd788b209fb83cc0fba6af30c80b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1526c575486e4e1aee41e4bb81fb8dcd416053f0f3129c1c7f9557ce4ca4f9d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19c7c79471b5b11dfc3bbf35e837f1e171ad59f241e4bbb79ecb4671d0c17fde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a62cb167205544dfd2309d672d4ad1e934d5164c757bdc546403a2fbcb81d08e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1400611df378b14ee6e77d95f69bb71e3afd35f58b9198fc28b00bf938a2e574.jpg"
+        ],
+        "size": 968884224,
+        "version": null
+    },
+    "70070000041406": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53d536231cf4110b638dba29c1283c4b8ba878bba4fe16752448dd2e753cde18.jpg",
+        "category": null,
+        "description": "Assemblez des images lumineuses et colorées en échangeant des tuiles et en résolvant des puzzles animés. Observez les motifs changer, les couleurs s'assembler et les images se révéler petit à petit au fur et à mesure que vous jouez. Lancez-vous, effectuez quelques échanges et regardez les couleurs s'assembler.\n\nCaractéristiques :\n- 48 puzzles, petits et grands, à résoudre\n- Mécanique de puzzle simple et satisfaisante\n- Esthétique vivante et colorée !\n\nRegardez les couleurs s'assembler !",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Remplissez le monde de couleurs, un puzzle à la fois !",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Splash of Color: Cities Edition",
+        "nsuId": 70070000041406,
+        "numberOfPlayers": null,
+        "publisher": "YABAI.GAMES",
+        "rating": 3,
+        "ratingContent": [
+            "Achats intégrés"
+        ],
+        "region": null,
+        "releaseDate": 20261024,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/21c7380f53643d16cd7f5e50eeea5a55ea25013738b292d46b35c65baca160d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a60326d0e9f555f85cc36d99df404633b4f231361494be3ee41c1b5c3916ffe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74e306a02f58e953ba2c20d22cacc4d5e8ab6b0bc7fc3cb53ed435668660cb19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db62d745810ad59fa53796ac94eefa0e5f18474ae7e4bf340b0b8e0790b53668.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6f009137c37ad0571c2e18b35e3c5b53284cc5cecb6180875ad5ec5a3182d5d.jpg"
+        ],
+        "size": 305135616,
+        "version": null
+    },
+    "70070000041413": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2321e3530962a442c4d318a25d06b5ce393e5c5d18ebc48a43c95f04ae2fb4f.jpg",
+        "category": null,
+        "description": "Plongez dans l’univers exigeant du contrôle aux frontières, où des inspections minutieuses, des décisions rapides et une vigilance constante sont essentielles. Vérifiez les documents, fouillez les véhicules, découvrez les tentatives de contrebande et gérez des situations complexes tout en faisant évoluer votre carrière à la frontière.\n\nContenu du bundle :\n1. POLICE BORDER CONTRABAND PATROL SIMULATOR (Jeu de base)\nIncarnez un agent des frontières et inspectez les documents, vérifiez les identités, fouillez les véhicules à la recherche de marchandises dissimulées, interrogez les conducteurs et prenez des décisions susceptibles d’influencer votre carrière. Progressez dans les différents grades, faites face à des dilemmes moraux et découvrez les conséquences de vos choix tout en veillant au contrôle de la frontière.\n\n2. POLICE BORDER CONTRABAND PATROL SIMULATOR: Officer Rush (DLC)\nAjoute la fonction de sprint au personnage, vous permettant de vous déplacer plus rapidement lors des patrouilles frontalières et de réagir aux différentes situations. Déplacez-vous plus efficacement dans la zone pendant que vous inspectez les véhicules, échangez avec les conducteurs, recherchez des marchandises de contrebande et accomplissez vos missions.\n\nRestez vigilant, adaptez-vous aux situations changeantes et relevez chaque défi tout en développant votre carrière dans la police des frontières.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Restez vigilant, inspectez chaque véhicule et découvrez les marchandises de contrebande dissimulées.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "POLICE BORDER CONTRABAND PATROL SIMULATOR: Checkpoint Control",
+        "nsuId": 70070000041413,
+        "numberOfPlayers": null,
+        "publisher": "Play Games",
+        "rating": 7,
+        "ratingContent": [
+            "Violence implicite"
+        ],
+        "region": null,
+        "releaseDate": 20261026,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f76da4d927139fc5943125c42d702c0fd96e27cf2f1ca6f9e790213ee16653ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50003975973b106231e66f09e6f1996a9de2af8dfc9d474d0f5f67fa07606b1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f20f4ba26ec0e4a947a31487a9262c5aba777781af5244c94a6d15f353edb3c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5551a41b80aad9c76f4ae7cd68599220fd25561fbcc42ae1cbff5e05e842558.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0347764fda0ebeedbf265d3d28c993026fe9b0e7b878a8a60cac66e0fa13dad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9437887a4990c0dd123a04d752a9edee2df816a334f9591bed9b6e9d6591787.jpg"
+        ],
+        "size": 2475687936,
+        "version": null
+    },
+    "70070000041418": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a381d472f20162984df861669cf742e1f42729c8b3392367587d9c2ad4edd55f.jpg",
+        "category": null,
+        "description": "Prenez le large et bâtissez votre carrière de pêcheur indépendant. Naviguez sur des eaux changeantes, recherchez des prises de valeur, gérez vos ressources et développez vos activités dans le but de diriger une flotte de pêche prospère.\n\nCette édition comprend :\n1. SHIP SIMULATOR OCEAN FISHING (Jeu de base)\nCommencez avec un vieux bateau et explorez les eaux côtières à la recherche de poissons, de crabes et de fruits de mer rares. Vendez vos prises dans différents ports, gérez le carburant et la navigation, améliorez votre équipement et agrandissez votre flotte à mesure que votre entreprise de pêche se développe.\n\n2. SHIP SIMULATOR OCEAN FISHING: Sea Fortune (DLC)\nAjoute 10 000 pièces à votre compte, vous offrant des fonds supplémentaires pour soutenir vos activités de pêche, progresser plus rapidement et préparer de nouvelles traversées de l’océan.\n\nAffrontez les changements météorologiques, découvrez des zones de pêche précieuses et passez du statut de petit pêcheur indépendant à celui de capitaine expérimenté dirigeant une entreprise maritime florissante.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Explorez le grand large, développez votre entreprise de pêche et saisissez de nouvelles opportunités.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "SHIP SIMULATOR OCEAN FISHING: Ocean Hunter",
+        "nsuId": 70070000041418,
+        "numberOfPlayers": null,
+        "publisher": "MORAHAN Studio Games",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261026,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/86b25b59ac96848e1f1040a9b55795799e4f749dbcfb7396d74accf4f1a0ad32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f9e7e3a0ebd8802ee441bd5fdaa8967917662dfbfdb028227d24a65ed5d554b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/932636c5a0fa299237127a0d053ccbff1ffc686700e99fb393bfb97bf5400089.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1400e5a4287a7c7b4a1607cd0096fa618c38c1007871cfb8ef93adf859bcf4e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b31921bed463d4ecab4f82d0644989dd8c583ab3d795f3ed7b8ccadf31f5df8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c774ba6b19dfba680910fbe511759857be34a404e14d87bd656dbaefb9b501c3.jpg"
+        ],
+        "size": 3621781504,
         "version": null
     }
 }
